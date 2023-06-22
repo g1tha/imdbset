@@ -1,13 +1,14 @@
-# Implements an algorithm to rank IMDB movies, shows and episodes by a combination of ratings and number of votes by genre. Ranking is based on credibility theory application described on https://en.wikipedia.org/wiki/IMDb.
+# Implements an algorithm to rank IMDB movies, shows, episodes and cast by a combination of ratings and number of votes by genre. Ranking is based on credibility theory application described on https://en.wikipedia.org/wiki/IMDb.
 import os
+import sys
 import urllib.request
 import gzip
-import pandas as pd
 import time
 from datetime import timedelta
 from multiprocessing import Pool
-from tqdm import tqdm, trange
+from tqdm import tqdm
 import polars as pl
+import argparse
 
 # Schema for tables from the IMDB's dataset at https://datasets.imdbws.com/. 
 # A nested dictionary in the form of tables = {'table name': {'column':{attributes}}}
@@ -62,7 +63,22 @@ tables = {
 
 
 def main():
-    update_db()
+    # Adds ability to run script with arguement to update the dataset for the latest IMDB data.
+    parser = argparse.ArgumentParser(
+        prog='IMDBSet',
+        description='Implements an algorithm to rank IMDB movies, shows, episodes and cast by a combination of ratings and number of votes by genre.'
+        )
+    parser.add_argument('-u', '--update',
+                        help='Optional argument to wupdate the source IMDB data should to the latest available.',
+                        action='store_true',
+                        default=False)
+    # Check to see if update arguement has been provided, check if user wants to proceed, then proceed.
+    args = parser.parse_args()
+    if args.update:
+        answer = input("This may take a few minutes. Are you sure you want to continue updating the data? ")
+        if answer.strip().lower()[0] == 'y':
+            update_db()
+    prompt_update()
 
 
 ## FUNCTIONS ##
@@ -97,20 +113,24 @@ def update_db():
     for table in pbar:
         pbar.set_description(f'Downloading {table}')
         urllib.request.urlretrieve(f'https://datasets.imdbws.com/{table}.tsv.gz', f'{table}.tsv.gz')
+        pbar.set_description(f'Download complete')
     # Using multiprocessing, load all downloaded files to a dataset of parquet files.
-    print(f'Loading to parquet files...')
+    print(f'Loading to parquet files to data/sources...')
     with Pool() as pool:
         pool.map(load_db, tables)
 
 @time_it
-def read_parquet(table):
-    return pl.read_parquet(f'{table}.parquet')
+def read_parquet(file):
+    return pl.read_parquet(file)
 
 
 def load_db(table):
     """
     Creates and updates a dataset of parquet files with the latest IMDB data which has been downloaded.
     """
+    # Check if folder structure needs to be created.
+    if not os.path.exists('data\sources'):
+        os.makedirs('data\sources')
     # Check if file has been downloaded:
     if os.path.exists(f'{table}.tsv.gz'):
         # Unzip file.
@@ -130,12 +150,40 @@ def load_db(table):
             if tables[table][column]['islist'] == True:
                 df = df.with_columns(pl.col(column).str.replace_all(r'[\"\'\[\]\(\)]', ''))
                 df = df.with_columns(pl.col(column).str.split(","))
-        df.write_parquet(f'{table}.parquet', row_group_size=491520, use_pyarrow=True, compression_level=10)
+        df.write_parquet(f'data\sources\{table}.parquet', row_group_size=491520, use_pyarrow=True, compression_level=10)
         # Remove downloaded and unziped files.
         os.remove(f'{table}.tsv')
         os.remove(f'{table}.tsv.gz')
 
 
+def list_missing_files():
+    """
+    Creates a list of missing parquet files in the directory, from the the list of tables in the tables dictionary.
+    """
+    missing_list = []
+    for table in tables:
+        if not os.path.exists(f'data\sources\{table}.parquet'):
+            missing_list.append(table)
+    return missing_list
+
+def prompt_update():
+    """
+    Prompts users to download missing files.
+    """
+    missing_list = list_missing_files()
+    if missing_list:
+        print(f'Missing parquet files for {len(missing_list)} tables: ', end='')
+        for table in missing_list[:-1]:
+            print(f'{table}, ', end='')
+        print(f'{missing_list[-1]}.')
+        answer = input('Would you like to download these files (it may take a few minutes)[y/n]? ')
+        if answer.strip().lower()[0] == 'y':
+            update_db()
+        else:
+            print('Exiting: cannot continue without source files.')
+            sys.exit(1)
+
+        
 if __name__ == "__main__":
     main()
 
