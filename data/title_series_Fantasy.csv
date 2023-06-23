@@ -1,225 +1,225 @@
 tconst,primaryTitle,averageRating,numVotes,ranking
 tt4574334,Stranger Things,8.7,1249382,1
 tt8111088,The Mandalorian,8.7,548687,2
-tt0460681,Supernatural,8.4,460399,3
-tt0052520,The Twilight Zone,9.1,87591,4
+tt0052520,The Twilight Zone,9.1,87591,3
+tt0460681,Supernatural,8.4,460399,4
 tt0411008,Lost,8.3,569840,5
-tt9140554,Loki,8.2,342881,6
-tt3006802,Outlander,8.4,166682,7
-tt4052886,Lucifer,8.1,337560,8
-tt13443470,Wednesday,8.1,322154,9
-tt0118276,Buffy the Vampire Slayer,8.3,152746,10
-tt7908628,What We Do in the Shadows,8.6,85273,11
-tt2632424,The Originals,8.3,141210,12
-tt4955642,The Good Place,8.2,173190,13
+tt3006802,Outlander,8.4,166682,6
+tt7908628,What We Do in the Shadows,8.6,85273,7
+tt9140554,Loki,8.2,342881,8
+tt0118276,Buffy the Vampire Slayer,8.3,152746,9
+tt2632424,The Originals,8.3,141210,10
+tt4955642,The Good Place,8.2,173190,11
+tt4052886,Lucifer,8.1,337560,12
+tt13443470,Wednesday,8.1,322154,13
 tt2699128,The Leftovers,8.3,104773,14
 tt2628232,Penny Dreadful,8.2,126352,15
 tt1548850,Misfits,8.2,104120,16
-tt0844441,True Blood,7.9,252138,17
-tt0925266,Pushing Daisies,8.4,58174,18
-tt1830617,Grimm,7.9,124882,19
-tt0319969,Carnivàle,8.4,45834,20
-tt3487382,Forever,8.2,59583,21
-tt1405406,The Vampire Diaries,7.7,332452,22
-tt1869454,Good Omens,8.0,83675,23
-tt1843230,Once Upon a Time,7.7,229988,24
-tt12411074,Paranormal,8.0,73374,25
-tt1199099,Merlin,7.9,84462,26
-tt4635282,The OA,7.8,108996,27
-tt5016504,Preacher,7.9,77808,28
-tt1751634,The Sandman,7.7,158298,29
-tt1567432,Teen Wolf,7.7,156380,30
-tt0162065,Angel,7.9,73021,31
-tt10574558,Midnight Mass,7.7,124547,32
-tt5994364,Guardian: The Lonely and Great God,8.6,24044,33
-tt0348913,Dead Like Me,8.1,42960,34
-tt2177461,A Discovery of Witches,7.9,56140,35
-tt7078180,Violet Evergarden,8.4,25669,36
-tt0416394,The Mighty Boosh,8.4,23237,37
-tt0813715,Heroes,7.5,246345,38
-tt0489974,Carnival Row,7.7,77507,39
+tt0925266,Pushing Daisies,8.4,58174,17
+tt0319969,Carnivàle,8.4,45834,18
+tt0844441,True Blood,7.9,252138,19
+tt3487382,Forever,8.2,59583,20
+tt1869454,Good Omens,8.0,83675,21
+tt1830617,Grimm,7.9,124882,22
+tt12411074,Paranormal,8.0,73374,23
+tt5994364,Guardian: The Lonely and Great God,8.6,24044,24
+tt1199099,Merlin,7.9,84462,25
+tt1405406,The Vampire Diaries,7.7,332452,26
+tt5016504,Preacher,7.9,77808,27
+tt0348913,Dead Like Me,8.1,42960,28
+tt0162065,Angel,7.9,73021,29
+tt7078180,Violet Evergarden,8.4,25669,30
+tt4635282,The OA,7.8,108996,31
+tt1843230,Once Upon a Time,7.7,229988,32
+tt4834232,Critical Role,9.3,11463,33
+tt0416394,The Mighty Boosh,8.4,23237,34
+tt1751634,The Sandman,7.7,158298,35
+tt1567432,Teen Wolf,7.7,156380,36
+tt2177461,A Discovery of Witches,7.9,56140,37
+tt0397150,Garth Marenghi's Darkplace,8.5,19326,38
+tt10574558,Midnight Mass,7.7,124547,39
 tt0830361,The Lost Room,8.1,32148,40
-tt4834232,Critical Role,9.3,11463,41
-tt0397150,Garth Marenghi's Darkplace,8.5,19326,42
-tt0318997,Angels in America,8.1,28842,43
-tt0495212,Hellsing Ultimate,8.2,24895,44
-tt1898069,American Gods,7.6,89505,45
-tt8594324,Ghosts,8.3,20430,46
-tt8101850,Undone,8.2,21976,47
-tt13854248,The Legend of Hanuman,9.1,10029,48
-tt20859920,Alchemy of Souls,8.8,11812,49
+tt0495212,Hellsing Ultimate,8.2,24895,41
+tt0318997,Angels in America,8.1,28842,42
+tt8594324,Ghosts,8.3,20430,43
+tt13854248,The Legend of Hanuman,9.1,10029,44
+tt0489974,Carnival Row,7.7,77507,45
+tt8101850,Undone,8.2,21976,46
+tt20859920,Alchemy of Souls,8.8,11812,47
+tt0807832,Mushi-Shi,8.5,14056,48
+tt0108906,The Kingdom,8.2,19721,49
 tt0096708,Tales from the Crypt,8.0,25724,50
-tt0108906,The Kingdom,8.2,19721,51
-tt0851851,Terminator: The Sarah Connor Chronicles,7.6,61515,52
-tt0807832,Mushi-Shi,8.5,14056,53
-tt2521668,The Returned,8.1,20883,54
-tt9170108,Raised by Wolves,7.5,82137,55
-tt4254242,The Magicians,7.6,53531,56
-tt9446688,I Am Not Okay with This,7.5,68454,57
+tt2521668,The Returned,8.1,20883,51
+tt1898069,American Gods,7.6,89505,52
+tt0813715,Heroes,7.5,246345,53
+tt0103352,Are You Afraid of the Dark?,8.2,15558,54
+tt0851851,Terminator: The Sarah Connor Chronicles,7.6,61515,55
+tt5320412,Moon Lovers: Scarlet Heart Ryeo,8.6,10014,56
+tt0062588,Mister Rogers' Neighborhood,8.7,9170,57
 tt11379026,Ghosts,7.9,23205,58
-tt0103352,Are You Afraid of the Dark?,8.2,15558,59
-tt1349938,Being Human,7.8,25903,60
+tt0361256,Wonderfalls,8.3,12884,59
+tt3469052,My Love from Another Star,8.2,14273,60
 tt3305096,Galavant,8.1,16122,61
-tt1839683,Awake,7.9,21261,62
-tt5320412,Moon Lovers: Scarlet Heart Ryeo,8.6,10014,63
-tt0361256,Wonderfalls,8.3,12884,64
-tt3469052,My Love from Another Star,8.2,14273,65
-tt0062588,Mister Rogers' Neighborhood,8.7,9170,66
-tt7569592,Chilling Adventures of Sabrina,7.4,101280,67
-tt14169960,All of Us Are Dead,7.5,56991,68
-tt3489184,Constantine,7.5,54883,69
-tt8993398,Rascal Does Not Dream of Bunny Girl Senpai,8.1,14219,70
-tt6548228,Castle Rock,7.5,48570,71
-tt10234724,Moon Knight,7.3,244646,72
-tt27548825,Fireflies: Parth Aur Jugnu,9.5,5220,73
-tt11228748,The King: Eternal Monarch,8.1,13531,74
-tt2548418,Jonathan Strange & Mr Norrell,8.1,13422,75
-tt1429449,Lost Girl,7.6,32122,76
-tt10574236,Station Eleven,7.6,31065,77
-tt9251798,Ragnarok,7.5,40357,78
-tt1519931,Haven,7.5,39659,79
-tt1008108,Ashes to Ashes,8.2,10646,80
-tt5332206,Signal,8.5,8110,81
-tt13400006,Mr. Queen,8.6,7392,82
+tt4254242,The Magicians,7.6,53531,62
+tt27548825,Fireflies: Parth Aur Jugnu,9.5,5220,63
+tt1839683,Awake,7.9,21261,64
+tt1349938,Being Human,7.8,25903,65
+tt9170108,Raised by Wolves,7.5,82137,66
+tt8993398,Rascal Does Not Dream of Bunny Girl Senpai,8.1,14219,67
+tt11228748,The King: Eternal Monarch,8.1,13531,68
+tt9446688,I Am Not Okay with This,7.5,68454,69
+tt2548418,Jonathan Strange & Mr Norrell,8.1,13422,70
+tt5332206,Signal,8.5,8110,71
+tt14169960,All of Us Are Dead,7.5,56991,72
+tt13400006,Mr. Queen,8.6,7392,73
+tt1008108,Ashes to Ashes,8.2,10646,74
+tt3489184,Constantine,7.5,54883,75
+tt0197139,A Dog's Will,9.2,4788,76
+tt1429449,Lost Girl,7.6,32122,77
+tt6354518,The Disastrous Life of Saiki K.,8.3,9010,78
+tt6548228,Castle Rock,7.5,48570,79
+tt10574236,Station Eleven,7.6,31065,80
+tt2147999,Devon Ke Dev... Mahadev,9.3,4393,81
+tt7569592,Chilling Adventures of Sabrina,7.4,101280,82
 tt0325547,Hellsing,7.8,17249,83
-tt6354518,The Disastrous Life of Saiki K.,8.3,9010,84
-tt0197139,A Dog's Will,9.2,4788,85
-tt0955346,Moonlight,7.6,24726,86
-tt5766194,Legend of the Blue Sea,8.1,10687,87
-tt0057773,The Munsters,7.8,16093,88
-tt2147999,Devon Ke Dev... Mahadev,9.3,4393,89
-tt6256484,While You Were Sleeping,8.3,8407,90
-tt0057733,Bewitched,7.6,22978,91
-tt0056777,The Outer Limits,8.2,8854,92
-tt3007572,Locke & Key,7.3,91882,93
-tt1621748,Ugly Americans,8.0,10655,94
-tt2654620,The Strain,7.3,83928,95
-tt8783930,The Time Traveler's Wife,7.7,16177,96
+tt5766194,Legend of the Blue Sea,8.1,10687,84
+tt6256484,While You Were Sleeping,8.3,8407,85
+tt9251798,Ragnarok,7.5,40357,86
+tt0057773,The Munsters,7.8,16093,87
+tt1519931,Haven,7.5,39659,88
+tt0056777,The Outer Limits,8.2,8854,89
+tt0955346,Moonlight,7.6,24726,90
+tt1621748,Ugly Americans,8.0,10655,91
+tt0057733,Bewitched,7.6,22978,92
+tt10234724,Moon Knight,7.3,244646,93
+tt8783930,The Time Traveler's Wife,7.7,16177,94
+tt0948538,Journeyman,8.0,9499,95
+tt0499410,That Mitchell and Webb Look,8.0,9304,96
 tt2288064,Witches of East End,7.5,26744,97
 tt1595680,Being Human,7.5,26271,98
-tt0948538,Journeyman,8.0,9499,99
-tt0499410,That Mitchell and Webb Look,8.0,9304,100
-tt0112111,The Outer Limits,7.7,13126,101
+tt1841321,Secret Garden,8.1,7170,99
+tt13273826,The Uncanny Counter,8.0,8009,100
+tt0441059,Kaamelott,8.8,3872,101
 tt4189492,Man Seeking Woman,7.8,10804,102
-tt1841321,Secret Garden,8.1,7170,103
-tt0101081,Dinosaurs,7.5,20511,104
-tt13273826,The Uncanny Counter,8.0,8009,105
-tt3296782,I Miss You Too,8.0,7683,106
-tt0441059,Kaamelott,8.8,3872,107
-tt0088634,The Twilight Zone,7.7,11732,108
-tt1837654,The Secret Circle,7.3,48127,109
-tt0111987,Goosebumps,7.6,14242,110
-tt8697870,The Nevers,7.4,26179,111
-tt21030032,【Oshi No Ko】,8.8,3580,112
-tt0086791,Robin Hood,8.4,4697,113
+tt0112111,The Outer Limits,7.7,13126,103
+tt3296782,I Miss You Too,8.0,7683,104
+tt3007572,Locke & Key,7.3,91882,105
+tt21030032,【Oshi No Ko】,8.8,3580,106
+tt2654620,The Strain,7.3,83928,107
+tt0101081,Dinosaurs,7.5,20511,108
+tt0088634,The Twilight Zone,7.7,11732,109
+tt0086791,Robin Hood,8.4,4697,110
+tt8750956,Arthdal Chronicles,8.3,4979,111
+tt0111987,Goosebumps,7.6,14242,112
+tt0816407,The Melancholy of Haruhi Suzumiya,7.8,8802,113
 tt0892535,Eli Stone,7.7,10597,114
-tt8750956,Arthdal Chronicles,8.3,4979,115
-tt4878326,Wynonna Earp,7.4,23864,116
-tt0816407,The Melancholy of Haruhi Suzumiya,7.8,8802,117
-tt2176165,Another,7.5,16665,118
-tt14979052,Happiness,7.9,7275,119
-tt4396630,The Gifted,7.3,36428,120
-tt0229888,El Chapulín Colorado,8.5,3829,121
-tt1219817,Going Postal,7.7,9455,122
-tt3443522,Mushi-Shi: Next Passage,8.8,3050,123
-tt13361448,Night Sky,7.4,20524,124
-tt8103070,Legacies,7.3,34279,125
-tt0486657,The Dresden Files,7.6,11008,126
-tt5531470,Frequency,7.5,14109,127
-tt3184674,The Master's Sun,8.1,5116,128
-tt0112167,Sliders,7.4,19538,129
-tt0059978,Dark Shadows,8.1,5083,130
-tt12879418,Tale of the Nine Tailed,7.9,6299,131
-tt7099334,A Korean Odyssey,8.0,5519,132
-tt1752076,The Almighty Johnsons,8.1,4815,133
-tt12458172,Word of Honor,8.5,3348,134
-tt0098888,Parker Lewis Can't Lose,7.9,5939,135
-tt0065327,Night Gallery,7.9,5859,136
-tt5141800,Nirvana in Fire,8.9,2488,137
-tt21481210,Karagar,8.4,3467,138
-tt0364817,Tru Calling,7.4,16926,139
-tt0058815,I Dream of Jeannie,7.4,16577,140
-tt3141190,I Hear Your Voice,8.1,4409,141
-tt2320220,Kamisama Kiss,8.1,4398,142
-tt13669128,Doom at Your Service,8.0,4899,143
-tt15686254,Summer Time Rendering,8.2,3923,144
-tt4799574,Oh My Ghost,8.0,4791,145
-tt11612120,Sweet Home,7.3,25090,146
-tt8284230,The Last Drive-In with Joe Bob Briggs,9.5,1670,147
-tt0138956,Beyond Belief: Fact or Fiction,7.9,5098,148
-tt0135659,Storm of the Century,7.3,23196,149
-tt6356086,Tunnel,8.3,3182,150
-tt4127260,Carmilla,8.2,3476,151
-tt0965394,Sanctuary,7.3,21895,152
+tt14979052,Happiness,7.9,7275,115
+tt0229888,El Chapulín Colorado,8.5,3829,116
+tt8697870,The Nevers,7.4,26179,117
+tt3443522,Mushi-Shi: Next Passage,8.8,3050,118
+tt2176165,Another,7.5,16665,119
+tt1219817,Going Postal,7.7,9455,120
+tt4878326,Wynonna Earp,7.4,23864,121
+tt3184674,The Master's Sun,8.1,5116,122
+tt0059978,Dark Shadows,8.1,5083,123
+tt1837654,The Secret Circle,7.3,48127,124
+tt7099334,A Korean Odyssey,8.0,5519,125
+tt12879418,Tale of the Nine Tailed,7.9,6299,126
+tt0486657,The Dresden Files,7.6,11008,127
+tt12458172,Word of Honor,8.5,3348,128
+tt1752076,The Almighty Johnsons,8.1,4815,129
+tt5531470,Frequency,7.5,14109,130
+tt5141800,Nirvana in Fire,8.9,2488,131
+tt0098888,Parker Lewis Can't Lose,7.9,5939,132
+tt13361448,Night Sky,7.4,20524,133
+tt21481210,Karagar,8.4,3467,134
+tt0065327,Night Gallery,7.9,5859,135
+tt0112167,Sliders,7.4,19538,136
+tt3141190,I Hear Your Voice,8.1,4409,137
+tt2320220,Kamisama Kiss,8.1,4398,138
+tt4396630,The Gifted,7.3,36428,139
+tt13669128,Doom at Your Service,8.0,4899,140
+tt15686254,Summer Time Rendering,8.2,3923,141
+tt4799574,Oh My Ghost,8.0,4791,142
+tt8284230,The Last Drive-In with Joe Bob Briggs,9.5,1670,143
+tt8103070,Legacies,7.3,34279,144
+tt0364817,Tru Calling,7.4,16926,145
+tt0138956,Beyond Belief: Fact or Fiction,7.9,5098,146
+tt0058815,I Dream of Jeannie,7.4,16577,147
+tt6356086,Tunnel,8.3,3182,148
+tt4127260,Carmilla,8.2,3476,149
+tt0380113,Charcoal Feather Federation,8.0,3914,150
+tt8572232,Ralphthemoviemaker,8.7,2117,151
+tt11612120,Sweet Home,7.3,25090,152
 tt1635327,Nostalgia Critic,7.5,9490,153
-tt11808942,Schmigadoon!,7.4,12962,154
-tt0380113,Charcoal Feather Federation,8.0,3914,155
-tt8572232,Ralphthemoviemaker,8.7,2117,156
+tt0135659,Storm of the Century,7.3,23196,154
+tt6185782,Miss Kobayashi's Dragon Maid,7.8,4789,155
+tt11808942,Schmigadoon!,7.4,12962,156
 tt6109562,Wellington Paranormal,7.6,6859,157
 tt1772379,The Fades,7.6,6830,158
-tt6185782,Miss Kobayashi's Dragon Maid,7.8,4789,159
-tt6488862,Eternal Love,8.3,2618,160
-tt9900092,Motherland: Fort Salem,7.3,17788,161
-tt1117666,Lost in Austen,7.4,11110,162
-tt6704972,The Underground Railroad,7.5,7883,163
-tt18352538,Reborn Rich,8.1,3013,164
-tt5201864,Hatim,8.6,1981,165
-tt7298976,Black,7.8,4324,166
-tt0491603,H2O: Just Add Water,7.3,16758,167
-tt0268085,Shri Krishna,8.6,1957,168
-tt1830238,Salad Fingers,8.1,2956,169
-tt1992935,Mononoke,8.2,2641,170
-tt8976346,Ashes of Love,8.3,2390,171
-tt0098802,Get a Life,8.1,2856,172
-tt7573686,Erased,7.8,4082,173
-tt10826102,Extraordinary You,7.8,4061,174
-tt2647586,Resurrection,7.3,15474,175
-tt8824648,Girl From Nowhere,7.6,5630,176
-tt10874298,My Girlfriend Is an Alien,8.3,2278,177
+tt6488862,Eternal Love,8.3,2618,159
+tt0965394,Sanctuary,7.3,21895,160
+tt5201864,Hatim,8.6,1981,161
+tt18352538,Reborn Rich,8.1,3013,162
+tt0268085,Shri Krishna,8.6,1957,163
+tt1830238,Salad Fingers,8.1,2956,164
+tt7298976,Black,7.8,4324,165
+tt1992935,Mononoke,8.2,2641,166
+tt8976346,Ashes of Love,8.3,2390,167
+tt6704972,The Underground Railroad,7.5,7883,168
+tt1117666,Lost in Austen,7.4,11110,169
+tt0098802,Get a Life,8.1,2856,170
+tt10709628,Astartes,9.3,1229,171
+tt7573686,Erased,7.8,4082,172
+tt10826102,Extraordinary You,7.8,4061,173
+tt10874298,My Girlfriend Is an Alien,8.3,2278,174
+tt9900092,Motherland: Fort Salem,7.3,17788,175
+tt20857432,Till the End of the Moon,8.5,1891,176
+tt12846096,18 Again,8.2,2423,177
 tt6474174,Kevin (Probably) Saves the World,7.7,4637,178
-tt10709628,Astartes,9.3,1229,179
-tt0281432,The Dead Zone,7.4,9622,180
-tt12846096,18 Again,8.2,2423,181
-tt3143378,Haereul poomeun dal,8.0,2973,182
-tt20857432,Till the End of the Moon,8.5,1891,183
-tt0830900,Saving Grace,7.6,5431,184
-tt5464086,"Midnight, Texas",7.3,14420,185
-tt14922556,Love Between Fairy and Devil,8.6,1737,186
-tt12526224,Douluo Continent,8.1,2576,187
-tt6404896,Constantine: City of Demons,7.5,6605,188
-tt1163129,Journey to the West,8.7,1583,189
-tt2373094,Shinui,8.0,2796,190
-tt0112174,Spellbinder,8.2,2257,191
-tt6905458,The Shivering Truth,8.1,2469,192
-tt0103529,Round the Twist,8.0,2727,193
-tt13243836,Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!,8.2,2206,194
-tt0376364,31 minutos,9.0,1240,195
-tt6516076,Chicago Typewriter,8.3,1940,196
+tt8824648,Girl From Nowhere,7.6,5630,179
+tt3143378,Haereul poomeun dal,8.0,2973,180
+tt14922556,Love Between Fairy and Devil,8.6,1737,181
+tt0491603,H2O: Just Add Water,7.3,16758,182
+tt1163129,Journey to the West,8.7,1583,183
+tt12526224,Douluo Continent,8.1,2576,184
+tt0830900,Saving Grace,7.6,5431,185
+tt0281432,The Dead Zone,7.4,9622,186
+tt2373094,Shinui,8.0,2796,187
+tt0112174,Spellbinder,8.2,2257,188
+tt2647586,Resurrection,7.3,15474,189
+tt6905458,The Shivering Truth,8.1,2469,190
+tt6404896,Constantine: City of Demons,7.5,6605,191
+tt0103529,Round the Twist,8.0,2727,192
+tt13243836,Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!,8.2,2206,193
+tt0376364,31 minutos,9.0,1240,194
+tt6516076,Chicago Typewriter,8.3,1940,195
+tt5464086,"Midnight, Texas",7.3,14420,196
 tt2110659,De'ah Da'iah,9.6,897,197
-tt12246190,Mystic Pop-up Bar,8.0,2506,198
-tt3639888,Black Butler: Book of Circus,8.2,2041,199
-tt21057450,School Spirits,7.6,4553,200
-tt0294139,Luv Kush,9.0,1148,201
-tt5274556,Owarimonogatari,8.3,1824,202
-tt3906732,Good Witch,7.3,11552,203
-tt13777028,My Roommate Is a Gumiho,7.7,3630,204
-tt0108787,Ghostwriter,7.9,2678,205
-tt0285368,Ghost Stories,8.0,2373,206
-tt14460684,The Sound of Magic,7.6,4300,207
-tt1954804,Saving Hope,7.4,7263,208
-tt7326322,The Ancient Magus' Bride,7.7,3457,209
+tt3639888,Black Butler: Book of Circus,8.2,2041,198
+tt12246190,Mystic Pop-up Bar,8.0,2506,199
+tt0294139,Luv Kush,9.0,1148,200
+tt5274556,Owarimonogatari,8.3,1824,201
+tt21057450,School Spirits,7.6,4553,202
+tt0285368,Ghost Stories,8.0,2373,203
+tt0108787,Ghostwriter,7.9,2678,204
+tt13777028,My Roommate Is a Gumiho,7.7,3630,205
+tt14460684,The Sound of Magic,7.6,4300,206
+tt7326322,The Ancient Magus' Bride,7.7,3457,207
+tt0331732,Castelo Rá-Tim-Bum,8.8,1159,208
+tt0175381,Arabela,8.5,1414,209
 tt2362694,Your Pretty Face Is Going to Hell,7.8,2901,210
-tt11173328,Crna svadba,7.8,2879,211
-tt2255085,My Girlfriend Is a Gumiho,7.7,3365,212
-tt0175381,Arabela,8.5,1414,213
-tt0331732,Castelo Rá-Tim-Bum,8.8,1159,214
-tt4542568,Snow White with the Red Hair,7.7,3278,215
-tt0978140,Operation Proposal,8.2,1766,216
-tt0086814,Tales from the Darkside,7.4,6631,217
-tt0092357,Friday the 13th: The Series,7.6,3887,218
-tt3496764,Gortimer Gibbon's Life on Normal Street,8.3,1575,219
-tt0165564,Brimstone,8.1,1883,220
-tt9136312,The Gifted,8.2,1676,221
+tt1954804,Saving Hope,7.4,7263,211
+tt11173328,Crna svadba,7.8,2879,212
+tt2255085,My Girlfriend Is a Gumiho,7.7,3365,213
+tt3906732,Good Witch,7.3,11552,214
+tt0978140,Operation Proposal,8.2,1766,215
+tt4542568,Snow White with the Red Hair,7.7,3278,216
+tt3496764,Gortimer Gibbon's Life on Normal Street,8.3,1575,217
+tt0165564,Brimstone,8.1,1883,218
+tt0092357,Friday the 13th: The Series,7.6,3887,219
+tt9136312,The Gifted,8.2,1676,220
+tt0086814,Tales from the Darkside,7.4,6631,221
 tt0115282,Mysteriet på Greveholm,8.1,1811,222
 tt8253044,Hinamatsuri,7.9,2223,223
 tt14140886,The 7 Lives of Lea,7.5,4461,224
@@ -228,274 +228,274 @@ tt2816734,Guga-ui Seo,8.0,1882,226
 tt2401162,Rooftop Prince,7.7,2797,227
 tt14950036,Who Rules the World,8.3,1336,228
 tt11163352,The Disastrous Life of Saiki K.: Reawakened,7.9,2003,229
-tt0181199,Arabian Nights,7.4,5420,230
-tt0103442,Highlander,7.2,16887,231
-tt17024632,7 Fates: Chakho,8.3,1294,232
-tt14921986,Interview with the Vampire,7.2,16565,233
-tt10160592,Angel's Last Mission: Love,7.7,2601,234
-tt11804034,"Hi Bye, Mama!",7.9,1930,235
-tt14452228,Wolf Like Me,7.3,7903,236
-tt9646546,Dimension 20,9.4,655,237
-tt7094874,Live Up to Your Name,8.0,1680,238
-tt5679572,Another Miss Oh,7.8,2126,239
-tt1150692,Lost: Missing Pieces,7.9,1827,240
-tt7790776,Land of the Lustrous,7.9,1822,241
-tt7418578,Go Back Couple,8.2,1320,242
-tt5768840,"Bring It On, Ghost",7.6,2910,243
-tt0103417,Forever Knight,7.6,2908,244
-tt16493854,Ghost Doctor,7.9,1800,245
-tt11815104,Until We Meet Again,8.0,1555,246
-tt11131980,Nobody's Looking,7.7,2296,247
-tt8517780,If I Hadn't Met You,7.6,2710,248
-tt1935066,49 Days,8.0,1493,249
+tt17024632,7 Fates: Chakho,8.3,1294,230
+tt11804034,"Hi Bye, Mama!",7.9,1930,231
+tt10160592,Angel's Last Mission: Love,7.7,2601,232
+tt0181199,Arabian Nights,7.4,5420,233
+tt9646546,Dimension 20,9.4,655,234
+tt7094874,Live Up to Your Name,8.0,1680,235
+tt5679572,Another Miss Oh,7.8,2126,236
+tt7418578,Go Back Couple,8.2,1320,237
+tt1150692,Lost: Missing Pieces,7.9,1827,238
+tt7790776,Land of the Lustrous,7.9,1822,239
+tt14452228,Wolf Like Me,7.3,7903,240
+tt16493854,Ghost Doctor,7.9,1800,241
+tt5768840,"Bring It On, Ghost",7.6,2910,242
+tt0103417,Forever Knight,7.6,2908,243
+tt11815104,Until We Meet Again,8.0,1555,244
+tt0103442,Highlander,7.2,16887,245
+tt11131980,Nobody's Looking,7.7,2296,246
+tt14921986,Interview with the Vampire,7.2,16565,247
+tt1935066,49 Days,8.0,1493,248
+tt8517780,If I Hadn't Met You,7.6,2710,249
 tt2543258,Subat,7.9,1655,250
-tt10575072,Majid Delbandam,6.1,660,2898
-tt0401933,Flinderella,6.5,1120,2899
-tt11418344,Drifting Dragons,6.1,667,2900
+tt0401933,Flinderella,6.5,1120,2898
+tt0074074,Wonder Woman,7.0,9368,2899
+tt10575072,Majid Delbandam,6.1,660,2900
 tt10901134,One Lane Bridge,6.6,1370,2901
-tt4573148,Ganteng Ganteng Serigala,1.4,115,2902
-tt14358016,The Fellowship of the Ring,3.6,189,2903
+tt11418344,Drifting Dragons,6.1,667,2902
+tt4573148,Ganteng Ganteng Serigala,1.4,115,2903
 tt5321046,Myriad Colors Phantom World,6.3,852,2904
-tt0350468,Yakkity Yak,4.5,259,2905
-tt13697652,You're Nothing Special,5.6,456,2906
-tt18561422,Vermeil in Gold: A Desperate Magician Barges Into the Magical World Alongside the Strongest Calamity,6.5,1200,2907
-tt1922373,Thor & Loki: Blood Brothers,6.3,896,2908
-tt0315081,Tripping the Rift,6.8,2538,2909
-tt0074074,Wonder Woman,7.0,9368,2910
-tt11383190,Panik i tomteverkstan,4.9,327,2911
+tt14358016,The Fellowship of the Ring,3.6,189,2905
+tt0350468,Yakkity Yak,4.5,259,2906
+tt13697652,You're Nothing Special,5.6,456,2907
+tt0315081,Tripping the Rift,6.8,2538,2908
+tt18561422,Vermeil in Gold: A Desperate Magician Barges Into the Magical World Alongside the Strongest Calamity,6.5,1200,2909
+tt7908756,Shining Vale,6.9,4095,2910
+tt1922373,Thor & Loki: Blood Brothers,6.3,896,2911
 tt12898990,Suppose a Kid from the Last Dungeon Boonies moved to a starter town?,6.4,1057,2912
-tt7908756,Shining Vale,6.9,4095,2913
-tt5330856,Divine Gate,4.9,332,2914
-tt7929954,Dudullu Postasi,5.6,490,2915
+tt11383190,Panik i tomteverkstan,4.9,327,2913
+tt7929954,Dudullu Postasi,5.6,490,2914
+tt5334364,Undefeated Bahamut Chronicle,6.3,938,2915
 tt3543634,Ängelby,6.1,744,2916
-tt5334364,Undefeated Bahamut Chronicle,6.3,938,2917
-tt2401919,Mayday,6.6,1571,2918
-tt7153034,The Bureau of Magical Things,6.8,2725,2919
-tt15441424,The Strongest Sage with the Weakest Crest,6.2,857,2920
-tt7414954,Diablero,6.8,2741,2921
-tt15090858,Journey to the Center of the Earth,3.5,212,2922
-tt0377962,Garzey's Wing,3.0,188,2923
-tt0248644,The Immortal,4.5,300,2924
+tt5330856,Divine Gate,4.9,332,2917
+tt7153034,The Bureau of Magical Things,6.8,2725,2918
+tt7414954,Diablero,6.8,2741,2919
+tt2401919,Mayday,6.6,1571,2920
+tt0054557,Mister Ed,6.9,4449,2921
+tt15441424,The Strongest Sage with the Weakest Crest,6.2,857,2922
+tt15090858,Journey to the Center of the Earth,3.5,212,2923
+tt0377962,Garzey's Wing,3.0,188,2924
 tt15071814,The Rope,5.5,491,2925
-tt0054557,Mister Ed,6.9,4449,2926
-tt1538439,Lua Vermelha,4.3,280,2927
-tt22002370,Connect,6.5,1373,2928
-tt3696476,Yu-Gi-Oh! Arc-V,6.0,741,2929
+tt0248644,The Immortal,4.5,300,2926
+tt3230780,The Returned,7.0,12007,2927
+tt1538439,Lua Vermelha,4.3,280,2928
+tt22002370,Connect,6.5,1373,2929
 tt0772139,Masters of Science Fiction,6.7,2137,2930
-tt0304012,Final Fantasy: Unlimited,5.9,684,2931
-tt2759662,Vampire Heaven,2.1,162,2932
-tt1500910,Smosh,6.8,2959,2933
+tt1500910,Smosh,6.8,2959,2931
+tt3696476,Yu-Gi-Oh! Arc-V,6.0,741,2932
+tt0304012,Final Fantasy: Unlimited,5.9,684,2933
 tt0154147,Animorphs,6.5,1414,2934
-tt13266012,Kitchenblock,6.1,844,2935
-tt10122474,Dummy,6.7,2284,2936
-tt3230780,The Returned,7.0,12007,2937
-tt4791314,Teletubbies,4.4,329,2938
-tt2250064,"So, I Can't Play H",6.2,1011,2939
-tt1124062,Ways of the Heart,4.0,288,2940
-tt5020030,Bikini Warriors,5.0,430,2941
-tt4766568,Halfworlds,5.9,761,2942
-tt11418324,Plunderer,6.4,1357,2943
-tt0071050,Shazam!,6.5,1597,2944
-tt0118346,The Hunger,6.2,1050,2945
-tt8403570,Mortel,6.5,1621,2946
-tt2622240,Deadpool,5.3,526,2947
-tt12464204,Peter Grill to Kenja no Jikan,5.4,559,2948
-tt12879522,The School Nurse Files,6.4,1396,2949
-tt13560186,Once Upon a Time... But Not Anymore,5.5,611,2950
-tt0874679,Son of the Dragon,5.2,516,2951
-tt0233084,My Hero,6.6,2057,2952
-tt21432090,The Brave Ones,5.0,475,2953
-tt6353134,Seven First Kisses,6.2,1135,2954
-tt2552204,Amnesia,5.8,783,2955
-tt7205264,The City and the City,6.4,1491,2956
-tt0910812,Tin Man,7.0,14140,2957
-tt1866426,Dragon Age: Redemption,6.2,1153,2958
-tt7907922,Truth Seekers,7.0,14263,2959
-tt10145110,Spectros,4.8,450,2960
-tt2449262,Nymphs,5.1,520,2961
-tt5909930,Ghoul,7.0,14602,2962
-tt5615700,Siren,7.0,14882,2963
+tt2759662,Vampire Heaven,2.1,162,2935
+tt13266012,Kitchenblock,6.1,844,2936
+tt10122474,Dummy,6.7,2284,2937
+tt2250064,"So, I Can't Play H",6.2,1011,2938
+tt0910812,Tin Man,7.0,14140,2939
+tt4791314,Teletubbies,4.4,329,2940
+tt7907922,Truth Seekers,7.0,14263,2941
+tt1124062,Ways of the Heart,4.0,288,2942
+tt4766568,Halfworlds,5.9,761,2943
+tt5020030,Bikini Warriors,5.0,430,2944
+tt5909930,Ghoul,7.0,14602,2945
+tt0071050,Shazam!,6.5,1597,2946
+tt11418324,Plunderer,6.4,1357,2947
+tt0118346,The Hunger,6.2,1050,2948
+tt5615700,Siren,7.0,14882,2949
+tt8403570,Mortel,6.5,1621,2950
+tt11102190,Katla,7.0,15226,2951
+tt12879522,The School Nurse Files,6.4,1396,2952
+tt2622240,Deadpool,5.3,526,2953
+tt12464204,Peter Grill to Kenja no Jikan,5.4,559,2954
+tt0118414,The Odyssey,7.0,15539,2955
+tt0233084,My Hero,6.6,2057,2956
+tt13560186,Once Upon a Time... But Not Anymore,5.5,611,2957
+tt0874679,Son of the Dragon,5.2,516,2958
+tt6353134,Seven First Kisses,6.2,1135,2959
+tt21432090,The Brave Ones,5.0,475,2960
+tt7205264,The City and the City,6.4,1491,2961
+tt2552204,Amnesia,5.8,783,2962
+tt1866426,Dragon Age: Redemption,6.2,1153,2963
 tt0108988,Weird Science,6.8,3869,2964
-tt11102190,Katla,7.0,15226,2965
-tt0310443,Dinotopia,6.4,1607,2966
-tt0118414,The Odyssey,7.0,15539,2967
+tt10145110,Spectros,4.8,450,2965
+tt2449262,Nymphs,5.1,520,2966
+tt0310443,Dinotopia,6.4,1607,2967
 tt6973460,Türk Mali,2.7,255,2968
-tt0172014,"Joséphine, ange gardien",4.0,370,2969
-tt1332071,Forbidden Science,5.4,685,2970
+tt7948998,God Friended Me,6.9,7303,2969
+tt0172014,"Joséphine, ange gardien",4.0,370,2970
 tt27161705,Baalveer 3,6.1,1184,2971
-tt0460665,Night Stalker,6.3,1537,2972
-tt0403795,Revelations,6.3,1541,2973
-tt0085051,Manimal,6.5,2095,2974
-tt7948998,God Friended Me,6.9,7303,2975
-tt5174766,Beyond,6.9,7357,2976
-tt4216878,Absolute Duo,6.3,1606,2977
-tt1710295,Doc McStuffins,6.6,2637,2978
-tt4302062,Paradise City,6.5,2176,2979
+tt1332071,Forbidden Science,5.4,685,2972
+tt5174766,Beyond,6.9,7357,2973
+tt0460665,Night Stalker,6.3,1537,2974
+tt0085051,Manimal,6.5,2095,2975
+tt0403795,Revelations,6.3,1541,2976
+tt1710295,Doc McStuffins,6.6,2637,2977
+tt4302062,Paradise City,6.5,2176,2978
+tt4216878,Absolute Duo,6.3,1606,2979
 tt0249326,Voyage of the Unicorn,6.4,1854,2980
-tt0762067,Wow! Wow! Wubbzy!,6.2,1473,2981
-tt7965440,The Dead Lands,5.9,1097,2982
-tt4798814,Son of Zorn,6.8,4826,2983
-tt7415066,Sword Gai: The Animation,5.8,1019,2984
-tt5957358,Freedom Fighters: The Ray,6.0,1216,2985
-tt11004134,Ghostwriter,5.8,1031,2986
-tt7395992,The Rook,6.8,4940,2987
-tt5923012,Here and Now,6.8,5038,2988
-tt2245117,Save Me,6.2,1569,2989
+tt10075318,The Gift,7.0,23181,2981
+tt4798814,Son of Zorn,6.8,4826,2982
+tt7395992,The Rook,6.8,4940,2983
+tt0762067,Wow! Wow! Wubbzy!,6.2,1473,2984
+tt7965440,The Dead Lands,5.9,1097,2985
+tt5923012,Here and Now,6.8,5038,2986
+tt7415066,Sword Gai: The Animation,5.8,1019,2987
+tt5957358,Freedom Fighters: The Ray,6.0,1216,2988
+tt11004134,Ghostwriter,5.8,1031,2989
 tt4831392,Monster Musume: Everyday Life with Monster Girls,6.6,2927,2990
-tt14622682,The Girl in the Woods,5.6,932,2991
-tt0996239,Die ProSieben Märchenstunde,3.6,396,2992
-tt4855286,Os Dez Mandamentos,5.4,828,2993
-tt0481452,Nightmares & Dreamscapes: From the Stories of Stephen King,6.8,5332,2994
-tt0795111,Genie in the House,4.3,513,2995
+tt0481452,Nightmares & Dreamscapes: From the Stories of Stephen King,6.8,5332,2991
+tt2245117,Save Me,6.2,1569,2992
+tt14622682,The Girl in the Woods,5.6,932,2993
+tt4855286,Os Dez Mandamentos,5.4,828,2994
+tt0996239,Die ProSieben Märchenstunde,3.6,396,2995
 tt0264262,Jack and the Beanstalk: The Real Story,6.7,3941,2996
-tt1162451,Çilgin Bedis,5.8,1141,2997
-tt8680902,The Unsettling,5.3,821,2998
-tt1192431,We Are from the Future,6.7,3985,2999
+tt1192431,We Are from the Future,6.7,3985,2997
+tt0795111,Genie in the House,4.3,513,2998
+tt1162451,Çilgin Bedis,5.8,1141,2999
 tt1763751,Mr. Young,6.0,1369,3000
-tt14814570,Firebite,5.3,833,3001
-tt13137346,Hero Gayab Mode On,5.9,1268,3002
-tt10075318,The Gift,7.0,23181,3003
-tt0094559,Superboy,6.0,1394,3004
-tt0075533,Man from Atlantis,6.5,2641,3005
-tt8806456,Aladdin - Naam Toh Suna Hoga,5.8,1180,3006
-tt0302739,The Lost World,6.6,3274,3007
-tt4380272,Gamer's Guide to Pretty Much Everything,5.2,821,3008
-tt26547433,Tere Ishq Mein Ghayal,5.6,1056,3009
-tt0086730,Highway to Heaven,6.8,5985,3010
-tt1890725,Blood-C,6.2,1836,3011
-tt7940468,Fate/Extra Last Encore,5.3,900,3012
-tt12286434,Just Beyond,6.2,1875,3013
-tt0849236,Mr. Meaty,6.0,1538,3014
-tt1079959,The Color of Magic,6.9,10221,3015
-tt1264363,Knights of Bloodsteel,4.6,684,3016
-tt5458832,The Aliens,6.1,1764,3017
-tt0058830,My Mother the Car,4.7,728,3018
-tt11852810,The Quest,4.0,565,3019
+tt8680902,The Unsettling,5.3,821,3001
+tt0075533,Man from Atlantis,6.5,2641,3002
+tt13137346,Hero Gayab Mode On,5.9,1268,3003
+tt14814570,Firebite,5.3,833,3004
+tt0094559,Superboy,6.0,1394,3005
+tt0302739,The Lost World,6.6,3274,3006
+tt8806456,Aladdin - Naam Toh Suna Hoga,5.8,1180,3007
+tt0086730,Highway to Heaven,6.8,5985,3008
+tt1079959,The Color of Magic,6.9,10221,3009
+tt4380272,Gamer's Guide to Pretty Much Everything,5.2,821,3010
+tt26547433,Tere Ishq Mein Ghayal,5.6,1056,3011
+tt1890725,Blood-C,6.2,1836,3012
+tt7940468,Fate/Extra Last Encore,5.3,900,3013
+tt12286434,Just Beyond,6.2,1875,3014
+tt0849236,Mr. Meaty,6.0,1538,3015
+tt5458832,The Aliens,6.1,1764,3016
+tt1264363,Knights of Bloodsteel,4.6,684,3017
+tt2309295,Hemlock Grove,7.0,41472,3018
+tt3552166,Intruders,6.6,3842,3019
 tt0061252,The Flying Nun,6.4,2643,3020
-tt3552166,Intruders,6.6,3842,3021
-tt0274298,Witchblade,6.4,2741,3022
-tt5838282,Escape the Night,5.4,1097,3023
-tt0896084,Charm School,5.4,1102,3024
-tt0398429,Boohbah,4.0,603,3025
-tt0210294,Snow Queen,6.5,3384,3026
-tt11829316,Vampires,5.7,1392,3027
-tt5711138,Imaginary Mary,5.5,1241,3028
-tt1157595,Demons,5.9,1672,3029
-tt2802008,Once Upon a Time in Wonderland,6.9,12642,3030
-tt8001250,Always a Witch,6.3,2620,3031
-tt3338268,Dark World 2: Equilibrium,4.1,673,3032
-tt0215392,BeastMaster,6.2,2373,3033
-tt0098818,Harry and the Hendersons,5.6,1411,3034
-tt0934701,"Ni Hao, Kai-Lan",5.2,1110,3035
-tt8619822,Light as a Feather,6.5,3818,3036
-tt1181541,The Listener,6.8,8333,3037
-tt6898970,Tidelands,6.8,8510,3038
-tt2309295,Hemlock Grove,7.0,41472,3039
-tt0362350,Jay Jay the Jet Plane,3.7,663,3040
-tt4649420,Cleverman,6.4,3450,3041
-tt4424726,Angel from Hell,6.2,2695,3042
-tt0846614,Ruhsar,6.1,2505,3043
-tt0206476,Cleopatra 2525,5.9,2204,3044
-tt5932548,Britannia,6.9,16998,3045
-tt0244353,The Mists of Avalon,6.8,10212,3046
-tt9059350,Warrior Nun,7.0,52610,3047
-tt1375710,El Dorado,4.7,1091,3048
+tt0058830,My Mother the Car,4.7,728,3021
+tt11852810,The Quest,4.0,565,3022
+tt2802008,Once Upon a Time in Wonderland,6.9,12642,3023
+tt0274298,Witchblade,6.4,2741,3024
+tt5838282,Escape the Night,5.4,1097,3025
+tt0896084,Charm School,5.4,1102,3026
+tt0210294,Snow Queen,6.5,3384,3027
+tt0398429,Boohbah,4.0,603,3028
+tt9059350,Warrior Nun,7.0,52610,3029
+tt11829316,Vampires,5.7,1392,3030
+tt1157595,Demons,5.9,1672,3031
+tt5711138,Imaginary Mary,5.5,1241,3032
+tt8001250,Always a Witch,6.3,2620,3033
+tt1181541,The Listener,6.8,8333,3034
+tt3338268,Dark World 2: Equilibrium,4.1,673,3035
+tt0215392,BeastMaster,6.2,2373,3036
+tt6898970,Tidelands,6.8,8510,3037
+tt0098818,Harry and the Hendersons,5.6,1411,3038
+tt8619822,Light as a Feather,6.5,3818,3039
+tt0934701,"Ni Hao, Kai-Lan",5.2,1110,3040
+tt5932548,Britannia,6.9,16998,3041
+tt4649420,Cleverman,6.4,3450,3042
+tt0362350,Jay Jay the Jet Plane,3.7,663,3043
+tt4424726,Angel from Hell,6.2,2695,3044
+tt0244353,The Mists of Avalon,6.8,10212,3045
+tt2365946,Bitten,6.9,18778,3046
+tt0846614,Ruhsar,6.1,2505,3047
+tt0206476,Cleopatra 2525,5.9,2204,3048
 tt13650480,Marvel Studios: Legends,6.5,4764,3049
 tt0324864,Kingdom Hospital,6.7,7762,3050
-tt0198779,The Monkey King,5.5,1755,3051
-tt2365946,Bitten,6.9,18778,3052
+tt1375710,El Dorado,4.7,1091,3051
+tt0198779,The Monkey King,5.5,1755,3052
 tt1979918,Sinbad,6.3,3725,3053
 tt0169516,Young Hercules,5.7,2065,3054
 tt8912244,Super Drags,5.5,1853,3055
 tt0420408,Hercules,5.6,2072,3056
-tt0834012,Acemi Cadi,3.5,849,3057
-tt0120569,Conan the Adventurer,5.0,1474,3058
-tt4147780,South of Hell,5.2,1638,3059
-tt15096836,Cracow Monsters,5.5,2128,3060
-tt5194792,NOS4A2,6.7,9718,3061
-tt0461622,Criss Angel Mindfreak,5.8,2712,3062
+tt0120569,Conan the Adventurer,5.0,1474,3057
+tt4147780,South of Hell,5.2,1638,3058
+tt5194792,NOS4A2,6.7,9718,3059
+tt0834012,Acemi Cadi,3.5,849,3060
+tt0233044,Dinotopia,6.5,6365,3061
+tt15096836,Cracow Monsters,5.5,2128,3062
 tt8403622,Luna Nera,6.0,3239,3063
-tt1069207,Jack Hunter and the Lost Treasure of Ugarit,4.8,1506,3064
-tt0233044,Dinotopia,6.5,6365,3065
-tt10369484,The Power,6.5,6617,3066
-tt0077008,Fantasy Island,6.6,8539,3067
-tt13323004,Feria: The Darkest Light,5.7,2773,3068
-tt13784584,Fantasy Island,6.3,5060,3069
-tt10956014,Baalveer Returns,3.8,1150,3070
+tt0461622,Criss Angel Mindfreak,5.8,2712,3064
+tt10369484,The Power,6.5,6617,3065
+tt1069207,Jack Hunter and the Lost Treasure of Ugarit,4.8,1506,3066
+tt0118254,Ally McBeal,6.9,34957,3067
+tt0077008,Fantasy Island,6.6,8539,3068
+tt2197797,666 Park Avenue,6.8,18159,3069
+tt13784584,Fantasy Island,6.3,5060,3070
 tt8427140,Into the Dark,6.3,5091,3071
-tt0463826,Merlin's Apprentice,5.3,2188,3072
-tt7379872,Superstition,5.1,1972,3073
-tt13364024,Sihirli Annem,1.3,680,3074
-tt0200755,Journey to the Center of the Earth,5.6,2741,3075
+tt13323004,Feria: The Darkest Light,5.7,2773,3072
+tt10956014,Baalveer Returns,3.8,1150,3073
+tt0463826,Merlin's Apprentice,5.3,2188,3074
+tt7379872,Superstition,5.1,1972,3075
 tt2215797,Zero Hour,6.3,5451,3076
-tt10404698,Monsterland,5.7,3047,3077
-tt0170982,Mortal Kombat: Conquest,6.2,4958,3078
-tt2197797,666 Park Avenue,6.8,18159,3079
-tt1866570,Labyrinth,5.8,3403,3080
-tt15487922,Wolf Pack,6.5,8023,3081
-tt0823333,Blade: The Series,6.3,5818,3082
-tt0397501,King Solomon's Mines,5.9,3785,3083
-tt0118254,Ally McBeal,6.9,34957,3084
-tt5210998,Dead of Summer,6.1,4753,3085
-tt6712390,Requiem,6.4,7052,3086
+tt0200755,Journey to the Center of the Earth,5.6,2741,3077
+tt3337194,From Dusk Till Dawn: The Series,6.8,21054,3078
+tt13364024,Sihirli Annem,1.3,680,3079
+tt15487922,Wolf Pack,6.5,8023,3080
+tt0170982,Mortal Kombat: Conquest,6.2,4958,3081
+tt10404698,Monsterland,5.7,3047,3082
+tt0823333,Blade: The Series,6.3,5818,3083
+tt1866570,Labyrinth,5.8,3403,3084
+tt6712390,Requiem,6.4,7052,3085
+tt0397501,King Solomon's Mines,5.9,3785,3086
 tt6856484,Ghost Wars,6.2,5358,3087
-tt0207919,Relic Hunter,6.4,7285,3088
-tt3337194,From Dusk Till Dawn: The Series,6.8,21054,3089
-tt12976224,The Essex Serpent,6.3,6428,3090
-tt9052958,Ramyug,5.6,3289,3091
-tt1402376,Eastwick,6.5,9009,3092
+tt5210998,Dead of Summer,6.1,4753,3088
+tt0207919,Relic Hunter,6.4,7285,3089
+tt1402376,Eastwick,6.5,9009,3090
+tt12976224,The Essex Serpent,6.3,6428,3091
+tt9052958,Ramyug,5.6,3289,3092
 tt10101518,Curon,5.9,4385,3093
-tt2535732,The Haunted Hathaways,5.2,2723,3094
-tt14689620,Vampire Academy,6.4,8309,3095
-tt15669534,Tales of the Walking Dead,5.9,4622,3096
-tt14097144,"Boo, Bitch",5.9,4634,3097
-tt5083928,Powerless,6.3,7266,3098
-tt13356646,Solos,6.0,5113,3099
-tt1571313,Pair of Kings,5.8,4374,3100
-tt6064882,Room 104,6.1,5968,3101
-tt7949204,Chambers,6.4,8990,3102
-tt1592287,The Witches of Oz,4.2,1961,3103
-tt0101206,Golden Years,5.2,3109,3104
-tt3681794,Olympus,5.1,3033,3105
-tt0217579,Jason and the Argonauts,5.9,5410,3106
-tt2705602,Atlantis,6.5,11953,3107
-tt3513704,The Messengers,6.3,9219,3108
-tt13231962,Elves,5.6,4741,3109
-tt10973800,Equinox,6.1,7458,3110
-tt3079768,Dominion,6.7,23989,3111
-tt1720619,Neverland,6.3,10402,3112
-tt15428778,Mayfair Witches,6.2,9235,3113
-tt3319460,Lisey's Story,5.8,6182,3114
-tt0108968,Touched by an Angel,6.0,7577,3115
-tt0300865,That's So Raven,6.6,20767,3116
-tt3556944,Heroes Reborn,6.7,28599,3117
-tt0407384,Earthsea,5.7,6353,3118
-tt0862622,Selena,2.2,1743,3119
-tt8295472,The Order,6.7,31223,3120
-tt9139220,Dracula,6.8,50230,3121
-tt13861620,God's Favorite Idiot,5.7,6673,3122
-tt1715368,The Annoying Orange,2.9,2092,3123
-tt10771904,Paragon: The Shadow Wars,3.4,2480,3124
+tt14689620,Vampire Academy,6.4,8309,3094
+tt5083928,Powerless,6.3,7266,3095
+tt2535732,The Haunted Hathaways,5.2,2723,3096
+tt15669534,Tales of the Walking Dead,5.9,4622,3097
+tt13356646,Solos,6.0,5113,3098
+tt14097144,"Boo, Bitch",5.9,4634,3099
+tt7949204,Chambers,6.4,8990,3100
+tt1571313,Pair of Kings,5.8,4374,3101
+tt6064882,Room 104,6.1,5968,3102
+tt2705602,Atlantis,6.5,11953,3103
+tt1592287,The Witches of Oz,4.2,1961,3104
+tt0101206,Golden Years,5.2,3109,3105
+tt3681794,Olympus,5.1,3033,3106
+tt0217579,Jason and the Argonauts,5.9,5410,3107
+tt3079768,Dominion,6.7,23989,3108
+tt3513704,The Messengers,6.3,9219,3109
+tt9139220,Dracula,6.8,50230,3110
+tt10973800,Equinox,6.1,7458,3111
+tt3556944,Heroes Reborn,6.7,28599,3112
+tt13231962,Elves,5.6,4741,3113
+tt1720619,Neverland,6.3,10402,3114
+tt0300865,That's So Raven,6.6,20767,3115
+tt8295472,The Order,6.7,31223,3116
+tt15428778,Mayfair Witches,6.2,9235,3117
+tt3319460,Lisey's Story,5.8,6182,3118
+tt0108968,Touched by an Angel,6.0,7577,3119
+tt0115341,Sabrina the Teenage Witch,6.7,40812,3120
+tt0407384,Earthsea,5.7,6353,3121
+tt12235718,Hellbound,6.6,26571,3122
+tt13861620,God's Favorite Idiot,5.7,6673,3123
+tt8826128,October Faction,6.2,11826,3124
 tt10361016,Penny Dreadful: City of Angels,6.1,10301,3125
-tt8063174,Immortals,4.9,4300,3126
-tt8826128,October Faction,6.2,11826,3127
-tt12235718,Hellbound,6.6,26571,3128
-tt0115341,Sabrina the Teenage Witch,6.7,40812,3129
-tt16913068,Shahmaran,5.2,5969,3130
-tt1672189,Camelot,6.5,24354,3131
+tt0862622,Selena,2.2,1743,3126
+tt1715368,The Annoying Orange,2.9,2092,3127
+tt8063174,Immortals,4.9,4300,3128
+tt10771904,Paragon: The Shadow Wars,3.4,2480,3129
+tt1672189,Camelot,6.5,24354,3130
+tt16913068,Shahmaran,5.2,5969,3131
 tt1934806,Sasural Simar Ka,1.0,1809,3132
-tt14719276,He's Expecting,3.0,3298,3133
-tt0118460,The Shining,6.1,17597,3134
-tt10893694,The Irregulars,6.0,16259,3135
-tt5323298,Naagin,3.6,4486,3136
+tt0118460,The Shining,6.1,17597,3133
+tt10893694,The Irregulars,6.0,16259,3134
+tt14719276,He's Expecting,3.0,3298,3135
+tt5197820,Van Helsing,6.2,23285,3136
 tt2583620,The Twilight Zone,6.0,17093,3137
-tt5197820,Van Helsing,6.2,23285,3138
-tt0460644,Ghost Whisperer,6.4,48039,3139
-tt4145054,Shadowhunters,6.5,66836,3140
+tt5323298,Naagin,3.6,4486,3138
+tt4145054,Shadowhunters,6.5,66836,3139
+tt0460644,Ghost Whisperer,6.4,48039,3140
 tt9737326,Invasion,6.1,31198,3141
 tt8210856,Cursed,6.0,31588,3142
-tt0142055,Teletubbies,3.8,8297,3143
-tt1831804,The Stand,5.7,28158,3144
+tt1831804,The Stand,5.7,28158,3143
+tt0142055,Teletubbies,3.8,8297,3144
 tt6394324,Charmed,4.8,17366,3145
 tt8923396,Jinn,3.5,10350,3146
 tt5103758,Troy: Fall of a City,4.1,14759,3147

@@ -1,20 +1,20 @@
 tconst,primaryTitle,averageRating,numVotes,ranking
 tt4574334,Stranger Things,8.7,1249382,1
-tt6763664,The Haunting of Hill House,8.6,259733,2
-tt0460681,Supernatural,8.4,460399,3
+tt0052520,The Twilight Zone,9.1,87591,2
+tt6763664,The Haunting of Hill House,8.6,259733,3
 tt2243973,Hannibal,8.5,262977,4
-tt0052520,The Twilight Zone,9.1,87591,5
+tt0460681,Supernatural,8.4,460399,5
 tt1520211,The Walking Dead,8.1,1031295,6
-tt2632424,The Originals,8.3,141210,7
-tt7908628,What We Do in the Shadows,8.6,85273,8
-tt1844624,American Horror Story,8.0,327920,9
+tt7908628,What We Do in the Shadows,8.6,85273,7
+tt2632424,The Originals,8.3,141210,8
+tt4093826,Twin Peaks,8.5,71190,9
 tt2628232,Penny Dreadful,8.2,126352,10
-tt4093826,Twin Peaks,8.5,71190,11
-tt4189022,Ash vs Evil Dead,8.4,77245,12
+tt4189022,Ash vs Evil Dead,8.4,77245,11
+tt1844624,American Horror Story,8.0,327920,12
 tt2188671,Bates Motel,8.1,112060,13
-tt1405406,The Vampire Diaries,7.7,332452,14
-tt6611916,Kingdom,8.3,50020,15
-tt12411074,Paranormal,8.0,73374,16
+tt6611916,Kingdom,8.3,50020,14
+tt12411074,Paranormal,8.0,73374,15
+tt1405406,The Vampire Diaries,7.7,332452,16
 tt1751634,The Sandman,7.7,158298,17
 tt10574558,Midnight Mass,7.7,124547,18
 tt5580540,Santa Clarita Diet,7.8,72032,19
@@ -24,178 +24,178 @@ tt2708480,The Terror,7.9,47100,22
 tt0397150,Garth Marenghi's Darkplace,8.5,19326,23
 tt14192814,Kursadzije,8.3,21802,24
 tt5368542,The Exorcist,7.9,29905,25
-tt9813792,From,7.7,39831,26
-tt10970552,The Haunting of Bly Manor,7.4,113430,27
-tt2521668,The Returned,8.1,20883,28
-tt7569592,Chilling Adventures of Sabrina,7.4,101280,29
-tt9319668,1899,7.4,98872,30
-tt9055008,Evil,7.8,29520,31
-tt2071645,The Following,7.4,89884,32
-tt0057729,The Addams Family,8.0,20740,33
-tt0103352,Are You Afraid of the Dark?,8.2,15558,34
-tt6548228,Castle Rock,7.5,48570,35
-tt0184135,The League of Gentlemen,8.4,11756,36
-tt0500092,Serial Experiments Lain,8.1,15399,37
-tt3007572,Locke & Key,7.3,91882,38
-tt2654620,The Strain,7.3,83928,39
-tt0433722,Paranoia Agent,8.0,13077,40
-tt0955346,Moonlight,7.6,24726,41
-tt8068860,Servant,7.4,43246,42
-tt2480514,In the Flesh,7.9,13613,43
-tt0115270,Millennium,8.0,11699,44
-tt4877736,BrainDead,8.0,11634,45
-tt2288064,Witches of East End,7.5,26744,46
-tt1595680,Being Human,7.5,26271,47
-tt0056777,The Outer Limits,8.2,8854,48
-tt1285482,Dead Set,7.6,20349,49
-tt13365348,Archive 81,7.3,53891,50
-tt5197860,Tabula Rasa,7.9,11087,51
-tt1837654,The Secret Circle,7.3,48127,52
-tt0112111,The Outer Limits,7.7,13126,53
-tt1232320,Harper's Island,7.4,26976,54
-tt0071003,Kolchak: The Night Stalker,8.4,5723,55
-tt13273826,The Uncanny Counter,8.0,8009,56
-tt22804760,The Clown,8.1,7083,57
-tt0111987,Goosebumps,7.6,14242,58
-tt0088634,The Twilight Zone,7.7,11732,59
-tt0497298,Jekyll,8.0,7636,60
-tt0055657,The Alfred Hitchcock Hour,8.5,4887,61
+tt2521668,The Returned,8.1,20883,26
+tt9813792,From,7.7,39831,27
+tt9055008,Evil,7.8,29520,28
+tt0057729,The Addams Family,8.0,20740,29
+tt0103352,Are You Afraid of the Dark?,8.2,15558,30
+tt0184135,The League of Gentlemen,8.4,11756,31
+tt0500092,Serial Experiments Lain,8.1,15399,32
+tt10970552,The Haunting of Bly Manor,7.4,113430,33
+tt7569592,Chilling Adventures of Sabrina,7.4,101280,34
+tt9319668,1899,7.4,98872,35
+tt2071645,The Following,7.4,89884,36
+tt6548228,Castle Rock,7.5,48570,37
+tt0433722,Paranoia Agent,8.0,13077,38
+tt0955346,Moonlight,7.6,24726,39
+tt2480514,In the Flesh,7.9,13613,40
+tt0115270,Millennium,8.0,11699,41
+tt4877736,BrainDead,8.0,11634,42
+tt0056777,The Outer Limits,8.2,8854,43
+tt3007572,Locke & Key,7.3,91882,44
+tt8068860,Servant,7.4,43246,45
+tt2654620,The Strain,7.3,83928,46
+tt1285482,Dead Set,7.6,20349,47
+tt2288064,Witches of East End,7.5,26744,48
+tt1595680,Being Human,7.5,26271,49
+tt5197860,Tabula Rasa,7.9,11087,50
+tt0071003,Kolchak: The Night Stalker,8.4,5723,51
+tt0112111,The Outer Limits,7.7,13126,52
+tt13365348,Archive 81,7.3,53891,53
+tt13273826,The Uncanny Counter,8.0,8009,54
+tt22804760,The Clown,8.1,7083,55
+tt0055657,The Alfred Hitchcock Hour,8.5,4887,56
+tt0497298,Jekyll,8.0,7636,57
+tt1837654,The Secret Circle,7.3,48127,58
+tt1232320,Harper's Island,7.4,26976,59
+tt0088634,The Twilight Zone,7.7,11732,60
+tt0111987,Goosebumps,7.6,14242,61
 tt14932528,Don't Hug Me I'm Scared,8.7,4021,62
-tt9064858,Them,7.4,21452,63
-tt2296682,Dracula,7.3,29769,64
-tt14979052,Happiness,7.9,7275,65
-tt1305562,Psychoville,7.9,7163,66
-tt10875696,Marianne,7.4,16960,67
-tt11612120,Sweet Home,7.3,25090,68
-tt0460651,Invasion,7.5,12714,69
-tt3184674,The Master's Sun,8.1,5116,70
-tt0059978,Dark Shadows,8.1,5083,71
-tt7099334,A Korean Odyssey,8.0,5519,72
-tt0135659,Storm of the Century,7.3,23196,73
-tt8388390,Chucky,7.3,23157,74
-tt3498622,Fortitude,7.3,22495,75
-tt0065327,Night Gallery,7.9,5859,76
-tt0111880,American Gothic,8.1,4697,77
-tt1558128,Todd and the Book of Pure Evil,8.2,3972,78
-tt0845738,When They Cry,7.8,6111,79
-tt6782014,Mystery Science Theater 3000,8.2,3918,80
-tt10613844,Hell Is Other People,7.8,5842,81
-tt0138956,Beyond Belief: Fact or Fiction,7.9,5098,82
-tt4229954,Outcast,7.3,18863,83
-tt0448190,Masters of Horror,7.4,12775,84
-tt8284230,The Last Drive-In with Joe Bob Briggs,9.5,1670,85
-tt6519410,Black Spot,7.4,12567,86
-tt9327706,Calls,7.7,6352,87
-tt12245638,Ordem Paranormal,9.2,1803,88
+tt14979052,Happiness,7.9,7275,63
+tt9064858,Them,7.4,21452,64
+tt1305562,Psychoville,7.9,7163,65
+tt3184674,The Master's Sun,8.1,5116,66
+tt0059978,Dark Shadows,8.1,5083,67
+tt2296682,Dracula,7.3,29769,68
+tt7099334,A Korean Odyssey,8.0,5519,69
+tt0460651,Invasion,7.5,12714,70
+tt10875696,Marianne,7.4,16960,71
+tt0111880,American Gothic,8.1,4697,72
+tt0065327,Night Gallery,7.9,5859,73
+tt11612120,Sweet Home,7.3,25090,74
+tt1558128,Todd and the Book of Pure Evil,8.2,3972,75
+tt6782014,Mystery Science Theater 3000,8.2,3918,76
+tt0845738,When They Cry,7.8,6111,77
+tt0135659,Storm of the Century,7.3,23196,78
+tt8388390,Chucky,7.3,23157,79
+tt3498622,Fortitude,7.3,22495,80
+tt0138956,Beyond Belief: Fact or Fiction,7.9,5098,81
+tt10613844,Hell Is Other People,7.8,5842,82
+tt8284230,The Last Drive-In with Joe Bob Briggs,9.5,1670,83
+tt12245638,Ordem Paranormal,9.2,1803,84
+tt9327706,Calls,7.7,6352,85
+tt0448190,Masters of Horror,7.4,12775,86
+tt6519410,Black Spot,7.4,12567,87
+tt4229954,Outcast,7.3,18863,88
 tt1772379,The Fades,7.6,6830,89
 tt1835129,Death Valley,7.7,5539,90
 tt0386224,Monkey Dust,8.5,2212,91
 tt1830238,Salad Fingers,8.1,2956,92
 tt1992935,Mononoke,8.2,2641,93
 tt6723522,BuzzFeed Unsolved: Supernatural,8.8,1654,94
-tt0484243,A Haunting,7.9,3346,95
-tt7415686,The Kill Count,9.3,1240,96
-tt2022190,The Walking Dead: Webisodes,7.6,5010,97
-tt1068433,When They Cry: Kai,8.1,2585,98
-tt12526224,Douluo Continent,8.1,2576,99
-tt4192782,Glitch,7.2,19588,100
-tt3921820,Les Synaudes,8.6,1700,101
-tt7406320,Eli Roth's History of Horror,8.1,2422,102
-tt1653313,Board James,8.1,2318,103
-tt14921986,Interview with the Vampire,7.2,16565,104
-tt0169501,Ultraviolet,7.9,2729,105
+tt7415686,The Kill Count,9.3,1240,95
+tt0484243,A Haunting,7.9,3346,96
+tt1068433,When They Cry: Kai,8.1,2585,97
+tt12526224,Douluo Continent,8.1,2576,98
+tt3921820,Les Synaudes,8.6,1700,99
+tt2022190,The Walking Dead: Webisodes,7.6,5010,100
+tt7406320,Eli Roth's History of Horror,8.1,2422,101
+tt1653313,Board James,8.1,2318,102
+tt4192782,Glitch,7.2,19588,103
+tt0169501,Ultraviolet,7.9,2729,104
+tt18546730,The Walking Dead: Dead City,8.1,2182,105
 tt14367168,Let the Right One In,7.5,5198,106
-tt18546730,The Walking Dead: Dead City,8.1,2182,107
-tt2950342,Mr. Pickles,7.3,9417,108
-tt11173328,Crna svadba,7.8,2879,109
-tt0092357,Friday the 13th: The Series,7.6,3887,110
-tt1874066,Paranormal Witness,7.8,2734,111
-tt2089578,We're Alive: A Story of Survival,9.3,905,112
+tt2950342,Mr. Pickles,7.3,9417,107
+tt11173328,Crna svadba,7.8,2879,108
+tt0092357,Friday the 13th: The Series,7.6,3887,109
+tt14921986,Interview with the Vampire,7.2,16565,110
+tt2089578,We're Alive: A Story of Survival,9.3,905,111
+tt1874066,Paranormal Witness,7.8,2734,112
 tt8801670,Son: The Guest,8.1,1917,113
 tt2016670,Shiki,7.6,3680,114
-tt6905686,Lovecraft Country,7.1,44755,115
-tt4145384,Scream Queens,7.1,43811,116
-tt3292726,Tim and Eric's Bedtime Stories,7.8,2482,117
-tt0435937,Afterlife,7.9,2147,118
-tt0053546,Thriller,8.2,1517,119
-tt1885304,Marble Hornets,8.1,1645,120
-tt4820370,Channel Zero,7.2,11298,121
-tt27870211,Generation Loss: The Social Experiments,9.6,645,122
-tt8773080,The Curious Creations of Christine McConnell,7.7,2522,123
-tt5768840,"Bring It On, Ghost",7.6,2910,124
-tt0450892,The 100 Scariest Movie Moments,8.5,1096,125
-tt11525188,Chapelwaite,7.2,10525,126
-tt1140939,Apparitions,7.9,1817,127
-tt5722214,Stan Against Evil,7.3,6174,128
-tt0414777,Svengoolie,8.6,936,129
-tt6289132,The Boulet Brothers' Dragula,8.1,1365,130
-tt2289131,Off the Air,8.5,988,131
+tt3292726,Tim and Eric's Bedtime Stories,7.8,2482,115
+tt0435937,Afterlife,7.9,2147,116
+tt0053546,Thriller,8.2,1517,117
+tt1885304,Marble Hornets,8.1,1645,118
+tt27870211,Generation Loss: The Social Experiments,9.6,645,119
+tt8773080,The Curious Creations of Christine McConnell,7.7,2522,120
+tt0450892,The 100 Scariest Movie Moments,8.5,1096,121
+tt5768840,"Bring It On, Ghost",7.6,2910,122
+tt1140939,Apparitions,7.9,1817,123
+tt4820370,Channel Zero,7.2,11298,124
+tt6905686,Lovecraft Country,7.1,44755,125
+tt4145384,Scream Queens,7.1,43811,126
+tt5722214,Stan Against Evil,7.3,6174,127
+tt0414777,Svengoolie,8.6,936,128
+tt11525188,Chapelwaite,7.2,10525,129
+tt2289131,Off the Air,8.5,988,130
+tt6289132,The Boulet Brothers' Dragula,8.1,1365,131
 tt6439480,Jerma985,9.8,503,132
 tt19408064,Pett Kata Shaw,8.0,1413,133
-tt0115232,Kindred: The Embraced,7.5,2864,134
-tt0052442,One Step Beyond,7.8,1719,135
-tt2963254,Salem,7.1,24683,136
-tt0075592,Tales of the Unexpected,7.6,2271,137
+tt0052442,One Step Beyond,7.8,1719,134
+tt0115232,Kindred: The Embraced,7.5,2864,135
+tt0075592,Tales of the Unexpected,7.6,2271,136
+tt20772270,Room 207,7.9,1395,137
 tt14641098,The Case Study of Vanitas,7.6,2169,138
-tt20772270,Room 207,7.9,1395,139
-tt0491560,Lucy: The Daughter of the Devil,7.7,1747,140
-tt7721046,Los Espookys,7.5,2514,141
-tt0051305,Quatermass and the Pit,8.0,1121,142
+tt0491560,Lucy: The Daughter of the Devil,7.7,1747,139
+tt7721046,Los Espookys,7.5,2514,140
+tt0051305,Quatermass and the Pit,8.0,1121,141
+tt2963254,Salem,7.1,24683,142
 tt0808013,Blood Ties,7.2,6904,143
 tt7048386,The Bronze Garden,7.8,1326,144
 tt0423646,Epitafios,7.8,1301,145
-tt0318252,The Twilight Zone,7.2,6357,146
-tt0080231,Hammer House of Horror,7.5,2125,147
-tt4928166,The Living and the Dead,7.3,3709,148
-tt0099363,Dark Shadows,7.5,2066,149
-tt11343600,Brand New Cherry Flavor,7.1,17204,150
-tt0189392,Big Wolf on Campus,7.5,2051,151
-tt4497794,The Last Ship Prequel: Dr. Scott's Video Journal,7.8,1156,152
-tt6038584,Crazyhead,7.2,5235,153
-tt0247095,FreakyLinks,7.9,930,154
-tt14779088,The Walten Files,8.6,504,155
-tt13193312,Too Many Spirits,9.2,363,156
+tt0080231,Hammer House of Horror,7.5,2125,146
+tt0318252,The Twilight Zone,7.2,6357,147
+tt0099363,Dark Shadows,7.5,2066,148
+tt0189392,Big Wolf on Campus,7.5,2051,149
+tt4928166,The Living and the Dead,7.3,3709,150
+tt4497794,The Last Ship Prequel: Dr. Scott's Video Journal,7.8,1156,151
+tt11343600,Brand New Cherry Flavor,7.1,17204,152
+tt0247095,FreakyLinks,7.9,930,153
+tt14779088,The Walten Files,8.6,504,154
+tt13193312,Too Many Spirits,9.2,363,155
+tt6038584,Crazyhead,7.2,5235,156
 tt2513228,Derren Brown: Apocalypse,7.8,1026,157
 tt2014554,Dark Matters: Twisted But True,7.9,902,158
 tt0092480,Werewolf,7.8,1011,159
 tt3136332,Hellbenders,8.6,472,160
 tt0272417,Up All Night,8.4,541,161
 tt0320075,Miracles,7.6,1305,162
-tt7084536,Kafr Delhab,7.7,1087,163
-tt1606487,Ms. Vampy,8.3,567,164
+tt1606487,Ms. Vampy,8.3,567,163
+tt7084536,Kafr Delhab,7.7,1087,164
 tt1721556,Elvira's Movie Macabre,8.5,472,165
 tt0262973,Elvira's Movie Macabre,8.3,547,166
 tt14223310,Sell Your Haunted House,7.6,1208,167
 tt7704636,Jul i Blodfjell,7.7,1022,168
 tt0800381,World Premiere,8.1,632,169
-tt3487410,The Whispers,7.1,10908,170
-tt1654842,True Blood: Webisodes,8.0,640,171
+tt1654842,True Blood: Webisodes,8.0,640,170
+tt21923908,The 101 Scariest Horror Movie Moments of All Time,8.1,567,171
 tt0081850,The Day of the Triffids,7.3,2342,172
-tt21923908,The 101 Scariest Horror Movie Moments of All Time,8.1,567,173
-tt2233925,13 Witches,8.3,469,174
+tt2233925,13 Witches,8.3,469,173
+tt3487410,The Whispers,7.1,10908,174
 tt21996840,Ghost Files,9.1,268,175
 tt0281524,Wolf Lake,7.4,1484,176
 tt6843558,La Frecuencia Kirlian,7.5,1153,177
 tt2316082,Sex House,8.3,416,178
 tt0329890,La mujer de Judas,8.5,340,179
-tt9764386,30 Coins,7.1,8067,180
-tt8836798,Local 58,8.3,377,181
-tt6728912,Monster Therapy,9.5,191,182
-tt16492574,The Mandela Catalogue,8.3,371,183
-tt20863294,The Backrooms,8.5,318,184
-tt0247120,Night Visions,7.5,990,185
-tt7801780,Origin,7.1,7487,186
+tt8836798,Local 58,8.3,377,180
+tt6728912,Monster Therapy,9.5,191,181
+tt16492574,The Mandela Catalogue,8.3,371,182
+tt20863294,The Backrooms,8.5,318,183
+tt0247120,Night Visions,7.5,990,184
+tt9764386,30 Coins,7.1,8067,185
+tt5506886,Creature Features,9.0,228,186
 tt4791250,Naked and Afraid XL,7.3,1721,187
-tt5506886,Creature Features,9.0,228,188
-tt0143353,Guyver: The Bioboosted Armor,7.5,953,189
+tt0143353,Guyver: The Bioboosted Armor,7.5,953,188
+tt0283764,Night Flight,8.7,262,189
 tt22187798,Gannibal,7.4,1214,190
-tt0283764,Night Flight,8.7,262,191
-tt0385405,The Befallen,7.9,498,192
-tt2465650,Dead Crossroads,8.3,336,193
+tt0385405,The Befallen,7.9,498,191
+tt2465650,Dead Crossroads,8.3,336,192
+tt7801780,Origin,7.1,7487,193
 tt0229916,The Others,7.6,748,194
-tt0088591,The Ray Bradbury Theater,7.3,1583,195
-tt1268797,Kids in the Hall: Death Comes to Town,7.3,1582,196
-tt12028664,Red Rooms,8.6,263,197
+tt12028664,Red Rooms,8.6,263,195
+tt0088591,The Ray Bradbury Theater,7.3,1583,196
+tt1268797,Kids in the Hall: Death Comes to Town,7.3,1582,197
 tt0446815,Good Guys,7.6,723,198
 tt5043530,True Nightmares,8.3,319,199
 tt12053334,UnDeadwood,8.8,227,200
@@ -217,8 +217,8 @@ tt1708448,This Movie Sucks!,8.2,254,215
 tt1097194,Ghost Hound,7.4,816,216
 tt12149798,Petscop,8.5,199,217
 tt0291419,Pet Shop of Horrors,7.3,1096,218
-tt0068074,Circle of Fear,7.6,499,219
-tt0078648,Little Tragedies,7.9,325,220
+tt0078648,Little Tragedies,7.9,325,219
+tt0068074,Circle of Fear,7.6,499,220
 tt0263663,The Living Century,8.5,191,221
 tt1729107,Shades of Darkness,7.9,320,222
 tt0280770,The Infinite Worlds of H.G. Wells,7.5,592,223
@@ -233,41 +233,41 @@ tt0270769,Ghost Stories for Christmas,7.9,254,231
 tt11885462,Five Nights at Freddy's VHS,9.2,101,232
 tt0077399,The Dark Secret of Harvest Home,7.2,1328,233
 tt0287856,Hora marcada,7.9,247,234
-tt2872488,My Haunted House,7.3,797,235
-tt17819196,GEMINI HOME ENTERTAINMENT,8.7,125,236
+tt17819196,GEMINI HOME ENTERTAINMENT,8.7,125,235
+tt2872488,My Haunted House,7.3,797,236
 tt0102847,3x3 Eyes,7.3,786,237
 tt9280792,Survivors Zombies,8.0,211,238
 tt0247872,Historias para no dormir,7.8,266,239
 tt10380324,Nuke's Top 5,9.3,89,240
 tt0424700,Podge and Rodge. A Scare at Bedtime,8.2,173,241
-tt8479368,Anjaan: Special Crimes Unit,7.6,353,242
-tt8943778,Pritam Pyare Aur Woh,9.4,84,243
+tt8943778,Pritam Pyare Aur Woh,9.4,84,242
+tt8479368,Anjaan: Special Crimes Unit,7.6,353,243
 tt1647865,Ghostfacers,7.6,351,244
 tt3465580,Hillbilly Horror Show,7.5,419,245
 tt0312209,Strange,7.5,411,246
-tt10738706,The Holzer Files,7.3,702,247
-tt19385824,ONE,9.4,78,248
-tt7490506,Dil Nawaz,9.1,89,249
+tt19385824,ONE,9.4,78,247
+tt7490506,Dil Nawaz,9.1,89,248
+tt10738706,The Holzer Files,7.3,702,249
 tt6919666,Car Boys,8.5,123,250
-tt10845722,Bhram,6.4,366,1613
-tt3140434,Paradox,6.0,226,1614
+tt3186162,Eye Candy,7.0,7509,1613
+tt10845722,Bhram,6.4,366,1614
 tt14550644,Higurashi: When They Cry - SOTSU,6.4,369,1615
-tt6422012,Life of Jacob,1.9,46,1616
+tt3140434,Paradox,6.0,226,1616
 tt10423424,BEM,6.0,229,1617
-tt9549012,Parchhayee: Ghost Stories by Ruskin Bond,5.3,141,1618
-tt3186162,Eye Candy,7.0,7509,1619
-tt9395448,Demon's Path,3.2,64,1620
-tt3552654,Cryptid: The Swamp Beast,5.9,218,1621
-tt0281445,Glory Days,6.4,391,1622
+tt6422012,Life of Jacob,1.9,46,1618
+tt8762206,Creepshow,7.0,7934,1619
+tt9549012,Parchhayee: Ghost Stories by Ruskin Bond,5.3,141,1620
+tt0115317,Poltergeist: The Legacy,6.9,1875,1621
+tt9395448,Demon's Path,3.2,64,1622
 tt13323626,The Bite,6.8,1065,1623
-tt0115317,Poltergeist: The Legacy,6.9,1875,1624
-tt9212316,V/H/S,6.0,246,1625
-tt1510901,Mannen under trappan,6.2,307,1626
-tt7069178,La luna sangre,5.9,227,1627
-tt8762206,Creepshow,7.0,7934,1628
+tt3552654,Cryptid: The Swamp Beast,5.9,218,1624
+tt0281445,Glory Days,6.4,391,1625
+tt9212316,V/H/S,6.0,246,1626
+tt1510901,Mannen under trappan,6.2,307,1627
+tt7069178,La luna sangre,5.9,227,1628
 tt9861934,Alien: Isolation,6.2,312,1629
-tt22797236,Red Iron Road,5.8,218,1630
-tt9027772,The Birch,6.6,622,1631
+tt9027772,The Birch,6.6,622,1630
+tt22797236,Red Iron Road,5.8,218,1631
 tt9598554,Dark Stories,5.3,158,1632
 tt8533130,Qayamat Ki Raat,4.7,119,1633
 tt9252470,Euphoria,5.0,141,1634
@@ -284,103 +284,103 @@ tt6362756,Bloodivores,4.4,119,1644
 tt10801172,The Last Prey,5.5,208,1645
 tt14708338,The Haunted Museum,6.1,343,1646
 tt10438052,Hungry Ghosts,5.9,284,1647
-tt5437394,The Nightmare Worlds of H.G. Wells,5.9,290,1648
-tt4714470,Gravebit,6.8,1424,1649
+tt4714470,Gravebit,6.8,1424,1648
+tt5437394,The Nightmare Worlds of H.G. Wells,5.9,290,1649
 tt8848336,Haunted Hospitals,5.3,195,1650
-tt22174464,Housing Complex C,6.0,333,1651
-tt1245687,30 Days of Night: Dust to Dust,5.8,281,1652
-tt10708060,Fear the Walking Dead: The Althea Tapes,5.3,205,1653
-tt13635918,Dam,5.7,272,1654
-tt1450620,When Seagulls Cry,6.4,577,1655
-tt13175760,Detention,6.4,583,1656
-tt10065930,Red Ruby,4.8,166,1657
-tt3230780,The Returned,7.0,12007,1658
+tt3230780,The Returned,7.0,12007,1651
+tt22174464,Housing Complex C,6.0,333,1652
+tt1245687,30 Days of Night: Dust to Dust,5.8,281,1653
+tt10708060,Fear the Walking Dead: The Althea Tapes,5.3,205,1654
+tt13635918,Dam,5.7,272,1655
+tt1450620,When Seagulls Cry,6.4,577,1656
+tt13175760,Detention,6.4,583,1657
+tt10065930,Red Ruby,4.8,166,1658
 tt12886368,Etheria,4.8,173,1659
-tt3500210,Partially Devoured Movies,1.7,75,1660
-tt6931266,Dies Irae,4.4,152,1661
-tt0085031,The Hitchhiker,6.8,1752,1662
-tt3484180,Remember Me,6.8,1772,1663
-tt11559534,Naagin,2.6,93,1664
-tt7108184,Tokyo Vampire Hotel,6.4,657,1665
-tt11397978,JJ Villard's Fairy Tales,5.8,337,1666
-tt4532898,The Hunter's Anthology,4.6,172,1667
-tt14825954,Exception,6.6,995,1668
-tt2536414,When They Cry: Kira,5.9,380,1669
-tt2408488,Cursed,5.2,235,1670
-tt11474286,Believers,4.6,179,1671
-tt7324540,Evil Things,5.7,327,1672
-tt10816222,Kamini,4.2,154,1673
-tt14881288,Stories to Stay Awake,6.3,597,1674
-tt4458096,I Survived a Zombie Apocalypse,5.0,217,1675
-tt19870894,Monstrous,5.8,359,1676
-tt5909930,Ghoul,7.0,14602,1677
-tt9154158,You're Not a Monster,6.2,568,1678
-tt5937940,The Z Virus,2.9,116,1679
-tt9610330,Taranath Tantrik,5.2,267,1680
-tt4787000,Hellevator,6.0,485,1681
-tt0770762,Happy Tree Friends,7.0,17857,1682
+tt5909930,Ghoul,7.0,14602,1660
+tt0085031,The Hitchhiker,6.8,1752,1661
+tt6931266,Dies Irae,4.4,152,1662
+tt3500210,Partially Devoured Movies,1.7,75,1663
+tt3484180,Remember Me,6.8,1772,1664
+tt11559534,Naagin,2.6,93,1665
+tt7108184,Tokyo Vampire Hotel,6.4,657,1666
+tt11397978,JJ Villard's Fairy Tales,5.8,337,1667
+tt4532898,The Hunter's Anthology,4.6,172,1668
+tt14825954,Exception,6.6,995,1669
+tt2536414,When They Cry: Kira,5.9,380,1670
+tt2408488,Cursed,5.2,235,1671
+tt14881288,Stories to Stay Awake,6.3,597,1672
+tt7324540,Evil Things,5.7,327,1673
+tt11474286,Believers,4.6,179,1674
+tt10816222,Kamini,4.2,154,1675
+tt4458096,I Survived a Zombie Apocalypse,5.0,217,1676
+tt19870894,Monstrous,5.8,359,1677
+tt0770762,Happy Tree Friends,7.0,17857,1678
+tt9154158,You're Not a Monster,6.2,568,1679
+tt5937940,The Z Virus,2.9,116,1680
+tt9610330,Taranath Tantrik,5.2,267,1681
+tt4787000,Hellevator,6.0,485,1682
 tt7908756,Shining Vale,6.9,4095,1683
-tt22437092,My Encounter with Evil,4.6,219,1684
-tt4355188,Paranormal Survivor,6.2,642,1685
+tt4355188,Paranormal Survivor,6.2,642,1684
+tt22437092,My Encounter with Evil,4.6,219,1685
 tt4993722,The Witching Season,5.6,384,1686
-tt1942485,"Ms. Vampy's Tween Tawk, Teen Tawk & In Between Tawk",5.8,460,1687
-tt6203010,Fear the Walking Dead: Passage,6.3,785,1688
-tt1204828,13: Fear Is Real,5.3,332,1689
-tt1587390,Assassin's Creed: Lineage,6.9,4540,1690
-tt1112285,Fear Itself,6.9,4565,1691
+tt1587390,Assassin's Creed: Lineage,6.9,4540,1687
+tt1942485,"Ms. Vampy's Tween Tawk, Teen Tawk & In Between Tawk",5.8,460,1688
+tt1112285,Fear Itself,6.9,4565,1689
+tt6203010,Fear the Walking Dead: Passage,6.3,785,1690
+tt1204828,13: Fear Is Real,5.3,332,1691
 tt10359820,Deadhouse Dark,5.3,347,1692
-tt3641068,Nargess,4.4,231,1693
+tt2012511,The Dead Files,6.8,2699,1693
 tt7814574,Junji Itô: Korekushon,6.6,1429,1694
-tt2012511,The Dead Files,6.8,2699,1695
+tt3641068,Nargess,4.4,231,1695
 tt1988235,Blade,6.5,1169,1696
 tt3587016,She was an Angel,4.8,284,1697
 tt22530632,Mr. Midnight: Beware the Monsters,5.9,566,1698
-tt7053684,Zhí jùchâng - jîmù zhî jiâ,2.4,140,1699
-tt5095238,Fear the Walking Dead: Flight 462,6.8,2912,1700
+tt5095238,Fear the Walking Dead: Flight 462,6.8,2912,1699
+tt7053684,Zhí jùchâng - jîmù zhî jiâ,2.4,140,1700
 tt15566204,Tierra Incógnita,5.1,356,1701
-tt11285470,The Expecting,5.8,562,1702
-tt0772139,Masters of Science Fiction,6.7,2137,1703
-tt13407060,Insânia,4.9,338,1704
-tt9397640,Folklore,5.8,587,1705
-tt11052434,Hausen,5.8,591,1706
-tt2104664,"The Heart, She Holler",6.5,1381,1707
-tt0094578,War of the Worlds,6.5,1408,1708
-tt0098919,Swamp Thing,6.3,1024,1709
+tt0772139,Masters of Science Fiction,6.7,2137,1702
+tt11285470,The Expecting,5.8,562,1703
+tt9397640,Folklore,5.8,587,1704
+tt13407060,Insânia,4.9,338,1705
+tt2104664,"The Heart, She Holler",6.5,1381,1706
+tt11052434,Hausen,5.8,591,1707
+tt2294227,The Secret of Crickley Hall,6.8,3290,1708
+tt0094578,War of the Worlds,6.5,1408,1709
 tt18926116,Fear the Walking Dead: Dead in the Water,6.5,1414,1710
-tt2294227,The Secret of Crickley Hall,6.8,3290,1711
+tt0098919,Swamp Thing,6.3,1024,1711
 tt9104072,50 States of Fright,6.6,1762,1712
-tt3894916,Terra Formars,6.4,1237,1713
-tt8290414,Cryptid,5.6,545,1714
-tt8706902,Nazar,4.7,337,1715
-tt22177770,Urban Legend,5.4,500,1716
-tt0127378,House of Frankenstein,5.2,453,1717
-tt0339968,Scare Tactics,6.7,2558,1718
-tt1430794,Valemont,5.0,415,1719
-tt1278254,ChäoS;HEAd,5.9,760,1720
-tt4766568,Halfworlds,5.9,761,1721
-tt1078298,30 Days of Night: Blood Trails,5.2,471,1722
-tt11767990,Unlock- The Haunted App,3.7,259,1723
-tt0118346,The Hunger,6.2,1050,1724
-tt1314008,Lost Tapes,6.1,942,1725
-tt0104523,Intruders,6.4,1401,1726
-tt8983318,Wreck,6.6,2081,1727
-tt10813648,Ghost Nation,6.0,871,1728
-tt1105711,1000 Ways to Die,6.8,4117,1729
-tt1229820,Buried Alive,3.3,251,1730
-tt2193041,Beauty and the Beast,7.0,37518,1731
-tt7462702,Osama Game,5.0,482,1732
-tt21332800,School Tales the Series,5.3,574,1733
-tt2309295,Hemlock Grove,7.0,41472,1734
-tt8610212,The Gloaming,6.6,2554,1735
-tt14164238,Haunted: Latin America,5.3,641,1736
-tt0158634,Genocyber,6.1,1220,1737
-tt8026466,Critters: A New Binge,5.1,589,1738
-tt8415836,Guillermo del Toro's Cabinet of Curiosities,7.0,49780,1739
+tt2193041,Beauty and the Beast,7.0,37518,1713
+tt3894916,Terra Formars,6.4,1237,1714
+tt8290414,Cryptid,5.6,545,1715
+tt8706902,Nazar,4.7,337,1716
+tt2309295,Hemlock Grove,7.0,41472,1717
+tt22177770,Urban Legend,5.4,500,1718
+tt0339968,Scare Tactics,6.7,2558,1719
+tt0127378,House of Frankenstein,5.2,453,1720
+tt1430794,Valemont,5.0,415,1721
+tt1278254,ChäoS;HEAd,5.9,760,1722
+tt4766568,Halfworlds,5.9,761,1723
+tt1078298,30 Days of Night: Blood Trails,5.2,471,1724
+tt0118346,The Hunger,6.2,1050,1725
+tt11767990,Unlock- The Haunted App,3.7,259,1726
+tt8415836,Guillermo del Toro's Cabinet of Curiosities,7.0,49780,1727
+tt1314008,Lost Tapes,6.1,942,1728
+tt0104523,Intruders,6.4,1401,1729
+tt8983318,Wreck,6.6,2081,1730
+tt10813648,Ghost Nation,6.0,871,1731
+tt1105711,1000 Ways to Die,6.8,4117,1732
+tt1229820,Buried Alive,3.3,251,1733
+tt7462702,Osama Game,5.0,482,1734
+tt21332800,School Tales the Series,5.3,574,1735
+tt8610212,The Gloaming,6.6,2554,1736
+tt14164238,Haunted: Latin America,5.3,641,1737
+tt0158634,Genocyber,6.1,1220,1738
+tt8026466,Critters: A New Binge,5.1,589,1739
 tt0481452,Nightmares & Dreamscapes: From the Stories of Stephen King,6.8,5332,1740
 tt4228802,The Kettering Incident,6.7,3727,1741
 tt13831266,Dead Places,6.2,1487,1742
-tt7965440,The Dead Lands,5.9,1097,1743
-tt0368730,Frankenstein,6.2,1500,1744
+tt0368730,Frankenstein,6.2,1500,1743
+tt7965440,The Dead Lands,5.9,1097,1744
 tt8670784,Angels of Death,6.5,2502,1745
 tt0287846,Dracula,4.2,466,1746
 tt14622682,The Girl in the Woods,5.6,932,1747
@@ -391,111 +391,111 @@ tt1222663,Woke Up Dead,4.3,524,1751
 tt5600406,Dark/Web,5.4,886,1752
 tt1822448,Bedlam,6.4,2382,1753
 tt3127798,Corpse Party: Tortured Souls,6.3,2127,1754
-tt0897403,When Evil Calls,3.6,450,1755
-tt12929796,Goedam,5.7,1185,1756
+tt14245846,The Midwich Cuckoos,6.6,3777,1755
+tt0897403,When Evil Calls,3.6,450,1756
 tt0172031,The New Addams Family,6.4,2554,1757
-tt14245846,The Midwich Cuckoos,6.6,3777,1758
+tt12929796,Goedam,5.7,1185,1758
 tt15180910,Reginald the Vampire,5.9,1442,1759
-tt7043070,Strange Events,4.5,653,1760
-tt4337944,Damien,6.8,8110,1761
+tt4337944,Damien,6.8,8110,1760
+tt7043070,Strange Events,4.5,653,1761
 tt13106334,The Girl in the Mirror,6.3,2463,1762
-tt0958611,The Lair,4.9,862,1763
-tt11829316,Vampires,5.7,1392,1764
-tt6436036,Aapkey Kamrey Mein Koi Rehta Hai,3.4,517,1765
-tt13352232,High-Rise Invasion,6.5,3633,1766
+tt11829316,Vampires,5.7,1392,1763
+tt13352232,High-Rise Invasion,6.5,3633,1764
+tt0958611,The Lair,4.9,862,1765
+tt2365946,Bitten,6.9,18778,1766
 tt3007640,Naked and Afraid,6.6,4619,1767
-tt5603186,Black Lake,6.1,2102,1768
-tt8619822,Light as a Feather,6.5,3818,1769
-tt5338744,Age of the Living Dead,4.4,767,1770
-tt2365946,Bitten,6.9,18778,1771
+tt6436036,Aapkey Kamrey Mein Koi Rehta Hai,3.4,517,1768
+tt5603186,Black Lake,6.1,2102,1769
+tt8619822,Light as a Feather,6.5,3818,1770
+tt5338744,Age of the Living Dead,4.4,767,1771
 tt9310372,Typewriter,6.5,4114,1772
-tt16351432,Oats Studios,6.3,3283,1773
-tt6130902,Lore,6.6,5738,1774
-tt0324864,Kingdom Hospital,6.7,7762,1775
+tt6130902,Lore,6.6,5738,1773
+tt0324864,Kingdom Hospital,6.7,7762,1774
+tt16351432,Oats Studios,6.3,3283,1775
 tt12879632,The Baby,6.3,3486,1776
 tt9815502,Bloodride,6.4,4089,1777
 tt10589968,The Secret of Skinwalker Ranch,6.3,3680,1778
-tt1576464,Splatter,3.1,667,1779
-tt4568372,Residue,6.0,2632,1780
+tt4568372,Residue,6.0,2632,1779
+tt1576464,Splatter,3.1,667,1780
 tt0094466,Freddy's Nightmares,6.2,3333,1781
 tt5875646,Freakish,6.1,2969,1782
-tt21856734,Junji Ito Maniac: Japanese Tales of the Macabre,6.0,2769,1783
-tt12923632,Dead Ringers,6.5,5696,1784
-tt7392222,Ragini MMS Returns,4.1,1009,1785
+tt5194792,NOS4A2,6.7,9718,1783
+tt21856734,Junji Ito Maniac: Japanese Tales of the Macabre,6.0,2769,1784
+tt12923632,Dead Ringers,6.5,5696,1785
 tt0414731,Dante's Cove,5.7,2256,1786
-tt5194792,NOS4A2,6.7,9718,1787
+tt7392222,Ragini MMS Returns,4.1,1009,1787
 tt4147780,South of Hell,5.2,1638,1788
 tt6873926,Two Sentence Horror Stories,5.6,2130,1789
 tt0362355,Most Haunted,5.0,1513,1790
 tt0115109,The Beast,5.9,2815,1791
-tt3114350,Diabolik Lovers,4.9,1585,1792
-tt0371475,Ren & Stimpy 'Adult Party Cartoon',5.4,2188,1793
+tt2197797,666 Park Avenue,6.8,18159,1792
+tt3114350,Diabolik Lovers,4.9,1585,1793
 tt8427140,Into the Dark,6.3,5091,1794
-tt2197797,666 Park Avenue,6.8,18159,1795
-tt10313176,Nancy Drew,6.6,9367,1796
-tt7379872,Superstition,5.1,1972,1797
-tt10241238,Reality Z,5.6,2716,1798
-tt19788500,Red Rose,6.4,6395,1799
-tt12299732,Live Telecast,4.1,1314,1800
-tt10404698,Monsterland,5.7,3047,1801
-tt15487922,Wolf Pack,6.5,8023,1802
-tt7136580,Cooking with Bill,5.0,2055,1803
-tt8021824,The Innocents,6.3,6062,1804
-tt5210998,Dead of Summer,6.1,4753,1805
+tt10313176,Nancy Drew,6.6,9367,1795
+tt0371475,Ren & Stimpy 'Adult Party Cartoon',5.4,2188,1796
+tt19788500,Red Rose,6.4,6395,1797
+tt7379872,Superstition,5.1,1972,1798
+tt15487922,Wolf Pack,6.5,8023,1799
+tt10241238,Reality Z,5.6,2716,1800
+tt12299732,Live Telecast,4.1,1314,1801
+tt10404698,Monsterland,5.7,3047,1802
+tt8021824,The Innocents,6.3,6062,1803
+tt4667888,Slasher,6.7,15803,1804
+tt7136580,Cooking with Bill,5.0,2055,1805
 tt6856484,Ghost Wars,6.2,5358,1806
-tt12313914,Ju-on: Origins,6.1,5014,1807
-tt2193053,Cult,6.0,4546,1808
-tt4667888,Slasher,6.7,15803,1809
+tt5210998,Dead of Summer,6.1,4753,1807
+tt12313914,Ju-on: Origins,6.1,5014,1808
+tt2193053,Cult,6.0,4546,1809
 tt10101518,Curon,5.9,4385,1810
-tt9185110,The A List,5.5,3267,1811
-tt6053538,Ghosted,6.3,7198,1812
+tt6053538,Ghosted,6.3,7198,1811
+tt9185110,The A List,5.5,3267,1812
 tt15669534,Tales of the Walking Dead,5.9,4622,1813
-tt10487072,Prank Encounters,5.3,2973,1814
-tt3185682,Pupa,2.6,1167,1815
-tt7949204,Chambers,6.4,8990,1816
-tt12052892,Day of the Dead,4.7,2313,1817
-tt2799012,Ravenswood,6.4,9161,1818
+tt7949204,Chambers,6.4,8990,1814
+tt10487072,Prank Encounters,5.3,2973,1815
+tt2799012,Ravenswood,6.4,9161,1816
+tt3185682,Pupa,2.6,1167,1817
+tt12052892,Day of the Dead,4.7,2313,1818
 tt0101206,Golden Years,5.2,3109,1819
 tt14111834,Dystopia,5.1,3008,1820
 tt0156205,Creature,5.0,2869,1821
-tt9201996,Don't Watch This,3.3,1588,1822
-tt8404520,Ares,5.7,4666,1823
-tt10482370,The Third Day,6.4,10654,1824
-tt1332653,The Day of the Triffids,5.6,4594,1825
-tt13231962,Elves,5.6,4741,1826
-tt0259153,Rose Red,6.7,25089,1827
-tt0297120,Firestarter 2: Rekindled,4.8,3114,1828
-tt0079844,Salem's Lot,6.7,25897,1829
-tt15428778,Mayfair Witches,6.2,9235,1830
-tt3319460,Lisey's Story,5.8,6182,1831
-tt2758950,Helix,6.7,30117,1832
-tt9077192,Haunted,4.7,3435,1833
-tt8295472,The Order,6.7,31223,1834
-tt5435072,Scare PewDiePie,3.8,2508,1835
-tt6110648,The Purge,6.5,17986,1836
-tt0355987,Salem's Lot,6.2,10846,1837
+tt0259153,Rose Red,6.7,25089,1822
+tt10482370,The Third Day,6.4,10654,1823
+tt0079844,Salem's Lot,6.7,25897,1824
+tt8404520,Ares,5.7,4666,1825
+tt9201996,Don't Watch This,3.3,1588,1826
+tt1332653,The Day of the Triffids,5.6,4594,1827
+tt13231962,Elves,5.6,4741,1828
+tt2758950,Helix,6.7,30117,1829
+tt8295472,The Order,6.7,31223,1830
+tt15428778,Mayfair Witches,6.2,9235,1831
+tt0297120,Firestarter 2: Rekindled,4.8,3114,1832
+tt3319460,Lisey's Story,5.8,6182,1833
+tt6110648,The Purge,6.5,17986,1834
+tt0355987,Salem's Lot,6.2,10846,1835
+tt9077192,Haunted,4.7,3435,1836
+tt5435072,Scare PewDiePie,3.8,2508,1837
 tt3087752,Rosemary's Baby,5.5,5660,1838
-tt22227040,28 Days Haunted,3.5,2535,1839
-tt8923854,Black Summer,6.6,32352,1840
-tt10042186,Booo: Sabki Phategi,4.1,3839,1841
-tt1212452,Bag of Bones,5.7,9193,1842
+tt0099864,It,6.8,134299,1839
+tt3743822,Fear the Walking Dead,6.8,135704,1840
+tt8923854,Black Summer,6.6,32352,1841
+tt22227040,28 Days Haunted,3.5,2535,1842
 tt13315156,First Kill,6.5,28209,1843
 tt13444912,The Midnight Club,6.5,28326,1844
-tt10937180,I Know What You Did Last Summer,5.4,8427,1845
-tt0099864,It,6.8,134299,1846
-tt3743822,Fear the Walking Dead,6.8,135704,1847
-tt7403736,V-Wars,6.0,14575,1848
-tt6903284,Nightflyers,5.9,13797,1849
-tt13173144,Resident Evil: Infinite Darkness,5.7,11605,1850
-tt0118460,The Shining,6.1,17597,1851
+tt1212452,Bag of Bones,5.7,9193,1845
+tt10042186,Booo: Sabki Phategi,4.1,3839,1846
+tt7403736,V-Wars,6.0,14575,1847
+tt10937180,I Know What You Did Last Summer,5.4,8427,1848
+tt0118460,The Shining,6.1,17597,1849
+tt6903284,Nightflyers,5.9,13797,1850
+tt13173144,Resident Evil: Infinite Darkness,5.7,11605,1851
 tt10651790,Betaal,5.4,9403,1852
 tt2583620,The Twilight Zone,6.0,17093,1853
 tt12306692,American Horror Stories,6.2,23201,1854
 tt15432016,Devil in Ohio,5.9,17455,1855
-tt0106156,The Tommyknockers,5.4,11878,1856
-tt14852808,The Watcher,6.5,71299,1857
+tt14852808,The Watcher,6.5,71299,1856
+tt0106156,The Tommyknockers,5.4,11878,1857
 tt0112040,The Langoliers,6.1,30901,1858
-tt8923396,Jinn,3.5,10350,1859
-tt5639976,The Mist,5.4,26348,1860
+tt5639976,The Mist,5.4,26348,1859
+tt8923396,Jinn,3.5,10350,1860
 tt10148174,The Walking Dead: World Beyond,4.5,16024,1861
 tt9660182,Resident Evil,4.2,43580,1862

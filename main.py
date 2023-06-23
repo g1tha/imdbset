@@ -256,10 +256,10 @@ def add_ranking(df):
     # R = average rating for the title
     # v = number of votes for the title
     # min_votes = minimum votes required to be listed in ranking. worked out as:
-    #           mean number of votes + 2 * std deviations
+    #           mean number of votes + 1 * std deviation(s)
     # mean = the mean vote across the whole report
     mean = df.select(pl.mean('averageRating'))
-    min_votes = df.select(pl.mean('numVotes')) + 2 * df.select(pl.std('numVotes'))
+    min_votes = df.select(pl.mean('numVotes')) + 1 * df.select(pl.std('numVotes'))
     df = df.with_columns(((pl.col('averageRating') * pl.col('numVotes') + mean * min_votes)/(pl.col('numVotes') + min_votes)).alias('ranking'))
     df = df.with_columns(pl.col('ranking').rank(method='min', descending=True))
     df = df.sort(pl.col('ranking'))

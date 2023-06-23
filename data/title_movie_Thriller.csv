@@ -1,501 +1,501 @@
 tconst,primaryTitle,averageRating,numVotes,ranking
 tt0102926,The Silence of the Lambs,8.6,1471469,1
 tt0407887,The Departed,8.5,1359939,2
-tt1345836,The Dark Knight Rises,8.4,1746332,3
-tt6751668,Parasite,8.5,859935,4
-tt7286456,Joker,8.4,1361323,5
-tt0209144,Memento,8.4,1266513,6
-tt0054215,Psycho,8.5,689387,7
+tt6751668,Parasite,8.5,859935,3
+tt0054215,Psycho,8.5,689387,4
+tt1345836,The Dark Knight Rises,8.4,1746332,5
+tt7286456,Joker,8.4,1361323,6
+tt0209144,Memento,8.4,1266513,7
 tt0047396,Rear Window,8.5,502974,8
 tt0105236,Reservoir Dogs,8.3,1045404,9
-tt1130884,Shutter Island,8.2,1365801,10
-tt0167404,The Sixth Sense,8.2,1013005,11
-tt0477348,No Country for Old Men,8.2,1004357,12
-tt0095016,Die Hard,8.2,903077,13
-tt0405094,The Lives of Others,8.4,397329,14
-tt2267998,Gone Girl,8.1,1011243,15
-tt0052357,Vertigo,8.3,411674,16
+tt0405094,The Lives of Others,8.4,397329,10
+tt1130884,Shutter Island,8.2,1365801,11
+tt0167404,The Sixth Sense,8.2,1013005,12
+tt0477348,No Country for Old Men,8.2,1004357,13
+tt0095016,Die Hard,8.2,903077,14
+tt0052357,Vertigo,8.3,411674,15
+tt2267998,Gone Girl,8.1,1011243,16
 tt0116282,Fargo,8.1,694112,17
 tt0073195,Jaws,8.1,626151,18
-tt2084970,The Imitation Game,8.0,790699,19
-tt0947798,Black Swan,8.0,790550,20
-tt0401792,Sin City,8.0,780002,21
-tt0378194,Kill Bill: Vol. 2,8.0,775511,22
-tt0381061,Casino Royale,8.0,672167,23
-tt0440963,The Bourne Ultimatum,8.0,644934,24
-tt0114746,12 Monkeys,8.0,630367,25
-tt3170832,Room,8.1,432749,26
-tt0071315,Chinatown,8.2,335450,27
+tt0071315,Chinatown,8.2,335450,19
+tt3170832,Room,8.1,432749,20
+tt2084970,The Imitation Game,8.0,790699,21
+tt0947798,Black Swan,8.0,790550,22
+tt0401792,Sin City,8.0,780002,23
+tt0378194,Kill Bill: Vol. 2,8.0,775511,24
+tt0381061,Casino Royale,8.0,672167,25
+tt0440963,The Bourne Ultimatum,8.0,644934,26
+tt0114746,12 Monkeys,8.0,630367,27
 tt0450259,Blood Diamond,8.0,565086,28
 tt1136608,District 9,7.9,696167,29
-tt0258463,The Bourne Identity,7.9,559782,30
-tt1074638,Skyfall,7.8,710878,31
-tt5052448,Get Out,7.8,643068,32
-tt0936501,Taken,7.8,615756,33
-tt2872718,Nightcrawler,7.8,571537,34
-tt1454468,Gravity,7.7,841781,35
-tt0245712,Amores Perros,8.1,245773,36
-tt0166924,Mulholland Drive,7.9,367820,37
-tt1024648,Argo,7.7,625761,38
-tt0240772,Ocean's Eleven,7.7,593019,39
-tt1125849,The Wrestler,7.9,313293,40
-tt0022100,M,8.3,162019,41
-tt0470752,Ex Machina,7.7,563269,42
-tt0046912,Dial M for Murder,8.2,181046,43
-tt3011894,Wild Tales,8.1,205916,44
-tt0372183,The Bourne Supremacy,7.7,474308,45
-tt0375679,Crash,7.7,442772,46
-tt0094226,The Untouchables,7.8,319341,47
-tt0119177,Gattaca,7.8,312918,48
-tt0119174,The Game,7.7,410329,49
-tt0361862,The Machinist,7.7,401841,50
-tt0041959,The Third Man,8.1,175661,51
-tt0289879,The Butterfly Effect,7.6,502864,52
-tt0106519,Carlito's Way,7.9,224875,53
-tt4912910,Mission: Impossible - Fallout,7.7,346223,54
-tt10366206,John Wick: Chapter 4,7.9,214589,55
-tt0047296,On the Waterfront,8.1,158823,56
-tt4016934,The Handmaiden,8.1,157827,57
-tt0387564,Saw,7.6,436317,58
-tt0425210,Lucky Number Slevin,7.7,319400,59
-tt0112864,Die Hard with a Vengeance,7.6,396524,60
-tt0077651,Halloween,7.7,289353,61
-tt0230600,The Others,7.6,377439,62
-tt1457767,The Conjuring,7.5,526434,63
-tt0257044,Road to Perdition,7.7,276386,64
-tt0102138,JFK,8.0,162342,65
-tt0104257,A Few Good Men,7.7,274047,66
-tt0100157,Misery,7.8,221682,67
-tt0055630,Yojimbo,8.2,126150,68
+tt0022100,M,8.3,162019,30
+tt0245712,Amores Perros,8.1,245773,31
+tt0258463,The Bourne Identity,7.9,559782,32
+tt0046912,Dial M for Murder,8.2,181046,33
+tt3011894,Wild Tales,8.1,205916,34
+tt1074638,Skyfall,7.8,710878,35
+tt0166924,Mulholland Drive,7.9,367820,36
+tt5052448,Get Out,7.8,643068,37
+tt0936501,Taken,7.8,615756,38
+tt2872718,Nightcrawler,7.8,571537,39
+tt0041959,The Third Man,8.1,175661,40
+tt1125849,The Wrestler,7.9,313293,41
+tt0047296,On the Waterfront,8.1,158823,42
+tt1454468,Gravity,7.7,841781,43
+tt4016934,The Handmaiden,8.1,157827,44
+tt0055630,Yojimbo,8.2,126150,45
+tt1024648,Argo,7.7,625761,46
+tt0240772,Ocean's Eleven,7.7,593019,47
+tt0470752,Ex Machina,7.7,563269,48
+tt0106519,Carlito's Way,7.9,224875,49
+tt0094226,The Untouchables,7.8,319341,50
+tt0119177,Gattaca,7.8,312918,51
+tt10366206,John Wick: Chapter 4,7.9,214589,52
+tt0372183,The Bourne Supremacy,7.7,474308,53
+tt0102138,JFK,8.0,162342,54
+tt0091251,Come and See,8.4,86559,55
+tt0375679,Crash,7.7,442772,56
+tt0119174,The Game,7.7,410329,57
+tt0361862,The Machinist,7.7,401841,58
+tt0060827,Persona,8.1,124013,59
+tt4912910,Mission: Impossible - Fallout,7.7,346223,60
+tt0100157,Misery,7.8,221682,61
+tt0425210,Lucky Number Slevin,7.7,319400,62
+tt8108198,Andhadhun,8.2,97466,63
+tt0289879,The Butterfly Effect,7.6,502864,64
+tt0077651,Halloween,7.7,289353,65
+tt0257044,Road to Perdition,7.7,276386,66
+tt0104257,A Few Good Men,7.7,274047,67
+tt0387564,Saw,7.6,436317,68
 tt0083944,First Blood,7.7,262955,69
-tt0887912,The Hurt Locker,7.5,461919,70
-tt3682448,Bridge of Spies,7.6,318947,71
-tt2911666,John Wick,7.4,699530,72
-tt0144117,The Boondock Saints,7.7,243731,73
-tt0840361,The Town,7.5,402322,74
-tt1219289,Limitless,7.4,590508,75
-tt0118971,The Devil's Advocate,7.5,385607,76
-tt0290334,X2: X-Men United,7.4,561852,77
-tt0060827,Persona,8.1,124013,78
-tt0119396,Jackie Brown,7.5,359512,79
-tt0120663,Eyes Wide Shut,7.5,355447,80
+tt0112864,Die Hard with a Vengeance,7.6,396524,70
+tt0230600,The Others,7.6,377439,71
+tt0144117,The Boondock Saints,7.7,243731,72
+tt0140352,The Insider,7.8,175221,73
+tt3682448,Bridge of Spies,7.6,318947,74
+tt1457767,The Conjuring,7.5,526434,75
+tt2265171,The Raid 2,7.9,127426,76
+tt0044706,High Noon,8.0,107148,77
+tt0130827,Run Lola Run,7.7,202580,78
+tt0058150,Goldfinger,7.7,196067,79
+tt0887912,The Hurt Locker,7.5,461919,80
 tt0093409,Lethal Weapon,7.6,266890,81
-tt1229238,Mission: Impossible - Ghost Protocol,7.4,502709,82
-tt0140352,The Insider,7.8,175221,83
-tt4425200,John Wick: Chapter 2,7.4,480674,84
-tt0765443,Eastern Promises,7.6,251285,85
-tt0130827,Run Lola Run,7.7,202580,86
+tt0074119,All the President's Men,7.9,120542,82
+tt1070874,The Trial of the Chicago 7,7.7,184635,83
+tt0765443,Eastern Promises,7.6,251285,84
+tt0840361,The Town,7.5,402322,85
+tt0118971,The Devil's Advocate,7.5,385607,86
 tt0315733,21 Grams,7.6,241372,87
-tt0091251,Come and See,8.4,86559,88
-tt2582782,Hell or High Water,7.6,239750,89
-tt0058150,Goldfinger,7.7,196067,90
-tt5700672,Train to Busan,7.6,235776,91
-tt4550098,Nocturnal Animals,7.5,290262,92
-tt6146586,John Wick: Chapter 3 - Parabellum,7.4,394542,93
-tt1070874,The Trial of the Chicago 7,7.7,184635,94
-tt2381249,Mission: Impossible - Rogue Nation,7.4,385170,95
-tt0416320,Match Point,7.6,222722,96
-tt8108198,Andhadhun,8.2,97466,97
-tt0181865,Traffic,7.6,213552,98
-tt6723592,Tenet,7.3,533253,99
-tt1899353,The Raid: Redemption,7.6,210646,100
-tt0117500,The Rock,7.4,347628,101
-tt4972582,Split,7.3,519647,102
-tt2265171,The Raid 2,7.9,127426,103
-tt0066999,Dirty Harry,7.7,162153,104
-tt1790885,Zero Dark Thirty,7.4,309804,105
-tt0117665,Sleepers,7.5,230588,106
-tt0074119,All the President's Men,7.9,120542,107
-tt5727208,Uncut Gems,7.4,298109,108
-tt2382320,No Time to Die,7.3,420903,109
-tt0044706,High Noon,8.0,107148,110
-tt1670345,Now You See Me,7.2,680056,111
-tt0063350,Night of the Living Dead,7.8,133495,112
-tt1596343,Fast Five,7.3,394127,113
-tt0111257,Speed,7.3,377566,114
-tt12593682,Bullet Train,7.3,364719,115
-tt7668870,Searching,7.6,172781,116
-tt1907668,Flight,7.3,364439,117
-tt0099810,The Hunt for Red October,7.5,207043,118
-tt0077402,Dawn of the Dead,7.8,124410,119
-tt0100150,Miller's Crossing,7.7,138454,120
-tt6499752,Upgrade,7.5,193598,121
-tt0462322,Grindhouse,7.5,187657,122
-tt2140479,The Accountant,7.3,306319,123
-tt0071360,The Conversation,7.8,116116,124
-tt0134119,The Talented Mr. Ripley,7.4,218997,125
-tt3065204,The Conjuring 2,7.3,282711,126
-tt0116922,Lost Highway,7.6,147597,127
-tt1817273,The Place Beyond the Pines,7.3,277934,128
-tt0455944,The Equalizer,7.2,385618,129
-tt0111503,True Lies,7.3,270143,130
-tt0117913,A Time to Kill,7.5,170346,131
-tt0309698,Identity,7.3,257203,132
-tt0120660,Enemy of the State,7.3,251263,133
-tt1242460,We Need to Talk About Kevin,7.5,161084,134
-tt9764362,The Menu,7.2,324291,135
-tt1038988,REC,7.4,187831,136
-tt0068473,Deliverance,7.7,114617,137
-tt9179430,Vikram,8.3,64198,138
-tt0091605,The Name of the Rose,7.7,112093,139
-tt0278504,Insomnia,7.2,303701,140
-tt0101410,Barton Fink,7.6,125535,141
-tt0117060,Mission: Impossible,7.1,440254,142
-tt0289765,Red Dragon,7.2,282042,143
-tt0337978,Live Free or Die Hard,7.1,412882,144
-tt2820852,Furious 7,7.1,402433,145
-tt0116231,The Bandit,8.1,70924,146
-tt0101540,Cape Fear,7.3,204841,147
-tt0113189,GoldenEye,7.2,263217,148
-tt1032755,RocknRolla,7.2,259026,149
-tt0099423,Die Hard 2,7.1,371109,150
-tt0448134,Sunshine,7.2,257590,151
-tt0046268,The Wages of Fear,8.2,63330,152
-tt8075192,Shoplifters,7.9,80980,153
-tt0898367,The Road,7.2,246141,154
-tt0822854,Shooter,7.1,343716,155
-tt1063669,The Wave,7.6,112055,156
-tt0061811,In the Heat of the Night,7.9,79761,157
-tt0435625,The Descent,7.2,233804,158
-tt0884328,The Mist,7.1,323595,159
-tt0056218,The Manchurian Candidate,7.9,77350,160
-tt0250258,The Experiment,7.7,95030,161
-tt0289992,The Life of David Gale,7.5,123221,162
-tt1821480,Kahaani,8.1,64107,163
-tt0084516,Poltergeist,7.3,171008,164
-tt4160708,Don't Breathe,7.1,286655,165
-tt0488120,Fracture,7.2,211639,166
-tt1259521,The Cabin in the Woods,7.0,431942,167
-tt0183649,Phone Booth,7.1,276709,168
-tt0010323,The Cabinet of Dr. Caligari,8.0,66774,169
-tt0086979,Blood Simple,7.6,100321,170
-tt0036613,Arsenic and Old Lace,7.9,72840,171
-tt0317740,The Italian Job,7.0,377975,172
-tt0102685,Point Break,7.2,192105,173
-tt0780571,Mr. Brooks,7.3,153477,174
-tt0985699,Valkyrie,7.1,251235,175
-tt0122690,Ronin,7.2,188713,176
-tt0200465,The Bank Job,7.2,185438,177
-tt0790724,Jack Reacher,7.0,350709,178
-tt1149362,The White Ribbon,7.8,75566,179
-tt0097733,Lethal Weapon 2,7.2,182364,180
-tt0080120,The Warriors,7.5,106321,181
-tt1614989,Headhunters,7.5,104459,182
-tt1124035,The Ides of March,7.1,226436,183
-tt0055928,Dr. No,7.2,173111,184
-tt0057076,From Russia with Love,7.3,139772,185
-tt1028528,Death Proof,7.0,301637,186
-tt0389557,Black Book,7.7,78577,187
-tt0056687,What Ever Happened to Baby Jane?,8.0,58937,188
-tt4846232,Good Time,7.3,131193,189
-tt0320691,Underworld,7.0,277501,190
-tt0154506,Following,7.5,95819,191
-tt2377938,Special 26,8.0,57579,192
-tt0036342,Shadow of a Doubt,7.8,67877,193
-tt1385826,The Adjustment Bureau,7.0,262881,194
-tt0112851,Desperado,7.1,191501,195
-tt11083552,Wrath of Man,7.1,191465,196
-tt8228288,The Platform,7.0,247104,197
-tt0317919,Mission: Impossible III,6.9,367656,198
-tt0015648,Battleship Potemkin,7.9,59613,199
-tt1148204,Orphan,7.0,240242,200
-tt0462499,Rambo,7.0,238078,201
-tt0496806,Ocean's Thirteen,6.9,356682,202
-tt0112740,Crimson Tide,7.3,117931,203
-tt3848892,Baby,7.9,58875,204
-tt0758774,Body of Lies,7.0,233270,205
-tt0090329,Witness,7.4,99800,206
-tt0062229,Le Samouraï,8.0,53760,207
-tt0070917,The Wicker Man,7.5,85435,208
-tt3417422,Drishyam,8.3,42686,209
-tt0107808,A Perfect World,7.5,83873,210
-tt0118880,Con Air,6.9,308683,211
-tt0067023,Duel,7.6,74422,212
-tt0103772,Basic Instinct,7.0,209000,213
-tt0451094,Lady Vengeance,7.5,82744,214
-tt1340800,Tinker Tailor Soldier Spy,7.0,206907,215
-tt0292963,Before the Devil Knows You're Dead,7.3,107399,216
-tt0247586,Nine Queens,7.9,54919,217
-tt12361178,Drishyam 2,8.4,39111,218
-tt5571734,Pink,8.1,46530,219
-tt2024469,Non-Stop,6.9,269944,220
-tt2379713,Spectre,6.8,451710,221
-tt0119167,Funny Games,7.5,78984,222
-tt0069281,Sleuth,8.0,48896,223
-tt5186714,The Salesman,7.7,62567,224
-tt0479884,Crank,6.9,256113,225
-tt1433811,Disconnect,7.5,77031,226
-tt7395114,The Devil All the Time,7.1,143110,227
-tt0232500,The Fast and the Furious,6.8,402385,228
-tt5354160,Mirror Game,9.0,27581,229
-tt0251160,John Q,7.1,138997,230
-tt1615147,Margin Call,7.1,138191,231
-tt0070379,Mean Streets,7.2,113684,232
-tt0765010,Brothers,7.1,136501,233
-tt0120324,A Simple Plan,7.5,73292,234
-tt1117385,Felon,7.4,81720,235
-tt0310775,Sympathy for Mr. Vengeance,7.5,72087,236
-tt1462758,Buried,7.0,164825,237
-tt4178092,The Gift,7.0,164504,238
-tt2375559,1: Nenokkadine,8.0,45922,239
-tt0424136,Hard Candy,7.0,164201,240
-tt1540133,The Guard,7.3,92484,241
-tt0266987,Spy Game,7.0,161279,242
-tt4633690,Shot Caller,7.3,91220,243
-tt0399201,The Island,6.8,321391,244
-tt1591095,Insidious,6.8,319883,245
-tt7282468,Burning,7.5,70219,246
-tt6857112,Us,6.8,316627,247
-tt0293662,The Transporter,6.8,311667,248
-tt1600196,The Drop,7.0,156108,249
-tt1598778,Contagion,6.8,309184,250
-tt0160184,Eye See You,5.3,28641,34177
-tt1038685,The King of Fighters,3.1,4466,34178
-tt1480295,Killing Season,5.4,38163,34179
-tt4976192,211,4.4,8951,34180
-tt7461372,The Dawn,3.3,4867,34181
-tt0327247,The Whole Ten Yards,5.5,57430,34182
-tt1767382,Silent House,5.2,23534,34183
-tt0109415,Children of the Corn III: Urban Harvest,4.2,7922,34184
-tt1290135,Children of the Corn,3.8,6260,34185
-tt15198608,Prey,4.3,8521,34186
-tt0454970,Turistas,5.4,39699,34187
-tt7976208,The Haunting of Sharon Tate,2.9,4283,34188
-tt0283632,They,4.8,13313,34189
-tt0318497,Nine Lives,2.4,3660,34190
-tt4154916,Replicas,5.4,40428,34191
-tt5734576,The Possession of Hannah Grace,5.2,24347,34192
-tt0433442,The Return,4.7,12222,34193
-tt1117581,Arena,4.7,12264,34194
-tt12861508,Survive the Game,3.1,4715,34195
-tt0283026,Swimfan,5.1,20745,34196
-tt2235779,The Quiet Ones,5.1,20788,34197
-tt14577300,Fortress,3.2,4971,34198
-tt10039344,Countdown,5.4,41900,34199
-tt4083572,Urge,4.3,8943,34200
-tt1031254,Lost Boys: The Tribe,4.5,10447,34201
-tt1423995,Stone,5.4,42250,34202
-tt1911662,Vehicle 19,4.9,15702,34203
-tt0099994,Leatherface: Texas Chainsaw Massacre III,5.0,18015,34204
-tt0106557,Children of the Corn II: The Final Sacrifice,4.3,8981,34205
-tt8160864,Chase,4.1,7922,34206
-tt6476140,Serenity,5.4,43197,34207
-tt2321341,House of Bodies,3.9,7089,34208
-tt1754730,The Way to Paradise,5.3,32346,34209
-tt1507563,Dark Tide,4.3,9204,34210
-tt12528166,Out of Death,3.3,5388,34211
-tt3835080,31,5.1,21834,34212
-tt0120757,The Mod Squad,4.3,9311,34213
-tt0165662,Candyman: Day of the Dead,3.9,7261,34214
-tt5689068,Killing Gunther,4.8,14616,34215
-tt11127256,Choke,2.8,4542,34216
-tt8435002,Great White,4.1,8288,34217
-tt1935897,Amityville: The Awakening,4.8,14843,34218
-tt1274586,Dying of the Light,4.5,11100,34219
-tt1913166,Nurse,4.5,11126,34220
-tt3352390,Friend Request,5.2,27169,34221
-tt5932368,Vanquish,3.0,4926,34222
-tt7286966,Money Plane,3.2,5335,34223
-tt3280262,Cult of Chucky,5.2,27472,34224
-tt6802308,The 15:17 to Paris,5.3,34751,34225
-tt0865554,The Informers,4.9,17075,34226
-tt4575328,2036 Origin Unknown,4.3,9816,34227
-tt0493424,Attack Force,2.7,4588,34228
-tt0787505,Rest Stop,4.5,11630,34229
-tt2386237,Malevolent,4.8,15632,34230
-tt0233469,Collateral Damage,5.5,76609,34231
-tt6143568,The Humanity Bureau,4.5,11701,34232
-tt0089274,The Hills Have Eyes Part II,3.7,6986,34233
-tt1147687,The Devil's Tomb,3.7,6995,34234
+tt2582782,Hell or High Water,7.6,239750,88
+tt5700672,Train to Busan,7.6,235776,89
+tt0119396,Jackie Brown,7.5,359512,90
+tt0120663,Eyes Wide Shut,7.5,355447,91
+tt0063350,Night of the Living Dead,7.8,133495,92
+tt0416320,Match Point,7.6,222722,93
+tt2911666,John Wick,7.4,699530,94
+tt0066999,Dirty Harry,7.7,162153,95
+tt9179430,Vikram,8.3,64198,96
+tt0181865,Traffic,7.6,213552,97
+tt1899353,The Raid: Redemption,7.6,210646,98
+tt1219289,Limitless,7.4,590508,99
+tt0077402,Dawn of the Dead,7.8,124410,100
+tt0290334,X2: X-Men United,7.4,561852,101
+tt4550098,Nocturnal Animals,7.5,290262,102
+tt1229238,Mission: Impossible - Ghost Protocol,7.4,502709,103
+tt4425200,John Wick: Chapter 2,7.4,480674,104
+tt0071360,The Conversation,7.8,116116,105
+tt0100150,Miller's Crossing,7.7,138454,106
+tt6146586,John Wick: Chapter 3 - Parabellum,7.4,394542,107
+tt7668870,Searching,7.6,172781,108
+tt2381249,Mission: Impossible - Rogue Nation,7.4,385170,109
+tt0116231,The Bandit,8.1,70924,110
+tt0117665,Sleepers,7.5,230588,111
+tt0046268,The Wages of Fear,8.2,63330,112
+tt0117500,The Rock,7.4,347628,113
+tt0099810,The Hunt for Red October,7.5,207043,114
+tt1790885,Zero Dark Thirty,7.4,309804,115
+tt5727208,Uncut Gems,7.4,298109,116
+tt0116922,Lost Highway,7.6,147597,117
+tt6499752,Upgrade,7.5,193598,118
+tt6723592,Tenet,7.3,533253,119
+tt4972582,Split,7.3,519647,120
+tt0462322,Grindhouse,7.5,187657,121
+tt0068473,Deliverance,7.7,114617,122
+tt1821480,Kahaani,8.1,64107,123
+tt0091605,The Name of the Rose,7.7,112093,124
+tt8075192,Shoplifters,7.9,80980,125
+tt0061811,In the Heat of the Night,7.9,79761,126
+tt2382320,No Time to Die,7.3,420903,127
+tt0117913,A Time to Kill,7.5,170346,128
+tt1596343,Fast Five,7.3,394127,129
+tt0056218,The Manchurian Candidate,7.9,77350,130
+tt0111257,Speed,7.3,377566,131
+tt1242460,We Need to Talk About Kevin,7.5,161084,132
+tt0101410,Barton Fink,7.6,125535,133
+tt12593682,Bullet Train,7.3,364719,134
+tt1907668,Flight,7.3,364439,135
+tt0010323,The Cabinet of Dr. Caligari,8.0,66774,136
+tt0134119,The Talented Mr. Ripley,7.4,218997,137
+tt0036613,Arsenic and Old Lace,7.9,72840,138
+tt1670345,Now You See Me,7.2,680056,139
+tt2140479,The Accountant,7.3,306319,140
+tt0250258,The Experiment,7.7,95030,141
+tt1038988,REC,7.4,187831,142
+tt1063669,The Wave,7.6,112055,143
+tt3065204,The Conjuring 2,7.3,282711,144
+tt1817273,The Place Beyond the Pines,7.3,277934,145
+tt0111503,True Lies,7.3,270143,146
+tt0309698,Identity,7.3,257203,147
+tt0120660,Enemy of the State,7.3,251263,148
+tt1149362,The White Ribbon,7.8,75566,149
+tt0056687,What Ever Happened to Baby Jane?,8.0,58937,150
+tt2377938,Special 26,8.0,57579,151
+tt0086979,Blood Simple,7.6,100321,152
+tt0289992,The Life of David Gale,7.5,123221,153
+tt0455944,The Equalizer,7.2,385618,154
+tt5354160,Mirror Game,9.0,27581,155
+tt3417422,Drishyam,8.3,42686,156
+tt12361178,Drishyam 2,8.4,39111,157
+tt0101540,Cape Fear,7.3,204841,158
+tt9764362,The Menu,7.2,324291,159
+tt0389557,Black Book,7.7,78577,160
+tt0036342,Shadow of a Doubt,7.8,67877,161
+tt0062229,Le Samouraï,8.0,53760,162
+tt0278504,Insomnia,7.2,303701,163
+tt0015648,Battleship Potemkin,7.9,59613,164
+tt3848892,Baby,7.9,58875,165
+tt0289765,Red Dragon,7.2,282042,166
+tt0080120,The Warriors,7.5,106321,167
+tt1614989,Headhunters,7.5,104459,168
+tt0113189,GoldenEye,7.2,263217,169
+tt1032755,RocknRolla,7.2,259026,170
+tt5571734,Pink,8.1,46530,171
+tt0448134,Sunshine,7.2,257590,172
+tt0084516,Poltergeist,7.3,171008,173
+tt0898367,The Road,7.2,246141,174
+tt0117060,Mission: Impossible,7.1,440254,175
+tt0435625,The Descent,7.2,233804,176
+tt0247586,Nine Queens,7.9,54919,177
+tt0337978,Live Free or Die Hard,7.1,412882,178
+tt0154506,Following,7.5,95819,179
+tt0069281,Sleuth,8.0,48896,180
+tt2820852,Furious 7,7.1,402433,181
+tt0780571,Mr. Brooks,7.3,153477,182
+tt0099423,Die Hard 2,7.1,371109,183
+tt0488120,Fracture,7.2,211639,184
+tt0822854,Shooter,7.1,343716,185
+tt0057076,From Russia with Love,7.3,139772,186
+tt0884328,The Mist,7.1,323595,187
+tt0102685,Point Break,7.2,192105,188
+tt0067023,Duel,7.6,74422,189
+tt2375559,1: Nenokkadine,8.0,45922,190
+tt0122690,Ronin,7.2,188713,191
+tt0200465,The Bank Job,7.2,185438,192
+tt0070917,The Wicker Man,7.5,85435,193
+tt0097733,Lethal Weapon 2,7.2,182364,194
+tt4846232,Good Time,7.3,131193,195
+tt4160708,Don't Breathe,7.1,286655,196
+tt5186714,The Salesman,7.7,62567,197
+tt0107808,A Perfect World,7.5,83873,198
+tt0183649,Phone Booth,7.1,276709,199
+tt0055928,Dr. No,7.2,173111,200
+tt0451094,Lady Vengeance,7.5,82744,201
+tt0090329,Witness,7.4,99800,202
+tt0985699,Valkyrie,7.1,251235,203
+tt0119167,Funny Games,7.5,78984,204
+tt0112740,Crimson Tide,7.3,117931,205
+tt1433811,Disconnect,7.5,77031,206
+tt1124035,The Ides of March,7.1,226436,207
+tt1259521,The Cabin in the Woods,7.0,431942,208
+tt0317740,The Italian Job,7.0,377975,209
+tt0120324,A Simple Plan,7.5,73292,210
+tt0292963,Before the Devil Knows You're Dead,7.3,107399,211
+tt22297828,Chor Nikal Ke Bhaga,7.8,49178,212
+tt0030341,The Lady Vanishes,7.7,54881,213
+tt0310775,Sympathy for Mr. Vengeance,7.5,72087,214
+tt0790724,Jack Reacher,7.0,350709,215
+tt0112851,Desperado,7.1,191501,216
+tt11083552,Wrath of Man,7.1,191465,217
+tt1827487,Once Upon a Time in Anatolia,7.8,48030,218
+tt0056443,Sanjuro,8.0,39535,219
+tt7282468,Burning,7.5,70219,220
+tt2187153,Thuppakki,8.1,35966,221
+tt1117385,Felon,7.4,81720,222
+tt1028528,Death Proof,7.0,301637,223
+tt0048021,Rififi,8.1,35649,224
+tt0026029,The 39 Steps,7.6,59294,225
+tt0104684,Hard Boiled,7.7,52229,226
+tt8108268,The Tashkent Files,8.1,35202,227
+tt0320691,Underworld,7.0,277501,228
+tt1385826,The Adjustment Bureau,7.0,262881,229
+tt0060176,Blow-Up,7.5,65051,230
+tt0048728,To Catch a Thief,7.4,76370,231
+tt1540133,The Guard,7.3,92484,232
+tt2199711,Vishwaroopam,7.9,40577,233
+tt4633690,Shot Caller,7.3,91220,234
+tt8228288,The Platform,7.0,247104,235
+tt0419677,Dead Man's Shoes,7.6,55808,236
+tt0070379,Mean Streets,7.2,113684,237
+tt1148204,Orphan,7.0,240242,238
+tt0462499,Rambo,7.0,238078,239
+tt0059646,Repulsion,7.6,55061,240
+tt2057392,Eye in the Sky,7.3,88790,241
+tt0758774,Body of Lies,7.0,233270,242
+tt0062765,Bullitt,7.4,72395,243
+tt0107554,Menace II Society,7.5,61857,244
+tt6742252,The Guilty,7.5,61733,245
+tt0069947,The Day of the Jackal,7.8,42657,246
+tt7395114,The Devil All the Time,7.1,143110,247
+tt0065234,Z,8.2,30058,248
+tt0103772,Basic Instinct,7.0,209000,249
+tt0251160,John Q,7.1,138997,250
+tt5734576,The Possession of Hannah Grace,5.2,24347,34177
+tt3203620,The Dinner,4.5,9082,34178
+tt11656220,Midnight in the Switchgrass,4.5,9091,34179
+tt4058836,I Spit on Your Grave: Deja Vu,2.4,3167,34180
+tt1754730,The Way to Paradise,5.3,32346,34181
+tt0254871,Wishmaster 3: Beyond the Gates of Hell,3.5,4863,34182
+tt10665338,Halloween Kills,5.5,91067,34183
+tt0358294,Into the Sun,4.3,7862,34184
+tt6547170,Reprisal,4.3,7907,34185
+tt2325518,Beneath,3.5,4933,34186
+tt1352388,Nude Nuns with Big Guns,3.9,6142,34187
+tt1663655,Martyrs,4.0,6524,34188
+tt13332610,Kill Plan,3.1,4187,34189
+tt0098156,R.O.T.O.R.,2.7,3617,34190
+tt0283026,Swimfan,5.1,20745,34191
+tt2235779,The Quiet Ones,5.1,20788,34192
+tt2180339,Deep Water,5.4,51142,34193
+tt6802308,The 15:17 to Paris,5.3,34751,34194
+tt0283632,They,4.8,13313,34195
+tt4976192,211,4.4,8951,34196
+tt0099994,Leatherface: Texas Chainsaw Massacre III,5.0,18015,34197
+tt3352390,Friend Request,5.2,27169,34198
+tt3835080,31,5.1,21834,34199
+tt3280262,Cult of Chucky,5.2,27472,34200
+tt1911662,Vehicle 19,4.9,15702,34201
+tt0758746,Friday the 13th,5.5,111983,34202
+tt0433442,The Return,4.7,12222,34203
+tt1117581,Arena,4.7,12264,34204
+tt15198608,Prey,4.3,8521,34205
+tt0109415,Children of the Corn III: Urban Harvest,4.2,7922,34206
+tt0138304,The Astronaut's Wife,5.4,56605,34207
+tt1038685,The King of Fighters,3.1,4466,34208
+tt7461372,The Dawn,3.3,4867,34209
+tt1290135,Children of the Corn,3.8,6260,34210
+tt1179891,My Bloody Valentine,5.4,58581,34211
+tt8784956,Ava,5.4,59409,34212
+tt1031254,Lost Boys: The Tribe,4.5,10447,34213
+tt5689068,Killing Gunther,4.8,14616,34214
+tt4083572,Urge,4.3,8943,34215
+tt7976208,The Haunting of Sharon Tate,2.9,4283,34216
+tt2717822,Blackhat,5.4,62119,34217
+tt0106557,Children of the Corn II: The Final Sacrifice,4.3,8981,34218
+tt1935897,Amityville: The Awakening,4.8,14843,34219
+tt0318497,Nine Lives,2.4,3660,34220
+tt0865554,The Informers,4.9,17075,34221
+tt12861508,Survive the Game,3.1,4715,34222
+tt8160864,Chase,4.1,7922,34223
+tt1507563,Dark Tide,4.3,9204,34224
+tt1731697,The Lords of Salem,5.2,31240,34225
+tt14577300,Fortress,3.2,4971,34226
+tt2321341,House of Bodies,3.9,7089,34227
+tt0120757,The Mod Squad,4.3,9311,34228
+tt1274586,Dying of the Light,4.5,11100,34229
+tt1913166,Nurse,4.5,11126,34230
+tt2386237,Malevolent,4.8,15632,34231
+tt1674784,Trespass,5.3,44390,34232
+tt0165662,Candyman: Day of the Dead,3.9,7261,34233
+tt6836936,Saaho,5.0,21290,34234
 tt0120724,Knock Off,4.8,15814,34235
-tt0201844,Survival Island,2.5,4385,34236
-tt0845424,The Abortion,2.4,4260,34237
-tt1582507,House at the End of the Street,5.5,78990,34238
-tt11423214,Girl Next,3.8,7481,34239
-tt3774790,400 Days,4.4,11035,34240
-tt2180339,Deep Water,5.4,51142,34241
-tt3289080,Asylum of Fear,3.5,6506,34242
-tt0451957,Urban Legends: Bloody Mary,4.1,9023,34243
-tt1986202,Whispers,4.1,9045,34244
-tt1986994,The Wicked,3.8,7635,34245
-tt0337636,Hellraiser: Deader,4.4,11251,34246
-tt6836936,Saaho,5.0,21290,34247
-tt11576124,Rogue,4.1,9203,34248
-tt1731697,The Lords of Salem,5.2,31240,34249
-tt0298296,Derailed,3.9,8297,34250
-tt1552224,Outcast,4.6,13914,34251
-tt1087461,Megan Is Missing,4.6,14053,34252
-tt0138304,The Astronaut's Wife,5.4,56605,34253
-tt10665338,Halloween Kills,5.5,91067,34254
-tt0323531,Out for a Kill,3.4,6707,34255
-tt0089308,Howling II: ... Your Sister Is a Werewolf,3.7,7735,34256
-tt13265876,Apex,3.0,5741,34257
-tt0093974,"Silent Night, Deadly Night Part 2",3.8,8230,34258
-tt1179891,My Bloody Valentine,5.4,58581,34259
-tt0278259,.com for Murder,2.6,5014,34260
-tt13029044,Mother/Android,4.9,20239,34261
-tt8784956,Ava,5.4,59409,34262
-tt8195518,Cuck,4.4,12268,34263
+tt8435002,Great White,4.1,8288,34236
+tt12528166,Out of Death,3.3,5388,34237
+tt0787505,Rest Stop,4.5,11630,34238
+tt4575328,2036 Origin Unknown,4.3,9816,34239
+tt6143568,The Humanity Bureau,4.5,11701,34240
+tt11301946,Beast,5.2,34487,34241
+tt11127256,Choke,2.8,4542,34242
+tt7286966,Money Plane,3.2,5335,34243
+tt5932368,Vanquish,3.0,4926,34244
+tt3774790,400 Days,4.4,11035,34245
+tt0482599,Shutter,5.2,36223,34246
+tt0089274,The Hills Have Eyes Part II,3.7,6986,34247
+tt1147687,The Devil's Tomb,3.7,6995,34248
+tt0337636,Hellraiser: Deader,4.4,11251,34249
+tt0493424,Attack Force,2.7,4588,34250
+tt0451957,Urban Legends: Bloody Mary,4.1,9023,34251
+tt11423214,Girl Next,3.8,7481,34252
+tt1986202,Whispers,4.1,9045,34253
+tt0331468,Cold Creek Manor,5.0,23922,34254
+tt13029044,Mother/Android,4.9,20239,34255
+tt1552224,Outcast,4.6,13914,34256
+tt4913966,The Curse of La Llorona,5.3,53402,34257
+tt1087461,Megan Is Missing,4.6,14053,34258
+tt11576124,Rogue,4.1,9203,34259
+tt3289080,Asylum of Fear,3.5,6506,34260
+tt1986994,The Wicked,3.8,7635,34261
+tt0201844,Survival Island,2.5,4385,34262
+tt0845424,The Abortion,2.4,4260,34263
 tt8150814,There's Someone Inside Your House,4.8,18049,34264
-tt7209472,Aiyai: Wrathful Soul,4.4,12393,34265
-tt2124787,Final Girl,4.7,16318,34266
-tt0331468,Cold Creek Manor,5.0,23922,34267
-tt11301946,Beast,5.2,34487,34268
-tt1674784,Trespass,5.3,44390,34269
-tt0913951,Alone in the Dark 2,2.6,5184,34270
-tt2717822,Blackhat,5.4,62119,34271
+tt2401807,Rage,5.0,24973,34265
+tt0095179,Friday the 13th Part VII: The New Blood,5.2,39674,34266
+tt0298296,Derailed,3.9,8297,34267
+tt0814022,Bangkok Dangerous,5.3,57577,34268
+tt2124787,Final Girl,4.7,16318,34269
+tt2752772,Sinister 2,5.3,57756,34270
+tt0360556,Fahrenheit 451,4.9,21513,34271
 tt0134983,Supernova,4.8,18670,34272
-tt0312700,The Foreigner,3.4,7167,34273
-tt0360556,Fahrenheit 451,4.9,21513,34274
-tt2401807,Rage,5.0,24973,34275
-tt0482599,Shutter,5.2,36223,34276
-tt0196158,Ticker,3.5,7601,34277
-tt0218619,Soul Survivors,3.9,9344,34278
-tt0758746,Friday the 13th,5.5,111983,34279
-tt2620590,Leatherface,5.0,25714,34280
-tt0105128,Pet Sematary II,4.9,22323,34281
-tt0469999,Ulli Lommel's Zodiac Killer,2.1,4742,34282
-tt0297162,Half Past Dead,4.6,16306,34283
-tt0082910,Piranha II: The Spawning,3.8,9307,34284
-tt14502344,They/Them,3.9,9878,34285
-tt16228146,Oru Canadian Diary,1.8,4493,34286
-tt1045655,The Haunting of Molly Hartley,3.9,9952,34287
-tt0095179,Friday the 13th Part VII: The New Blood,5.2,39674,34288
+tt2620590,Leatherface,5.0,25714,34273
+tt2193215,The Counselor,5.4,103497,34274
+tt8195518,Cuck,4.4,12268,34275
+tt7209472,Aiyai: Wrathful Soul,4.4,12393,34276
+tt0105128,Pet Sematary II,4.9,22323,34277
+tt0108162,Sliver,5.1,32813,34278
+tt0089308,Howling II: ... Your Sister Is a Werewolf,3.7,7735,34279
+tt2938956,The Transporter Refueled,5.2,43404,34280
+tt0093974,"Silent Night, Deadly Night Part 2",3.8,8230,34281
+tt0323531,Out for a Kill,3.4,6707,34282
+tt13265876,Apex,3.0,5741,34283
+tt0437179,See No Evil,5.0,28080,34284
+tt0278259,.com for Murder,2.6,5014,34285
+tt0397065,House of Wax,5.4,129234,34286
+tt0297162,Half Past Dead,4.6,16306,34287
+tt0218619,Soul Survivors,3.9,9344,34288
 tt1524575,The Vatican Tapes,4.7,18682,34289
-tt0108162,Sliver,5.1,32813,34290
-tt2364897,The Disappointments Room,3.9,10181,34291
-tt4913966,The Curse of La Llorona,5.3,53402,34292
-tt0437179,See No Evil,5.0,28080,34293
-tt0200469,Bats,4.0,10890,34294
-tt14060094,Blacklight,4.8,21366,34295
-tt0113010,Fair Game,4.3,13435,34296
-tt0106453,Body of Evidence,4.5,15818,34297
-tt4382872,Extraction,4.1,11693,34298
-tt4244162,Beta Test,4.8,21781,34299
-tt1886493,Catch .44,4.6,17573,34300
-tt0095889,Poltergeist III,4.7,19565,34301
-tt6372694,Prisoners of the Ghostland,4.2,12723,34302
-tt1320304,30 Days of Night: Dark Days,4.3,13736,34303
-tt2938956,The Transporter Refueled,5.2,43404,34304
-tt11348232,The Requin,2.6,6116,34305
-tt0814022,Bangkok Dangerous,5.3,57577,34306
-tt2752772,Sinister 2,5.3,57756,34307
-tt9625664,Trauma Center,4.0,11530,34308
-tt1878841,The Darkness,4.5,16724,34309
-tt5159414,Escape Room,4.2,13225,34310
-tt10303324,Survive the Night,4.0,11724,34311
-tt6772804,Escape Plan: The Extractors,4.4,15599,34312
-tt1085492,The Prince,4.6,18861,34313
-tt1452628,Vanishing on 7th Street,4.9,26812,34314
-tt11514780,Choose or Die,4.8,23684,34315
-tt0872230,My Soul to Take,4.7,21116,34316
-tt1053859,The Grudge 3,4.6,19150,34317
-tt0204313,Exorcist: The Beginning,5.1,37971,34318
-tt0120786,The Patriot,4.1,13007,34319
-tt1273221,London Fields,3.9,11570,34320
-tt0097138,Cyborg,5.0,32747,34321
-tt6593054,Drive,3.1,7968,34322
-tt1198138,Obsessed,5.0,33132,34323
-tt1674047,Birdemic 2: The Resurrection,1.5,4918,34324
-tt3832096,Cabin Fever,3.7,10604,34325
-tt10598156,Dhaakad,3.9,11850,34326
-tt0242998,Valentine,4.9,29312,34327
-tt2193215,The Counselor,5.4,103497,34328
-tt2292959,The Canyons,3.8,11433,34329
-tt2025667,Smiley,3.4,9374,34330
-tt7456312,The Last Thing He Wanted,4.3,16157,34331
-tt1712159,11-11-11,3.9,12481,34332
-tt6494418,Siberia,4.3,16567,34333
-tt0103956,Child's Play 3,5.1,43790,34334
-tt0249380,Baise-moi,4.4,18163,34335
-tt1649444,[REC] 3: Genesis,5.0,36772,34336
-tt1603257,ATM,4.7,24672,34337
-tt8597594,Adverse,4.2,16027,34338
-tt10342730,Spiral,5.2,58899,34339
-tt6772950,Truth or Dare,5.2,59242,34340
-tt0455857,When a Stranger Calls,5.1,47267,34341
-tt2339741,The Woman in Black 2: Angel of Death,4.8,28999,34342
-tt0494501,"The Class of Chaos 3,5",2.9,8415,34343
-tt0397065,House of Wax,5.4,129234,34344
-tt3480796,Vice,4.2,16811,34345
-tt0110725,On Deadly Ground,4.6,24705,34346
-tt7897330,Deadly Illusions,3.7,13025,34347
-tt9419834,Secret Obsession,4.5,22918,34348
-tt2799166,The Pyramid,4.6,25492,34349
-tt4287320,The Circle,5.3,96422,34350
-tt0120860,From Dusk Till Dawn 2: Texas Blood Money,4.1,16806,34351
-tt3704538,V/H/S Viral,4.2,18135,34352
-tt3322940,Annabelle,5.4,166092,34353
-tt1366365,The Cold Light of Day,4.9,38545,34354
-tt9624766,Jiu Jitsu,2.9,9476,34355
-tt4439620,Redemption Day,4.5,24032,34356
-tt0454919,Pulse,4.7,30033,34357
-tt2034139,The Last Exorcism Part II,4.0,16665,34358
-tt1540011,Blair Witch,5.0,47904,34359
-tt0120685,Godzilla,5.4,197749,34360
-tt1981128,Geostorm,5.3,113009,34361
-tt0433386,The Grudge 2,5.0,50482,34362
-tt1158700,Desh Drohi,1.2,6155,34363
-tt0469111,I'll Always Know What You Did Last Summer,3.4,12654,34364
-tt10230426,Mrs. Serial Killer,4.1,18953,34365
-tt0800069,The Hills Have Eyes 2,5.1,65976,34366
-tt0097474,Halloween 5: The Revenge of Michael Myers,4.9,44642,34367
-tt2167202,Getaway,4.4,24772,34368
-tt2309260,The Gallows,4.2,21106,34369
-tt1758810,The Snowman,5.1,68830,34370
+tt0913951,Alone in the Dark 2,2.6,5184,34290
+tt14060094,Blacklight,4.8,21366,34291
+tt0312700,The Foreigner,3.4,7167,34292
+tt0196158,Ticker,3.5,7601,34293
+tt0204313,Exorcist: The Beginning,5.1,37971,34294
+tt4244162,Beta Test,4.8,21781,34295
+tt0095889,Poltergeist III,4.7,19565,34296
+tt3322940,Annabelle,5.4,166092,34297
+tt1886493,Catch .44,4.6,17573,34298
+tt0106453,Body of Evidence,4.5,15818,34299
+tt14502344,They/Them,3.9,9878,34300
+tt0082910,Piranha II: The Spawning,3.8,9307,34301
+tt1452628,Vanishing on 7th Street,4.9,26812,34302
+tt1045655,The Haunting of Molly Hartley,3.9,9952,34303
+tt0097138,Cyborg,5.0,32747,34304
+tt0113010,Fair Game,4.3,13435,34305
+tt1198138,Obsessed,5.0,33132,34306
+tt0469999,Ulli Lommel's Zodiac Killer,2.1,4742,34307
+tt2364897,The Disappointments Room,3.9,10181,34308
+tt0120685,Godzilla,5.4,197749,34309
+tt11514780,Choose or Die,4.8,23684,34310
+tt0200469,Bats,4.0,10890,34311
+tt4382872,Extraction,4.1,11693,34312
+tt1320304,30 Days of Night: Dark Days,4.3,13736,34313
+tt6372694,Prisoners of the Ghostland,4.2,12723,34314
+tt10342730,Spiral,5.2,58899,34315
+tt1878841,The Darkness,4.5,16724,34316
+tt6772950,Truth or Dare,5.2,59242,34317
+tt0872230,My Soul to Take,4.7,21116,34318
+tt0103956,Child's Play 3,5.1,43790,34319
+tt1085492,The Prince,4.6,18861,34320
+tt16228146,Oru Canadian Diary,1.8,4493,34321
+tt4287320,The Circle,5.3,96422,34322
+tt1053859,The Grudge 3,4.6,19150,34323
+tt0242998,Valentine,4.9,29312,34324
+tt6772804,Escape Plan: The Extractors,4.4,15599,34325
+tt5159414,Escape Room,4.2,13225,34326
+tt9625664,Trauma Center,4.0,11530,34327
+tt1649444,[REC] 3: Genesis,5.0,36772,34328
+tt0455857,When a Stranger Calls,5.1,47267,34329
+tt10303324,Survive the Night,4.0,11724,34330
+tt1981128,Geostorm,5.3,113009,34331
+tt11348232,The Requin,2.6,6116,34332
+tt0120786,The Patriot,4.1,13007,34333
+tt1273221,London Fields,3.9,11570,34334
+tt1603257,ATM,4.7,24672,34335
+tt10598156,Dhaakad,3.9,11850,34336
+tt7456312,The Last Thing He Wanted,4.3,16157,34337
+tt2339741,The Woman in Black 2: Angel of Death,4.8,28999,34338
+tt3832096,Cabin Fever,3.7,10604,34339
+tt2101441,Spring Breakers,5.3,145562,34340
+tt6593054,Drive,3.1,7968,34341
+tt2292959,The Canyons,3.8,11433,34342
+tt5814060,The Nun,5.3,148399,34343
+tt0249380,Baise-moi,4.4,18163,34344
+tt6494418,Siberia,4.3,16567,34345
+tt2025667,Smiley,3.4,9374,34346
+tt1712159,11-11-11,3.9,12481,34347
+tt1674047,Birdemic 2: The Resurrection,1.5,4918,34348
+tt8597594,Adverse,4.2,16027,34349
+tt1540011,Blair Witch,5.0,47904,34350
+tt1293847,xXx: Return of Xander Cage,5.2,94663,34351
+tt1366365,The Cold Light of Day,4.9,38545,34352
+tt0800069,The Hills Have Eyes 2,5.1,65976,34353
+tt0110725,On Deadly Ground,4.6,24705,34354
+tt0433386,The Grudge 2,5.0,50482,34355
+tt3480796,Vice,4.2,16811,34356
+tt1758810,The Snowman,5.1,68830,34357
+tt2799166,The Pyramid,4.6,25492,34358
+tt9419834,Secret Obsession,4.5,22918,34359
+tt0259324,Ghost Rider,5.3,245537,34360
+tt0454919,Pulse,4.7,30033,34361
+tt0494501,"The Class of Chaos 3,5",2.9,8415,34362
+tt4439620,Redemption Day,4.5,24032,34363
+tt0097474,Halloween 5: The Revenge of Michael Myers,4.9,44642,34364
+tt3704538,V/H/S Viral,4.2,18135,34365
+tt0120860,From Dusk Till Dawn 2: Texas Blood Money,4.1,16806,34366
+tt1600195,Abduction,5.1,82025,34367
+tt7897330,Deadly Illusions,3.7,13025,34368
+tt0387575,Seed of Chucky,4.9,47603,34369
+tt10665342,Halloween Ends,5.0,62174,34370
 tt1265990,The Roommate,4.8,40246,34371
-tt1433822,The Apparition,4.1,20294,34372
-tt1293847,xXx: Return of Xander Cage,5.2,94663,34373
-tt0387575,Seed of Chucky,4.9,47603,34374
-tt3120430,Mantus,4.5,28701,34375
-tt2101441,Spring Breakers,5.3,145562,34376
-tt5814060,The Nun,5.3,148399,34377
-tt0116839,Lawnmower Man 2: Beyond Cyberspace,2.5,9853,34378
-tt0364986,Ben & Arthur,1.8,8050,34379
-tt10665342,Halloween Ends,5.0,62174,34380
-tt3387542,The Forest,4.8,44569,34381
-tt0283877,American Psycho II: All American Girl,3.7,17144,34382
-tt1600195,Abduction,5.1,82025,34383
+tt5433138,F9: The Fast Saga,5.2,149683,34372
+tt2034139,The Last Exorcism Part II,4.0,16665,34373
+tt1991245,Chernobyl Diaries,5.0,67349,34374
+tt1273235,A Serbian Film,5.0,67693,34375
+tt2167202,Getaway,4.4,24772,34376
+tt9624766,Jiu Jitsu,2.9,9476,34377
+tt10230426,Mrs. Serial Killer,4.1,18953,34378
+tt3387542,The Forest,4.8,44569,34379
+tt3120430,Mantus,4.5,28701,34380
+tt2309260,The Gallows,4.2,21106,34381
+tt1144884,The Final Destination,5.1,110503,34382
+tt1606378,A Good Day to Die Hard,5.2,211013,34383
 tt0113253,Halloween: The Curse of Michael Myers,4.7,39735,34384
-tt1991245,Chernobyl Diaries,5.0,67349,34385
-tt0089173,Friday the 13th: A New Beginning,4.7,41058,34386
-tt1273235,A Serbian Film,5.0,67693,34387
-tt0116654,The Island of Dr. Moreau,4.5,34537,34388
-tt1029360,Poltergeist,4.9,59631,34389
-tt3181822,The Boy Next Door,4.7,43933,34390
-tt0259324,Ghost Rider,5.3,245537,34391
-tt10481868,Black Christmas,3.5,17623,34392
-tt1572315,Texas Chainsaw,4.8,53704,34393
-tt0457297,The Butterfly Effect 2,4.5,36720,34394
-tt5433138,F9: The Fast Saga,5.2,149683,34395
-tt0938330,Silent Hill: Revelation,4.9,65290,34396
-tt1144884,The Final Destination,5.1,110503,34397
-tt14121726,Jeepers Creepers: Reborn,2.5,12143,34398
+tt1029360,Poltergeist,4.9,59631,34385
+tt0469111,I'll Always Know What You Did Last Summer,3.4,12654,34386
+tt1433822,The Apparition,4.1,20294,34387
+tt0089173,Friday the 13th: A New Beginning,4.7,41058,34388
+tt0938330,Silent Hill: Revelation,4.9,65290,34389
+tt1158700,Desh Drohi,1.2,6155,34390
+tt3181822,The Boy Next Door,4.7,43933,34391
+tt1572315,Texas Chainsaw,4.8,53704,34392
+tt0116654,The Island of Dr. Moreau,4.5,34537,34393
+tt0283877,American Psycho II: All American Girl,3.7,17144,34394
+tt0116839,Lawnmower Man 2: Beyond Cyberspace,2.5,9853,34395
+tt0457297,The Butterfly Effect 2,4.5,36720,34396
+tt1139668,The Unborn,4.7,52581,34397
+tt0364986,Ben & Arthur,1.8,8050,34398
 tt0097388,Friday the 13th Part VIII: Jason Takes Manhattan,4.5,40429,34399
-tt1139668,The Unborn,4.7,52581,34400
-tt1606378,A Good Day to Die Hard,5.2,211013,34401
-tt0155975,Psycho,4.6,49560,34402
-tt11755740,Texas Chainsaw Massacre,4.7,56865,34403
-tt0430912,Basic Instinct 2,4.4,40648,34404
-tt0107254,Jason Goes to Hell: The Final Friday,4.1,34541,34405
-tt8366590,Baaghi 3,2.1,13238,34406
-tt0295254,Feardotcom,3.4,22187,34407
-tt11656172,Hard Kill,3.0,19194,34408
-tt1204977,Ouija,4.5,54908,34409
-tt0130018,I Still Know What You Did Last Summer,4.7,76339,34410
-tt0110978,Texas Chainsaw Massacre: The Next Generation,3.3,24550,34411
-tt0897361,I Know Who Killed Me,3.6,30450,34412
-tt4477536,Fifty Shades Freed,4.5,69329,34413
-tt4465564,Fifty Shades Darker,4.6,106642,34414
-tt0220506,Halloween: Resurrection,3.9,46948,34415
-tt1564585,Skyline,4.5,90970,34416
+tt11755740,Texas Chainsaw Massacre,4.7,56865,34400
+tt0155975,Psycho,4.6,49560,34401
+tt10481868,Black Christmas,3.5,17623,34402
+tt0430912,Basic Instinct 2,4.4,40648,34403
+tt14121726,Jeepers Creepers: Reborn,2.5,12143,34404
+tt0130018,I Still Know What You Did Last Summer,4.7,76339,34405
+tt1204977,Ouija,4.5,54908,34406
+tt0107254,Jason Goes to Hell: The Final Friday,4.1,34541,34407
+tt0295254,Feardotcom,3.4,22187,34408
+tt4477536,Fifty Shades Freed,4.5,69329,34409
+tt11656172,Hard Kill,3.0,19194,34410
+tt8366590,Baaghi 3,2.1,13238,34411
+tt4465564,Fifty Shades Darker,4.6,106642,34412
+tt1564585,Skyline,4.5,90970,34413
+tt0110978,Texas Chainsaw Massacre: The Next Generation,3.3,24550,34414
+tt0897361,I Know Who Killed Me,3.6,30450,34415
+tt0220506,Halloween: Resurrection,3.9,46948,34416
 tt0085750,Jaws 3-D,3.7,46110,34417
 tt7608028,The Open House,3.3,35834,34418
 tt5690360,Slender Man,3.2,36258,34419
 tt0450345,The Wicker Man,3.8,69723,34420
-tt1754700,The Prototype,2.4,35697,34421
+tt2322441,Fifty Shades of Grey,4.2,326749,34421
 tt0093300,Jaws: The Revenge,3.0,47732,34422
-tt2322441,Fifty Shades of Grey,4.2,326749,34423
+tt1754700,The Prototype,2.4,35697,34423
 tt7431594,Race 3,1.9,47717,34424
 tt6038600,Smolensk,1.2,39989,34425
 tt10888594,Radhe,1.9,178939,34426
