@@ -1,0 +1,501 @@
+tconst,primaryTitle,averageRating,numVotes,ranking
+tt0944947,Game of Thrones,9.2,2171127,1
+tt0417299,Avatar: The Last Airbender,9.3,333828,2
+tt2560140,Attack on Titan,9.1,414928,3
+tt3581920,The Last of Us,8.8,424121,4
+tt1190634,The Boys,8.7,558305,5
+tt8111088,The Mandalorian,8.7,548687,6
+tt11126994,Arcane,9.0,231294,7
+tt1355642,Fullmetal Alchemist: Brotherhood,9.1,179869,8
+tt3322312,Daredevil,8.6,454559,9
+tt2306299,Vikings,8.5,553417,10
+tt0388629,One Piece,8.9,147584,11
+tt11198330,House of the Dragon,8.5,330488,12
+tt0384766,Rome,8.7,177429,13
+tt2098220,Hunter x Hunter,9.0,112679,14
+tt0213338,Cowboy Bebop,8.9,127542,15
+tt4508902,One Punch Man,8.7,171419,16
+tt0407362,Battlestar Galactica,8.7,170469,17
+tt0103359,Batman: The Animated Series,9.0,109081,18
+tt0455275,Prison Break,8.3,553560,19
+tt5675620,The Punisher,8.5,248713,20
+tt1442449,Spartacus,8.5,248191,21
+tt0214341,Dragon Ball Z,8.8,137589,22
+tt6741278,Invincible,8.7,154862,23
+tt0988824,Naruto: Shippuden,8.7,138468,24
+tt1486217,Archer,8.6,159639,25
+tt7221388,Cobra Kai,8.5,194317,26
+tt0092455,Star Trek: The Next Generation,8.7,128136,27
+tt1839578,Person of Interest,8.5,181759,28
+tt6468322,Money Heist,8.2,498183,29
+tt9335498,Demon Slayer: Kimetsu no Yaiba,8.7,122964,30
+tt0285331,24,8.4,191686,31
+tt4179452,The Last Kingdom,8.5,154719,32
+tt9140554,Loki,8.2,342881,33
+tt9561862,"Love, Death & Robots",8.4,180542,34
+tt5180504,The Witcher,8.1,521483,35
+tt1758429,Spartacus: Gods of the Arena,8.5,141268,36
+tt0121220,Dragon Ball Z,8.8,83158,37
+tt1489428,Justified,8.6,106238,38
+tt9544034,The Family Man,8.7,91644,39
+tt1305826,Adventure Time,8.6,102025,40
+tt9253284,Andor,8.4,140746,41
+tt10919420,Squid Game,8.0,481371,42
+tt1695360,The Legend of Korra,8.4,127523,43
+tt0118276,Buffy the Vampire Slayer,8.3,152746,44
+tt0409591,Naruto,8.4,112166,45
+tt2017109,Banshee,8.4,110800,46
+tt0994314,Code Geass,8.7,73220,47
+tt0458290,Star Wars: The Clone Wars,8.4,107762,48
+tt5348176,Barry,8.4,105228,49
+tt6077448,Sacred Games,8.5,90180,50
+tt13146488,Peacemaker,8.3,122096,51
+tt0374463,The Pacific,8.3,117450,52
+tt0934814,Chuck,8.2,142519,53
+tt0118480,Stargate SG-1,8.4,97273,54
+tt0314979,Battlestar Galactica,8.5,77895,55
+tt9140560,WandaVision,7.9,343181,56
+tt0060028,Star Trek: The Original Series,8.4,87952,57
+tt6473300,Mirzapur,8.5,76627,58
+tt0112159,Neon Genesis Evangelion,8.5,76263,59
+tt0421357,Fullmetal Alchemist,8.5,73828,60
+tt12343534,Jujutsu Kaisen,8.5,73637,61
+tt10233448,Vinland Saga,8.8,52403,62
+tt9288030,Reacher,8.1,141262,63
+tt0280249,Dragon Ball,8.6,62195,64
+tt1312171,The Umbrella Academy,7.9,258915,65
+tt2375692,Black Sails,8.2,108459,66
+tt0088509,Dragon Ball,8.6,61235,67
+tt4189022,Ash vs Evil Dead,8.4,77245,68
+tt7016936,Killing Eve,8.1,125035,69
+tt2357547,Jessica Jones,7.9,219970,70
+tt5057054,Tom Clancy's Jack Ryan,8.0,150664,71
+tt5114356,Legion,8.2,93748,72
+tt2261227,Altered Carbon,7.9,179007,73
+tt0423731,Samurai Champloo,8.6,51777,74
+tt0278238,Samurai Jack,8.5,56306,75
+tt0187664,Spaced,8.5,56040,76
+tt6517102,Castlevania,8.3,71260,77
+tt5626028,My Hero Academia,8.3,70252,78
+tt0318871,Berserk,8.7,44722,79
+tt0275137,Justice League,8.6,48802,80
+tt3749900,Gotham,7.8,235358,81
+tt1710308,Regular Show,8.5,50765,82
+tt5516154,Godless,8.2,72573,83
+tt12590266,Cyberpunk: Edgerunners,8.3,60653,84
+tt1641384,Young Justice,8.6,43303,85
+tt0364845,NCIS,7.8,154879,86
+tt0434665,Bleach,8.2,61121,87
+tt5897304,Mob Psycho 100,8.6,38284,88
+tt0374455,Stargate: Atlantis,8.1,69191,89
+tt0103584,X-Men: The Animated Series,8.4,45111,90
+tt0106145,Star Trek: Deep Space Nine,8.1,66793,91
+tt11743610,The Terminal List,7.9,98581,92
+tt6611916,Kingdom,8.3,50020,93
+tt0810788,Burn Notice,8.0,76757,94
+tt2189461,Marco Polo,8.0,75427,95
+tt11854694,Special OPS,8.6,35095,96
+tt4047038,Dirk Gently's Holistic Detective Agency,8.2,54297,97
+tt13616990,Chainsaw Man,8.5,38371,98
+tt1909015,Undercover,8.9,27253,99
+tt1598754,24: Live Another Day,8.3,46097,100
+tt3475734,Agent Carter,7.9,86265,101
+tt1567432,Teen Wolf,7.7,156380,102
+tt3358020,Parasyte: The Maxim,8.3,42675,103
+tt8788458,The Promised Neverland,8.3,42075,104
+tt7658402,Harley Quinn,8.5,33500,105
+tt6317068,Final Space,8.2,46111,106
+tt0373732,The Boondocks,8.5,32993,107
+tt22014226,Taaza Khabar,8.2,45118,108
+tt0162065,Angel,7.9,73021,109
+tt2261391,Chicago Fire,8.0,60405,110
+tt0852863,Phineas and Ferb,8.1,51497,111
+tt2193021,Arrow,7.5,438481,112
+tt11247158,The Legend of Vox Machina,8.4,35355,113
+tt0187636,Farscape,8.3,38644,114
+tt14986406,Bleach: Thousand-Year Blood War,9.1,19938,115
+tt3107288,The Flash,7.5,359017,116
+tt1836037,Longmire,8.3,37541,117
+tt0112175,Spider-Man: The Animated Series,8.4,33329,118
+tt0105946,Babylon 5,8.4,33063,119
+tt0417373,The Venture Bros.,8.6,26849,120
+tt2359704,JoJo's Bizarre Adventure,8.5,28831,121
+tt12327578,Star Trek: Strange New Worlds,8.2,39358,122
+tt7587890,The Rookie,8.0,51651,123
+tt1883092,Generation War,8.4,31156,124
+tt0112178,Star Trek: Voyager,7.8,73158,125
+tt4565380,Fauda,8.3,33566,126
+tt2930604,Star Wars: Rebels,8.0,49609,127
+tt13706018,Spy x Family,8.4,29959,128
+tt0805663,Jericho,7.9,57579,129
+tt3061046,Steven Universe,8.2,36562,130
+tt4644488,Dragon Ball Super,8.3,32452,131
+tt2805096,Chicago P.D.,8.1,41163,132
+tt2364582,Agents of S.H.I.E.L.D.,7.5,221086,133
+tt2452242,Happy!,8.1,40955,134
+tt5743796,Warrior,8.4,28909,135
+tt10795658,Alice in Borderland,7.7,84924,136
+tt0096684,Quantum Leap,8.2,34475,137
+tt10160804,Hawkeye,7.5,195796,138
+tt2654580,Almost Human,7.9,51197,139
+tt12809988,Sweet Tooth,7.8,62156,140
+tt7661390,Gangs of London,8.1,36782,141
+tt2403776,Shadow and Bone,7.6,106055,142
+tt3865236,Into the Badlands,7.9,48129,143
+tt7441658,Black Clover,8.3,28178,144
+tt8416494,Doom Patrol,7.8,56346,145
+tt7949218,See,7.6,90391,146
+tt1492179,Strike Back,8.1,32564,147
+tt0279600,Smallville,7.5,132768,148
+tt0830361,The Lost Room,8.1,32148,149
+tt20723374,Tales of the Jedi,8.2,28512,150
+tt6025022,Justice League Unlimited,8.7,18082,151
+tt8688814,The Dragon Prince,8.3,25171,152
+tt13433812,Vincenzo,8.4,22488,153
+tt0346314,Ghost in the Shell: Stand Alone Complex,8.5,20302,154
+tt2531336,Lupin,7.5,118450,155
+tt0235923,Invader ZIM,8.4,22025,156
+tt10332508,Primal,8.7,17301,157
+tt7235466,9-1-1,7.9,39761,158
+tt1981558,Key and Peele,8.3,23911,159
+tt0182629,Rurouni Kenshin,8.5,19876,160
+tt3741634,Tokyo Ghoul,7.7,58518,161
+tt0092345,DuckTales,8.0,33573,162
+tt1409055,Dragon Ball Z Kai,8.3,23589,163
+tt0147746,Batman Beyond,8.1,29026,164
+tt4320258,Dirilis: Ertugrul,7.9,38413,165
+tt1043813,Titans,7.5,106895,166
+tt12708542,Star Wars: The Bad Batch,7.8,44423,167
+tt1064899,Queen of the South,8.0,32099,168
+tt0495212,Hellsing Ultimate,8.2,24895,169
+tt1592154,Nikita,7.7,52589,170
+tt0131613,Teenage Mutant Ninja Turtles,7.9,35658,171
+tt5296406,Designated Survivor,7.5,97564,172
+tt4524056,Vis a vis,8.2,24072,173
+tt0343314,Teen Titans,7.9,35098,174
+tt0480489,Elfen Lied,7.9,35038,175
+tt0251439,Trigun,8.2,23010,176
+tt8806524,Star Trek: Picard,7.5,88827,177
+tt1954347,Continuum,7.6,62284,178
+tt5164196,Lethal Weapon,7.8,39215,179
+tt0851851,Terminator: The Sarah Connor Chronicles,7.6,61515,180
+tt0203082,Rurouni Kenshin: Trust and Betrayal,8.6,15451,181
+tt0118266,The New Batman Adventures,8.4,18091,182
+tt1734135,Trollhunters: Tales of Arcadia,8.4,17951,183
+tt13918776,The Night Agent,7.5,82126,184
+tt0948103,Gurren Lagann,8.3,19579,185
+tt8392006,Apharan,8.3,19267,186
+tt9679542,Dr. Stone,8.1,23569,187
+tt7765404,Wayne,8.4,17384,188
+tt11192306,Superman & Lois,7.8,36064,189
+tt10168312,What If...?,7.4,125691,190
+tt8050756,The Owl House,8.5,15845,191
+tt2379308,Psycho-Pass,8.2,20625,192
+tt0179552,The Adventures of Tintin,8.3,18643,193
+tt3909224,The Seven Deadly Sins,7.8,34805,194
+tt0485301,Torchwood,7.7,42212,195
+tt0460690,The Unit,8.1,22511,196
+tt0285333,Alias,7.6,52655,197
+tt0988818,Gintama,8.7,13013,198
+tt10293938,Outer Banks,7.5,69179,199
+tt0976192,The Spectacular Spider-Man,8.3,17433,200
+tt20859920,Alchemy of Souls,8.8,11812,201
+tt0160904,MI-5,8.3,17247,202
+tt10234724,Moon Knight,7.3,244646,203
+tt0185133,Yu Yu Hakusho: Ghost Files,8.5,14527,204
+tt4925000,Descendants of the Sun,8.2,18657,205
+tt0131179,Detective Conan,8.5,14104,206
+tt13899566,Special Ops 1.5: The Himmat Story,8.3,16641,207
+tt11000902,Our Flag Means Death,7.8,30803,208
+tt1528406,Fairy Tail,7.9,26185,209
+tt13661118,Not Me,8.8,11286,210
+tt0086817,The Transformers,8.0,22789,211
+tt9458304,Dororo,8.3,16479,212
+tt13847564,Inspector Avinash,8.4,15004,213
+tt0120570,From the Earth to the Moon,8.6,12673,214
+tt5511582,Timeless,7.6,45239,215
+tt6473344,SEAL Team,7.8,29440,216
+tt6051216,Insider,8.1,19318,217
+tt1626038,The Avengers: Earth's Mightiest Heroes,8.3,15642,218
+tt5645432,The Old Man,7.6,43351,219
+tt13293588,Mushoku Tensei: Jobless Reincarnation,8.4,14111,220
+tt14169960,All of Us Are Dead,7.5,56991,221
+tt0279077,FLCL,8.1,18692,222
+tt0244365,Star Trek: Enterprise,7.5,56020,223
+tt13196080,Tokyo Revengers,8.0,20752,224
+tt0361243,Star Wars: Clone Wars,7.8,27612,225
+tt0387736,Farscape: The Peacekeeper Wars,8.2,16556,226
+tt6932244,Hanna,7.6,40541,227
+tt0088559,MacGyver,7.6,40446,228
+tt10405370,Rogue Heroes,8.1,17881,229
+tt3742982,Akame ga Kill!,7.8,26690,230
+tt7745956,She-Ra and the Princesses of Power,8.1,17591,231
+tt7222086,Made in Abyss,8.4,13157,232
+tt0108783,Gargoyles,8.1,17457,233
+tt12940504,Undercover,7.8,26025,234
+tt1600194,Hawaii Five-0,7.4,75992,235
+tt3322314,Luke Cage,7.3,135211,236
+tt2250192,Sword Art Online,7.5,48793,237
+tt0115378,Superman: The Animated Series,8.1,16677,238
+tt3837246,Assassination Classroom,8.0,18373,239
+tt0844653,Legend of the Seeker,7.6,35633,240
+tt0168366,Pokémon,7.5,45236,241
+tt5320412,Moon Lovers: Scarlet Heart Ryeo,8.6,10014,242
+tt2051178,Fate/Zero,8.2,13907,243
+tt4975856,Future Man,7.7,27039,244
+tt12701270,Crackdown,8.2,13727,245
+tt0161952,Knights of the Zodiac,8.5,10615,246
+tt2402207,The Last Ship,7.4,61515,247
+tt3230454,The Last Man on Earth,7.4,61325,248
+tt2758770,Star vs. the Forces of Evil,8.0,16785,249
+tt13409432,Ranking of Kings,8.5,10468,250
+tt10266874,Helstrom,6.7,9485,6429
+tt4570986,Chhota Bheem,4.5,1044,6430
+tt0083437,Knight Rider,6.9,36040,6431
+tt5875646,Freakish,6.1,2969,6432
+tt0169516,Young Hercules,5.7,2065,6433
+tt0802821,Pandemic,5.3,1588,6434
+tt0127398,Team Knight Rider,4.5,1076,6435
+tt0230804,Sonic Underground,6.1,3063,6436
+tt2236126,Power Rangers Megaforce,5.5,1816,6437
+tt1933836,Level Up,4.3,1003,6438
+tt8769360,Professionals,5.5,1839,6439
+tt0850642,Shaggy & Scooby-Doo Get a Clue!,4.4,1060,6440
+tt12753390,Mum Bhai,6.3,4083,6441
+tt0222518,Adventures of Sonic the Hedgehog,6.3,4099,6442
+tt1728102,Alcatraz,6.9,39957,6443
+tt2455514,Hulk and the Agents of S.M.A.S.H.,6.1,3198,6444
+tt0855673,Yin Yang Yo!,6.0,2891,6445
+tt0073965,The Bionic Woman,6.6,7700,6446
+tt1836195,The River,6.8,16882,6447
+tt14218674,NCIS: Hawai'i,6.6,7720,6448
+tt0482870,Robotboy,5.8,2459,6449
+tt17013106,Black Knight,6.4,5072,6450
+tt4276624,Krypton,6.8,17206,6451
+tt14463552,The Longest Night,5.9,2709,6452
+tt0120569,Conan the Adventurer,5.0,1474,6453
+tt1765622,Kickin' It,6.5,6314,6454
+tt0115109,The Beast,5.9,2815,6455
+tt0312098,Birds of Prey,6.4,5355,6456
+tt0078622,Hart to Hart,6.6,8285,6457
+tt0424603,Atomic Betty,5.5,2085,6458
+tt3598030,K.C. Undercover,6.4,5506,6459
+tt0853078,Tak & the Power of Juju,3.4,876,6460
+tt0395843,CSI: NY,6.9,48315,6461
+tt13557628,Gando,5.2,1780,6462
+tt8069036,Bard of Blood,6.7,11860,6463
+tt8873996,Deputy,6.4,5613,6464
+tt1307224,Kid vs. Kat,6.1,3680,6465
+tt3560084,NCIS: New Orleans,6.8,19360,6466
+tt4847134,Mighty Magiswords,4.6,1350,6467
+tt0098763,Captain Planet and the Planeteers,6.7,12218,6468
+tt3101362,Cumbia Ninja,2.4,707,6469
+tt11256614,The Ambassador's Daughter,5.8,2775,6470
+tt2693776,Intelligence,6.8,19769,6471
+tt0478073,Final Days of Planet Earth,4.3,1220,6472
+tt1069207,Jack Hunter and the Lost Treasure of Ugarit,4.8,1506,6473
+tt0086662,Airwolf,6.7,12371,6474
+tt9811118,M.O.D.O.K.,6.4,5791,6475
+tt1568769,Undercovers,5.5,2239,6476
+tt1117667,XIII: The Conspiracy,6.5,7078,6477
+tt14502728,The Imperfects,6.5,7087,6478
+tt4033696,Supernoobs,3.2,877,6479
+tt4946972,Training Day,6.0,3487,6480
+tt7343832,Neo Yokio,6.0,3508,6481
+tt8235236,Paradise PD,6.8,20893,6482
+tt1746428,Sidekick,3.9,1111,6483
+tt3337194,From Dusk Till Dawn: The Series,6.8,21054,6484
+tt2336630,CAT. 8,4.4,1334,6485
+tt9184982,Tribes of Europa,6.7,13153,6486
+tt4555364,Knightfall,6.8,21363,6487
+tt0186804,Aftershock: Earthquake in New York,5.2,1971,6488
+tt14589904,Farzar,5.6,2567,6489
+tt0123816,Earth: Final Conflict,6.2,4595,6490
+tt11958610,Trigger Point,6.4,6268,6491
+tt6156584,Snowpiercer,6.9,58265,6492
+tt0118436,Power Rangers Turbo,5.6,2609,6493
+tt3218114,Pig Goat Banana Cricket,3.4,1009,6494
+tt0096707,The Super Mario Bros. Super Show!,6.2,4733,6495
+tt4363582,The Day My Butt Went Psycho!,2.3,793,6496
+tt0115088,Alarm für Cobra 11 - Die Autobahnpolizei,6.3,5621,6497
+tt6779076,Star Wars: Forces of Destiny,5.4,2384,6498
+tt8693266,Toy Boy,6.5,8111,6499
+tt1510984,Ice,4.5,1521,6500
+tt3591138,Baal Veer,2.4,823,6501
+tt0170982,Mortal Kombat: Conquest,6.2,4958,6502
+tt8690776,Sky Rojo,6.6,10562,6503
+tt3499120,Agent X,6.1,4428,6504
+tt8303474,Utopia,6.7,14851,6505
+tt0823333,Blade: The Series,6.3,5818,6506
+tt15431326,Harry Potter: Hogwarts Tournament of Houses,4.8,1793,6507
+tt0259127,Attila,6.6,10854,6508
+tt0138967,Hercules,6.6,10879,6509
+tt0367413,Sonic X,6.2,5127,6510
+tt0086756,The Master,4.4,1518,6511
+tt8213522,Tokyo Ghoul: re,6.6,10900,6512
+tt0866432,Painkiller Jane,5.7,3097,6513
+tt2400631,Crossbones,6.4,7035,6514
+tt0108909,RoboCop,5.5,2699,6515
+tt0353115,¡Mucha Lucha!,5.7,3146,6516
+tt6849940,ReBoot: The Guardian Code,3.8,1256,6517
+tt7612548,The Outpost,6.5,8707,6518
+tt4856322,Halo: The Fall of Reach,5.7,3163,6519
+tt13676344,Record of Ragnarok,6.4,7181,6520
+tt0397501,King Solomon's Mines,5.9,3785,6521
+tt5052460,Taken,6.6,11378,6522
+tt0207919,Relic Hunter,6.4,7285,6523
+tt10042110,BOSS: Baap of Special Services,5.7,3236,6524
+tt12762512,Echo 3,6.5,9095,6525
+tt1825375,Kizim Nerede,4.0,1399,6526
+tt1885102,The Transporter,6.4,7499,6527
+tt1703874,Criminal Minds: Suspect Behavior,6.2,5558,6528
+tt0139774,Dragon Ball GT,6.8,27813,6529
+tt1114855,Bakugan Battle Brawlers,5.6,3128,6530
+tt0272880,Tekken: The Motion Picture,5.2,2445,6531
+tt9310330,Yasuke,6.2,5709,6532
+tt12384506,Ex-Arm,1.8,833,6533
+tt5165368,Amazing Stories,6.3,6601,6534
+tt0452573,The Triangle,6.5,9547,6535
+tt4520906,Beowulf: Return to the Shieldlands,5.7,3497,6536
+tt9052958,Ramyug,5.6,3289,6537
+tt0429305,American Dragon: Jake Long,6.6,12793,6538
+tt0127388,Ninja Turtles: The Next Mutation,4.2,1659,6539
+tt0083486,T.J. Hooker,6.0,4815,6540
+tt7833530,The Adventures of Kid Danger,2.5,1043,6541
+tt10580064,Most Dangerous Game,6.6,13373,6542
+tt1820723,Treasure Island,6.2,6221,6543
+tt0111892,Baywatch Nights,3.8,1501,6544
+tt0112022,JAG,6.7,19204,6545
+tt2293002,Ben 10: Omniverse,6.2,6393,6546
+tt1710310,T.U.F.F. Puppy,5.6,3586,6547
+tt6908976,Knights of the Zodiac: Saint Seiya,4.6,2085,6548
+tt4364202,Criminal Minds: Beyond Borders,6.1,5816,6549
+tt0340477,Helen of Troy,6.2,6609,6550
+tt0213327,Andromeda,6.6,14327,6551
+tt0112112,Pacific Blue,5.5,3415,6552
+tt1227637,Impact,5.5,3451,6553
+tt1704503,Power Rangers Samurai,5.0,2576,6554
+tt0283203,Mutant X,5.8,4461,6555
+tt4085584,Rush Hour,5.6,3823,6556
+tt0115392,Titanic,5.8,4539,6557
+tt12052892,Day of the Dead,4.7,2313,6558
+tt0144039,Atomic Train,4.7,2318,6559
+tt8755226,Daybreak,6.7,21911,6560
+tt0085033,Inspector Gadget,6.7,22209,6561
+tt1592287,The Witches of Oz,4.2,1961,6562
+tt11833388,Danger Force,3.9,1795,6563
+tt11057226,DMZ,5.5,3794,6564
+tt14923244,The Winchesters,6.3,8647,6565
+tt0156205,Creature,5.0,2869,6566
+tt13317454,Yakamoz S-245,6.2,7597,6567
+tt11859542,In from the Cold,6.3,8826,6568
+tt1428614,Adanali,3.6,1687,6569
+tt3079768,Dominion,6.7,23989,6570
+tt0103524,Renegade,5.9,5477,6571
+tt12858840,Akinci,2.3,1242,6572
+tt12491994,BlackedTheAnime,1.6,1082,6573
+tt0073972,Charlie's Angels,6.5,13556,6574
+tt2262308,Halo 4: Forward Unto Dawn,6.7,25291,6575
+tt0421482,Winx Club,6.1,7075,6576
+tt1697033,True Justice,4.5,2437,6577
+tt7475590,Kung Fu,5.7,4836,6578
+tt7555294,L.A.'s Finest,6.2,8152,6579
+tt1260995,Meteor,4.2,2225,6580
+tt1332653,The Day of the Triffids,5.6,4594,6581
+tt14298658,Transformers: Earthspark,4.0,2111,6582
+tt0220008,RoboCop: Prime Directives,4.6,2702,6583
+tt7759130,Cypher,5.2,3671,6584
+tt9139220,Dracula,6.8,50230,6585
+tt1018501,Valley of the Wolves: Ambush,6.2,8782,6586
+tt8179402,Fate: The Winx Saga,6.8,52641,6587
+tt0297120,Firestarter 2: Rekindled,4.8,3114,6588
+tt10478054,The Lost Symbol,6.4,12660,6589
+tt0959086,Flash Gordon: A Modern Space Opera,4.8,3144,6590
+tt0463850,10.5: Apocalypse,4.4,2687,6591
+tt1378167,NCIS: Los Angeles,6.8,55811,6592
+tt7380366,True Lies,5.2,3958,6593
+tt4218618,The Bastard Executioner,6.2,9490,6594
+tt5614844,Cloak & Dagger,6.6,21468,6595
+tt0468988,Category 7: The End of the World,4.5,2876,6596
+tt5345490,24: Legacy,6.3,11353,6597
+tt8652642,Wu Assassins,6.4,13818,6598
+tt3596174,Henry Danger,5.8,6427,6599
+tt13623148,I Am Groot,6.7,34045,6600
+tt8741648,The Letter for the King,6.0,8044,6601
+tt6601082,Rise of the Teenage Mutant Ninja Turtles,5.6,5657,6602
+tt6110648,The Purge,6.5,17986,6603
+tt6342474,Boruto: Naruto Next Generations,6.6,24434,6604
+tt2712516,The Thundermans,5.7,6330,6605
+tt2621446,Star Trek: Renegades,4.8,3649,6606
+tt3804114,Halo: Nightfall,5.5,5520,6607
+tt0387714,All Grown Up!,5.5,5534,6608
+tt3843168,Z Nation,6.7,37945,6609
+tt5774002,Jupiter's Legacy,6.7,39967,6610
+tt1267295,Cowboy Bebop,6.7,41714,6611
+tt18076310,The Rookie: Feds,5.2,4973,6612
+tt13457822,Welcome to Eden,5.6,6692,6613
+tt1197580,The Last Templar,4.5,3666,6614
+tt13064902,FUBAR,6.5,22916,6615
+tt0112230,Xena: Warrior Princess,6.7,46754,6616
+tt0880557,Bionic Woman,5.8,8366,6617
+tt0106064,Mighty Morphin Power Rangers,6.5,23899,6618
+tt8923854,Black Summer,6.6,32352,6619
+tt11006642,Walker,6.2,13639,6620
+tt0364146,10.5,4.5,3941,6621
+tt16549788,The Guardians of Justice (Will Save You!),5.1,5263,6622
+tt16450274,Treason,6.4,19467,6623
+tt4532368,DC's Legends of Tomorrow,6.8,107622,6624
+tt13696452,Money Heist: Korea - Joint Economic Area,5.6,7536,6625
+tt1593823,The Cape,5.7,8551,6626
+tt4450826,Minority Report,5.9,10451,6627
+tt13624900,Naomi,5.0,5511,6628
+tt7942796,Magnum P.I.,6.2,15502,6629
+tt16418896,Gotham Knights,4.8,5065,6630
+tt10726424,Die Hart,5.3,6786,6631
+tt8336340,Star Wars Resistance,5.3,6812,6632
+tt1760943,Charlie's Angels,4.4,4342,6633
+tt13635348,High Guardian Spice,1.5,2001,6634
+tt15438246,Kaleidoscope,6.6,39577,6635
+tt0111999,Hercules: The Legendary Journeys,6.5,30813,6636
+tt1181917,The Suite Life on Deck,6.3,20281,6637
+tt7668518,The Protector,6.5,35720,6638
+tt0134269,V.I.P.,4.2,4782,6639
+tt8435344,ThunderCats Roar,2.1,2679,6640
+tt0845088,Back Streets,3.6,3984,6641
+tt8042500,Y: The Last Man,6.0,15271,6642
+tt12580982,National Treasure: Edge of History,5.7,11571,6643
+tt13173144,Resident Evil: Infinite Darkness,5.7,11605,6644
+tt10651790,Betaal,5.4,9403,6645
+tt5197820,Van Helsing,6.2,23285,6646
+tt1299440,Fanboy & Chum Chum,3.3,4326,6647
+tt0454349,Johnny Test,5.1,8941,6648
+tt4718304,The Powerpuff Girls,3.6,4939,6649
+tt10207090,Pandora,4.3,6316,6650
+tt2114184,The High Fructose Adventures of Annoying Orange,1.9,3337,6651
+tt7161862,Stargate Origins,3.9,5681,6652
+tt9794044,Citadel,6.1,23981,6653
+tt2070791,Revolution,6.6,84865,6654
+tt6045840,Black Lightning,6.1,26422,6655
+tt4145054,Shadowhunters,6.5,66836,6656
+tt6536562,Payitaht Abdülhamid,5.0,10716,6657
+tt11242246,The Equalizer,5.5,14922,6658
+tt0106168,"Walker, Texas Ranger",5.6,17913,6659
+tt6148376,Ben 10,2.9,5392,6660
+tt0313043,CSI: Miami,6.4,59266,6661
+tt13155198,Bang Baang,3.8,9068,6662
+tt2771780,Teen Titans Go!,5.5,22831,6663
+tt1399045,MacGyver,5.4,22244,6664
+tt10278918,Willow,5.7,31893,6665
+tt10826054,Masters of the Universe: Revelation,5.5,27516,6666
+tt3322310,Iron Fist,6.4,135197,6667
+tt10857164,Ms. Marvel,6.3,109758,6668
+tt15012366,The Empire,4.6,17125,6669
+tt0096542,Baywatch,5.4,29029,6670
+tt5103758,Troy: Fall of a City,4.1,14759,6671
+tt4016454,Supergirl,6.2,126889,6672
+tt4154858,Inhumans,4.9,27804,6673
+tt21194980,Golden Bull,1.1,10087,6674
+tt12785720,The Witcher: Blood Origin,4.8,40395,6675
+tt9660182,Resident Evil,4.2,43580,6676
+tt10857160,She-Hulk: Attorney at Law,5.3,178305,6677
+tt8712204,Batwoman,3.6,45260,6678

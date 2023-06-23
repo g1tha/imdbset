@@ -1,0 +1,501 @@
+tconst,primaryTitle,averageRating,numVotes,ranking
+tt1375666,Inception,8.8,2420342,1
+tt0133093,The Matrix,8.7,1963241,2
+tt0816692,Interstellar,8.7,1920475,3
+tt0103064,Terminator 2: Judgment Day,8.6,1126195,4
+tt0482571,The Prestige,8.5,1368193,5
+tt0088763,Back to the Future,8.5,1242884,6
+tt0078748,Alien,8.5,905705,7
+tt4154756,Avengers: Infinity War,8.4,1129056,8
+tt0338013,Eternal Sunshine of the Spotless Mind,8.3,1033583,9
+tt0090605,Aliens,8.4,734086,10
+tt0066921,A Clockwork Orange,8.3,849698,11
+tt0434409,V for Vendetta,8.2,1142778,12
+tt0107290,Jurassic Park,8.2,1016997,13
+tt0062622,2001: A Space Odyssey,8.3,687293,14
+tt1392190,Mad Max: Fury Road,8.1,1032924,15
+tt0848228,The Avengers,8.0,1418907,16
+tt0088247,The Terminator,8.1,887909,17
+tt3315342,Logan,8.1,790318,18
+tt0083658,Blade Runner,8.1,789883,19
+tt3659388,The Martian,8.0,881385,20
+tt0246578,Donnie Darko,8.0,821052,21
+tt0371746,Iron Man,7.9,1085166,22
+tt0084787,The Thing,8.2,440033,23
+tt1798709,Her,8.0,637946,24
+tt0114746,12 Monkeys,8.0,630367,25
+tt1877832,X-Men: Days of Future Past,7.9,726296,26
+tt2543164,Arrival,7.9,721498,27
+tt1631867,Edge of Tomorrow,7.9,701003,28
+tt1136608,District 9,7.9,696167,29
+tt2488496,Star Wars: Episode VII - The Force Awakens,7.8,948851,30
+tt1843866,Captain America: The Winter Soldier,7.8,868945,31
+tt0796366,Star Trek,7.9,610903,32
+tt3498820,Captain America: Civil War,7.8,814387,33
+tt0206634,Children of Men,7.9,512516,34
+tt3748528,Rogue One: A Star Wars Story,7.8,659362,35
+tt1454468,Gravity,7.7,841781,36
+tt0096874,Back to the Future Part II,7.8,549771,37
+tt0083866,E.T. the Extra-Terrestrial,7.9,421725,38
+tt1270798,X-Men: First Class,7.7,705984,39
+tt0470752,Ex Machina,7.7,563269,40
+tt1408101,Star Trek Into Darkness,7.7,489803,41
+tt1182345,Moon,7.8,367143,42
+tt0017136,Metropolis,8.3,178599,43
+tt1318514,Rise of the Planet of the Apes,7.6,541294,44
+tt0289879,The Butterfly Effect,7.6,502864,45
+tt1951264,The Hunger Games: Catching Fire,7.5,685161,46
+tt0119177,Gattaca,7.8,312918,47
+tt0119116,The Fifth Element,7.6,487166,48
+tt0379786,Serenity,7.8,300628,49
+tt2338151,PK,8.1,193509,50
+tt0145487,Spider-Man,7.4,841591,51
+tt6644200,A Quiet Place,7.5,551567,52
+tt2250912,Spider-Man: Homecoming,7.4,683251,53
+tt0316654,Spider-Man 2,7.4,675253,54
+tt0063442,Planet of the Apes,8.0,185731,55
+tt1219289,Limitless,7.4,590508,56
+tt0088846,Brazil,7.9,205544,57
+tt1276104,Looper,7.4,587817,58
+tt0289043,28 Days Later,7.5,425829,59
+tt2395427,Avengers: Age of Ultron,7.3,887906,60
+tt0290334,X2: X-Men United,7.4,561852,61
+tt0087544,Nausicaä of the Valley of the Wind,8.0,174416,62
+tt1825683,Black Panther,7.3,804263,63
+tt0478970,Ant-Man,7.3,695257,64
+tt0099088,Back to the Future Part III,7.4,461912,65
+tt1677720,Ready Player One,7.4,455867,66
+tt0100802,Total Recall,7.5,341638,67
+tt0120903,X-Men,7.3,628538,68
+tt0093870,RoboCop,7.6,268278,69
+tt0079944,Stalker,8.1,138760,70
+tt1392170,The Hunger Games,7.2,950449,71
+tt6723592,Tenet,7.3,533253,72
+tt1371111,Cloud Atlas,7.4,367851,73
+tt0118884,Contact,7.5,283414,74
+tt0217869,Unbreakable,7.3,428458,75
+tt0234215,The Matrix Reloaded,7.2,609869,76
+tt11286314,Don't Look Up,7.2,560079,77
+tt0075860,Close Encounters of the Third Kind,7.6,208825,78
+tt0119094,Face/Off,7.3,388297,79
+tt0118929,Dark City,7.6,205314,80
+tt2397535,Predestination,7.4,291836,81
+tt1300854,Iron Man 3,7.1,871285,82
+tt0770828,Man of Steel,7.1,788125,83
+tt0091064,The Fly,7.6,191670,84
+tt0238380,Equilibrium,7.3,338911,85
+tt0082694,The Road Warrior,7.6,186553,86
+tt0120201,Starship Troopers,7.3,306048,87
+tt0343818,"I, Robot",7.1,555851,88
+tt6499752,Upgrade,7.5,193598,89
+tt0437086,Alita: Battle Angel,7.3,279833,90
+tt0212720,A.I. Artificial Intelligence,7.2,315179,91
+tt0418279,Transformers,7.0,654821,92
+tt1446714,Prometheus,7.0,622939,93
+tt0069293,Solaris,8.0,94688,94
+tt0084726,Star Trek II: The Wrath of Khan,7.7,125492,95
+tt0116629,Independence Day,7.0,587562,96
+tt0272152,K-PAX,7.4,188522,97
+tt1706620,Snowpiercer,7.1,372803,98
+tt0078346,Superman,7.4,181139,99
+tt1483013,Oblivion,7.0,538300,100
+tt0433035,Real Steel,7.1,341570,101
+tt0448134,Sunshine,7.2,257590,102
+tt0458339,Captain America: The First Avenger,6.9,866799,103
+tt0177789,Galaxy Quest,7.4,170017,104
+tt8332922,A Quiet Place Part II,7.2,249179,105
+tt1228705,Iron Man 2,6.9,838986,106
+tt0884328,The Mist,7.1,323595,107
+tt0453467,Deja Vu,7.1,318287,108
+tt1355644,Passengers,7.0,422589,109
+tt0948470,The Amazing Spider-Man,6.9,674784,110
+tt0024216,King Kong,7.9,88043,111
+tt0369610,Jurassic World,6.9,658349,112
+tt0120611,Blade,7.1,285195,113
+tt1343727,Dredd,7.1,283434,114
+tt3464902,The Lobster,7.1,270971,115
+tt1650062,Super 8,7.0,361311,116
+tt1663662,Pacific Rim,6.9,514234,117
+tt3385516,X-Men: Apocalypse,6.9,446798,118
+tt0043456,The Day the Earth Stood Still,7.8,83766,119
+tt1385826,The Adjustment Bureau,7.0,262881,120
+tt1706593,Chronicle,7.0,257085,121
+tt3778644,Solo: A Star Wars Story,6.9,361926,122
+tt0094012,Spaceballs,7.1,198002,123
+tt2660888,Star Trek Beyond,7.0,252193,124
+tt4154664,Captain Marvel,6.8,581366,125
+tt0384116,G.O.R.A.,8.0,64659,126
+tt0021884,Frankenstein,7.8,75795,127
+tt0134847,Pitch Black,7.0,247389,128
+tt8228288,The Platform,7.0,247104,129
+tt1527186,Melancholia,7.1,188578,130
+tt1790864,The Maze Runner,6.8,485033,131
+tt1213663,The World's End,6.9,289657,132
+tt2866360,Coherence,7.2,136850,133
+tt0096256,They Live,7.2,136616,134
+tt0111282,Stargate,7.0,197507,135
+tt1092026,Paul,6.9,259553,136
+tt0125659,Open Your Eyes,7.7,71243,137
+tt0286106,Signs,6.8,373667,138
+tt1334260,Never Let Me Go,7.1,149325,139
+tt0082340,Escape from New York,7.1,149303,140
+tt1104001,TRON: Legacy,6.8,346031,141
+tt1675192,Take Shelter,7.3,103887,142
+tt0399201,The Island,6.8,321391,143
+tt0242653,The Matrix Revolutions,6.7,526653,144
+tt1430132,The Wolverine,6.7,478617,145
+tt0468492,The Host,7.1,127211,146
+tt0120591,Armageddon,6.7,437111,147
+tt1637688,In Time,6.7,424383,148
+tt15333594,1959,8.5,35551,149
+tt3480822,Black Widow,6.7,398919,150
+tt0112682,The City of Lost Children,7.5,70117,151
+tt0086541,Videodrome,7.2,97744,152
+tt10954984,Nope,6.8,232561,153
+tt0026138,The Bride of Frankenstein,7.8,50630,154
+tt0079501,Mad Max,6.8,213838,155
+tt0328832,The Animatrix,7.3,80286,156
+tt0086567,WarGames,7.1,104728,157
+tt0049366,Invasion of the Body Snatchers,7.7,52319,158
+tt0376994,X-Men: The Last Stand,6.6,527760,159
+tt1872181,The Amazing Spider-Man 2,6.6,514606,160
+tt1270797,Venom,6.6,507875,161
+tt0800080,The Incredible Hulk,6.6,506570,162
+tt0056119,La Jetée,8.2,35526,163
+tt1951265,The Hunger Games: Mockingjay - Part 1,6.6,472967,164
+tt1535108,Elysium,6.6,458276,165
+tt0077745,Invasion of the Body Snatchers,7.4,64159,166
+tt0120902,The X Files,7.0,107862,167
+tt0102975,Star Trek VI: The Undiscovered Country,7.2,78471,168
+tt0187738,Blade II,6.7,226037,169
+tt0114558,Strange Days,7.2,75549,170
+tt0212712,2046,7.4,59634,171
+tt2737304,Bird Box,6.6,360379,172
+tt1187064,Triangle,6.9,122058,173
+tt0085407,The Dead Zone,7.2,73759,174
+tt0182789,Bicentennial Man,6.9,121130,175
+tt0089907,The Return of the Living Dead,7.3,64619,176
+tt8924990,Star Wars: Episode V - The Empire Strikes Back: Deleted Scenes,8.8,23410,177
+tt0371724,The Hitchhiker's Guide to the Galaxy,6.7,203378,178
+tt0049223,Forbidden Planet,7.5,51186,179
+tt18689424,Batman v Superman: Dawn of Justice (Ultimate Edition),7.2,68463,180
+tt0089885,Re-Animator,7.2,68071,181
+tt0106697,Demolition Man,6.7,184598,182
+tt0401729,John Carter,6.6,279362,183
+tt0120804,Resident Evil,6.6,279193,184
+tt0087803,1984,7.1,75110,185
+tt4701182,Bumblebee,6.7,176405,186
+tt0458525,X-Men Origins: Wolverine,6.5,516374,187
+tt6823368,Glass,6.6,254206,188
+tt0414852,District B13,7.1,72167,189
+tt1731141,Ender's Game,6.6,247125,190
+tt5442430,Life,6.6,240506,191
+tt0407304,War of the Worlds,6.5,460445,192
+tt1549572,Another Earth,6.9,97828,193
+tt0296572,The Chronicles of Riddick,6.6,236105,194
+tt0119567,The Lost World: Jurassic Park,6.5,429623,195
+tt0054387,The Time Machine,7.5,43027,196
+tt0480669,Timecrimes,7.1,66195,197
+tt0081573,Superman II,6.8,111146,198
+tt0390384,Primer,6.8,110222,199
+tt3420504,Finch,6.9,89306,200
+tt0438488,Terminator Salvation,6.5,369506,201
+tt0139809,The Thirteenth Floor,7.0,74793,202
+tt0024184,The Invisible Man,7.6,37568,203
+tt4983780,Maanaadu,8.3,23927,204
+tt1951266,The Hunger Games: Mockingjay - Part 2,6.5,344315,205
+tt0070544,Fantastic Planet,7.7,34095,206
+tt0120907,eXistenZ,6.8,103690,207
+tt0119081,Event Horizon,6.6,188617,208
+tt0070723,Soylent Green,7.0,67644,209
+tt0084827,Tron,6.7,125359,210
+tt2975590,Batman v Superman: Dawn of Justice,6.4,713695,211
+tt1286126,A.R.O.G,7.3,43638,212
+tt0093894,The Running Man,6.6,159382,213
+tt0047034,Godzilla,7.5,35726,214
+tt1439572,Perfect Sense,7.0,61958,215
+tt2872732,Lucy,6.4,513212,216
+tt0060390,Fahrenheit 451,7.2,44478,217
+tt0319262,The Day After Tomorrow,6.4,460896,218
+tt3072482,Hardcore Henry,6.7,98890,219
+tt0831387,Godzilla,6.4,423828,220
+tt0133751,The Faculty,6.6,128966,221
+tt6292852,I Am Mother,6.7,95203,222
+tt0070909,Westworld,6.9,60823,223
+tt0387808,Idiocracy,6.5,171868,224
+tt0070707,Sleeper,7.1,43920,225
+tt8925010,Star Wars: Episode VI - Return of the Jedi: Deleted Scenes,8.4,16764,226
+tt0066769,The Andromeda Strain,7.2,38915,227
+tt0088172,Starman,7.0,49536,228
+tt0368008,The Manchurian Candidate,6.6,113453,229
+tt0103644,Alien³,6.4,308306,230
+tt2316204,Alien: Covenant,6.4,290593,231
+tt0070233,Ivan Vasilyevich Changes His Profession,8.2,17515,232
+tt4530422,Overlord,6.6,102930,233
+tt5118314,Star Wars: Episode III - The Return of Darth Vader,7.6,23773,234
+tt0991178,Battlestar Galactica: Razor,7.6,23754,235
+tt0116996,Mars Attacks!,6.4,235083,236
+tt0074812,Logan's Run,6.8,58993,237
+tt0090305,Weird Science,6.6,93392,238
+tt0090163,Threads,8.0,17483,239
+tt0452608,Death Race,6.4,214023,240
+tt0088933,Cocoon,6.7,66031,241
+tt0413300,Spider-Man 3,6.3,610150,242
+tt0088170,Star Trek III: The Search for Spock,6.6,83451,243
+tt2649554,Midnight Special,6.6,82449,244
+tt0060955,Seconds,7.6,20980,245
+tt1231587,Hot Tub Time Machine,6.4,180389,246
+tt0046534,The War of the Worlds,7.0,37238,247
+tt1411250,Riddick,6.4,173151,248
+tt0044121,The Thing from Another World,7.1,31651,249
+tt0081455,Scanners,6.7,58774,250
+tt0084745,Swamp Thing,5.3,15254,14945
+tt2040578,Alien Uprising,3.1,3601,14946
+tt2145829,Robot Overlords,4.6,7523,14947
+tt2268573,Stranded,3.5,4202,14948
+tt8955940,Agent Revelation,3.6,4391,14949
+tt0179183,Fortress 2: Re-Entry,4.5,7152,14950
+tt0053611,Attack of the Giant Leeches,3.7,4672,14951
+tt0149261,Deep Blue Sea,5.9,137772,14952
+tt5464234,Kill Switch,4.7,8363,14953
+tt5702566,Stasis,3.0,3588,14954
+tt0052646,The Brain That Wouldn't Die,4.5,7308,14955
+tt10247678,Sensation,3.3,4038,14956
+tt2091478,Air,5.1,12356,14957
+tt1986953,Storage 24,4.5,7340,14958
+tt0055562,Invasion of the Neptune Men,2.1,2807,14959
+tt10333426,Bliss,5.4,18986,14960
+tt13788842,2025 - The World enslaved by a Virus,1.0,2206,14961
+tt4157728,The Last Boy,4.9,10296,14962
+tt1396208,Action Replayy,4.3,6617,14963
+tt3399484,The Sand,3.8,5189,14964
+tt5493706,Death Race 2050,3.7,4982,14965
+tt0068615,Frogs,4.4,7205,14966
+tt4937114,Rogue Warrior: Robot Fighter,3.1,3991,14967
+tt0356618,The Forgotten,5.8,67409,14968
+tt1918734,2067,4.9,10791,14969
+tt1886644,Piranhaconda,2.9,3781,14970
+tt1988591,Death Race 3: Inferno,5.4,20648,14971
+tt0098156,R.O.T.O.R.,2.7,3617,14972
+tt5215088,A.I. Rising,4.9,11124,14973
+tt3655682,Let's Be Evil,3.8,5550,14974
+tt0092532,Alien from L.A.,3.1,4209,14975
+tt4552524,Jeruzalem,4.8,10412,14976
+tt0411806,Return of the Living Dead: Rave to the Grave,3.3,4557,14977
+tt0114852,Village of the Damned,5.6,33136,14978
+tt2325518,Beneath,3.5,4933,14979
+tt1407049,Altitude,4.8,10433,14980
+tt0120764,My Favorite Martian,5.1,14066,14981
+tt0119891,Phantoms,5.4,21667,14982
+tt0073043,The Giant Spider Invasion,3.2,4438,14983
+tt9562694,Alien Warfare,2.6,3659,14984
+tt0182060,The Man Who Saved the World,4.4,7886,14985
+tt0145529,Time Chasers,2.4,3469,14986
+tt1500491,Death Race 2,5.6,33887,14987
+tt2102496,Cabin Fever 3: Patient Zero,4.4,8032,14988
+tt1368440,Branded,4.6,9235,14989
+tt12592252,Songbird,4.8,10915,14990
+tt1038685,The King of Fighters,3.1,4466,14991
+tt0283054,Thunderpants,3.8,5937,14992
+tt6127004,Paradise Hills,5.2,16957,14993
+tt3774802,Pandemic,4.4,8337,14994
+tt0114508,Species,5.8,82534,14995
+tt9664108,Voyagers,5.4,23897,14996
+tt7097896,Venom: Let There Be Carnage,5.9,238486,14997
+tt0047898,Bride of the Monster,4.1,7392,14998
+tt0075343,Track of the Moon Beast,2.3,3765,14999
+tt8663516,Child's Play,5.7,54202,15000
+tt0100502,RoboCop 2,5.8,89290,15001
+tt0114857,Virtuosity,5.5,31274,15002
+tt0377713,Cube Zero,5.6,41542,15003
+tt1724970,Beyond Skyline,5.3,22696,15004
+tt0199753,Red Planet,5.7,59097,15005
+tt0079946,Starcrash,4.0,7599,15006
+tt1017460,Splice,5.8,99895,15007
+tt0095687,My Stepmother Is an Alien,5.4,27117,15008
+tt0493424,Attack Force,2.7,4588,15009
+tt1699231,Quarantine 2: Terminal,5.2,20301,15010
+tt0163025,Jurassic Park III,5.9,330965,15011
+tt0469916,Hollow Man II,4.4,9907,15012
+tt0101628,Critters 4,4.0,7905,15013
+tt0103003,Suburban Commando,4.5,10681,15014
+tt1029231,Krrish 3,5.3,24211,15015
+tt1881002,Maggie,5.6,45558,15016
+tt4575328,2036 Origin Unknown,4.3,9816,15017
+tt1389072,Downsizing,5.8,115762,15018
+tt1055369,Transformers: Revenge of the Fallen,5.9,416659,15019
+tt9203694,Stowaway,5.6,49274,15020
+tt1288403,Universal Soldier: Regeneration,5.3,26074,15021
+tt1709143,The Last Days on Mars,5.5,38034,15022
+tt0278259,.com for Murder,2.6,5014,15023
+tt6143568,The Humanity Bureau,4.5,11701,15024
+tt13265876,Apex,3.0,5741,15025
+tt3774790,400 Days,4.4,11035,15026
+tt1136683,100 Million BC,2.3,4662,15027
+tt0069768,Battle for the Planet of the Apes,5.4,32264,15028
+tt12108622,Infinitum: Subject Unknown,4.1,9381,15029
+tt8804580,Attack of the Unknown,3.3,6576,15030
+tt0183523,Mission to Mars,5.7,75057,15031
+tt5737536,Future World,3.3,6616,15032
+tt0164052,Hollow Man,5.8,134634,15033
+tt0116225,Escape from L.A.,5.7,77721,15034
+tt0115857,Chain Reaction,5.6,54157,15035
+tt0410650,Species III,4.2,10308,15036
+tt2740710,From the Sea,1.6,4150,15037
+tt1634106,Bloodshot,5.7,81408,15038
+tt8615822,Occupation: Rainfall,4.7,15007,15039
+tt0057970,The Creeping Terror,1.9,4606,15040
+tt0969653,White Wall,3.1,6566,15041
+tt0113135,Future War,1.7,4393,15042
+tt1975159,Flight 7500,4.8,16565,15043
+tt0462335,High-Rise,5.5,44009,15044
+tt10539608,The Midnight Sky,5.7,86393,15045
+tt1464763,Mute,5.4,36856,15046
+tt0144814,The Rage: Carrie 2,4.8,17171,15047
+tt0101627,Critters 3,4.4,12663,15048
+tt0104692,The Lawnmower Man,5.4,37532,15049
+tt0097368,The Fly II,5.1,23874,15050
+tt0061191,The Wild World of Batwoman,1.8,4740,15051
+tt0082910,Piranha II: The Spawning,3.8,9307,15052
+tt0960835,Transmorphers,1.7,4699,15053
+tt7086706,Deep Blue Sea 2,3.4,7894,15054
+tt0072666,Zaat,2.1,5228,15055
+tt1220634,Resident Evil: Afterlife,5.8,175392,15056
+tt0848557,Diary of the Dead,5.5,48389,15057
+tt1918886,Joker,2.4,5708,15058
+tt0300556,Timeline,5.6,64592,15059
+tt0077834,Laserblast,2.8,6499,15060
+tt0359013,Blade: Trinity,5.8,182886,15061
+tt0114614,Tank Girl,5.3,33278,15062
+tt13029044,Mother/Android,4.9,20239,15063
+tt1758570,Battle of Los Angeles,1.9,5114,15064
+tt4154916,Replicas,5.4,40428,15065
+tt0134983,Supernova,4.8,18670,15066
+tt0200469,Bats,4.0,10890,15067
+tt0116514,Hellraiser: Bloodline,5.0,23386,15068
+tt0360556,Fahrenheit 451,4.9,21513,15069
+tt0113481,Johnny Mnemonic,5.6,74077,15070
+tt6654210,Infinite,5.5,55682,15071
+tt1025100,Gemini Man,5.7,116944,15072
+tt0117218,The Nutty Professor,5.7,120612,15073
+tt1440129,Battleship,5.8,252596,15074
+tt3832096,Cabin Fever,3.7,10604,15075
+tt6774786,Occupation,4.5,16834,15076
+tt4244162,Beta Test,4.8,21781,15077
+tt1298649,The Watch,5.7,130537,15078
+tt0367677,Dracula 3000,2.1,6424,15079
+tt1519461,Area 51,4.2,14753,15080
+tt1034032,Gamer,5.7,137461,15081
+tt1798632,Firestarter,4.6,19434,15082
+tt0120458,Virus,5.0,29027,15083
+tt0285492,Cube²: Hypercube,5.5,68771,15084
+tt1160996,The Colony,5.3,46284,15085
+tt0106598,Coneheads,5.4,56189,15086
+tt0138304,The Astronaut's Wife,5.4,56605,15087
+tt1190080,2012,5.8,386754,15088
+tt0131646,Wing Commander,4.3,17136,15089
+tt7315484,The Silence,5.3,48087,15090
+tt7851428,First Signal,3.6,12057,15091
+tt4687108,In the Tall Grass,5.4,60187,15092
+tt3480796,Vice,4.2,16811,15093
+tt9624766,Jiu Jitsu,2.9,9476,15094
+tt0097138,Cyborg,5.0,32747,15095
+tt0120461,Volcano,5.5,79194,15096
+tt1217613,Battle Los Angeles,5.7,182704,15097
+tt1583421,G.I. Joe: Retaliation,5.7,184644,15098
+tt0489018,Day of the Dead,4.5,21438,15099
+tt2918436,The Lazarus Effect,5.2,44981,15100
+tt6565702,X-Men: Dark Phoenix,5.7,195089,15101
+tt0113492,Judge Dredd,5.6,121497,15102
+tt0402901,The Cave,5.1,40195,15103
+tt1046173,G.I. Joe: The Rise of Cobra,5.7,212121,15104
+tt0157262,2001: A Space Travesty,3.4,12524,15105
+tt12335692,Last Man Down,3.6,13643,15106
+tt0133152,Planet of the Apes,5.7,223841,15107
+tt2184339,The Purge,5.7,231181,15108
+tt0093405,Leonard Part 6,2.1,8400,15109
+tt0285531,Dreamcatcher,5.5,94547,15110
+tt1231277,S. Darko,3.6,14197,15111
+tt0364970,Babylon A.D.,5.5,97224,15112
+tt2592614,Resident Evil: The Final Chapter,5.5,97596,15113
+tt0960890,Zombie Strippers!,4.1,18688,15114
+tt0116839,Lawnmower Man 2: Beyond Cyberspace,2.5,9853,15115
+tt10838180,The Matrix Resurrections,5.7,262089,15116
+tt2637294,Hot Tub Time Machine 2,5.0,40257,15117
+tt0298814,The Core,5.5,104459,15118
+tt0454919,Pulse,4.7,30033,15119
+tt1772240,Apollo 18,5.2,56783,15120
+tt0327162,The Stepford Wives,5.3,68064,15121
+tt1196334,After Last Season,1.6,8293,15122
+tt0290095,The Tuxedo,5.4,86314,15123
+tt6920084,Resident Evil: Welcome to Raccoon City,5.2,58484,15124
+tt3256226,IO,4.8,35468,15125
+tt0119013,Double Team,4.8,35589,15126
+tt0844760,Starship Troopers 3: Marauder,4.3,24108,15127
+tt4779682,The Meg,5.6,181391,15128
+tt8041270,Jurassic World: Dominion,5.6,185313,15129
+tt0400426,Far Cry,3.2,14625,15130
+tt0103923,Captain America,3.2,14635,15131
+tt0382992,Stealth,5.1,55232,15132
+tt2094766,Assassin's Creed,5.6,203579,15133
+tt0465624,My Super Ex-Girlfriend,5.2,65707,15134
+tt0120841,Species II,4.5,30286,15135
+tt6133466,The First Purge,5.2,66595,15136
+tt0054673,The Beast of Yucca Flats,1.9,10070,15137
+tt0085636,Halloween III: Season of the Witch,5.1,57293,15138
+tt0059464,Monster a Go-Go,1.8,9927,15139
+tt0242423,"Dude, Where's My Car?",5.5,142873,15140
+tt0119137,Flubber,5.3,92144,15141
+tt0286716,Hulk,5.6,273049,15142
+tt0116654,The Island of Dr. Moreau,4.5,34537,15143
+tt0089280,Hobgoblins,2.2,12188,15144
+tt4287320,The Circle,5.3,96422,15145
+tt0970416,The Day the Earth Stood Still,5.5,174651,15146
+tt0402022,Æon Flux,5.4,130806,15147
+tt2109248,Transformers: Age of Extinction,5.6,322499,15148
+tt0457297,The Butterfly Effect 2,4.5,36720,15149
+tt1562871,Ra.One,4.7,44487,15150
+tt0176269,Universal Soldier: The Return,4.2,30104,15151
+tt11762434,Cosmic Sin,2.5,14443,15152
+tt0228333,Ghosts of Mars,4.9,56230,15153
+tt1981128,Geostorm,5.3,113009,15154
+tt1418377,"I, Frankenstein",5.1,82602,15155
+tt0180052,The Adventures of Pluto Nash,3.8,26494,15156
+tt5834426,Moonfall,5.1,89110,15157
+tt9820556,Breach,2.9,19156,15158
+tt1133985,Green Lantern,5.5,290208,15159
+tt2403029,The Starving Games,3.2,21604,15160
+tt2304933,The 5th Wave,5.2,113555,15161
+tt0255798,The Animal,4.8,61902,15162
+tt0120685,Godzilla,5.4,197749,15163
+tt1855325,Resident Evil: Retribution,5.3,146339,15164
+tt0419706,Doom,5.2,116229,15165
+tt1617661,Jupiter Ascending,5.3,191566,15166
+tt0144528,Nutty Professor II: The Klumps,4.4,52210,15167
+tt0115624,Barb Wire,3.5,30368,15168
+tt0110216,Junior,4.7,70979,15169
+tt3371366,Transformers: The Last Knight,5.2,159774,15170
+tt0052077,Plan 9 from Outer Space,3.9,39517,15171
+tt0808240,Turks in Space,1.5,16614,15172
+tt0211443,Jason X,4.4,58827,15173
+tt1628841,Independence Day: Resurgence,5.2,184001,15174
+tt0426592,Superhero Movie,4.6,72311,15175
+tt0246894,Rollerball,3.1,28854,15176
+tt0107978,RoboCop 3,4.1,52034,15177
+tt1714203,Piranha 3DD,3.8,44257,15178
+tt0118661,The Avengers,3.8,44632,15179
+tt1564585,Skyline,4.5,90970,15180
+tt0094074,Superman IV: The Quest for Peace,3.7,50833,15181
+tt0120891,Wild Wild West,4.9,164029,15182
+tt0949731,The Happening,5.0,212086,15183
+tt0370032,Ultraviolet,4.3,83109,15184
+tt2467046,Left Behind,3.1,41308,15185
+tt1754700,The Prototype,2.4,35697,15186
+tt1815862,After Earth,4.8,205301,15187
+tt0270846,Superbabies: Baby Geniuses 2,1.5,31504,15188
+tt0369226,Alone in the Dark,2.4,46415,15189
+tt1502712,Fantastic Four,4.3,171732,15190
+tt4884540,Angels Apocalypse,1.6,42919,15191
+tt0185183,Battlefield Earth,2.5,81711,15192
+tt0118688,Batman & Robin,3.8,260301,15193
+tt1213644,Disaster Movie,1.9,93190,15194

@@ -1,4 +1,5 @@
-# Implements an algorithm to rank IMDB movies, shows, episodes and cast by a combination of ratings and number of votes by genre. Ranking is based on credibility theory application described on https://en.wikipedia.org/wiki/IMDb.
+# Rank IMDB movies, shows, episodes and cast by a combination of ratings and number of votes. 
+# Ranking is based on credibility theory application described on https://en.wikipedia.org/wiki/IMDb.
 import os
 import sys
 import urllib.request
@@ -66,7 +67,7 @@ def main():
     # Adds ability to run script with arguement to update the dataset for the latest IMDB data.
     parser = argparse.ArgumentParser(
         prog='IMDBSet',
-        description='Implements an algorithm to rank IMDB movies, shows, episodes and cast by a combination of ratings and number of votes by genre.'
+        description='Ranks IMDB movies, shows, episodes and cast by a combination of ratings and number of votes.'
         )
     parser.add_argument('-u', '--update',
                         help='Optional argument to wupdate the source IMDB data should to the latest available.',
@@ -78,7 +79,9 @@ def main():
         answer = input("This may take a few minutes. Are you sure you want to continue updating the data? ")
         if answer.strip().lower()[0] == 'y':
             update_db()
-    prompt_update()
+    # prompt_update()
+    titles_tables()
+
 
 
 ## FUNCTIONS ##
@@ -166,6 +169,7 @@ def list_missing_files():
             missing_list.append(table)
     return missing_list
 
+
 def prompt_update():
     """
     Prompts users to download missing files.
@@ -183,6 +187,95 @@ def prompt_update():
             print('Exiting: cannot continue without source files.')
             sys.exit(1)
 
+
+def get_titles_base():
+    """
+    A function to return a base titles dataframe with ratings and categories added.
+    """
+    # Add a titleCategory Column and drop unecessary columns
+    type_cat_map = pl.DataFrame({
+        'titleType':        ['tvMiniSeries',    'movie',    'videoGame',    'short',    'tvSpecial',    'tvSeries', 'tvEpisode',    'tvShort',  'video',    'tvPilot',  'tvMovie'],
+        'titleCategory':    ['series',          'movie',     'videoGame',    'movie',   'movie',        'series',   'episode',      'movie',    'movie',    'episode',  'movie']
+    })
+    df = pl.read_parquet('data\sources\\title.basics.parquet').drop('originalTitle', 'startYear', 'runtimeMinutes','isAdult', 'endYear')
+    df = df.join(type_cat_map, on='titleType', how='left')
+    df = df.drop('titleType')
+    # Add ratings and votes (using inner join, which means any titles without ratings will be excluded)
+    ratings = pl.read_parquet('data\sources\\title.ratings.parquet')
+    df = df.join(ratings, on='tconst')
+
+    return df
+
+@time_it
+def titles_tables():
+    """
+    Produces a set of tables in CSV format of the top and bottom ranked titles by category and genre.
+    """
+    list_categories = ['episode', 'movie', 'series', 'videoGame']
+    titles_base = get_titles_base()
+    for category in list_categories:
+        # Filter by category
+        titles_category = titles_base.filter(pl.col('titleCategory')==category)
+        # Get genres
+        genres = titles_category.select(pl.col('genres').list.explode()).unique().to_series()
+        # If category is 'episode' add columns with series name, episode number and season number.
+        if category == 'episode':
+            details = pl.read_parquet('data\sources\\title.episode.parquet')
+            parents = titles_base.filter(pl.col('titleCategory')=='series').rename({'tconst':'parentTconst'})
+            details = details.join(parents, on='parentTconst')
+            details = details.rename({'primaryTitle':'seriesName'}).drop('parentTconst', 'genres', 'titleCategory', 'averageRating', 'numVotes')
+            titles_category = titles_category.join(details, on='tconst')
+            titles_category = titles_category.select(pl.col('tconst'), pl.col('primaryTitle'), pl.col('seriesName'), pl.col('seasonNumber'), pl.col('episodeNumber'), pl.col('averageRating'), pl.col('numVotes'), pl.col('genres'), pl.col('titleCategory'))
+        # Add rankings
+        titles_category = add_ranking(titles_category)
+        # Export to CSV (dropping uncessary columns, taking top and bottom 100, and rounding figures to reduce number of characters)
+        output = titles_category.drop('genres', 'titleCategory')
+        output = output.with_columns(pl.col('numVotes').round(0).cast(pl.Int64))
+        filename = f'title_{category}'
+        export_csv(output, filename, 1000)
+        for genre in genres:
+            # Filter by genre
+            if genre:
+                titles_genre = titles_category.filter(pl.col('genres').list.contains(genre))
+                # Add rankings
+                titles_genre = add_ranking(titles_genre)
+                # Export to CSV (dropping uncessary columns, taking top and bottom 100, and rounding figures to reduce number of characters)
+                output = titles_genre.drop('genres', 'titleCategory')
+                output = output.with_columns(pl.col('numVotes').round(0).cast(pl.Int64))
+                filename = f'title_{category}_{genre}'
+                export_csv(output, filename, 250)
+
+def add_ranking(df):
+    """
+    Adds a rankings column to dataframe based on both average ratings and number of votes.
+    """
+    # Adopted from https://web.archive.org/web/20171023205105/http://www.imdb.com/help/show_leaf?votestopfaq 
+    # Calculate the weightedRatings column such that:
+    # weighted rating (WR) = (R * v + mean * min_votes) / (v + min_votes)
+    # Where:
+    # R = average rating for the title
+    # v = number of votes for the title
+    # min_votes = minimum votes required to be listed in ranking. worked out as:
+    #           mean number of votes + 2 * std deviations
+    # mean = the mean vote across the whole report
+    mean = df.select(pl.mean('averageRating'))
+    min_votes = df.select(pl.mean('numVotes')) + 2 * df.select(pl.std('numVotes'))
+    df = df.with_columns(((pl.col('averageRating') * pl.col('numVotes') + mean * min_votes)/(pl.col('numVotes') + min_votes)).alias('ranking'))
+    df = df.with_columns(pl.col('ranking').rank(method='min', descending=True))
+    df = df.sort(pl.col('ranking'))
+
+    return df
+
+
+def export_csv(df, filename, count):
+    """
+    Exports a top and bottom 'count' slice of the dataframe 'df' to a 'filename'.csv.
+    """
+    output_head = df.head(count)
+    output_tail = df.tail(count)
+    output = output_head.extend(output_tail).unique(subset='tconst').sort(pl.col('ranking'))
+
+    output.write_csv(f'data\{filename}.csv')
         
 if __name__ == "__main__":
     main()

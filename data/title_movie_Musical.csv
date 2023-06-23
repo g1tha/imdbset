@@ -1,0 +1,501 @@
+tconst,primaryTitle,averageRating,numVotes,ranking
+tt0045152,Singin' in the Rain,8.3,249573,1
+tt0367110,Swades,8.2,93764,2
+tt0169102,Lagaan: Once Upon a Time in India,8.1,117120,3
+tt1562872,Zindagi Na Milegi Dobara,8.2,81640,4
+tt0067992,Willy Wonka & the Chocolate Factory,7.8,209876,5
+tt0168629,Dancer in the Dark,7.9,113209,6
+tt0347304,Kal Ho Naa Ho,7.9,72010,7
+tt0058385,My Fair Lady,7.8,98586,8
+tt0203009,Moulin Rouge!,7.6,291685,9
+tt0067093,Fiddler on the Roof,8.0,45604,10
+tt0066763,Anand,8.1,34468,11
+tt0023969,Duck Soup,7.8,61500,12
+tt1707386,Les Misérables,7.5,337059,13
+tt1485796,The Greatest Showman,7.5,293862,14
+tt0068327,Cabaret,7.8,57240,15
+tt0055614,West Side Story,7.6,117665,16
+tt0420332,Veer-Zaara,7.8,54982,17
+tt0085959,The Meaning of Life,7.5,122642,18
+tt0073629,The Rocky Horror Picture Show,7.4,158366,19
+tt0026778,A Night at the Opera,7.8,33764,20
+tt0078754,All That Jazz,7.8,33530,21
+tt0408236,Sweeney Todd: The Demon Barber of Fleet Street,7.3,376662,22
+tt0058450,The Umbrellas of Cherbourg,7.8,29260,23
+tt0172684,Kuch Kuch Hota Hai,7.5,54715,24
+tt6412452,The Ballad of Buster Scruggs,7.3,156836,25
+tt0047673,White Christmas,7.5,46779,26
+tt0058182,A Hard Day's Night,7.5,46663,27
+tt2077886,The Phantom of the Opera at the Royal Albert Hall,8.8,9555,28
+tt0471711,Futurama: Bender's Big Score,7.6,34959,29
+tt0238936,Devdas,7.5,44243,30
+tt0077631,Grease,7.2,287720,31
+tt0299658,Chicago,7.2,236053,32
+tt0079261,Hair,7.5,39079,33
+tt0248126,Kabhi Khushi Kabhie Gham...,7.4,52439,34
+tt1180583,Vaaranam Aayiram,8.2,13583,35
+tt0106333,Baazigar,7.6,29057,36
+tt1621830,Monpura,8.8,8375,37
+tt0293508,The Phantom of the Opera,7.2,126678,38
+tt11375428,Hridayam,8.1,13663,39
+tt0063385,Oliver!,7.4,40078,40
+tt3581652,West Side Story,7.2,88877,41
+tt0027125,Top Hat,7.7,19983,42
+tt1321510,In the Heights,7.3,49641,43
+tt0056262,The Music Man,7.7,18396,44
+tt0084352,Monty Python Live at the Hollywood Bowl,7.8,15502,45
+tt0059246,Guide,8.4,8345,46
+tt0049408,The King and I,7.4,27147,47
+tt0110076,Hum Aapke Hain Koun..!,7.5,21877,48
+tt1754109,Les Misérables in Concert: The 25th Anniversary,8.8,6243,49
+tt2178470,Yeh Jawaani Hai Deewani,7.2,48197,50
+tt0091419,Little Shop of Horrors,7.1,80848,51
+tt11772746,Thiruchitrambalam,7.9,11687,52
+tt0047522,A Star Is Born,7.5,18987,53
+tt0070239,Jesus Christ Superstar,7.3,28474,54
+tt0214585,Chithram,8.7,5714,55
+tt0043278,An American in Paris,7.2,35374,56
+tt0047472,Seven Brides for Seven Brothers,7.3,26105,57
+tt0242256,Alai Payuthey,8.3,6950,58
+tt0050870,Thirst,8.3,6927,59
+tt0150992,Hum Dil De Chuke Sanam,7.4,19212,60
+tt5255710,Sanam Teri Kasam,7.5,14807,61
+tt0263065,Arabesque,8.0,8177,62
+tt0045810,Gentlemen Prefer Blondes,7.1,40557,63
+tt0062873,The Young Girls of Rochefort,7.7,11055,64
+tt0028333,Swing Time,7.5,14201,65
+tt0028772,A Day at the Races,7.5,14155,66
+tt0063404,Padosan,8.1,7132,67
+tt0023027,Horse Feathers,7.5,13035,68
+tt0041716,On the Town,7.3,18171,69
+tt0020640,Animal Crackers,7.4,14889,70
+tt0768120,Memories of Matsuko,7.8,8327,71
+tt0022158,Monkey Business,7.4,13924,72
+tt0024069,Gold Diggers of 1933,7.7,8767,73
+tt0045537,The Band Wagon,7.4,11976,74
+tt0053146,Black Orpheus,7.4,11790,75
+tt0283832,8 Women,7.0,33409,76
+tt0299108,Rehnaa Hai Terre Dil Mein,7.6,8719,77
+tt0050419,Funny Face,7.0,31627,78
+tt0086231,Sagara Sangamam,8.8,3473,79
+tt0213890,Mohabbatein,7.0,31455,80
+tt11874226,David Byrne's American Utopia,8.2,4919,81
+tt2203308,Aashiqui 2,7.0,31111,82
+tt0095936,Qayamat Se Qayamat Tak,7.4,11135,83
+tt0059260,Help!,7.1,20502,84
+tt0100095,Maine Pyar Kiya,7.3,12708,85
+tt0263206,Christmas in South Park,8.3,4372,86
+tt0385277,The Music Man,7.5,9066,87
+tt0114234,Rangeela,7.4,10152,88
+tt0048140,Guys and Dolls,7.1,18442,89
+tt0084747,Sweeney Todd: The Demon Barber of Fleet Street,8.4,3717,90
+tt0118983,Dil To Pagal Hai,7.0,23378,91
+tt7638556,Come from Away,8.5,3445,92
+tt0040308,Easter Parade,7.3,10598,93
+tt1273675,Rent: Filmed Live on Broadway,8.1,4381,94
+tt0251282,A Muppet Family Christmas,8.1,4376,95
+tt20784402,Madhi,9.5,2138,96
+tt0029546,Shall We Dance,7.5,7628,97
+tt0072272,That's Entertainment!,7.8,5275,98
+tt4366830,Grease Live!,7.3,9759,99
+tt0025164,The Gay Divorcee,7.4,8295,100
+tt0294870,Rent,6.8,54743,101
+tt6346162,Disney's Newsies: The Broadway Musical!,8.3,3333,102
+tt0082517,History of the World: Part I,6.8,53590,103
+tt5662106,Lemonade,8.3,3268,104
+tt0045591,Calamity Jane,7.2,10403,105
+tt5190958,Katyar Kaljat Ghusali,8.8,2471,106
+tt0064418,"Hello, Dolly!",7.0,16209,107
+tt0437407,Parineeta,7.2,9413,108
+tt0043306,Awaara,7.8,4346,109
+tt0024028,Footlight Parade,7.5,5817,110
+tt0386820,The Trouble with Terkel,7.1,11296,111
+tt0186408,An Ordinary Miracle,8.1,3335,112
+tt12969078,Atkan Chatkan,7.8,4212,113
+tt0237038,Bharatham,8.4,2736,114
+tt0066461,One Song a Day Takes Mischief Away,8.5,2518,115
+tt0285063,Elvis: The Comeback Special,8.9,2061,116
+tt0427327,Hairspray,6.7,134688,117
+tt0107977,Robin Hood: Men in Tights,6.7,131254,118
+tt0048445,Oklahoma!,7.0,13439,119
+tt6874964,Jesus Christ Superstar Live in Concert,7.8,3873,120
+tt0115819,Cannibal! The Musical,7.0,12760,121
+tt0069198,The Ruling Class,7.3,6560,122
+tt0049314,High Society,6.9,16819,123
+tt0234000,Kaho Naa... Pyaar Hai,6.9,15902,124
+tt0083465,Pokrov Gates,8.0,2973,125
+tt7149678,Super Bowl LI Halftime Show Starring Lady Gaga,8.8,1865,126
+tt0102825,Saajan,7.2,7204,127
+tt0119861,Pardes,6.9,15400,128
+tt0092117,True Stories,7.2,7047,129
+tt0116763,Khamoshi the Musical,7.5,4508,130
+tt0104605,Khiladi,7.1,8327,131
+tt0173714,Cats,7.3,5804,132
+tt2040264,A Very Potter Sequel,8.7,1869,133
+tt0023158,Love Me Tonight,7.5,4428,134
+tt0285800,Notre-Dame de Paris,8.9,1671,135
+tt0054073,The Cloud-Capped Star,7.9,2986,136
+tt0022599,À Nous la Liberté,7.4,4800,137
+tt0156610,The Hole,7.5,4225,138
+tt0996605,Love Songs,7.0,9875,139
+tt0037514,Anchors Aweigh,7.0,9121,140
+tt0069671,Abhimaan,7.8,2907,141
+tt0146645,Dosti,8.5,1785,142
+tt0116242,Everyone Says I Love You,6.7,38233,143
+tt0092745,A Man from Boulevard des Capucines,7.6,3394,144
+tt0175790,Joseph and the Amazing Technicolor Dreamcoat,7.3,4818,145
+tt0057950,Cinderella,7.7,3018,146
+tt1125194,Legally Blonde: The Musical,8.3,1897,147
+tt0085213,Le Bal,7.7,2906,148
+tt0119828,Same Old Song,7.3,4374,149
+tt11318624,John Mulaney & the Sack Lunch Bunch,7.4,3765,150
+tt0046998,French Cancan,7.3,4289,151
+tt0061791,How to Succeed in Business Without Really Trying,7.2,4981,152
+tt0022150,Le Million,7.4,3693,153
+tt0091256,Permission,8.4,1613,154
+tt0028988,Heidi,7.2,4736,155
+tt0232152,Nagara Haavu,9.1,1138,156
+tt0298954,Crying... Silicon Tears,7.5,3073,157
+tt0066758,Amar Prem,8.1,1846,158
+tt6162808,Miss Saigon: 25th Anniversary,8.1,1842,159
+tt3872778,Monty Python Live (Mostly),7.6,2716,160
+tt0175157,Sherekilebi,8.8,1238,161
+tt0045963,Kiss Me Kate,7.0,6572,162
+tt0056436,Sahib Bibi Aur Ghulam,8.1,1792,163
+tt0046000,Lili,7.3,3788,164
+tt4692368,Jawani Phir Nahi Ani,7.4,3311,165
+tt0219251,Plastilinovaya vorona,8.2,1639,166
+tt1239426,Hipsters,7.1,5107,167
+tt0049397,Carnival in Moscow,7.5,2882,168
+tt0061842,Jewel Thief,7.9,1999,169
+tt0366996,The Saddest Music in the World,7.0,6213,170
+tt0305502,Dva sata kvalitetnog TV programa,8.4,1417,171
+tt0216048,Oklahoma!,7.8,2100,172
+tt0051818,King Creole,7.0,5985,173
+tt6911608,Mamma Mia! Here We Go Again,6.6,100927,174
+tt0022074,The Smiling Lieutenant,7.2,4004,175
+tt0128985,Chalti Ka Naam Gaadi,8.0,1752,176
+tt0066207,Donkey Skin,7.0,5815,177
+tt8024712,Yowis Band,7.3,3374,178
+tt0035583,You Were Never Lovelier,7.2,3901,179
+tt0078418,Trishul,7.6,2367,180
+tt0058275,Lemonade Joe,7.4,2928,181
+tt0073442,It Can't Be!,7.7,2149,182
+tt0027630,Follow the Fleet,7.1,4576,183
+tt0043012,Summer Stock,7.1,4562,184
+tt4767274,Dolly Parton's Coat of Many Colors,7.7,2136,185
+tt20770080,The Inside Outtakes,8.1,1569,186
+tt0265987,Victor/Victoria,7.7,2124,187
+tt0443489,Dreamgirls,6.6,75532,188
+tt0120456,Virasat,7.4,2816,189
+tt0357905,Minnale,7.6,2264,190
+tt0062362,Thoroughly Modern Millie,6.9,6769,191
+tt0060438,A Funny Thing Happened on the Way to the Forum,6.8,9567,192
+tt0047990,Devdas,7.7,1970,193
+tt2596918,Jesus Christ Superstar: Live Arena Tour,7.8,1806,194
+tt0049866,"Toto, Peppino, and the Hussy",7.7,1961,195
+tt0052225,South Pacific,6.8,9283,196
+tt0041507,In the Good Old Summertime,7.1,4110,197
+tt0211718,Vengo,7.3,2928,198
+tt0046807,Brigadoon,6.8,8905,199
+tt0063417,Pas de deux,7.8,1678,200
+tt0033436,Buck Privates,7.0,4609,201
+tt0086112,The Pirates of Penzance,7.1,3727,202
+tt0120540,Yes Boss,6.7,13758,203
+tt0044103,The Tales of Hoffmann,7.1,3697,204
+tt10999120,Spirited,6.6,42168,205
+tt0065416,Aradhana,7.6,1926,206
+tt0214841,Karz,7.4,2374,207
+tt0025493,The Merry Widow,7.2,3096,208
+tt3033536,Twisted: The Untold Story of a Royal Vizier,8.7,932,209
+tt0173102,Raju Ban Gaya Gentleman,6.8,8022,210
+tt0102258,Lamhe,7.2,3059,211
+tt1773441,Gaalipata,8.2,1203,212
+tt0019777,The Cocoanuts,6.8,7935,213
+tt0038116,State Fair,7.0,4334,214
+tt0032284,Broadway Melody of 1940,7.3,2602,215
+tt0039853,Song of the Thin Man,6.9,5493,216
+tt2275492,A Very Potter Senior Year,8.3,1099,217
+tt0406501,7:35 in the Morning,7.3,2543,218
+tt0050665,Madhumati,7.8,1509,219
+tt0118906,Csinibaba,7.4,2215,220
+tt0040694,The Pirate,6.9,5324,221
+tt0029971,Carefree,7.0,4130,222
+tt0237309,His Highness Abdullah,7.9,1385,223
+tt0044030,Show Boat,6.9,5187,224
+tt0255373,Midhunam,7.9,1336,225
+tt11680920,Music School,9.4,634,226
+tt0075323,"That's Entertainment, Part II",7.3,2392,227
+tt0042200,Annie Get Your Gun,6.9,5065,228
+tt2409642,Ghetuputra Komola,7.5,1845,229
+tt8422468,Scam Story,8.1,1118,230
+tt0099263,The Christmas Toy,7.8,1380,231
+tt0023871,A Song of Lisbon,7.7,1495,232
+tt0048216,It's Always Fair Weather,7.0,3756,233
+tt8363914,No Safe Spaces,7.2,2619,234
+tt0050758,Naya Daur,7.9,1265,235
+tt0251640,Christmas at Pee-wee's Playhouse,7.7,1481,236
+tt0034746,For Me and My Gal,7.0,3708,237
+tt0829440,Jeff Wayne's Musical Version of 'The War of the Worlds',8.8,756,238
+tt5664684,Hairspray Live!,7.0,3682,239
+tt0076340,Ma-ma,7.8,1341,240
+tt2456330,Butterfly Symphony,8.4,901,241
+tt0111408,That's Entertainment! III,7.5,1740,242
+tt0055635,Za dvoma zaytsiamy,8.0,1138,243
+tt1985100,Haajar Bachhar Dhorey,8.1,1062,244
+tt6734886,Power Paandi,7.4,1921,245
+tt0026942,Roberta,7.0,3546,246
+tt0031060,At the Circus,6.8,6225,247
+tt1942831,Company,7.7,1375,248
+tt0070935,Procession of Memories,7.3,2090,249
+tt0080716,Fame,6.6,23870,250
+tt0214931,Mast,5.4,1015,9220
+tt0175698,Hajde da se volimo 2,4.8,645,9221
+tt0216817,Hum Saath-Saath Hain,6.3,9162,9222
+tt4686108,Love Beats Rhymes,5.5,1146,9223
+tt0095288,Heartbreak Hotel,5.7,1468,9224
+tt0180728,Hajde da se volimo,5.1,802,9225
+tt0437273,Shadow of the Eagle,3.4,361,9226
+tt1126591,Burlesque,6.4,89662,9227
+tt0054172,Pepe,5.4,1087,9228
+tt1656179,I Kissed a Vampire,3.9,438,9229
+tt0361498,Death of a Dynasty,3.7,406,9230
+tt0066393,Song of Norway,4.2,498,9231
+tt0197633,Live Freaky Die Freaky,4.8,688,9232
+tt5884834,My Story,4.5,582,9233
+tt0339210,It's a Bird... It's a Plane... It's Superman!,3.8,432,9234
+tt0181821,Slatko od snova,3.4,376,9235
+tt8537578,Sayonee,4.8,705,9236
+tt0113026,The Fantasticks,5.6,1402,9237
+tt0446312,The 2 Sides of the Bed,5.6,1408,9238
+tt0056585,Tickle Me,5.8,1876,9239
+tt4156972,Opening Night,6.0,2794,9240
+tt1549571,Pure Country 2: The Gift,5.1,887,9241
+tt2091240,Barbie: A Perfect Christmas,5.4,1171,9242
+tt0033029,Second Chorus,5.7,1669,9243
+tt0062205,Crazy Westerners,4.5,630,9244
+tt0089883,Rappin',4.3,571,9245
+tt0057191,It Happened at the World's Fair,6.0,2961,9246
+tt0062974,Finian's Rainbow,6.1,3945,9247
+tt0455638,Moonlight Serenade,4.7,712,9248
+tt0187868,Hajde da se volimo 3,4.3,577,9249
+tt0450997,Boss'n Up,4.7,714,9250
+tt0433605,Naach,4.4,609,9251
+tt0075868,Come Play with Me,3.7,457,9252
+tt8269566,A Piece of My Heart,5.4,1231,9253
+tt0342167,Camp,6.2,6038,9254
+tt2641648,Opium,3.9,500,9255
+tt0058534,Roustabout,6.0,3142,9256
+tt0325041,Badhaai Ho Badhaai,4.7,754,9257
+tt0303785,Bollywood/Hollywood,5.9,2562,9258
+tt10976066,Sufiyum Sujatayum,5.5,1431,9259
+tt0061720,Good Times,4.5,681,9260
+tt1634800,Maximum Shame,2.7,351,9261
+tt5017928,Dance Camp,3.9,527,9262
+tt0458241,Teenage Mutant Ninja Turtles: Coming Out of Their Shells Tour,3.2,415,9263
+tt0063231,"Live a Little, Love a Little",5.7,1897,9264
+tt4122664,Juliet Juliet - The Sound of Love Musical,2.8,370,9265
+tt0225515,Dillagi,5.3,1211,9266
+tt1584838,My Sleeping Lover,3.5,462,9267
+tt0100506,Rockula,5.2,1125,9268
+tt1592876,Score: A Hockey Musical,4.5,714,9269
+tt7493366,Halloween Pussy Trap Kill! Kill!,3.3,438,9270
+tt10415494,Ek Love Ya,5.5,1509,9271
+tt0326805,Chori Chori,4.9,928,9272
+tt3685836,Madea's Neighbors from Hell,4.3,673,9273
+tt1508698,Unrated: The Movie,2.3,347,9274
+tt0120622,Brácula. Condemor II,3.4,478,9275
+tt0861773,Ghost in a Teeny Bikini,4.1,633,9276
+tt23472806,Almost Pyaar with DJ Mohabbat,4.8,912,9277
+tt0057111,Goldilocks and the Three Bares,3.2,459,9278
+tt2401715,The Devil's Violinist,6.0,3723,9279
+tt0072665,At Long Last Love,5.3,1344,9280
+tt0285958,Pyaar Ishq Aur Mohabbat,4.2,671,9281
+tt3038772,Kaanchi,4.2,673,9282
+tt1282428,Captain Hima,4.5,780,9283
+tt0430702,Tumsa Nahin Dekha,4.6,831,9284
+tt0331432,Bamba kasher,3.2,470,9285
+tt1068632,Agathe Cléry,4.6,839,9286
+tt8094320,Nativity Rocks!,4.3,725,9287
+tt0086985,Body Rock,3.6,544,9288
+tt0065223,The Wonderful Land of Oz,2.1,356,9289
+tt0061015,Spinout,5.7,2210,9290
+tt0119721,Mrityudaata,2.8,430,9291
+tt0056860,Beach Party,5.7,2244,9292
+tt0044320,Abbott and Costello Meet Captain Kidd,5.7,2258,9293
+tt1655413,The Suicide Shop,6.2,8193,9294
+tt0118673,Bade Miyan Chote Miyan,5.9,3204,9295
+tt0092608,Back to the Beach,5.9,3210,9296
+tt0107986,Roop Ki Rani Choron Ka Raja,4.8,992,9297
+tt0085574,G,5.3,1476,9298
+tt0071803,Mame,5.9,3296,9299
+tt0216707,Dil Kya Kare,5.1,1261,9300
+tt9176102,Tuesdays and Fridays,4.5,862,9301
+tt0417225,Idlewild,6.1,5653,9302
+tt8141808,Strawinsky and the Mysterious House,2.8,460,9303
+tt2396690,Barbie: The Princess & the Popstar,5.7,2414,9304
+tt4866712,Party Town,5.1,1290,9305
+tt0118525,...Aur Pyaar Ho Gaya,4.6,937,9306
+tt0444874,Main Aisa Hi Hoon,4.9,1135,9307
+tt9217660,RuPaul's Drag Race Holi-Slay Spectacular,4.9,1136,9308
+tt0215326,Venni vidi e m'arrapaoh,1.8,373,9309
+tt0489560,Shaadi Se Pehle,4.3,826,9310
+tt0136352,Koyla,6.2,9424,9311
+tt2204379,The Devil's Carnival,6.0,4519,9312
+tt0820094,"Isi & Disi, alto voltaje",4.3,840,9313
+tt6217926,Annette,6.3,21313,9314
+tt1789982,We Wish You a Turtle Christmas,2.2,423,9315
+tt10883302,Roberrt,5.9,3743,9316
+tt0065125,The Trouble with Girls,5.3,1693,9317
+tt0289686,Dancer,3.6,658,9318
+tt1959409,Imaginaerum,6.1,6555,9319
+tt0327071,Om Jai Jagadish,5.5,2084,9320
+tt0075850,Cinderella 2000,3.4,616,9321
+tt0058440,Pajama Party,4.9,1244,9322
+tt0096402,Voyage of the Rock Aliens,5.1,1443,9323
+tt0054692,Blue Hawaii,6.1,7048,9324
+tt0088915,A Chorus Line,6.2,11119,9325
+tt0060429,Frankie and Johnny,5.5,2255,9326
+tt0377340,Aetbaar,4.6,1112,9327
+tt0337887,Confessions of an Action Star,3.8,769,9328
+tt0081178,The Monster Club,5.9,4209,9329
+tt0149568,Aa Ab Laut Chalen,5.3,1860,9330
+tt0102564,Nudist Colony of the Dead,4.0,842,9331
+tt0118660,Auzaar,4.6,1128,9332
+tt0084931,"Yes, Giorgio",3.8,779,9333
+tt2475914,Holiday High School Reunion,4.9,1363,9334
+tt0250774,Tera Jadoo Chal Gayaa,3.1,616,9335
+tt0061937,Magical Mystery Tour,6.1,7632,9336
+tt15763882,Jonas Brothers Family Roast,5.2,1765,9337
+tt1212986,Spectacular!,5.5,2380,9338
+tt0096054,School Daze,6.1,7742,9339
+tt0493437,Apna Sapna Money Money,5.4,2149,9340
+tt0368222,Romance & Cigarettes,6.2,12575,9341
+tt0058384,Muscle Beach Party,5.1,1691,9342
+tt0222270,Phir Bhi Dil Hai Hindustani,6.1,8073,9343
+tt0111793,Yeh Dillagi,5.9,4660,9344
+tt0042209,At War with the Army,5.5,2534,9345
+tt0182295,Love's Labour's Lost,5.9,4769,9346
+tt0063634,Speedway,5.5,2581,9347
+tt0059563,"Paradise, Hawaiian Style",5.4,2327,9348
+tt3573598,London Road,5.3,2113,9349
+tt0058953,Beach Blanket Bingo,5.6,2980,9350
+tt13437728,Dr. Seuss' the Grinch Musical,3.8,885,9351
+tt0263026,Abuzer Kadayif,5.4,2379,9352
+tt0328729,Dil Maange More!!!,5.2,1985,9353
+tt0061489,Clambake,5.6,3044,9354
+tt0456481,Jaan-E-Mann: Let's Fall in Love... Again,6.1,8955,9355
+tt0840040,Why Did I Get Married?,3.6,841,9356
+tt1995289,Diva Viva,1.1,450,9357
+tt0228778,Xuxa Requebra,1.9,531,9358
+tt0250690,Refugee,5.2,2064,9359
+tt0395251,The Producers,6.3,43765,9360
+tt0060457,The Ghost in the Invisible Bikini,4.5,1286,9361
+tt6881890,A Christmas Story Live!,4.8,1582,9362
+tt0367245,Wuthering Heights,4.1,1102,9363
+tt0135558,Mr. B Natural,2.4,630,9364
+tt0396690,Kisna: The Warrior Poet,4.6,1426,9365
+tt0115563,"Aquí llega Condemor, el pecador de la pradera",2.7,686,9366
+tt0059287,How to Stuff a Wild Bikini,4.7,1546,9367
+tt0845535,Shakalaka Boom Boom,2.5,667,9368
+tt0362107,S Club Seeing Double,4.0,1105,9369
+tt0151150,Josh,6.1,10599,9370
+tt0063643,"Stay Away, Joe",4.5,1414,9371
+tt0274415,Carmen: A Hip Hopera,4.6,1512,9372
+tt0090585,Absolute Beginners,5.6,3579,9373
+tt5822648,A Cinderella Story: If the Shoe Fits,5.6,3591,9374
+tt0135130,"Ah, quelle équipe!",3.3,877,9375
+tt0057227,Kissin' Cousins,5.2,2364,9376
+tt14301252,Z-O-M-B-I-E-S 3,5.4,2870,9377
+tt1828959,Make Your Move,5.5,3261,9378
+tt10160886,Sneakerella,4.9,1907,9379
+tt0496595,Xuxinha and Guto Against the Space Monsters,2.5,716,9380
+tt1303803,Standing Ovation,3.0,828,9381
+tt12885272,Diana,4.4,1438,9382
+tt1233224,Poveste de cartier,3.1,863,9383
+tt0839896,Madea Goes to Jail,4.9,1959,9384
+tt0330217,Dil Ka Rishta,4.8,1835,9385
+tt4807950,Cherry Pop,4.5,1536,9386
+tt0056023,Girls! Girls! Girls!,5.5,3386,9387
+tt0361411,Bride & Prejudice,6.2,21318,9388
+tt0462485,Poultrygeist: Night of the Chicken Dead,6.0,8842,9389
+tt2153891,Metal Warrior,4.5,1638,9390
+tt0346507,Andaaz,5.2,2669,9391
+tt2191721,Jodi Breakers,3.7,1204,9392
+tt11388278,A Week Away,5.7,5091,9393
+tt2064816,"I, Me Aur Main",4.7,1962,9394
+tt1307926,Go for It!,3.7,1223,9395
+tt0083067,Shock Treatment,5.7,5195,9396
+tt0059255,Harum Scarum,4.6,1873,9397
+tt1266036,Valley Girl,5.5,3966,9398
+tt3592030,Mystery: Born to Rock,4.4,1691,9399
+tt10627548,Christmas on the Square,5.2,2914,9400
+tt1270792,Sunday School Musical,2.4,858,9401
+tt9357050,Dear Evan Hansen,6.1,16294,9402
+tt2880664,Rednecks,4.0,1512,9403
+tt0078238,Sextette,3.8,1497,9404
+tt0083642,The Best Little Whorehouse in Texas,6.0,12813,9405
+tt0308347,Haan Maine Bhi Pyaar Kiya,3.6,1418,9406
+tt7631348,Freaky Friday,3.8,1574,9407
+tt1651065,Don't Go in the Woods,2.7,1098,9408
+tt0256692,Chori Chori Chupke Chupke,5.5,5040,9409
+tt8622232,Time to Dance,2.3,1007,9410
+tt6433880,Anna and the Apocalypse,6.0,14512,9411
+tt0248216,Na Tum Jaano Na Hum,4.9,2963,9412
+tt1499201,Anjaana Anjaani,5.7,7138,9413
+tt0136153,English Babu Desi Mem,4.6,2496,9414
+tt0053640,The Beatniks,2.5,1110,9415
+tt2598580,Dancin': It's on!,2.4,1120,9416
+tt0084504,The Pirate Movie,5.3,4622,9417
+tt0268401,Kahin Pyaar Na Ho Jaaye,4.4,2406,9418
+tt0489486,"Good Boy, Bad Boy",3.9,1920,9419
+tt2474024,The Last Five Years,5.8,10474,9420
+tt0080380,The Apple,4.3,2507,9421
+tt1131728,Basmati Blues,3.9,2080,9422
+tt0019729,The Broadway Melody,5.6,7649,9423
+tt0082213,The Creature Wasn't Nice,3.5,1797,9424
+tt2107861,Walking on Sunshine,5.4,5940,9425
+tt5372528,Manifest Destiny Down: Spacetime,4.0,2266,9426
+tt2190838,Stage Fright,5.2,4922,9427
+tt11449072,Kartoffelsalat 3 - Das Musical,4.4,2782,9428
+tt0086999,Breakin' 2: Electric Boogaloo,5.1,4558,9429
+tt0470869,Neal 'n' Nikki,3.2,1721,9430
+tt0250415,Har Dil Jo Pyar Karega...,5.1,4645,9431
+tt0822868,Make It Happen,5.4,6385,9432
+tt1156148,Karzzzz,2.3,1348,9433
+tt1995260,Battlefield America,2.6,1497,9434
+tt0449306,Lucky: No Time for Love,4.7,3770,9435
+tt0485272,Salaam-E-Ishq,5.2,5657,9436
+tt0314676,The Singing Detective,5.4,8785,9437
+tt10161886,The Prom,5.9,28300,9438
+tt0248617,Yaadein...,4.2,3668,9439
+tt4467202,Hero,3.5,2718,9440
+tt0758053,Saawariya,5.2,8140,9441
+tt4559006,Ae Dil Hai Mushkil,5.8,24540,9442
+tt0080492,Can't Stop the Music,4.2,4280,9443
+tt0833476,Jhoom Barabar Jhoom,3.7,3402,9444
+tt0116707,Joe's Apartment,5.5,13896,9445
+tt0361696,Raise Your Voice,5.8,28430,9446
+tt0061456,Catalina Caper,2.2,2145,9447
+tt0058208,The Horror of Party Beach,3.3,3099,9448
+tt4537842,A Very Murray Christmas,5.5,15954,9449
+tt1105747,Yuvvraaj,4.1,4576,9450
+tt2452244,Isn't It Romantic,5.9,71931,9451
+tt0093996,Slumber Party Massacre II,4.6,6817,9452
+tt1336608,Rock of Ages,5.9,80072,9453
+tt0875034,Nine,5.8,44646,9454
+tt2243389,I'm So Excited!,5.6,24297,9455
+tt0081777,Xanadu,5.3,14718,9456
+tt0265148,Main Prem Ki Diwani Hoon,3.8,4915,9457
+tt0097257,Earth Girls Are Easy,5.4,24267,9458
+tt0417503,Bratz: Passion 4 Fashion - Diamondz,2.0,3300,9459
+tt1267299,The Rocky Horror Picture Show: Let's Do the Time Warp Again,4.2,7679,9460
+tt0271263,Eight Crazy Nights,5.3,24115,9461
+tt1016075,Fame,5.0,16694,9462
+tt5262792,Dirty Dancing,3.2,6353,9463
+tt7541720,Music,3.2,8546,9464
+tt3595298,Prem Ratan Dhan Payo,4.4,22883,9465
+tt0084021,Grease 2,4.5,37314,9466
+tt0193524,The Star Wars Holiday Special,2.1,16058,9467
+tt0339034,From Justin to Kelly,1.9,26864,9468
+tt2574698,Gunday,2.7,59788,9469

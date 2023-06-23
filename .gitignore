@@ -26,7 +26,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 .sources/
-data/
+data/sources
 *.tsv
 *.db
 *.parquet
