@@ -251,13 +251,12 @@ def add_ranking(df):
     """
     # Adopted from https://web.archive.org/web/20171023205105/http://www.imdb.com/help/show_leaf?votestopfaq 
     # Calculate the weightedRatings column such that:
-    # weighted rating (WR) = (R * v + mean * min_votes) / (v + min_votes)
+    # weighted rating = (R * v + mean * min_votes) / (v + min_votes)
     # Where:
     # R = average rating for the title
     # v = number of votes for the title
-    # min_votes = minimum votes required to be listed in ranking. worked out as:
-    #           mean number of votes + 1 * std deviation(s)
-    # mean = the mean vote across the whole report
+    # min_votes =  number of votes required for a more reliable rating (1 * standard deviation(s) + mean number of votes for the relevant category).
+    # mean = the mean rating for the relevant category.
     mean = df.select(pl.mean('averageRating'))
     min_votes = df.select(pl.mean('numVotes')) + 1 * df.select(pl.std('numVotes'))
     df = df.with_columns(((pl.col('averageRating') * pl.col('numVotes') + mean * min_votes)/(pl.col('numVotes') + min_votes)).alias('ranking'))
