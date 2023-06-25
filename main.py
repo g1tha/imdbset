@@ -4,9 +4,11 @@ import os
 import sys
 import urllib.request
 import gzip
+import json
 import time
-from datetime import timedelta
+from datetime import timedelta, datetime, timezone
 from multiprocessing import Pool
+from collections import OrderedDict
 from tqdm import tqdm
 import polars as pl
 import argparse
@@ -121,7 +123,13 @@ def update_db():
     print(f'Loading to parquet files to data/sources...')
     with Pool() as pool:
         pool.map(load_db, tables)
+    #Export current date to lastUpdated.json
+    now = datetime.now(timezone.utc)
+    last_updated = now.strftime('%d %B %Y')
+    with open('data\\lastUpdated.json', 'w') as file:
+        json.dump(last_updated, file)
 
+        
 @time_it
 def read_parquet(file):
     return pl.read_parquet(file)
@@ -211,6 +219,9 @@ def titles_tables():
     """
     Produces a set of tables in CSV format of the top and bottom ranked titles by category and genre.
     """
+    dict_titles = OrderedDict()
+    title_all_count = 1000
+    title_genre_count = 250
     list_categories = ['episode', 'movie', 'series', 'videoGame']
     titles_base = get_titles_base()
     for category in list_categories:
@@ -232,10 +243,13 @@ def titles_tables():
         output = titles_category.drop('genres', 'titleCategory')
         output = output.with_columns(pl.col('numVotes').round(0).cast(pl.Int64))
         filename = f'title_{category}'
-        export_csv(output, filename, 1000)
+        export_csv(output, filename, title_all_count)
+        # Add category and genre (all) to dict_titles
+        dict_titles[category]= OrderedDict()
+        dict_titles[category]["(All)"] = title_all_count
         for genre in genres:
-            # Filter by genre
             if genre:
+                # Filter by genre
                 titles_genre = titles_category.filter(pl.col('genres').list.contains(genre))
                 # Add rankings
                 titles_genre = add_ranking(titles_genre)
@@ -243,8 +257,19 @@ def titles_tables():
                 output = titles_genre.drop('genres', 'titleCategory')
                 output = output.with_columns(pl.col('numVotes').round(0).cast(pl.Int64))
                 filename = f'title_{category}_{genre}'
-                export_csv(output, filename, 250)
-
+                export_csv(output, filename, title_genre_count)
+                # If filename has been created,add genre to cagegory dictionary in dict_titles
+                if os.path.exists(f'data\{filename}.csv'):
+                    dict_titles[category][genre] = title_genre_count
+    #Export dict_titles{} as titleMenus.json
+    for category, genre in dict_titles.items():
+        dict_titles[category] = OrderedDict(sorted(genre.items(), key=lambda x:x[0]))
+    dict_titles.move_to_end('movie')
+    dict_titles.move_to_end('series')
+    dict_titles.move_to_end('episode')
+    dict_titles.move_to_end('videoGame')
+    with open('data\\titleMenus.json', 'w') as file:
+        json.dump(dict_titles, file)
 def add_ranking(df):
     """
     Adds a rankings column to dataframe based on both average ratings and number of votes.

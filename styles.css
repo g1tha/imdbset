@@ -89,7 +89,7 @@ h1 {
 h2 {
     font-size: 1.2em;
     font-weight: 300;
-    letter-spacing: 0.5em;
+
 }
 
 .nav-text {
@@ -341,6 +341,13 @@ ul li ul:focus {
     height: 6em;
     
 }
+
+.form-select {
+    background-color: hsl(var(--bgcol1));
+    color: hsl(var(--fgcol1));
+    border-color: hsl(var(--bgcol3));
+}
+
 
 .footer {
     margin: 2em;
