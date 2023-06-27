@@ -398,4 +398,9 @@ ul li ul:focus {
     --ag-alpine-active-color: hsl(var(--hicol3));
     --ag-input-border-color: hsl(var(--bgcol2));
     --ag-input-focus-border-color: hsl(var(--emcol3));
+    --ag-cell-horizontal-padding: 6px;
+}
+
+.ag-cell-wrap-text {
+    word-break: break-word;
 }

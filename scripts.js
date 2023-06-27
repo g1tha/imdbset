@@ -200,10 +200,10 @@ async function getTitlesData() {
     var ranking = [];
     var rowData = [];
     var columnDefs = [
-        {field: 'title', cellDataType: 'text', cellRenderer: params => {return params.value}},
-        {field: 'rating', cellDataType: 'number'},
-        {field: 'votes', cellDataType: 'number', valueFormatter: commaFormatter},
-        {field: 'ranking', cellDataType: 'number', valueFormatter: commaFormatter},
+        {field: 'title', cellDataType: 'text', wrapText: true, autoHeight: true, cellRenderer: params => {return params.value}},
+        {field: 'rating', cellDataType: 'number', minWidth: 80},
+        {field: 'votes', cellDataType: 'number', minWidth: 80, valueFormatter: commaFormatter},
+        {field: 'ranking', cellDataType: 'number', minWidth: 90, valueFormatter: commaFormatter},
     ];
     // Get menu data
     const titleMenus = await getTitleMenus();
@@ -239,7 +239,7 @@ async function getTitlesData() {
     
     titleGridDiv.innerHTML = '';
     new agGrid.Grid(titleGridDiv, gridOptions);
-    gridOptions.columnApi.autoSizeColumns(['rating', 'votes', 'ranking']);
+    gridOptions.columnApi.autoSizeColumns(['rating', 'votes', 'ranking'], true);
     
 }
 

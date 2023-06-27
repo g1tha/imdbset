@@ -399,3 +399,7 @@ ul li ul:focus {
     --ag-input-border-color: hsl(var(--fgcol1));
     --ag-input-focus-border-color: hsl(var(--emcol1));
 }
+
+.ag-cell-wrap-text {
+    word-break: break-word;
+}
