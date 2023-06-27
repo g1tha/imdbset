@@ -382,3 +382,20 @@ ul li ul:focus {
         align-self: center;
     }
 }
+
+.ag-theme-alpine-dark {
+    --ag-background-color: hsl(var(--bgcol1));
+    --ag-header-background-color: transparent;
+    --ag-odd-row-background-color: transparent;
+    --ag-control-panel-background-color: hsl(var(--bgcol1));
+    --ag-row-hover-color: hsl(var(--bgcol2));
+    --ag-foreground-color: hsl(var(--fgcol2));
+    --ag-header-foreground-color: hsl(var(--fgcol1));
+    --ag-header-column-resize-handle-color: hsl(var(--bgcol2));
+    --ag-border-color: hsl(var(--bgcol3));
+    --ag-row-border-color: hsl(var(--bgcol2));
+    --ag-font-family: 'Poppins', sans-serif;
+    --ag-alpine-active-color: hsl(var(--hicol3));
+    --ag-input-border-color: hsl(var(--bgcol2));
+    --ag-input-focus-border-color: hsl(var(--emcol3));
+}

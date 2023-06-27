@@ -72,7 +72,7 @@ a {
 }
 
 a:hover {
-    color: hsl(var(--hicol4));
+    color: hsl(var(--hicol3));
     cursor: pointer;
 }
 
@@ -381,4 +381,21 @@ ul li ul:focus {
         width: 85em;
         align-self: center;
     }
+}
+
+.ag-theme-alpine {
+    --ag-background-color: hsl(var(--fgcol0));
+    --ag-header-background-color: transparent;
+    --ag-odd-row-background-color: transparent;
+    --ag-control-panel-background-color: hsl(var(--fgcol0));
+    --ag-row-hover-color: hsl(232, 50%, 98%);
+    --ag-foreground-color: hsl(var(--bgcol2));
+    --ag-header-foreground-color: hsl(var(--bgcol1));
+    --ag-header-column-resize-handle-color: hsl(var(--fgcol1));
+    --ag-border-color: hsl(var(--fgcol2));
+    --ag-row-border-color: hsl(var(--fgcol1));
+    --ag-font-family: 'Poppins', sans-serif;
+    --ag-alpine-active-color: hsl(var(--hicol3));
+    --ag-input-border-color: hsl(var(--fgcol1));
+    --ag-input-focus-border-color: hsl(var(--emcol1));
 }
