@@ -1,38 +1,38 @@
 tconst,primaryTitle,averageRating,numVotes,ranking
-tt4236770,Yellowstone,8.7,181051,1
-tt13991232,1883,8.7,95565,2
-tt0096639,Lonesome Dove,8.7,24296,3
-tt18335752,1923,8.4,37360,4
-tt1699748,Hell on Wheels,8.3,53807,5
-tt5516154,Godless,8.2,72655,6
-tt11771270,The English,7.8,24872,7
-tt0047736,Gunsmoke,8.1,8005,8
-tt0051308,The Rifleman,8.3,4616,9
-tt0058855,The Wild Wild West,8.1,5860,10
+tt4236770,Yellowstone,8.7,181172,1
+tt13991232,1883,8.7,95671,2
+tt0096639,Lonesome Dove,8.7,24299,3
+tt18335752,1923,8.4,37425,4
+tt1699748,Hell on Wheels,8.3,53818,5
+tt5516154,Godless,8.2,72668,6
+tt11771270,The English,7.8,24892,7
+tt0047736,Gunsmoke,8.1,8008,8
+tt0051308,The Rifleman,8.3,4617,9
+tt0058855,The Wild Wild West,8.1,5861,10
 tt0050025,Have Gun - Will Travel,8.4,3083,11
-tt0050079,Zorro,8.2,3876,12
-tt0052504,Rawhide,8.0,4271,13
-tt0050037,Maverick,8.1,3436,14
-tt0077027,How the West Was Won,8.2,2403,15
+tt0050079,Zorro,8.2,3877,12
+tt0050037,Maverick,8.1,3436,13
+tt0077027,How the West Was Won,8.2,2404,14
+tt0052504,Rawhide,7.9,4274,15
 tt0051327,Wanted: Dead or Alive,8.0,2576,16
-tt14271652,Joe Pickett,7.7,4827,17
-tt6106704,Damnation,7.6,8819,18
+tt14271652,Joe Pickett,7.7,4880,17
+tt6106704,Damnation,7.6,8820,18
 tt0047720,Cheyenne,8.0,1896,19
 tt3673480,The Good Lord Bird,7.6,7085,20
-tt4998212,The Ranch,7.5,41013,21
-tt0068093,Kung Fu,7.6,6732,22
-tt0041038,The Lone Ranger,7.7,2702,23
+tt4998212,The Ranch,7.5,41023,21
+tt0068093,Kung Fu,7.6,6734,22
+tt0041038,The Lone Ranger,7.7,2704,23
 tt0238343,Kapitan Petko Voyvoda,8.8,449,24
 tt0096732,The Young Riders,7.7,2280,25
 tt0051290,Lawman,8.1,847,26
 tt0050066,Tales of Wells Fargo,7.9,1061,27
-tt0058791,The Big Valley,7.6,3270,28
-tt0055710,The Virginian,7.6,2962,29
-tt3839822,The Son,7.5,6913,30
+tt0058791,The Big Valley,7.6,3273,28
+tt0055710,The Virginian,7.6,2963,29
+tt3839822,The Son,7.5,6914,30
 tt0052481,Laramie,7.7,1344,31
-tt0066625,Alias Smith and Jones,7.6,2218,32
-tt0061263,The High Chaparral,7.6,2211,33
-tt0079840,The Sacketts,7.6,2045,34
+tt0066625,Alias Smith and Jones,7.6,2220,32
+tt0061263,The High Chaparral,7.6,2213,33
+tt0079840,The Sacketts,7.6,2046,34
 tt12053334,UnDeadwood,8.8,228,35
 tt0094473,Paradise,8.0,501,36
 tt3720758,The Fjord Cowboys,8.7,200,37
@@ -43,24 +43,24 @@ tt0052505,The Rebel,7.8,608,41
 tt0050073,Wagon Train,7.5,3493,42
 tt0051329,Yancy Derringer,7.9,426,43
 tt0047775,The Adventures of Spin and Marty,8.0,337,44
-tt11083102,Ultimate Cowboy Showdown,8.6,153,45
-tt0053551,The Westerner,8.1,254,46
-tt0047750,The Life and Legend of Wyatt Earp,7.6,1037,47
-tt0062569,Here Come the Brides,7.6,957,48
+tt11083102,Ultimate Cowboy Showdown,8.6,154,45
+tt0047750,The Life and Legend of Wyatt Earp,7.6,1037,46
+tt0053551,The Westerner,8.1,254,47
+tt0062569,Here Come the Brides,7.6,958,48
 tt0050071,Trackdown,7.9,316,49
 tt0407461,Wild West Tech,8.2,181,50
 tt0068077,Hec Ramsey,7.8,377,51
 tt0066690,Nichols,7.9,294,52
 tt0058819,Laredo,7.6,712,53
 tt0050021,The Gray Ghost,8.6,97,54
-tt0075525,The Life and Times of Grizzly Adams,7.5,1659,55
+tt0075525,The Life and Times of Grizzly Adams,7.5,1660,55
 tt0060011,The Monroes,7.8,271,56
 tt10937638,The Goodbye Family: The Animated Series,8.3,114,57
 tt0051273,Frontier Doctor,8.4,102,58
 tt0047781,Tales of the Texas Rangers,8.3,112,59
 tt0041030,Hopalong Cassidy,7.7,361,60
-tt0227904,Grande Sertão: Veredas,8.5,90,61
-tt0112045,Legend,7.7,360,62
+tt0112045,Legend,7.7,360,61
+tt0227904,Grande Sertão: Veredas,8.5,90,62
 tt0055705,Stoney Burke,7.9,205,63
 tt0050018,Further Adventures of Spin and Marty,8.3,104,64
 tt0048916,Zane Grey Theatre,7.6,526,65
@@ -119,12 +119,12 @@ tt0423620,Boomtown,8.3,24,117
 tt0057743,Destry,7.7,75,118
 tt0072768,Cash and Company,7.9,41,119
 tt0174438,Two Faces West,8.1,27,120
-tt0179590,Man Without a Gun,7.9,38,121
 tt0128014,The Young Pioneers,7.9,38,121
+tt0179590,Man Without a Gun,7.9,38,121
 tt0048848,Broken Arrow,7.5,249,123
 tt6521060,The Big Muddy,9.2,10,124
 tt0052525,Wichita Town,7.8,47,125
-tt0050055,The Restless Gun,7.5,242,126
+tt0050055,The Restless Gun,7.5,243,126
 tt3614776,Wienerland,8.4,17,127
 tt0051263,Casey Jones,7.5,223,128
 tt9331380,Arizona Ghostriders,9.0,10,129
@@ -147,7 +147,7 @@ tt4661722,Templeton,7.7,30,145
 tt0159903,Pony Express,7.6,40,146
 tt0051324,U.S. Marshal,7.5,94,147
 tt0209668,Bloody Destiny,7.5,84,148
-tt6607800,Young Guns,7.5,79,149
+tt6607800,Young Guns,7.5,80,149
 tt1339219,Chevron Hall of Stars,7.6,28,150
 tt0479609,The Cabin in the Clearing,7.6,16,151
 tt0112303,Adventures of the Old West,7.7,10,152
@@ -171,8 +171,8 @@ tt0060002,The Lone Ranger,7.4,136,169
 tt0053537,Stagecoach West,7.4,155,170
 tt3593684,The Drifter,7.0,10,171
 tt0054578,Whispering Smith,7.4,178,172
-tt0209658,Jerônimo， o Herói do Sertão,6.9,10,173
 tt8339378,Davy Crockett,6.9,10,173
+tt0209658,Jerônimo， o Herói do Sertão,6.9,10,173
 tt1660375,It Happened in Hollywood,6.8,9,175
 tt0053516,Klondike,7.3,48,176
 tt0045405,Lash of the West,6.9,12,177
@@ -227,8 +227,8 @@ tt0061288,Rango,7.0,88,225
 tt0907017,Rantanplan,6.1,31,226
 tt0229170,Sex Appeal,6.3,37,227
 tt1666143,Rebel Land,7.1,130,228
-tt0060024,Shane,7.2,194,229
-tt0129695,The Magnificent Seven,7.4,1780,230
+tt0129695,The Magnificent Seven,7.4,1781,229
+tt0060024,Shane,7.2,194,230
 tt0162785,Alentejo Sem Lei,6.7,65,231
 tt0070978,The Cowboys,6.4,46,232
 tt0059996,Iron Horse,7.2,211,233
@@ -243,8 +243,8 @@ tt0078715,Young Maverick,6.6,73,241
 tt0044254,Cowboy G-Men,6.5,70,242
 tt0047734,Fury,7.3,544,243
 tt0046647,Stories of the Century,7.0,182,244
-tt0046578,Annie Oakley,7.2,356,245
-tt0051261,Bronco,7.2,365,246
+tt0046578,Annie Oakley,7.2,357,245
+tt0051261,Bronco,7.2,366,246
 tt0074041,The Quest,7.1,258,247
 tt0784948,Texas Ranch House,6.6,105,248
 tt0090422,Dream West,6.7,120,249
@@ -256,7 +256,7 @@ tt0169512,Winnetou le mescalero,6.3,97,254
 tt0106136,Snowy River: The McGregor Saga,7.3,909,255
 tt0102962,Son of the Morning Star,7.3,1011,256
 tt0062577,Lancer,7.1,385,257
-tt0052445,Bat Masterson,7.3,1119,258
+tt0052445,Bat Masterson,7.3,1120,258
 tt0072470,Barbary Coast,6.7,186,259
 tt0061241,Cimarron Strip,7.1,448,260
 tt0061244,Custer,6.3,134,261
@@ -270,7 +270,7 @@ tt2202488,Mountain Men,7.3,1653,268
 tt3738872,The American West,7.3,1671,269
 tt0252781,Queen of Swords,7.0,480,270
 tt5016670,Dominion Creek,6.3,186,271
-tt0287260,Ponderosa,5.9,139,272
+tt0287260,Ponderosa,5.9,138,272
 tt1865572,Wild Boys,6.9,480,273
 tt0057742,Daniel Boone,7.3,2201,274
 tt0081861,Father Murphy,6.5,319,275
@@ -278,22 +278,22 @@ tt18313946,Time Hustler,5.7,191,276
 tt0046576,The Adventures of Rin Tin Tin,7.0,818,277
 tt0058800,F Troop,7.3,3154,278
 tt13515614,New Gold Mountain,6.3,373,279
-tt0112041,Streets of Laredo,7.2,2138,280
+tt0112041,Streets of Laredo,7.2,2140,280
 tt0113195,Children of the Dust,6.6,562,281
 tt15383758,The Head of Joaquín Murrieta,6.5,565,282
-tt0106112,Return to Lonesome Dove,7.2,2732,283
+tt0106112,Return to Lonesome Dove,7.2,2733,283
 tt0115238,Dead Man's Walk,7.1,1826,284
 tt0280264,Johnson County War,6.7,778,285
 tt0069577,Dusty's Trail,5.2,261,286
-tt7809420,That Dirty Black Bag,7.2,3461,287
+tt7809420,That Dirty Black Bag,7.2,3462,287
 tt0423626,Bucky and Pepito,2.8,167,288
 tt0111903,Buffalo Girls,6.5,898,289
-tt0052451,Bonanza,7.3,10228,290
+tt0052451,Bonanza,7.3,10233,290
 tt0346328,Lucky Luke,6.1,629,291
 tt0783328,Comanche Moon,7.1,3184,292
 tt5178604,Jericho,6.8,1537,293
 tt3920814,Strange Empire,6.3,1817,294
-tt3598496,Texas Rising,6.7,4378,295
-tt14084828,Django,4.4,883,296
+tt3598496,Texas Rising,6.7,4380,295
+tt14084828,Django,4.4,886,296
 tt2657258,Killer Women,6.0,2135,297
-tt0103405,Dr. Quinn， Medicine Woman,6.8,12989,298
+tt0103405,Dr. Quinn， Medicine Woman,6.8,12991,298

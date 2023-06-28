@@ -75,9 +75,8 @@
     <div class="center container">
         <h1>Titles</h1>
         <p>
-            <div> <span id="titles_count"></span> Highest and lowest ranked titles (at <span id="lastUpdated"></span>)
-                in:</div>
-            </p>
+        <div> <span id="titles_count"></span> Highest and lowest ranked titles in:</div>
+        </p>
         <p>
         <form>
             <div class="mb-3 d-flex flex-row p-2 align-items-start">
@@ -94,13 +93,12 @@
             </div>
 
         </form>
-
         </p>
-        <div id="titleGrid" style="height: 100%; width:100%;" class="ag-theme-alpine-dark"></div>
-        <div class="chart-container-flex" id="bublechart">
+        <div class="chart-container-flex">
+            <canvas id="titleChart"></canvas>
         </div>
-
-
+        <div class="subtitle">Last updated: <span id="lastUpdated"></span></div>
+        <div id="titleGrid" class="ag-theme-alpine-dark"></div>
     </div>
     <footer class="footer">
         <span class="author"> A <a href="https://cs50.harvard.edu/x/2022/project/" target="_blank">cs50x</a> project by

@@ -1,14 +1,14 @@
 tconst,primaryTitle,averageRating,numVotes,ranking
-tt3530232,Last Week Tonight with John Oliver,8.9,92233,1
+tt3530232,Last Week Tonight with John Oliver,8.9,92248,1
 tt9566030,Pew News,8.8,14826,2
-tt0458254,The Colbert Report,8.5,39014,3
-tt0115147,The Daily Show,8.3,47683,4
-tt8080054,Patriot Act with Hasan Minhaj,8.4,7742,5
-tt2782710,Vice,8.8,4350,6
+tt0458254,The Colbert Report,8.5,39015,3
+tt0115147,The Daily Show,8.3,47684,4
+tt8080054,Patriot Act with Hasan Minhaj,8.4,7741,5
+tt2782710,Vice,8.8,4353,6
 tt12511606,1pm Daily Update,9.3,1809,7
 tt0135733,Match of the Day,8.6,2636,8
 tt0098820,Have I Got News for You,7.9,5315,9
-tt0133302,Frontline,8.6,2152,10
+tt0133302,Frontline,8.6,2153,10
 tt0350448,Real Time with Bill Maher,7.4,14004,11
 tt2930136,Hanzawa Naoki,8.4,2314,12
 tt0136668,SportsCenter,8.1,2412,13
@@ -26,7 +26,7 @@ tt6987966,The Jim Jefferies Show,7.5,2346,24
 tt5556434,Zondag met Lubach,8.4,1024,25
 tt8429428,Weekend Box Office,8.0,1248,26
 tt3286728,Neo Magazin,7.8,1397,27
-tt0103396,Dateline NBC,7.2,3146,28
+tt0103396,Dateline NBC,7.2,3149,28
 tt3295542,Have You Been Paying Attention?,8.3,836,29
 tt0765621,Holmes on Homes,8.7,667,30
 tt1441143,heute-show,7.5,1636,31
@@ -43,23 +43,23 @@ tt7544016,The Russell Howard Hour,8.0,635,41
 tt0268836,Nytt på nytt,7.7,789,42
 tt1427175,Prozhektorperiskhilton,7.4,1053,43
 tt3330720,The Last Leg,7.1,1611,44
-tt7174218,The Beat with Ari Melber,7.2,1270,45
+tt7174218,The Beat with Ari Melber,7.2,1271,45
 tt6329790,Vice News Tonight,8.3,479,46
 tt2226824,Pretty Much It,9.4,286,47
-tt0446847,Lockup,7.9,594,48
+tt0446847,Lockup,7.9,595,48
 tt5865494,NerdOffice Jovem Nerd,9.4,273,49
 tt14622282,Kino+,9.6,246,50
 tt0964948,Red Eye w/Tom Shillue,7.2,1064,51
 tt0377139,Around the Horn,7.1,1217,52
 tt3814654,24 minuta sa Zoranom Kesicem,9.3,259,53
 tt0481435,Baseball Tonight,7.8,527,54
-tt2166772,Newsreaders,7.3,832,55
-tt1217217,Saturday Night Live: Weekend Update Summer Edition,7.2,944,56
-tt0350396,CNNNN: Chaser Non-Stop News Network,8.3,375,57
+tt2166772,Newsreaders,7.3,833,55
+tt0350396,CNNNN: Chaser Non-Stop News Network,8.3,375,56
+tt1217217,Saturday Night Live: Weekend Update Summer Edition,7.2,944,57
 tt13486352,ZDF Magazin Royale,8.3,364,58
 tt5106590,IMDb Originals,7.1,988,59
 tt5734106,Weediquette,8.1,383,60
-tt0124932,20/20,6.7,2567,61
+tt0124932,20/20,6.7,2568,61
 tt0103363,The Big Breakfast,6.8,1810,62
 tt0960700,The Wire,8.8,260,63
 tt0199191,Caiga quien caiga - CQC,8.1,361,64
@@ -81,10 +81,10 @@ tt0421288,At the Movies,8.3,235,79
 tt0073989,Extra Drei,7.4,441,80
 tt8595740,Povesti COOL,7.3,482,81
 tt1087821,InfoMania,9.1,159,82
-tt0108897,Politically Incorrect,6.7,1371,83
+tt0108897,Politically Incorrect,6.7,1372,83
 tt0783392,Mike & Mike,6.9,834,84
 tt0487001,NFL Primetime,7.5,383,85
-tt18412104,The Comments Section with Brett Cooper,7.5,376,86
+tt18412104,The Comments Section with Brett Cooper,7.5,378,86
 tt0045431,Person to Person,8.3,218,87
 tt1905361,Dateline on ID,7.6,333,88
 tt5189940,De ideale wereld,8.0,246,89
@@ -114,11 +114,11 @@ tt0430833,Countdown w/ Keith Olbermann,6.7,840,112
 tt3455890,No， You Shut Up!,8.0,178,113
 tt8629150,The Weekly,7.3,306,114
 tt1033805,E:60,7.2,337,115
-tt0421311,Computer Chronicles,9.0,107,116
+tt0421311,Computer Chronicles,9.0,108,116
 tt0390799,¡Qué grande es el cine!,8.8,115,117
 tt0426710,High School Stories: Scandals， Pranks， and Controversies,8.7,114,118
-tt1483818,Stage 5,9.1,97,119
 tt0355108,The Morning Program,9.1,97,119
+tt1483818,Stage 5,9.1,97,119
 tt9278386,Dobar， los， zao,9.0,99,121
 tt0395043,La 2 noticias,8.5,121,122
 tt8152776,Svenska nyheter,7.5,218,123
@@ -137,11 +137,11 @@ tt1862938,Our America with Lisa Ling,7.8,161,135
 tt1213842,Inside MMA,8.2,125,136
 tt0249044,Naked News,6.6,838,137
 tt6360268,Behind the Curtain with Steve Wollett,7.9,147,138
-tt8910494,So Far,6.8,460,139
-tt0390699,Días de cine,7.0,323,140
+tt11767890,Gece Gündüz,9.1,80,139
+tt8910494,So Far,6.8,460,140
 tt0083448,The McLaughlin Group,7.6,172,141
-tt8307064,HydeWars,8.0,131,142
-tt11767890,Gece Gündüz,9.1,79,143
+tt0390699,Días de cine,7.0,323,142
+tt8307064,HydeWars,8.0,131,143
 tt0983200,Media Watch,8.0,130,144
 tt0456034,Only in LA,7.8,146,145
 tt11565422,Cruising the Cut web-series,8.5,98,146
@@ -159,13 +159,13 @@ tt0456031,The Hour,6.6,649,157
 tt0813695,ESPNEWS,7.2,212,158
 tt8799342,Shut Up Ya Kunal,7.7,134,159
 tt0108951,TV Nation,6.6,632,160
-tt7305166,The Opposition with Jordan Klepper,6.5,914,161
-tt14694580,Olympic Highlights with Kevin Hart & Snoop Dogg,7.7,129,162
+tt14694580,Olympic Highlights with Kevin Hart & Snoop Dogg,7.7,129,161
+tt7305166,The Opposition with Jordan Klepper,6.5,914,162
 tt7033900,DrossRotzank,8.3,90,163
 tt1576149,SportsNation,6.6,579,164
 tt2136586,Walulis sieht fern,8.2,91,165
 tt0196301,W5,7.9,107,166
-tt16428770,Eva Longoria: Searching for Mexico,7.4,150,167
+tt16428770,Eva Longoria: Searching for Mexico,7.4,152,167
 tt3889094,The Motorbike Show,8.6,71,168
 tt10433562,Rag Rag Mein Ganga,9.4,52,169
 tt0270110,Bits,8.7,67,170
@@ -215,8 +215,8 @@ tt9005714,DC Daily,7.4,105,213
 tt15073262,The Cheap Seats,7.0,161,214
 tt0255766,Wall $treet Week with Louis Rukeyser,8.9,44,215
 tt7816792,The Redemption Project with Van Jones,8.3,57,216
-tt0882480,NFL2Night,7.5,93,217
 tt4080454,Sex with Sunny Megatron,7.5,93,217
+tt0882480,NFL2Night,7.5,93,217
 tt3624218,The Mortal Instruments: Book Club,9.6,34,219
 tt3173084,Intelligence for Your Life,8.4,53,220
 tt2926042,All in with Chris Hayes,6.5,508,221
@@ -226,19 +226,19 @@ tt18866538,Fauci Unmasked,6.8,207,224
 tt16308040,The Boys: VNN (Seven on 7),7.2,117,225
 tt0331390,In the News,8.8,42,226
 tt1283836,Stuff Happens Hosted by Bill Nye,8.0,60,227
-tt12580168,Indian Matchmaking,6.3,4251,228
-tt2229330,Cash Investigation,8.2,53,229
+tt2229330,Cash Investigation,8.2,53,228
+tt12580168,Indian Matchmaking,6.3,4252,229
 tt11156226,Overlord DVD,6.6,310,230
-tt6244738,Weather Gone Viral,7.8,66,231
-tt5803804,The Jimquisition,7.5,81,232
-tt0196293,The George Michael Sports Machine,7.8,65,233
-tt3230014,Stossel,7.1,120,234
-tt2241932,Trend This!,8.2,51,235
+tt5803804,The Jimquisition,7.5,81,231
+tt0196293,The George Michael Sports Machine,7.8,65,232
+tt3230014,Stossel,7.1,120,233
+tt2241932,Trend This!,8.2,51,234
+tt0346264,Filter,8.3,48,235
 tt5740294,We Got Issues,6.8,185,236
-tt0346264,Filter,8.3,48,237
-tt0857058,Extra - Das RTL Magazin,7.5,79,238
-tt8826618,The Jimmy Dore Show: Clips,7.3,94,239
-tt0286393,Sportschau,7.0,132,240
+tt0857058,Extra - Das RTL Magazin,7.5,79,237
+tt8826618,The Jimmy Dore Show: Clips,7.3,94,238
+tt0286393,Sportschau,7.0,132,239
+tt6244738,Weather Gone Viral,7.7,67,240
 tt0035803,The German Weekly Review,7.9,58,241
 tt0395334,Cartaz Cultural,7.1,113,242
 tt0344621,BBC World News,6.8,177,243
@@ -269,8 +269,8 @@ tt17051170,Enough,1.7,22,1606
 tt0154053,ABC News Nightline,5.9,342,1607
 tt0355070,CBS This Morning,5.3,116,1608
 tt1240983,America's Election HQ,3.2,35,1609
-tt0331391,MTV News,5.0,89,1610
 tt6341900,MTP Daily,5.0,89,1610
+tt0331391,MTV News,5.0,89,1610
 tt7513010,The Myth of the 'Coon',4.1,51,1612
 tt0799872,Fox Sports News,3.3,37,1613
 tt3228548,The Real Story with Gretchen Carlson,3.8,45,1614
@@ -287,15 +287,15 @@ tt9278774,CNN Right Now,3.4,41,1624
 tt3608508,Mornings with Maria Bartiromo,4.5,68,1625
 tt6018066,Film HQ,4.2,58,1626
 tt4209386,At This Hour with Kate Bolduan,4.4,65,1627
-tt0826215,Morning Express with Robin Meade,5.8,292,1628
-tt0283706,BBC News at Ten O'Clock,5.2,117,1629
+tt0283706,BBC News at Ten O'Clock,5.2,117,1628
+tt0826215,Morning Express with Robin Meade,5.8,292,1629
 tt2077192,Erin Burnett OutFront,5.7,234,1630
 tt4690816,The Greg Gutfeld Show,6.1,1163,1631
 tt3244332,Shepard Smith Reporting,4.6,74,1632
-tt21409542,The Culture Is,1.8,27,1633
-tt0350420,Kalimera Ellada,3.5,44,1634
-tt6104082,The Young Turks on Fusion,3.3,41,1635
-tt1342705,Jane Velez-Mitchell,3.7,48,1636
+tt0350420,Kalimera Ellada,3.5,44,1633
+tt6104082,The Young Turks on Fusion,3.3,41,1634
+tt1342705,Jane Velez-Mitchell,3.7,48,1635
+tt21409542,The Culture Is,1.8,28,1636
 tt11833964,Kay Burley @Breakfast,3.1,40,1637
 tt1033765,CNN Heroes,3.5,46,1638
 tt0452910,Frühstücksfernsehen,4.1,60,1639
@@ -339,13 +339,13 @@ tt1468817,The Wanted,3.8,73,1676
 tt0185822,Showbiz Today,4.7,119,1677
 tt7662208,The Gavin McInnes Show,5.2,182,1678
 tt0231035,NBC Nightly News with Lester Holt,5.9,641,1679
-tt4250574,The IMDb Countdown,5.6,310,1680
-tt1908157,Martin Bashir,2.0,43,1681
+tt1908157,Martin Bashir,2.0,43,1680
+tt4250574,The IMDb Countdown,5.6,310,1681
 tt0315025,Leute heute,3.6,70,1682
 tt0470977,The Situation Room,5.5,266,1683
 tt0939787,Aftenshowet,4.3,98,1684
-tt0381753,Fantastic,5.7,386,1685
-tt0465352,Tucker,3.9,81,1686
+tt0465352,Tucker,3.9,81,1685
+tt0381753,Fantastic,5.7,386,1686
 tt0444583,Showbiz Tonight,4.1,89,1687
 tt19709172,Piers Morgan Uncensored,4.6,119,1688
 tt1280627,The Rachel Maddow Show,6.1,2457,1689
@@ -406,7 +406,7 @@ tt0493199,eTalk Daily,3.4,164,1743
 tt0463397,Corazón de...,3.4,165,1744
 tt2369568,Paranormal Paparazzi,2.7,132,1745
 tt0940147,Hannity's America,3.3,161,1746
-tt10827252,The Drew Barrymore Show,5.5,776,1747
+tt10827252,The Drew Barrymore Show,5.5,777,1747
 tt0050070,America After Dark,2.3,123,1748
 tt13852906,The Faulkner Focus,3.9,214,1749
 tt0800281,CBS Evening News with Katie Couric,3.6,196,1750
@@ -429,10 +429,10 @@ tt14721404,The Big Saturday Show,1.9,152,1766
 tt3722332,The Nightly Show with Larry Wilmore,5.8,2951,1767
 tt0930831,Gomorron,4.3,382,1768
 tt10804950,Geeks + Gamers,4.9,588,1769
-tt0380086,Anderson Cooper 360°,5.4,1081,1770
+tt0380086,Anderson Cooper 360°,5.4,1082,1770
 tt13034098,Sharri,1.3,142,1771
-tt7406432,Fox News @ Night,3.9,317,1772
-tt1509653,Live from Studio Five,2.2,176,1773
+tt1509653,Live from Studio Five,2.2,176,1772
+tt7406432,Fox News @ Night,3.9,318,1773
 tt6119890,Scarce,2.9,216,1774
 tt7317360,Cuomo Prime Time,4.7,528,1775
 tt0294140,MSNBC Live,3.7,303,1776
@@ -452,7 +452,7 @@ tt0343316,Today,3.5,332,1789
 tt0414740,Hardball with Chris Matthews,4.7,690,1790
 tt12682354,The ReidOut,3.8,413,1791
 tt0355143,taff,2.6,270,1792
-tt1714810,The Young Turks,5.5,2132,1793
+tt1714810,The Young Turks,5.5,2131,1793
 tt9010994,PragerU,4.1,503,1794
 tt7406344,Megyn Kelly Today,2.4,263,1795
 tt0266134,E! News,4.2,544,1796
@@ -464,14 +464,14 @@ tt0185800,Fox Files,1.5,225,1801
 tt0344646,Fox News Live,3.3,393,1802
 tt0181261,This Morning,4.6,846,1803
 tt0800289,Glenn Beck,3.6,486,1804
-tt1132615,The Doctors,4.7,983,1805
+tt1132615,The Doctors,4.7,984,1805
 tt0426347,Fox News Sunday,3.9,582,1806
 tt0428169,Sunrise,2.9,400,1807
 tt1480165,The Project,4.4,825,1808
 tt1973047,Dish Nation,3.8,636,1809
 tt3503424,Celebrity Page,2.4,386,1810
 tt0190177,A Current Affair,2.1,373,1811
-tt0166442,Inside Edition,3.9,749,1812
+tt0166442,Inside Edition,3.9,750,1812
 tt0376434,Tinseltown TV,4.2,926,1813
 tt3685566,CNN Tonight,3.5,682,1814
 tt0476038,CNN Newsroom,3.5,696,1815
@@ -489,11 +489,11 @@ tt0167515,Access Hollywood,3.2,884,1826
 tt0044298,Today,4.6,2343,1827
 tt0247094,Extra,3.2,928,1828
 tt0090493,The Oprah Winfrey Show,5.1,5320,1829
-tt6238614,Tucker Carlson Tonight,4.6,4128,1830
+tt6238614,Tucker Carlson Tonight,4.6,4129,1830
 tt0197151,Fox News,2.5,1162,1831
 tt0149408,The 700 Club,1.8,968,1832
 tt6026132,Drama Alert,1.6,992,1833
-tt0081857,Entertainment Tonight,3.6,2636,1834
+tt0081857,Entertainment Tonight,3.6,2637,1834
 tt1095213,TMZ on TV,3.2,2189,1835
 tt1740718,The Talk,3.2,2317,1836
 tt1500570,Hannity,3.5,2943,1837

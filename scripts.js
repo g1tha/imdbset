@@ -1,4 +1,7 @@
-// GLOBAL VARIABLES
+//////
+// NAVIGATION AND PAGE DESIGN
+//////
+// VARIABLES
 const styleSheet = document.getElementById('stylesheet');
 const primaryNav = document.querySelector('.primary-navigation');
 const navToggle = document.querySelector('.nav-toggle');
@@ -18,17 +21,147 @@ const genreDropdown = document.getElementById('genre');
 const lastUpdated = document.getElementById('lastUpdated');
 const titleGridDiv = document.querySelector('#titleGrid');
 
+// MAIN
+navToggle.addEventListener('click', () => {
+    const visibility = primaryNav.getAttribute('data-visible');
+    if (visibility === 'false') {
+        primaryNav.setAttribute('data-visible', 'true');
+        navToggle.setAttribute('aria-expanded', 'true');
+        navBurger.setAttribute('data-visible', 'false');
+        navClose.setAttribute('data-visible', 'true');
+    } else {
+        primaryNav.setAttribute('data-visible', 'false');
+        navToggle.setAttribute('aria-expanded', 'false');
+        navBurger.setAttribute('data-visible', 'true');
+        navClose.setAttribute('data-visible', 'false');
+    }
+})
+
+let lightMode = localStorage.getItem('lightMode');
+themeLink.addEventListener('click', changeTheme);
+if (themeSwitch !== null) {
+    themeSwitch.addEventListener('click', changeTheme);
+}
+
+if (lightMode === 'enabled') {
+    enableLightMode();
+} else {
+    disableLightMode();
+}
+
+// FUNCTIONS
+function changeTheme() {
+    if (lightMode === 'enabled') {
+        disableLightMode();
+    } else {
+        enableLightMode();
+    }
+}
+
+function enableLightMode() {
+    darkIcon.setAttribute('data-visible', 'true');
+    lightIcon.setAttribute('data-visible', 'false');
+    localStorage.setItem('lightMode', 'enabled');
+    lightMode = localStorage.getItem('lightMode');
+    styleSheet.setAttribute('href', 'styles-light.css');
+    if (themeSwitch !== null) {
+        themeLbl.textContent = "Light theme on";
+        themeSwitch.checked = true;
+    }
+    if (window.location.pathname.includes('titles.html')) {
+        titleGridDiv.setAttribute('class', 'ag-theme-alpine');
+    }
+}
+
+function disableLightMode() {
+    darkIcon.setAttribute('data-visible', 'false');
+    lightIcon.setAttribute('data-visible', 'true');
+    localStorage.setItem('lightMode', null);
+    lightMode = localStorage.getItem('lightMode');
+    styleSheet.setAttribute('href', 'styles.css');;
+    if (themeSwitch !== null) {
+        themeLbl.textContent = "Light theme off";
+        themeSwitch.checked = false;
+    }
+    if (window.location.pathname.includes('titles.html')) {
+        titleGridDiv.setAttribute('class', 'ag-theme-alpine-dark');
+    }
+}
+
+
+//////
+// TITLES PAGE
+//////
+
+// VARIABLES AND DATA
+// Title chart setup block
+var titleTableColumnDefs = [
+    { field: 'title', minWidth: 50, wrapText: true, autoHeight: true, cellRenderer: params => { return params.value } },
+    { field: 'series', minWidth: 50, wrapText: true, autoHeight: true },
+    { field: 'season', minWidth: 30, maxWidth: 80 },
+    { field: 'episode', minWidth: 30, maxWidth: 90 },
+    { field: 'rating', minWidth: 60, maxWidth: 80 },
+    { field: 'votes', minWidth: 60, maxWidth: 80, valueFormatter: commaFormatter },
+    { field: 'rank', minWidth: 60, maxWidth: 70, valueFormatter: commaFormatter },
+];
+var titleTableSchema = [];
+var titleChartDataset = [];
+var titleChartData = {
+    datasets: [{
+        label: '(rank, rating, votes)',
+        data: titleChartDataset,
+        backgroundColor: 'hsla(185, 67%, 48%, 50%)',
+        borderColor: 'hsla(185, 67%, 48%, 50%)',
+        hoverBackgroundColor: 'hsla(185, 67%, 48%, 100%)',
+        hoverBorderColor: 'hsla(185, 67%, 48%, 100%)',
+        clip: false,
+    }]
+};
+// Title chart config block
+var titleChartConfig = {
+    type: 'bubble',
+    data: titleChartData,
+    options: {
+        maintainAspectRatio: false,
+        scales: {
+            x: {
+                reverse: true,
+                grid: {
+                    display: false,
+                },
+                title: {
+                    display: true,
+                    text: 'rank',
+                }
+            },
+            y: {
+                grid: {
+                    display: false,
+                },
+                title: {
+                    display: true,
+                    text: 'rating'
+                },
+            }
+        },
+        plugins: {
+            legend: {
+            display: false
+        }}
+    }
+};
+// data collection functions
 async function getTitleMenus() {
     const response = await fetch('data/titleMenus.json');
     const data = await response.json();
     return data;
 }
+
 async function getLastUpdate() {
     const response = await fetch('data/lastUpdated.json');
     const data = await response.json();
     return data;
 }
-
 
 async function parseTitleCSV(category, genre) {
     let first = category;
@@ -74,85 +207,20 @@ function getTitleCSV(category, genre) {
             ;
             result.push(...dictionary);
         });
-
-    // console.log(result.length);
-    // console.log(result);
     return result;
 }
 
-navToggle.addEventListener('click', () => {
-    const visibility = primaryNav.getAttribute('data-visible');
-    if (visibility === 'false') {
-        primaryNav.setAttribute('data-visible', 'true');
-        navToggle.setAttribute('aria-expanded', 'true');
-        navBurger.setAttribute('data-visible', 'false');
-        navClose.setAttribute('data-visible', 'true');
-    } else {
-        primaryNav.setAttribute('data-visible', 'false');
-        navToggle.setAttribute('aria-expanded', 'false');
-        navBurger.setAttribute('data-visible', 'true');
-        navClose.setAttribute('data-visible', 'false');
-    }
-})
-
-
-let lightMode = localStorage.getItem('lightMode');
-themeLink.addEventListener('click', changeTheme);
-if (themeSwitch !== null) {
-    themeSwitch.addEventListener('click', changeTheme);
-}
-
-if (lightMode === 'enabled') {
-    enableLightMode();
-} else {
-    disableLightMode();
-}
+// MAIN
+// Title chart initialisation (render)
+var titleChart = new Chart(document.getElementById('titleChart'), titleChartConfig);
 
 if (window.location.pathname.includes('titles.html')) {
     updateCategories()
 }
 
+
+
 // FUNCTIONS
-
-function changeTheme() {
-    if (lightMode === 'enabled') {
-        disableLightMode();
-    } else {
-        enableLightMode();
-    }
-}
-
-
-function enableLightMode() {
-    darkIcon.setAttribute('data-visible', 'true');
-    lightIcon.setAttribute('data-visible', 'false');
-    localStorage.setItem('lightMode', 'enabled');
-    lightMode = localStorage.getItem('lightMode');
-    styleSheet.setAttribute('href', 'styles-light.css');
-    if (themeSwitch !== null) {
-        themeLbl.textContent = "Light theme on";
-        themeSwitch.checked = true;
-    }
-    if (window.location.pathname.includes('titles.html')) {
-        titleGridDiv.setAttribute('class', 'ag-theme-alpine');
-    }
-}
-
-function disableLightMode() {
-    darkIcon.setAttribute('data-visible', 'false');
-    lightIcon.setAttribute('data-visible', 'true');
-    localStorage.setItem('lightMode', null);
-    lightMode = localStorage.getItem('lightMode');
-    styleSheet.setAttribute('href', 'styles.css');;
-    if (themeSwitch !== null) {
-        themeLbl.textContent = "Light theme off";
-        themeSwitch.checked = false;
-    }
-    if (window.location.pathname.includes('titles.html')) {
-        titleGridDiv.setAttribute('class', 'ag-theme-alpine-dark');
-    }
-}
-
 function updateCategories() {
     getTitleMenus().then(titleMenus => {
         for (const category in titleMenus) {
@@ -170,9 +238,7 @@ function updateLast() {
     getLastUpdate().then(data => {
         lastUpdated.textContent = data;
     })
-
 }
-
 
 function updateGenres() {
     getTitleMenus().then(titleMenus => {
@@ -195,22 +261,14 @@ async function getTitlesData() {
     var id = [];
     var title = [];
     var series = [];
-    var season = []; 
+    var season = [];
     var episode = [];
     var link = [];
     var rating = [];
     var votes = [];
     var rank = [];
     var rowData = [];
-    var columnDefs = [
-        {field: 'title', minWidth: 50, wrapText: true, autoHeight: true, cellRenderer: params => {return params.value}},
-        {field: 'series', minWidth: 50, wrapText: true, autoHeight: true},
-        {field: 'season', minWidth: 30, maxWidth: 80},
-        {field: 'episode', minWidth: 30, maxWidth: 90},
-        {field: 'rating', minWidth: 60, maxWidth: 80},
-        {field: 'votes', minWidth: 60, maxWidth: 80, valueFormatter: commaFormatter},
-        {field: 'rank', minWidth: 60, maxWidth: 70, valueFormatter: commaFormatter},
-    ];
+    
     // Get menu data
     const titleMenus = await getTitleMenus();
     const selectedCategory = categoryDropdown.value;
@@ -249,18 +307,20 @@ async function getTitlesData() {
     }
     // Create table
     let tableSchema = { 'title': link, 'series': series, 'season': season, 'episode': episode, 'rating': rating, 'votes': votes, 'rank': rank }
+    titleTableSchema.push(tableSchema);
     rowData = ArraytoDict(tableSchema);
 
     const gridOptions = {
-        columnDefs: columnDefs,
-        defaultColDef: {sortable: true, filter: true, resizable: true, flex:1},
+        columnDefs: titleTableColumnDefs,
+        defaultColDef: { sortable: true, filter: true, resizable: true, flex: 1, floatingFilter: false},
         animateRows: true,
         pagination: true,
         paginationPageSize: 20,
         domLayout: 'autoHeight',
         rowData: rowData,
+        onPaginationChanged: (event=> getDataDisplayed()),
     };
-    
+
     titleGridDiv.innerHTML = '';
     new agGrid.Grid(titleGridDiv, gridOptions);
     if (selectedCategory == 'episode') {
@@ -268,16 +328,46 @@ async function getTitlesData() {
     } else {
         gridOptions.columnApi.setColumnsVisible(['series', 'season', 'episode'], false);
     };
+    getDataDisplayed()
+
+    function getDataDisplayed() {
+    // Get data displayed in table as input to chart
+    titleChartDataset = [];
+    gridOptions.api.forEachNodeAfterFilter(node => {
+        currentPage = gridOptions.api.paginationGetCurrentPage();
+        pageSize = gridOptions.api.paginationGetPageSize();
+        startRow = currentPage * pageSize;
+        endRow = (currentPage + 1) * pageSize;
+        if (node.rowIndex >= startRow && node.rowIndex < endRow) {
+            titleChartDataset.push({ x: node.data.rank, y: node.data.rating, r: (node.data.votes) });
+        }
+    });
+    // Scale r (radius) such that the maximum value is 50 px
+    let max_r = 1;
+    for (item in votes) {
+        if (max_r < votes[item]) {
+            max_r = votes[item]
+        };
+    };
+    r_divisor = Math.max(max_r / (window.innerWidth / 20), (max_r /50));
+    for (item in titleChartDataset) {
+        titleChartDataset[item]['r'] = Math.round(titleChartDataset[item]['r'] / r_divisor);
+    };
+    // Uupdate chart data and chart
+    titleChart.data.datasets[0].data = titleChartDataset;
+    titleChart.update();}
+
 }
 
 // For formatting cells in ag Grid tables
 function commaFormatter(params) {
     return formatNumber(params.value);
-  }
+}
 
 function formatNumber(number) {
-return Math.floor(number).toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,');
+    return Math.floor(number).toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,');
 }
+
 
 function ArraytoDict(arrays) {
     const dictionaries = [];

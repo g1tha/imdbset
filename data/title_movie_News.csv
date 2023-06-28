@@ -1,16 +1,16 @@
 tconst,primaryTitle,averageRating,numVotes,ranking
-tt5929776,Before the Flood,8.2,28358,1
-tt1618448,Racing Extinction,8.2,8058,2
+tt5929776,Before the Flood,8.2,28359,1
+tt1618448,Racing Extinction,8.2,8060,2
 tt3270538,Requiem for the American Dream,8.1,9700,3
 tt1286537,Food， Inc.,7.8,51706,4
 tt1789083,The Weight of Chains,8.1,4477,5
 tt1778338,The Culture High,8.2,3711,6
-tt2593392,Alive Inside: A Story of Music and Memory,8.2,3185,7
-tt0497116,An Inconvenient Truth,7.4,84363,8
+tt2593392,Alive Inside: A Story of Music and Memory,8.2,3186,7
+tt0497116,An Inconvenient Truth,7.4,84365,8
 tt3162938,The True Cost,7.7,7163,9
-tt2124803,How to Survive a Plague,7.6,4263,10
+tt2124803,How to Survive a Plague,7.6,4264,10
 tt1333634,Burma VJ: Reporting from a Closed Country,7.9,2495,11
-tt0388789,Born Into Brothels: Calcutta's Red Light Kids,7.2,17642,12
+tt0388789,Born Into Brothels: Calcutta's Red Light Kids,7.2,17643,12
 tt1671513,Four Horsemen,7.7,2895,13
 tt1219288,The 81st Annual Academy Awards,7.8,2397,14
 tt2865822,All the World in a Design School,8.3,1304,15
@@ -21,11 +21,11 @@ tt1687263,The Referee,7.9,1672,19
 tt2279306,Propaganda,8.0,1009,20
 tt2630898,(Dis)Honesty: The Truth About Lies,7.4,1946,21
 tt2195566,Neurons to Nirvana,7.6,1283,22
-tt1300563,The Age of Stupid,7.0,4595,23
+tt1300563,The Age of Stupid,7.0,4596,23
 tt3665486,Los Scandalous - Skid Row,7.5,1259,24
 tt21818816,While We Watched,8.6,495,25
 tt4125222,The Champions,8.5,502,26
-tt3717510,The Drop Box,8.0,704,27
+tt3717510,The Drop Box,8.0,705,27
 tt0263238,Crisis: Behind a Presidential Commitment,7.8,794,28
 tt3242934,SlingShot,7.6,938,29
 tt4056808,The Chinese Mayor,7.7,809,30
@@ -48,7 +48,7 @@ tt7844518,Bellingcat: Truth in a Post-Truth World,7.3,735,46
 tt3335378,Utopia,7.7,433,47
 tt0131424,Hindenburg Disaster Newsreel Footage,7.5,530,48
 tt1222816,Disneynature: Wings of Life,7.3,674,49
-tt2414454,The Human Scale,7.2,788,50
+tt2414454,The Human Scale,7.2,789,50
 tt2093109,Escape Fire: The Fight to Rescue American Healthcare,7.4,545,51
 tt1634833,Overdose,7.6,422,52
 tt14398794,F@ck This Job,7.4,521,53
@@ -61,9 +61,9 @@ tt2447750,The Paw Project,8.2,235,59
 tt2125640,The 69th Annual Golden Globe Awards,7.1,739,60
 tt1564372,The 67th Annual Golden Globe Awards,7.3,523,61
 tt1849755,Die Mondverschwörung,7.5,405,62
-tt4654844,Bitcoin: The End of Money as We Know It,6.9,1168,63
+tt4654844,Bitcoin: The End of Money as We Know It,6.9,1169,63
 tt2091398,The Revisionaries,7.1,687,64
-tt1773722,The Dark Side of Chocolate,7.5,383,65
+tt1773722,The Dark Side of Chocolate,7.5,384,65
 tt2992302,Sriracha,7.3,488,66
 tt4497850,Agora: From Democracy to the Market,8.2,215,67
 tt2473486,Oxyana,7.1,643,68
@@ -110,8 +110,8 @@ tt3458118,Blood on the Mountain,7.2,275,108
 tt1506940,2012: Time for Change,7.0,372,109
 tt1519635,Disorder,7.5,177,110
 tt4257062,In Transit,7.6,158,111
-tt4223204,Forgotten Plague,7.9,123,112
 tt3427772,One Little Pill,7.9,123,112
+tt4223204,Forgotten Plague,7.9,123,112
 tt1512237,The 10 Conditions of Love,7.7,141,114
 tt3921454,The Price We Pay,7.2,243,115
 tt3163908,Veil of Tears,8.9,69,116
@@ -175,18 +175,18 @@ tt1710260,Bhopali,8.1,64,173
 tt5098712,The Age of Consequences,6.9,251,174
 tt21048424,Y,9.4,35,175
 tt18551400,Pharaohs' Golden Parade,9.1,39,176
-tt3735216,Under Our Skin 2: Emergence,7.9,72,177
 tt1500818,Maafa 21,7.9,72,177
-tt1519434,Transmission 6-10,8.6,48,179
+tt3735216,Under Our Skin 2: Emergence,7.9,72,177
 tt2262242,The Last Colony,8.6,48,179
+tt1519434,Transmission 6-10,8.6,48,179
 tt0354355,The 56th Annual Tony Awards,7.4,110,181
 tt2608566,The Venice Syndrome,7.1,164,182
-tt2942444,Jekyll Island， the Truth Behind the Federal Reserve,8.8,43,183
 tt4023328,In a Perfect World,8.8,43,183
+tt2942444,Jekyll Island， the Truth Behind the Federal Reserve,8.8,43,183
 tt3350244,Mentor,7.3,121,185
 tt1186790,Bash at the Square,9.2,36,186
-tt3042964,Waiting for Mamu,8.1,60,187
 tt4275100,Pels,8.1,60,187
+tt3042964,Waiting for Mamu,8.1,60,187
 tt0970500,The L Word: L'ements of Style,9.3,34,189
 tt1906492,The Royal Wedding,6.7,454,190
 tt1710261,Black Diamond,7.5,92,191
@@ -220,35 +220,35 @@ tt2261295,Baseball in the Time of Cholera,8.3,41,218
 tt3856972,The Connection,8.0,49,219
 tt4208660,Streif: One Hell of a Ride,6.6,627,220
 tt1806810,Concrete Pharaohs,7.9,52,221
-tt2962826,Seeds of Time,7.5,72,222
 tt1800384,54th Golden Globe Awards,7.5,72,222
+tt2962826,Seeds of Time,7.5,72,222
 tt11522586,Celebrating Marvel's Stan Lee,8.4,38,224
 tt4477888,Men in the Arena,8.0,48,225
 tt9328986,This Little Land of Mines,8.1,45,226
 tt7686662,YouTube Child Sex Scandal: Aftermath,8.9,30,227
 tt1999261,Tahrir: Liberation Square,7.3,88,228
-tt10078838,Voice Arts® Awards,9.6,23,229
 tt9824460,Jussie Smollett Is a Complete Idiot,9.6,23,229
+tt10078838,Voice Arts® Awards,9.6,23,229
 tt4595114,Poverty Inc,7.4,78,231
 tt3153092,Willowbrook: The Last Great Disgrace,7.6,64,232
 tt2275921,Rosia Montana: Town on the Brink,8.5,35,233
 tt2349677,Farewell Ferris Wheel,7.5,69,234
-tt1843083,2011 3D Creative Arts Awards,9.6,22,235
-tt4351294,A Day's Work,9.3,24,236
-tt2462414,Outlawed in Pakistan,7.8,51,237
-tt4420868,The EE British Academy Film Awards,7.2,93,238
-tt1481562,Training Rules,7.2,93,238
-tt1705055,The Enemy of the Smile: AA - An Ancient Bacterium,8.7,30,240
-tt1586734,Defying Deletion: The Fight Over Iraq's Nineveh Plains,8.1,41,241
-tt3691830,Brit.i.am,9.8,20,242
-tt4546380,The Lie We Live,7.6,59,243
-tt12624448,The Fakest News,9.1,25,244
-tt3854548,Pencils Down! The 100 Days of the Writers Guild Strike,8.4,34,245
-tt2006722,Doctors of the Dark Side,7.1,105,246
-tt3071492,Rab da Vaasta...,7.7,53,247
-tt4433172,Nerd Prom: Inside Washington's Wildest Week,7.3,77,248
-tt1773104,War on Terror,8.8,27,249
-tt2883794,Against the Tide,7.7,51,250
+tt2883794,Against the Tide,7.8,52,235
+tt1843083,2011 3D Creative Arts Awards,9.6,22,236
+tt4351294,A Day's Work,9.3,24,237
+tt2462414,Outlawed in Pakistan,7.8,51,238
+tt4420868,The EE British Academy Film Awards,7.2,93,239
+tt1481562,Training Rules,7.2,93,239
+tt1705055,The Enemy of the Smile: AA - An Ancient Bacterium,8.7,30,241
+tt1586734,Defying Deletion: The Fight Over Iraq's Nineveh Plains,8.1,41,242
+tt3691830,Brit.i.am,9.8,20,243
+tt4546380,The Lie We Live,7.6,59,244
+tt12624448,The Fakest News,9.1,25,245
+tt3854548,Pencils Down! The 100 Days of the Writers Guild Strike,8.4,34,246
+tt2006722,Doctors of the Dark Side,7.1,105,247
+tt3071492,Rab da Vaasta...,7.7,53,248
+tt4433172,Nerd Prom: Inside Washington's Wildest Week,7.3,77,249
+tt1773104,War on Terror,8.8,27,250
 tt1505350,Madrid: Open City?,5.1,47,1503
 tt0215981,McKinley and Others in Carriage,3.3,20,1504
 tt0226059,Launch， U.S. Battleship 'Kentucky',4.4,31,1505
@@ -264,64 +264,64 @@ tt0420976,Le tsar Nicolas II à Paris,5.3,58,1514
 tt0229568,McKinley and Hobart Parade at Canton， O.,4.0,27,1515
 tt0000142,Buffalo Bill and Escort,4.3,31,1516
 tt0370505,Dronningens nytårstale,1.7,14,1517
-tt0953470,Kino-pravda no. 8,5.6,80,1518
-tt0216957,Old Guard， New York City,3.1,20,1519
-tt0370515,Dronningens nytårstale,2.5,17,1520
-tt13320628,The Critics' Choice Super Awards,4.4,33,1521
-tt0953454,Kino-pravda no. 1,6.1,203,1522
-tt1187031,Offers Herself as Bride for $10， 000,4.5,35,1523
-tt0344768,1897 Melbourne Cup,3.6,24,1524
-tt0370501,Dronningens nytårstale,2.6,18,1525
-tt5182042,First in the South Democratic Candidates Forum on MSNBC,2.6,18,1525
-tt13880940,The Inauguration of Joseph R. Biden， Jr.,5.4,67,1527
-tt7953898,President Donald Trump's State of the Union Address,4.4,34,1528
-tt0453877,Seine Majestät Kaiser Wilhelm II. in Stettin,4.7,40,1529
-tt0370512,Dronningens nytårstale,2.1,16,1530
-tt0370504,Dronningens nytårstale,1.8,15,1531
-tt0953462,Kino-Pravda No. 17: For the First Soviet Agricoltural， Handicraft， and Industrial Exhibition,5.8,111,1532
-tt1152681,The 17th Annual Gotham Awards,4.8,43,1533
-tt0953471,Kino-pravda no. 9,5.6,85,1534
-tt0216156,Return of McKinley from the Capitol,2.7,19,1535
-tt0218731,Wreck of the Schooner 'Richmond',2.7,19,1535
-tt5447520,Video kontsert DIF,2.0,16,1537
-tt16978704,ASU students found guilty of harassing white classmates over pro-police sticker,4.5,37,1538
-tt0370499,Dronningens nytårstale,1.9,16,1539
-tt0000381,Buffalo Bill's Wild West Show,3.6,26,1540
-tt0953469,Kino-pravda no. 7,5.7,101,1541
-tt0370503,Dronningens nytårstale,1.7,16,1542
-tt0859588,The 55th Annual Golden Globe Awards,5.9,144,1543
-tt0217517,Gordon Highlanders,4.8,47,1544
-tt4718526,LA Character,2.4,19,1545
-tt1467094,The BET Honors,2.6,20,1546
-tt3308002,Looney Lens: Split Skyscrapers,5.4,76,1547
-tt0370517,Dronningens nytårstale,1.8,17,1548
-tt2294954,2011 AVN Awards Show,5.0,56,1549
-tt0370513,Dronningens nytårstale,1.4,16,1550
-tt0370518,Dronningens nytårstale,1.4,16,1550
-tt0215463,7th Regiment， N.G.S.N.Y.,3.2,25,1552
-tt0217432,Emperor Francis Joseph of Austria,4.5,42,1553
-tt6222294,Trump vs Clinton: The Result - ITV News Special,2.9,23,1554
-tt0215767,Finish of the Brooklyn Handicap,3.3,26,1555
-tt0345325,General Buller Embarking on the 'Dunottar Castle' at Southampton,3.3,26,1555
-tt0437776,The 25 Hottest Stars Under 25,3.5,28,1557
-tt0229223,The Arrival of Li Hung Chang,3.6,29,1558
-tt4414694,Dreams Rewired,5.8,133,1559
-tt0048086,Football Headliners,5.2,68,1560
-tt0286155,Steamer 'Rosedale',2.8,23,1561
-tt0370510,Dronningens nytårstale,1.2,16,1562
-tt0370507,Dronningens nytårstale,1.2,16,1562
-tt2317207,The Launch of HMS Albion at Blackwall,5.3,75,1564
-tt11595544,Harry & Meghan: A Royal Crisis,3.3,27,1565
-tt7464926,Is Review Bombing Ethical?,2.2,20,1566
-tt0370519,Dronningens nytårstale,2.4,21,1567
-tt0370498,Dronningens nytårstale,1.1,16,1568
-tt0370509,Dronningens nytårstale,1.4,17,1569
-tt0215820,Governor Bushnell of Ohio， and Staff,3.0,25,1570
-tt8020328,The Truth About the Black Panther Movie,1.9,19,1571
+tt0216957,Old Guard， New York City,3.1,20,1518
+tt0370515,Dronningens nytårstale,2.5,17,1519
+tt13320628,The Critics' Choice Super Awards,4.4,33,1520
+tt1187031,Offers Herself as Bride for $10， 000,4.5,35,1521
+tt0344768,1897 Melbourne Cup,3.6,24,1522
+tt0370501,Dronningens nytårstale,2.6,18,1523
+tt5182042,First in the South Democratic Candidates Forum on MSNBC,2.6,18,1523
+tt7953898,President Donald Trump's State of the Union Address,4.4,34,1525
+tt0453877,Seine Majestät Kaiser Wilhelm II. in Stettin,4.7,40,1526
+tt0370512,Dronningens nytårstale,2.1,16,1527
+tt0370504,Dronningens nytårstale,1.8,15,1528
+tt0953462,Kino-Pravda No. 17: For the First Soviet Agricoltural， Handicraft， and Industrial Exhibition,5.8,111,1529
+tt1152681,The 17th Annual Gotham Awards,4.8,43,1530
+tt0953471,Kino-pravda no. 9,5.6,85,1531
+tt0218731,Wreck of the Schooner 'Richmond',2.7,19,1532
+tt0216156,Return of McKinley from the Capitol,2.7,19,1532
+tt5447520,Video kontsert DIF,2.0,16,1534
+tt16978704,ASU students found guilty of harassing white classmates over pro-police sticker,4.5,37,1535
+tt0370499,Dronningens nytårstale,1.9,16,1536
+tt0000381,Buffalo Bill's Wild West Show,3.6,26,1537
+tt0953469,Kino-pravda no. 7,5.7,101,1538
+tt0953470,Kino-pravda no. 8,5.5,81,1539
+tt13880940,The Inauguration of Joseph R. Biden， Jr.,5.3,67,1540
+tt0370503,Dronningens nytårstale,1.7,16,1541
+tt0859588,The 55th Annual Golden Globe Awards,5.9,144,1542
+tt0217517,Gordon Highlanders,4.8,47,1543
+tt4718526,LA Character,2.4,19,1544
+tt1467094,The BET Honors,2.6,20,1545
+tt3308002,Looney Lens: Split Skyscrapers,5.4,76,1546
+tt0370517,Dronningens nytårstale,1.8,17,1547
+tt2294954,2011 AVN Awards Show,5.0,56,1548
+tt0370518,Dronningens nytårstale,1.4,16,1549
+tt0370513,Dronningens nytårstale,1.4,16,1549
+tt0215463,7th Regiment， N.G.S.N.Y.,3.2,25,1551
+tt0217432,Emperor Francis Joseph of Austria,4.5,42,1552
+tt6222294,Trump vs Clinton: The Result - ITV News Special,2.9,23,1553
+tt0345325,General Buller Embarking on the 'Dunottar Castle' at Southampton,3.3,26,1554
+tt0215767,Finish of the Brooklyn Handicap,3.3,26,1554
+tt0437776,The 25 Hottest Stars Under 25,3.5,28,1556
+tt0229223,The Arrival of Li Hung Chang,3.6,29,1557
+tt4414694,Dreams Rewired,5.8,133,1558
+tt0048086,Football Headliners,5.2,68,1559
+tt0286155,Steamer 'Rosedale',2.8,23,1560
+tt0370507,Dronningens nytårstale,1.2,16,1561
+tt0370510,Dronningens nytårstale,1.2,16,1561
+tt2317207,The Launch of HMS Albion at Blackwall,5.3,75,1563
+tt11595544,Harry & Meghan: A Royal Crisis,3.3,27,1564
+tt7464926,Is Review Bombing Ethical?,2.2,20,1565
+tt0370519,Dronningens nytårstale,2.4,21,1566
+tt0370498,Dronningens nytårstale,1.1,16,1567
+tt0370509,Dronningens nytårstale,1.4,17,1568
+tt0215820,Governor Bushnell of Ohio， and Staff,3.0,25,1569
+tt8020328,The Truth About the Black Panther Movie,1.9,19,1570
+tt0953454,Kino-pravda no. 1,6.0,204,1571
 tt7925506,Tucker Carlson Is Not a White Nationalist， Jack Smith IV,2.1,20,1572
-tt0370496,Dronningens nytårstale,1.0,16,1573
 tt0370494,Dronningens nytårstale,1.0,16,1573
 tt0370495,Dronningens nytårstale,1.0,16,1573
+tt0370496,Dronningens nytårstale,1.0,16,1573
 tt7718410,Meghan Markle is Magical,2.8,24,1576
 tt0229474,Inaugural Parade， 71st Regiment， New York,3.6,31,1577
 tt6283240,The Place for Politics 2016: MSNBC Election Night Coverage,1.8,19,1578
@@ -329,20 +329,20 @@ tt3485754,Drug Lord: The Legend of Shorty,6.2,395,1579
 tt0370520,Dronningens nytårstale,2.0,20,1580
 tt1895393,Homosexual,2.4,22,1581
 tt10279114,Royal Romance: The Wedding of Prince Harry and Meghan Markle,2.2,21,1582
-tt0370516,Dronningens nytårstale,1.2,17,1583
 tt0370514,Dronningens nytårstale,1.2,17,1583
+tt0370516,Dronningens nytårstale,1.2,17,1583
 tt0377392,Konungens af Siam landstigning vid Logårdstrappan,4.7,52,1585
 tt7717550,Meryl Streep: Shut the F*ck Up,3.9,36,1586
 tt9895108,Conservative Political Action Conference,2.6,24,1587
 tt0262190,'Shamrock' and 'Erin' Sailing,4.0,38,1588
-tt0370493,Dronningens nytårstale,1.0,17,1589
-tt0370500,Dronningens nytårstale,1.0,17,1589
 tt0370508,Dronningens nytårstale,1.0,17,1589
 tt0370497,Dronningens nytårstale,1.0,17,1589
+tt0370500,Dronningens nytårstale,1.0,17,1589
+tt0370493,Dronningens nytårstale,1.0,17,1589
 tt1013919,Lieutenant Clive Wilson and the Tranby Croft Party Hull,4.9,61,1593
 tt0231623,Funeral Leaving the President's House and Church at Canton， Ohio,5.0,66,1594
-tt0216632,Corcoran Cadets， Washington,2.8,26,1595
 tt0216786,Governor of Ohio and Staff,2.8,26,1595
+tt0216632,Corcoran Cadets， Washington,2.8,26,1595
 tt0362216,Taking President McKinley's Body from Train at Canton， Ohio,4.9,62,1597
 tt0216789,Grant Veterans - G.A.R.,2.9,27,1598
 tt4196864,Hollywood Film Awards,5.0,67,1599
@@ -353,8 +353,8 @@ tt0216785,Governor Cook and Staff， Connecticut,2.7,26,1603
 tt0216564,Battery B， Governor's Troop， Penna.,2.7,26,1603
 tt0227630,Theodore Roosevelt,4.4,48,1605
 tt0370506,Dronningens nytårstale,1.3,19,1606
-tt11455174,'Lord Jim' Premiere,1.0,18,1607
 tt0370502,Dronningens nytårstale,1.0,18,1607
+tt11455174,'Lord Jim' Premiere,1.0,18,1607
 tt0296556,Celebrate the Dream: 50 Years of Ebony Magazine,5.2,80,1609
 tt1013937,Opening of the Drill Hall in Accrington by General Baden-Powell,4.7,57,1610
 tt0953460,Kino-pravda no. 15,5.5,107,1611
@@ -369,14 +369,14 @@ tt1013921,Lord Roberts' Visit to Manchester,4.9,69,1619
 tt7657600,Night of Too Many Stars,5.2,87,1620
 tt3621360,Rolling Papers,6.2,496,1621
 tt2145867,Sexocracy: The man of Bunga Bunga,5.9,208,1622
-tt0953468,Kino-pravda no. 6,5.5,118,1623
-tt6474400,President Trump: The Inauguration - ITV News Special,4.2,49,1624
-tt10161398,The 71st Primetime Emmy Awards,5.9,211,1625
-tt0362046,President Roosevelt at the Canton Station,4.6,60,1626
+tt6474400,President Trump: The Inauguration - ITV News Special,4.2,49,1623
+tt10161398,The 71st Primetime Emmy Awards,5.9,211,1624
+tt0362046,President Roosevelt at the Canton Station,4.6,60,1625
+tt0953468,Kino-pravda no. 6,5.5,119,1626
 tt0232460,President Roosevelt Reviewing the Troops at Charleston Exposition,3.2,34,1627
 tt17051606,WHY I STAND: Orlando Magic's Jonathan Isaac Announces Book,3.1,33,1628
-tt0244155,Queen Victoria's Diamond Jubilee,4.8,68,1629
 tt10228730,2019 MTV Movie & TV Awards,4.8,68,1629
+tt0244155,Queen Victoria's Diamond Jubilee,4.8,68,1629
 tt0347357,De kongelige skal fotograferes,5.0,78,1631
 tt0949742,Kino-pravda no. 22 - Krestianskaia Kino-pravda,5.3,99,1632
 tt0229700,Coronation of the Emperor Nicholas the Second,5.7,155,1633
@@ -453,7 +453,7 @@ tt3469420,Love Child,5.6,332,1703
 tt0239423,General Wheeler and Secretary of War Alger at Camp Wikoff,3.4,88,1704
 tt0000024,Opening of the Kiel Canal,4.1,117,1705
 tt0229684,Roosevelt's Rough Riders Embarking for Santiago,4.0,113,1706
-tt25795782,Harry: The Interview,5.3,257,1707
+tt25795782,Harry: The Interview,5.3,258,1707
 tt0242482,General Lee's Procession， Havana,3.4,95,1708
 tt11889164,Best in Sex: 2020 AVN Awards,4.8,184,1709
 tt0239740,Observation Train Following Parade,3.2,91,1710
@@ -487,7 +487,7 @@ tt5816838,Un-Vaxxed: A Docu-Commentary for Robert De Niro,2.7,114,1737
 tt0443422,5th Annual Screen Actors Guild Awards,3.5,155,1738
 tt1924211,2011 MTV Movie Awards,5.3,439,1739
 tt5824900,The 74th Annual Golden Globe Awards 2017,5.6,674,1740
-tt1806777,An Inconsistent Truth,5.0,364,1741
+tt1806777,An Inconsistent Truth,5.0,363,1741
 tt0000147,The Corbett-Fitzsimmons Fight,5.3,475,1742
 tt1859604,The Hidden Hand: Alien Contact and the Government Cover-Up,4.8,337,1743
 tt0254065,Admiral Dewey Landing at Gibraltar,4.0,219,1744

@@ -35,20 +35,20 @@
 
 ::-webkit-scrollbar {
     width: 16px;
-  }
-  
-  ::-webkit-scrollbar-track {
+}
+
+::-webkit-scrollbar-track {
     background: hsl(var(--fgcol1));
-  }
-  
-  ::-webkit-scrollbar-thumb {
+}
+
+::-webkit-scrollbar-thumb {
     background: hsl(var(--fgcol2));
     border-radius: 16px;
-  }
-  
-  ::-webkit-scrollbar-thumb:hover {
+}
+
+::-webkit-scrollbar-thumb:hover {
     background: hsl(var(--fgcol3));
-  }
+}
 
 /* General */
 body {
@@ -115,7 +115,7 @@ h2 {
 
 .nav-toggle {
     display: none;
-    }
+}
 
 
 .primary-header {
@@ -140,7 +140,7 @@ h2 {
     margin: none;
 }
 
-.primary-navigation a > span {
+.primary-navigation a>span {
     font-weight: 900;
     margin-inline-end: 0.5em;
 }
@@ -152,7 +152,7 @@ h2 {
     gap: 2em;
     padding: 2em;
     margin: 0;
-    align-items:stretch;
+    align-items: stretch;
     border-radius: 0.2em;
     transition: all 250ms ease-in-out;
     position: fixed;
@@ -167,21 +167,22 @@ h2 {
     }
 }
 
-ul li:hover > ul,
-ul li:focus-within > ul,
+ul li:hover>ul,
+ul li:focus-within>ul,
 ul li ul:hover,
 ul li ul:focus {
-   visibility: visible;
-   opacity: 1;
+    visibility: visible;
+    opacity: 1;
 }
 
 @media (min-width: 55em) and (max-width: 65em) {
-    .primary-navigation a > span {
+    .primary-navigation a>span {
         display: none;
     }
 }
 
-.login-toggle, .theme-toggle {
+.login-toggle,
+.theme-toggle {
     border: 0;
     background: none;
     color: inherit;
@@ -214,13 +215,13 @@ ul li ul:focus {
             backdrop-filter: blur(0.5em);
         }
     }
-    
+
     .primary-navigation[data-visible="true"] {
         transform: translateX(0%);
         transition: transform 250ms ease-out;
     }
 
-    .logo-container > p {
+    .logo-container>p {
         display: none;
     }
 
@@ -235,16 +236,17 @@ ul li ul:focus {
         color: hsl(var(--bgcol1));
         transition: transform 250ms ease-out;
     }
-    
-    .nav-toggle:hover  {
+
+    .nav-toggle:hover {
         color: hsl(var(--bgcol0));
         transform: scale(1.2);
     }
 
-    .bi-x, .bi-list {
+    .bi-x,
+    .bi-list {
         font-size: 2em;
     }
-    
+
     .bi-x[data-visible="false"],
     .bi-list[data-visible="false"] {
         display: none;
@@ -260,22 +262,26 @@ ul li ul:focus {
     }
 }
 
-@media (max-height: 28em) and (max-width: 55em){
-    .primary-navigation, .dropdown {
+@media (max-height: 28em) and (max-width: 55em) {
+
+    .primary-navigation,
+    .dropdown {
         gap: 0;
         padding: 0 1em 0 1em;
-        justify-content:center;
+        justify-content: center;
     }
 }
 
-@media (max-height: 14em) and (max-width: 55em){
-    .primary-navigation, .dropdown {
+@media (max-height: 14em) and (max-width: 55em) {
+
+    .primary-navigation,
+    .dropdown {
         gap: 0;
         padding: 0 1em 0 1em;
         justify-content: flex-start;
     }
 
-    .primary-navigation a > span {
+    .primary-navigation a>span {
         display: none;
     }
 
@@ -322,6 +328,7 @@ ul li ul:focus {
 .form-switch {
     margin-left: 1em;
 }
+
 .form-check-input {
     background-color: hsl(var(--fgcol1));
     transform: scale(2);
@@ -334,11 +341,11 @@ ul li ul:focus {
 
 .form-check-input:focus {
     box-shadow: none;
-  }
-  
+}
+
 .col-sm-3 {
     height: 6em;
-    
+
 }
 
 .form-select {
@@ -361,19 +368,32 @@ ul li ul:focus {
     justify-content: center;
 }
 
-.footer .logo   {
+.footer .logo {
     fill: hsl(var(--bgcol5));
     height: 2em;
     width: 2em;
 }
+
 .sources {
     padding-left: 1em;
     border-left: 1px solid hsl(var(--bgcol5));
 }
 
-.author  {
+.author {
     margin-top: 0.5em;
 }
+
+.subtitle {
+    margin: 1em;
+    z-index: 1000;
+    color: hsl(var(--fgcol5));
+    display: flex;
+    gap: 1em;
+    font-size: 0.8em;
+    align-items: baseline;
+    justify-content: end;
+}
+
 
 
 @media (min-width: 90em) {
@@ -381,6 +401,11 @@ ul li ul:focus {
         width: 85em;
         align-self: center;
     }
+}
+
+titleGrid {
+    height: 100%;
+    width: 100%;
 }
 
 .ag-theme-alpine {
@@ -399,7 +424,7 @@ ul li ul:focus {
     --ag-input-border-color: hsl(var(--fgcol1));
     --ag-input-focus-border-color: hsl(var(--emcol1));
     --ag-cell-horizontal-padding: 6px;
-    --ag-widget-vertical-spacing: 0.1em;    
+    --ag-widget-vertical-spacing: 0.1em;
 }
 
 .ag-theme-alpine .ag-cell-value {
@@ -407,4 +432,19 @@ ul li ul:focus {
     word-break: normal;
     padding-top: 5px;
     padding-bottom: 5px;
-  }
+}
+
+
+
+.chart-container-flex {
+    position: relative;
+    margin: auto;
+    height: 40vh;
+    width: 80vw;
+}
+
+@media (min-width: 90em) {
+    .chart-container-flex {
+        width: 85em;
+    }
+}

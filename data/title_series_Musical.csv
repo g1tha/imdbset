@@ -1,25 +1,25 @@
 tconst,primaryTitle,averageRating,numVotes,ranking
-tt0863046,Flight of the Conchords,8.6,63661,1
+tt0863046,Flight of the Conchords,8.6,63667,1
 tt1227926,Dr. Horrible's Sing-Along Blog,8.4,43802,2
-tt0074028,The Muppet Show,8.4,25406,3
-tt0416394,The Mighty Boosh,8.4,23252,4
-tt4592410,The Get Down,8.2,23180,5
-tt10314462,Zoey's Extraordinary Playlist,8.1,17035,6
+tt0074028,The Muppet Show,8.4,25408,3
+tt0416394,The Mighty Boosh,8.4,23253,4
+tt4592410,The Get Down,8.2,23181,5
+tt10314462,Zoey's Extraordinary Playlist,8.1,17037,6
 tt0090521,The Singing Detective,8.6,4598,7
 tt2033193,A Very Potter Musical,8.8,3090,8
-tt4094300,Crazy Ex-Girlfriend,7.8,21656,9
+tt4094300,Crazy Ex-Girlfriend,7.8,21662,9
 tt1825133,Smash,7.7,17751,10
 tt0069627,Schoolhouse Rock!,8.2,4179,11
-tt0090500,Pee-wee's Playhouse,8.1,4781,12
+tt0090500,Pee-wee's Playhouse,8.1,4782,12
 tt0076998,D'artagnan and Three Musketeers,7.8,3664,13
-tt11808942,Schmigadoon!,7.4,13029,14
+tt11808942,Schmigadoon!,7.4,13040,14
 tt0077060,Pennies from Heaven,8.4,1176,15
 tt0107423,Lipstick on Your Collar,8.1,1395,16
-tt7765890,Aggressive Retsuko,8.2,1196,17
+tt7765890,Aggressive Retsuko,8.2,1197,17
 tt21099140,Christina Grimmie Zeldaxlove 64,9.6,452,18
 tt4422756,The Real O'Neals,7.3,5943,19
 tt0293734,Oswald,7.6,1956,20
-tt0129719,Süsü， a sárkány kalandjai,8.2,883,21
+tt0129719,Süsü， a sárkány kalandjai,8.2,884,21
 tt14075320,Naam,9.0,437,22
 tt0108825,The Julekalender,7.6,1501,23
 tt0928368,The Pyjamas,8.4,594,24
@@ -28,7 +28,7 @@ tt0198253,Today's Special,8.0,813,26
 tt4079084,Princess Rap Battle,8.2,579,27
 tt0364887,The joulukalenteri,8.4,489,28
 tt0111911,Cartoon Planet,8.5,449,29
-tt8510382,High School Musical: The Musical: The Series,7.1,7773,30
+tt8510382,High School Musical: The Musical: The Series,7.1,7776,30
 tt12524686,The Diary of the Great Perica,8.3,470,31
 tt0447589,Today Is Maria's Day,8.6,366,32
 tt0086800,Sharon， Lois & Bram's Elephant Show,8.0,575,33
@@ -37,7 +37,7 @@ tt0177444,Gullah， Gullah Island,7.4,1338,35
 tt0125111,Midshipmen， Onwards!,7.4,1308,36
 tt0220203,Cebollitas,7.9,506,37
 tt0165042,Live from Lincoln Center,8.7,268,38
-tt12397680,Fraggle Rock: Back to the Rock,8.1,405,39
+tt12397680,Fraggle Rock: Back to the Rock,8.1,407,39
 tt5779222,Julie's Greenroom,8.3,339,40
 tt7759016,Encore!,7.6,681,41
 tt0218940,Dr. Aibolit,7.5,758,42
@@ -49,8 +49,8 @@ tt0195466,The Jackie Gleason Show,8.0,296,47
 tt7334966,Sanders Sides,8.8,165,48
 tt1019690,The Metropolitan Opera HD Live,8.8,163,49
 tt0166048,Lamb Chop's Play-Along,7.1,1943,50
-tt0083412,Fame,7.0,4163,51
-tt0098826,Hull High,8.1,221,52
+tt0098826,Hull High,8.1,221,51
+tt0083412,Fame,7.0,4164,52
 tt2880496,The Mythical Show,8.0,236,53
 tt4551670,The Moblees,8.0,226,54
 tt2377027,Little White Lie,7.9,245,55
@@ -62,18 +62,18 @@ tt0473573,Cocoricó,7.4,425,60
 tt2136443,The Playlist,8.3,136,61
 tt12623018,The Music Freaks,7.7,241,62
 tt1005814,RBD: La familia,7.2,643,63
-tt0174225,A Golden-coloured Straw Hat,7.2,608,64
-tt12651104,Ishaan,9.1,78,65
+tt12651104,Ishaan,9.1,78,64
+tt0174225,A Golden-coloured Straw Hat,7.2,608,65
 tt4175730,Mirakkel,8.1,135,66
 tt9889392,In Our Blood,7.6,229,67
-tt15496116,Doce,7.6,211,68
+tt15496116,Doce,7.6,212,68
 tt1852598,Mary Lou,7.5,246,69
 tt0296385,New Zoo Revue,7.4,287,70
 tt3311936,Side Effects,7.6,193,71
 tt6834120,Jenni Rivera: Mariposa de Barrio,7.4,269,72
 tt2196253,B. Boppin',8.2,97,73
 tt0062606,That's Life,8.3,86,74
-tt8736020,#LikeMe,7.9,118,75
+tt8736020,#LikeMe,7.9,119,75
 tt0238780,Escalona,8.0,107,76
 tt15539452,Gina Yei,8.0,104,77
 tt6256612,The Under Undergrounds,7.9,113,78
@@ -90,7 +90,7 @@ tt0444586,Timeless Tales from Hallmark,7.7,109,88
 tt2455348,Nine Lives: A Musical Web Series,8.7,45,89
 tt12417942,Times of Music,9.5,31,90
 tt12222644,Howard High,9.0,37,91
-tt2090152,Julie and the Phantoms,7.3,192,92
+tt2090152,Julie and the Phantoms,7.3,191,92
 tt2055490,This Is Jinsy,7.0,745,93
 tt0212681,Operavox,8.1,61,94
 tt0335704,The Metropolitan Opera Presents,8.5,45,95
@@ -143,16 +143,16 @@ tt3092888,Destroy the Alpha Gammas,7.9,37,141
 tt0495928,El refugio (de los sueños),7.9,37,141
 tt6152648,The Hunted: Encore,8.3,26,143
 tt7908126,Sr. Brasil,9.5,14,144
-tt0389687,Sunshine Factory,8.9,18,145
-tt8129006,Central Park,6.9,4084,146
-tt8447606,Kally's Mashup,7.1,170,147
+tt20215742,Home Sweet Rome!,8.7,20,145
+tt0389687,Sunshine Factory,8.9,18,146
+tt8447606,Kally's Mashup,7.1,171,147
 tt4276514,Somos Tu Y Yo Un Nuevo Dia,8.1,29,148
-tt20215742,Home Sweet Rome!,8.7,19,149
+tt8129006,Central Park,6.9,4084,149
 tt15174054,Baadal Jal Baras Rahat,9.7,12,150
 tt1605024,The Battery's Down,7.3,78,151
 tt0075545,The New Mickey Mouse Club,7.2,103,152
-tt3316836,Tvoje lice zvuci poznato,7.5,52,153
 tt1262810,Romeo y Julieta,7.5,52,153
+tt3316836,Tvoje lice zvuci poznato,7.5,52,153
 tt2428014,The Troubadoors,9.0,15,155
 tt0112077,Mitt sanna jag,7.2,102,156
 tt4138414,Señales del fin del mundo,8.2,24,157
@@ -178,14 +178,14 @@ tt0414722,Besos robados,7.5,39,176
 tt6294486,Lost Generation,7.5,39,176
 tt0370144,El gran circo de TVE,7.8,25,178
 tt7879300,Haunters: The Musical,7.7,28,179
-tt11322614,Sanders Asides,8.9,11,180
 tt3383862,The Boston Kitchen Musical,8.9,11,180
+tt11322614,Sanders Asides,8.9,11,180
 tt4401616,Que Talento!,7.7,27,182
 tt0061245,The Danny Thomas Hour,7.1,102,183
 tt1239477,Nai-vajnite neshta,9.0,10,184
 tt2406402,Dis Raps for Hire,7.7,26,185
-tt11507832,Tempo,9.4,8,186
-tt21304664,VGLY,7.0,178,187
+tt21304664,VGLY,7.0,181,186
+tt11507832,Tempo,9.4,8,187
 tt9448676,ARRived,8.4,13,188
 tt6447122,Sound of Musicals with Neil Brand,7.5,32,189
 tt15364028,For God's Sake,7.9,19,190
@@ -202,10 +202,10 @@ tt2927576,Pancake Manor,8.7,10,200
 tt14833540,Take Note,7.2,58,201
 tt3630700,Teen Days,7.7,22,202
 tt5193382,CheeseBites,8.5,11,203
-tt0294013,Behind the Bike Sheds,7.8,19,204
 tt0048889,The NBC Comedy Hour,7.8,19,204
-tt1334429,Annie MG,7.1,81,206
-tt10388950,Alif & Sofia,8.8,9,207
+tt0294013,Behind the Bike Sheds,7.8,19,204
+tt10388950,Alif & Sofia,8.8,9,206
+tt1334429,Annie MG,7.1,81,207
 tt0344626,Bituin,8.3,12,208
 tt2043508,Paris by Night,8.4,11,209
 tt1433847,Una gira diferente,8.7,9,210
@@ -225,36 +225,36 @@ tt1933865,N.N.,8.2,11,223
 tt7989842,Dance Dance Dance Italia,9.2,6,224
 tt0048864,General Electric Summer Originals,7.4,27,225
 tt1584383,La barra de Dolina,7.7,17,226
-tt4474226,Beats of Love,7.4,26,227
-tt1831453,The Dreamsters,8.1,11,228
+tt1831453,The Dreamsters,8.1,11,227
+tt4474226,Beats of Love,7.4,26,228
 tt1444282,The Miserly Knight/Gianni Schicchi,8.5,8,229
 tt2032684,Dzivoklis,7.5,21,230
 tt0296454,Wanderly Wagon,7.4,25,231
 tt1442416,The Phantom of Operetta,7.4,24,232
 tt3277594,Kahit nasaan ka man,8.4,8,233
 tt4654452,Khabarnaak,7.2,38,234
-tt1624372,Wiener & Wiener,7.4,22,235
-tt1095211,Pangarap na bituin,7.2,36,236
-tt2360408,My Brother's Keeper,8.5,7,237
+tt2360408,My Brother's Keeper,8.5,7,235
+tt1624372,Wiener & Wiener,7.4,22,236
+tt1095211,Pangarap na bituin,7.2,36,237
 tt2171637,The Story of Musicals,7.2,35,238
 tt0372089,S.O.P.,8.1,9,239
-tt9654086,Go! Live Your Way,6.9,758,240
-tt25437934,Melody,8.4,7,241
-tt10171088,Soirée canadienne,8.4,7,241
-tt12010336,Friday Night,7.7,13,243
-tt0086706,Empire,7.3,25,244
+tt25437934,Melody,8.4,7,240
+tt10171088,Soirée canadienne,8.4,7,240
+tt12010336,Friday Night,7.7,13,242
+tt0086706,Empire,7.3,25,243
+tt9654086,Go! Live Your Way,6.9,758,244
 tt3569680,Because We're Thespians,7.9,10,245
-tt0161172,Milagro y magia,7.8,11,246
 tt12611330,Vokrug Smekha,7.8,11,246
+tt0161172,Milagro y magia,7.8,11,246
 tt0181714,Nase priredbe,8.0,9,248
 tt0361195,Jelly Bean Jungle,8.0,9,248
 tt5876878,Sounds Random,7.6,14,250
 tt9883844,Hisseli Harikalar Kumpanyasi,6.8,12,346
-tt15432210,James， de musical,6.8,12,346
-tt0419347,Kod Lude ptice,6.8,13,348
+tt15432210,James， de musical,6.8,13,347
+tt0419347,Kod Lude ptice,6.8,13,347
 tt1272122,Atout 5,6.7,7,349
-tt1683640,La chanson du dimanche,6.8,16,350
 tt0383773,Formula 1,6.8,16,350
+tt1683640,La chanson du dimanche,6.8,16,350
 tt1980674,Quando Toca o Sino,6.8,18,352
 tt0297351,Quieta Margarita,6.7,9,353
 tt0361175,Entre tu y yo,6.8,21,354
@@ -265,40 +265,40 @@ tt10075486,Prodigios,6.4,5,358
 tt0874670,Scaramouche,6.7,14,359
 tt0849411,Musical TV Theater,6.7,14,359
 tt0499109,Mazzabubù,6.5,7,361
-tt5665358,Splash'N Boots,6.6,10,362
-tt0380891,Fahrenheit,6.4,6,363
-tt5878752,The Voice Chile,6.4,6,363
-tt0296341,Finbar's Class,6.5,8,365
-tt0126161,Jardim da Celeste,6.8,39,366
-tt0358858,Masayang tanghali bayan!,6.6,12,367
-tt1300337,A Minha Geração,6.2,5,368
-tt0757067,Canto Alegre,6.4,8,369
-tt0374441,La parodia nacional,6.7,22,370
-tt2764002,Le Tour du monde en 80 jours,6.2,6,371
-tt0369120,I ara què， Xènia?,6.2,6,371
-tt2563680,Apollo Live,6.6,15,373
-tt10340488,Sa Re Ga Ma Pa 2018 Bangla,6.0,5,374
-tt0489911,Operação Triunfo,6.6,16,375
-tt1712435,Primera Dama,6.8,55,376
+tt27916162,Sedato,6.7,15,362
+tt5665358,Splash'N Boots,6.6,10,363
+tt0380891,Fahrenheit,6.4,6,364
+tt5878752,The Voice Chile,6.4,6,364
+tt0296341,Finbar's Class,6.5,8,366
+tt0126161,Jardim da Celeste,6.8,39,367
+tt0358858,Masayang tanghali bayan!,6.6,12,368
+tt1300337,A Minha Geração,6.2,5,369
+tt0757067,Canto Alegre,6.4,8,370
+tt0374441,La parodia nacional,6.7,22,371
+tt0369120,I ara què， Xènia?,6.2,6,372
+tt2764002,Le Tour du monde en 80 jours,6.2,6,372
+tt2563680,Apollo Live,6.6,15,374
+tt10340488,Sa Re Ga Ma Pa 2018 Bangla,6.0,5,375
+tt0489911,Operação Triunfo,6.6,16,376
 tt7130372,A Turma do Pug,6.7,25,377
-tt0332864,Bosque chocolate,6.2,7,378
-tt0441948,Search for a Star in a Million,6.6,17,379
-tt1846434,Yo no te pido la Luna,6.5,13,380
-tt3044680,Dreamland,6.8,61,381
-tt3044872,Sunday All Stars,6.3,9,382
-tt3428576,Malý televizní kabaret,6.3,9,382
-tt0421163,Magic,6.5,14,384
-tt0211790,Confidente de secundaria,6.5,15,385
-tt0366026,El hotel de las mil y una estrellas,6.4,12,386
-tt0367270,300 millones,6.3,10,387
-tt8618456,Z4,6.6,21,388
-tt0279589,Prinsesse Gullhår og de tre omreisende trubadurer,6.7,33,389
-tt3752678,Keller Nation,6.2,9,390
-tt0488066,The Count of Monte Cristo,6.2,9,390
-tt1829886,Champs 12,6.8,75,392
-tt10959210,Far， mor og bjørn,6.4,13,393
-tt8116582,Seksualundervisning: The Musical,5.8,6,394
-tt27916162,Sedato,6.4,14,395
+tt1712435,Primera Dama,6.8,55,378
+tt0332864,Bosque chocolate,6.2,7,379
+tt0441948,Search for a Star in a Million,6.6,17,380
+tt1846434,Yo no te pido la Luna,6.5,13,381
+tt3044680,Dreamland,6.8,61,382
+tt3428576,Malý televizní kabaret,6.3,9,383
+tt3044872,Sunday All Stars,6.3,9,383
+tt0421163,Magic,6.5,14,385
+tt0211790,Confidente de secundaria,6.5,15,386
+tt0366026,El hotel de las mil y una estrellas,6.4,12,387
+tt0367270,300 millones,6.3,10,388
+tt8618456,Z4,6.6,21,389
+tt0279589,Prinsesse Gullhår og de tre omreisende trubadurer,6.7,33,390
+tt0488066,The Count of Monte Cristo,6.2,9,391
+tt3752678,Keller Nation,6.2,9,391
+tt1829886,Champs 12,6.8,75,393
+tt10959210,Far， mor og bjørn,6.4,13,394
+tt8116582,Seksualundervisning: The Musical,5.8,6,395
 tt9883806,Hisseli Harikalar Kumpanyasi,6.6,24,396
 tt0480300,The Good Old Days,6.8,87,397
 tt0452905,Discorama,5.8,7,398
@@ -330,12 +330,12 @@ tt0268824,Look Up and Live,6.5,32,423
 tt0374388,Encantada de la vida,5.5,9,424
 tt0493474,Domingos Herdez,5.3,8,425
 tt14338604,Muteking the Dancing Hero,5.6,10,426
-tt0389568,Alegrijes y rebujos,6.8,159,427
-tt17157672,L'amour (presque) parfait,6.6,46,428
+tt17157672,L'amour (presque) parfait,6.6,46,427
+tt0389568,Alegrijes y rebujos,6.8,159,428
 tt0284729,Flavia está de fiesta,5.0,7,429
 tt0383090,Cómicos y canciones,5.9,14,430
 tt9539852,Phanta City,6.5,37,431
-tt0211797,El diario de Daniela,6.8,176,432
+tt0211797,El diario de Daniela,6.8,177,432
 tt0292796,Gente Inocente,6.3,25,433
 tt5466666,E.M.U. TV,4.8,7,434
 tt1542826,Super Bueréré,5.4,10,435
@@ -344,22 +344,22 @@ tt0243060,Balliamo e cantiamo con Licia,5.0,8,437
 tt0284768,La ola está de fiesta,5.7,13,438
 tt10348530,The King of Hearts,4.6,7,439
 tt6873628,Mónica Chef,5.8,15,440
-tt0367331,Goodbye， Burlesque,4.8,8,441
-tt12873156,S&P Videos,4.8,8,441
-tt0348981,Podijum,5.2,10,443
-tt0373557,Lluvia de estrellas,6.2,25,444
-tt21624968,Broken Karaoke,6.1,22,445
-tt19732502,Lua de Mel,5.9,18,446
-tt0883603,Canta por Mim,4.9,9,447
-tt21429096,Lyric and Beat,5.6,14,448
-tt1677693,Party Pilipinas,5.8,17,449
-tt0303423,O Androklis kai ta liontaria tou,6.5,49,450
-tt5929888,Marie Mathématique,5.4,13,451
-tt0254897,Hands of Mystery,5.8,18,452
-tt15379852,Addison's Moonstone Mystery,6.4,42,453
+tt15379852,Addison's Moonstone Mystery,6.5,43,441
+tt0367331,Goodbye， Burlesque,4.8,8,442
+tt12873156,S&P Videos,4.8,8,442
+tt0348981,Podijum,5.2,10,444
+tt0373557,Lluvia de estrellas,6.2,25,445
+tt21624968,Broken Karaoke,6.1,22,446
+tt19732502,Lua de Mel,5.9,18,447
+tt0883603,Canta por Mim,4.9,9,448
+tt21429096,Lyric and Beat,5.6,14,449
+tt1677693,Party Pilipinas,5.8,17,450
+tt0303423,O Androklis kai ta liontaria tou,6.5,49,451
+tt5929888,Marie Mathématique,5.4,13,452
+tt0254897,Hands of Mystery,5.8,18,453
 tt0373566,Menudas estrellas,5.2,12,454
-tt5172016,Factor XF 2015,3.5,6,455
 tt13148404,VivaVida,3.5,6,455
+tt5172016,Factor XF 2015,3.5,6,455
 tt0483854,Io Jane， tu Tarzan,5.8,19,457
 tt1529604,Mila mou vromika,6.8,263,458
 tt0387716,Ama la academia,3.3,6,459
@@ -378,8 +378,8 @@ tt5268940,The Divorce,6.0,34,471
 tt1178181,Saint-Ex， nos années pension,5.3,19,472
 tt1362995,Starmania - Das Beste kommt erst,3.0,8,473
 tt3457432,Dreams: 1 Rêve 2 Vies,3.4,9,474
-tt7156670,Millennials: The Musical,5.5,23,475
 tt0243093,Teneramente Licia,5.5,23,475
+tt7156670,Millennials: The Musical,5.5,23,475
 tt0390689,Chitrmala,5.6,25,477
 tt10087604,Go Buster!,5.9,34,478
 tt6501976,The Daryl Somers Show,4.1,12,479
@@ -420,8 +420,8 @@ tt0781550,Arriva Cristina,4.7,27,513
 tt0052511,Startime,6.6,220,514
 tt1132340,Nach Baliye 3,4.7,28,515
 tt0434691,Joha Al-Masri,6.1,82,516
-tt1905357,Cuando toca la campana,5.2,38,517
 tt0375439,Sacrée soirée,5.2,38,517
+tt1905357,Cuando toca la campana,5.2,38,517
 tt0401023,Kesanli Ali Destani,6.0,73,519
 tt0446817,Bir Yildiz Tutuldu,4.6,28,520
 tt1095932,Latin American Idol,5.1,36,521
@@ -438,7 +438,7 @@ tt0452213,Félix Leclerc,4.3,35,531
 tt14909040,Walk the Line,4.5,38,532
 tt0389597,Clap!... El lugar de tus sueños,3.6,28,533
 tt1755864,Sa Re Ga Ma Pa,6.3,162,534
-tt0177428,Allegra's Window,6.6,350,535
+tt0177428,Allegra's Window,6.6,349,535
 tt0346362,Om Kulthum,6.4,213,536
 tt0395839,Big Show SIC,5.1,57,537
 tt10306364,Vozvrashchenie mushketyorov ili Sokrovishcha kardinala Mazarini,3.3,30,538
@@ -468,9 +468,9 @@ tt0267231,Vazelina Hjulkalender,5.6,265,561
 tt8917810,El Host,2.7,83,562
 tt1127012,Nach Baliye,3.9,126,563
 tt8163874,Kullfi Kumarr Bajewala,5.2,231,564
-tt2734004,Chiquititas,5.1,223,565
+tt2734004,Chiquititas,5.1,224,565
 tt4556734,The Terra Show,4.7,183,566
-tt17525252,Up Here,6.4,968,567
+tt17525252,Up Here,6.4,970,567
 tt4941240,Star,6.7,4807,568
 tt7690340,Ishq Mein Marjawan,6.0,561,569
 tt14584108,It Was Always Me,5.5,370,570
@@ -479,7 +479,7 @@ tt14040910,Queens,6.5,1932,572
 tt2487370,Whose Line Is It Anyway?,3.0,147,573
 tt5324094,Dance with Devils,5.8,628,574
 tt1304146,Isa TKM,4.7,293,575
-tt1190823,Strawberry Shortcake,5.3,456,576
+tt1190823,Strawberry Shortcake,5.3,457,576
 tt4181268,Best Time Ever with Neil Patrick Harris,6.2,1244,577
 tt0338639,Un paso adelante,6.3,1551,578
 tt9022950,The Kelly Clarkson Show,6.0,953,579
@@ -491,11 +491,11 @@ tt0098772,Cop Rock,4.5,626,584
 tt1402943,Ranetki,2.5,459,585
 tt1943276,How to Rock,5.3,1590,586
 tt0878801,Viva Laughlin,3.1,570,587
-tt11127388,Grease: Rise of the Pink Ladies,5.9,3708,588
+tt11127388,Grease: Rise of the Pink Ladies,5.9,3738,588
 tt17544246,Rise Up， Sing Out,4.2,1381,589
-tt4129004,School of Rock,4.4,2306,590
+tt4129004,School of Rock,4.4,2307,590
 tt1934818,So Random!,4.5,2504,591
 tt0888280,The Naked Brothers Band,3.4,3230,592
-tt0142055,Teletubbies,3.8,8315,593
+tt0142055,Teletubbies,3.8,8318,593
 tt9649436,Enaaya,4.4,20086,594
 tt13583468,Iste Bu Benim Masalim,1.2,9585,595

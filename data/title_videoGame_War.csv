@@ -1,22 +1,22 @@
 tconst,primaryTitle,averageRating,numVotes,ranking
 tt1288501,Gears of War 2,8.7,5699,1
-tt0382590,Call of Duty,8.6,7169,2
+tt0382590,Call of Duty,8.6,7172,2
 tt0823463,Gears of War,8.5,8976,3
-tt0469287,Call of Duty 2,8.5,7087,4
+tt0469287,Call of Duty 2,8.5,7088,4
 tt1638317,Gears of War 3,8.5,4879,5
-tt0252338,Command & Conquer: Red Alert 2,8.6,3058,6
+tt0252338,Command & Conquer: Red Alert 2,8.6,3057,6
 tt1954263,Battlefield 3,8.1,9238,7
-tt5702630,Battlefield 1,8.1,7304,8
+tt5702630,Battlefield 1,8.1,7306,8
 tt0115141,Command & Conquer: Red Alert,8.5,2418,9
 tt0373274,Rome: Total War,8.7,1719,10
-tt0275511,Medal of Honor: Allied Assault,8.4,2270,11
+tt0275511,Medal of Honor: Allied Assault,8.4,2271,11
 tt1072440,Medieval II: Total War,8.8,1231,12
 tt0252337,Command & Conquer,8.3,1921,13
-tt0214938,Medal of Honor,8.3,1882,14
-tt0848263,Command & Conquer 3: Tiberium Wars,8.1,2103,15
-tt0295203,Command & Conquer: Yuri's Revenge,8.3,1494,16
-tt2853116,Battlefield 4,7.7,7564,17
-tt0289330,Medal of Honor: Frontline,8.1,1711,18
+tt0214938,Medal of Honor,8.3,1883,14
+tt0295203,Command & Conquer: Yuri's Revenge,8.3,1494,15
+tt0848263,Command & Conquer 3: Tiberium Wars,8.1,2103,16
+tt2853116,Battlefield 4,7.7,7565,17
+tt0289330,Medal of Honor: Frontline,8.1,1712,18
 tt1084702,Killzone 2,8.0,2019,19
 tt2112098,Age of Empires: The Age of Kings,8.5,949,20
 tt0791102,Battlefield 2,8.1,1591,21
@@ -28,7 +28,7 @@ tt1789849,Mount & Blade: Warband,8.4,855,26
 tt4776740,Gears of War: Ultimate Edition,8.4,845,27
 tt0412486,Battlefield 1942,8.0,1422,28
 tt4795232,Gears of War 4,7.8,2009,29
-tt0426423,Call of Duty: United Offensive,8.1,1070,30
+tt0426423,Call of Duty: United Offensive,8.1,1071,30
 tt0386384,Command & Conquer: Generals - Zero Hour,8.2,911,31
 tt0382041,Freedom Fighters,8.4,722,32
 tt1815777,Killzone 3,7.8,1716,33
@@ -43,7 +43,7 @@ tt0320772,Worms 2,7.8,911,41
 tt1226221,Commandos: Behind Enemy Lines,8.3,464,42
 tt0389538,Wolfenstein: Enemy Territory,8.6,347,43
 tt0358585,Medal of Honor: Allied Assault - Spearhead,7.8,788,44
-tt0462418,Medal of Honor: European Assault,7.8,729,45
+tt0462418,Medal of Honor: European Assault,7.8,730,45
 tt0276534,Stronghold,8.2,397,46
 tt4334594,This War of Mine,7.7,797,47
 tt0397074,Killzone,7.5,1337,48
@@ -63,10 +63,10 @@ tt4429904,Hearts of Iron IV,8.0,360,61
 tt3828038,Broforce,7.7,499,62
 tt0484820,Brothers in Arms: Earned in Blood,7.8,407,63
 tt1039601,Call of Duty 2: Big Red One,7.4,947,64
-tt1085850,Medal of Honor: Airborne,7.3,1460,65
+tt1085850,Medal of Honor: Airborne,7.3,1461,65
 tt0165275,Dune 2000,7.7,440,66
 tt0276104,Emperor: Battle for Dune,8.1,248,67
-tt1754190,Medal of Honor,7.2,2627,68
+tt1754190,Medal of Honor,7.2,2628,68
 tt1366331,Command & Conquer: Red Alert 3 - Uprising,7.7,404,69
 tt1518686,Medal of Honor: Allied Assault - Breakthrough,7.6,419,70
 tt0345334,Ghost Recon,7.6,417,71
@@ -85,8 +85,8 @@ tt0795349,Call of Duty 3,7.1,4016,83
 tt2216930,Sniper Elite V2,7.2,969,84
 tt22049594,Fire Emblem: Engage,8.1,137,85
 tt0892316,Killzone: Liberation,7.8,184,86
-tt0485044,Sniper Elite,7.4,385,87
-tt1764190,Battlefield: Bad Company 2 Vietnam,8.4,101,88
+tt1764190,Battlefield: Bad Company 2 Vietnam,8.4,101,87
+tt0485044,Sniper Elite,7.4,385,88
 tt2368621,Battle City,7.8,179,89
 tt0300906,Advance Wars,7.8,163,90
 tt0437850,Battlefield 2: Modern Combat,7.3,472,91
@@ -115,7 +115,7 @@ tt0206594,Bionic Commando,7.3,160,113
 tt15399106,Age of Empires III: Definitive Edition,8.2,40,114
 tt0424437,ShellShock: Nam '67,7.3,152,115
 tt1331046,Delta Force,7.4,111,116
-tt3391052,War Thunder,7.1,316,117
+tt3391052,War Thunder,7.1,317,117
 tt10054426,Men of War: Assault Squad 2,8.2,30,118
 tt12253254,Gears Tactics,7.2,165,119
 tt2765044,Red Orchestra 2: Heroes of Stalingrad,7.4,86,120
@@ -140,9 +140,9 @@ tt1448445,Battlestations: Pacific,7.5,47,138
 tt0371305,Steel Battalion,7.7,33,139
 tt0424447,Soldiers: Heroes of World War II,7.6,38,140
 tt5771164,Modern Combat 4: Zero Hour,7.5,45,141
-tt0286555,Command & Conquer: The Covert Operations,7.1,185,142
-tt0457367,Ghost Recon 2,7.1,177,143
-tt26695347,Chained Echoes,8.0,22,144
+tt26695347,Chained Echoes,8.0,23,142
+tt0286555,Command & Conquer: The Covert Operations,7.1,185,143
+tt0457367,Ghost Recon 2,7.1,177,144
 tt23182568,Hell Let Loose,7.8,27,145
 tt0428290,Call of Duty: Finest Hour,7.0,771,146
 tt0848544,Battlestations: Midway,7.3,66,147
@@ -153,12 +153,12 @@ tt2822004,Worms 4: Mayhem,7.2,90,151
 tt1447978,H.A.W.X,7.1,150,152
 tt0793487,Close Combat,8.3,14,153
 tt11020468,Medal of Honor: Above and Beyond,7.3,55,154
-tt2972462,Rising Storm,7.7,24,155
-tt0363987,Secret Weapons of the Luftwaffe,8.0,17,156
-tt9624854,Warfare 1917,8.1,15,157
-tt14956884,Dictators: No Peace Countryballs,8.3,12,158
-tt9348956,Battlefield 1942: Secret Weapons of WWII,7.5,30,159
-tt14960396,Advance Wars 1+2: Re-Boot Camp,8.0,15,160
+tt14960396,Advance Wars 1+2: Re-Boot Camp,8.1,16,155
+tt2972462,Rising Storm,7.7,24,156
+tt0363987,Secret Weapons of the Luftwaffe,8.0,17,157
+tt9624854,Warfare 1917,8.1,15,158
+tt14956884,Dictators: No Peace Countryballs,8.3,12,159
+tt9348956,Battlefield 1942: Secret Weapons of WWII,7.5,30,160
 tt0293522,Powermonger,7.6,24,161
 tt0275297,Delta Force: Land Warrior,7.1,114,162
 tt4888156,Brothers in Arms 3: Sons of War,7.8,18,163
@@ -176,14 +176,14 @@ tt0988147,War Rock,7.5,23,174
 tt10036876,Men of War: Red Tide,7.6,19,175
 tt7527710,Halo Wars 2: Awakening the Nightmare,7.2,50,176
 tt10927828,Squad,7.8,14,177
-tt0933374,Joint Operations: Escalation,7.5,21,178
-tt6369770,Panzer Front,8.2,9,179
-tt3411586,Expeditions: Conquistador,7.7,15,180
-tt12045822,Shock Troopers,7.6,17,181
-tt6321054,World War Toons,8.3,8,182
-tt7979940,Rising Storm 2: Vietnam,7.2,44,183
-tt0432474,Antietam!,7.9,11,184
-tt22693694,Company of Heroes 3,8.1,9,185
+tt22693694,Company of Heroes 3,8.1,10,178
+tt0933374,Joint Operations: Escalation,7.5,21,179
+tt6369770,Panzer Front,8.2,9,180
+tt3411586,Expeditions: Conquistador,7.7,15,181
+tt12045822,Shock Troopers,7.6,17,182
+tt6321054,World War Toons,8.3,8,183
+tt7979940,Rising Storm 2: Vietnam,7.2,44,184
+tt0432474,Antietam!,7.9,11,185
 tt2643240,Modern Combat Sandstorm,7.3,29,186
 tt7516722,Risk: Global Domination,7.4,22,187
 tt1221918,North & South,7.1,65,188
@@ -191,8 +191,8 @@ tt9640524,Battlefield 1: They Shall Not Pass,7.5,16,189
 tt21969754,Hello Engineer,8.0,8,190
 tt20560208,Sniper Elite 5,7.0,214,191
 tt9348942,Battlefield 1942: The Road to Rome,7.2,33,192
-tt0467493,Stronghold 2,7.0,209,193
-tt9260600,World War 3,7.3,23,194
+tt9260600,World War 3,7.3,23,193
+tt0467493,Stronghold 2,7.0,209,194
 tt9294888,Command & Conquer Remastered,7.2,32,195
 tt0390255,Mercs,7.1,55,196
 tt9777448,Frontlines: Fuel of War,7.1,51,197
@@ -213,8 +213,8 @@ tt10052780,Operation Flashpoint: Resistance,7.2,14,211
 tt11908072,Sudden Strike 4,7.1,22,212
 tt12826556,Tannenberg,7.1,21,213
 tt5239334,Day of Defeat,7.0,72,214
-tt12828824,Sudden Strike 2,7.2,12,215
 tt10950864,Blitzkrieg 3,7.2,12,215
+tt12828824,Sudden Strike 2,7.2,12,215
 tt12532966,The Lord of the Rings: Rise to War,7.1,16,217
 tt8819096,Halo: Custom Edition,7.1,13,218
 tt12950078,Mount & Blade: With Fire & Sword,7.0,43,219
@@ -222,14 +222,14 @@ tt0263399,Guerrilla War,7.0,35,220
 tt9304488,Super Robot Wars T,7.1,10,221
 tt7166108,Super Robot Wars Alpha 3: To the End of the Galaxy,7.1,9,222
 tt0271374,Army Men: World War,7.0,30,223
-tt3816704,Dynasty Warriors: Gundam 2,7.0,25,224
-tt17276088,Expeditions: Rome,7.0,25,224
+tt17276088,Expeditions: Rome,7.0,26,224
+tt3816704,Dynasty Warriors: Gundam 2,7.0,25,225
 tt2436686,Nam-1975,7.0,21,226
 tt1399595,Silent Hunter 4,7.0,20,227
 tt8871470,Battlefield 1: In the Name of the Tsar,7.0,17,228
 tt7095542,Holdfast: Nations at War,7.0,17,228
-tt0245134,Global Domination,7.0,11,230
 tt12076694,Shock Troopers: 2nd Squad,7.0,11,230
+tt0245134,Global Domination,7.0,11,230
 tt6071690,Silent Service II,7.0,8,232
 tt10053020,ArmA 3: Laws of War,7.0,6,233
 tt2174108,Alliance of Valiant Arms,6.9,8,234
@@ -254,8 +254,8 @@ tt10285156,Advance Wars: Days of Ruin,6.7,15,252
 tt1794732,Assault Heroes,6.5,9,253
 tt6074368,Lost Patrol,6.5,9,253
 tt6166706,American Conquest: Fight Back,6.4,8,255
-tt6167956,Cossacks: Art of War,6.7,21,256
 tt10451432,Rise of Kingdoms,6.7,21,256
+tt6167956,Cossacks: Art of War,6.7,21,256
 tt7926952,Europa Universalis,6.4,10,258
 tt7037634,Expeditions: Viking,6.5,13,259
 tt2054809,Shattered Union,6.4,11,260
@@ -275,29 +275,29 @@ tt2532174,Desert Assault,6.1,10,272
 tt2542930,Ghost Pilots,6.2,13,274
 tt9548948,Duty Calls: The Calm Before the Storm,6.3,15,275
 tt5490596,Army Men: Sarge's War,6.5,22,276
-tt10944848,Wargame: Red Dragon,5.8,9,277
 tt2154826,Top Gun: Hard Lock,5.8,9,277
+tt10944848,Wargame: Red Dragon,5.8,9,277
 tt2006757,Heroes Over Europe,6.3,16,279
 tt12003752,Ghost Recon: Desert Siege,6.4,19,280
 tt14667848,Delta Force: Xtreme,5.6,8,281
 tt5569174,World of Tanks Generals,5.7,9,282
-tt5194826,IL-2 Sturmovik: Battle of Stalingrad,6.0,12,283
 tt10202884,Worms: Open Warfare,6.0,12,283
+tt5194826,IL-2 Sturmovik: Battle of Stalingrad,6.0,12,283
 tt14667978,Delta Force: Xtreme 2,5.4,8,285
 tt7108166,Fire Emblem: Shadow Dragon,6.7,50,286
 tt0282028,North vs. South,5.8,11,287
 tt1398019,ArmA: Armed Assault,6.7,51,288
-tt11841654,SAS: Secure Tomorrow,5.0,7,289
 tt1764236,Command & Conquer 3: The Forgotten,5.0,7,289
+tt11841654,SAS: Secure Tomorrow,5.0,7,289
 tt1974185,1941: Counter Attack,6.5,31,291
 tt4429888,Hearts of Iron III,6.6,40,292
 tt0962569,Iron Storm,6.5,32,293
 tt0466309,M*A*S*H,6.1,17,294
 tt5273116,Clash of Kings,5.5,10,295
-tt12743860,Terrorist Takedown: War in Colombia,5.3,9,296
+tt11533662,The Hell in Vietnam,5.3,9,296
 tt12739802,Terrorist Takedown,5.3,9,296
 tt12739932,Terrorist Takedown: Conflict in Mogadishu,5.3,9,296
-tt11533662,The Hell in Vietnam,5.3,9,296
+tt12743860,Terrorist Takedown: War in Colombia,5.3,9,296
 tt11860454,The History Channel: Battle for the Pacific,5.8,13,300
 tt0443428,Air Raid: This Is Not a Drill,5.2,9,301
 tt2242000,P-47: The Phantom Fighter,5.5,11,302
@@ -306,8 +306,8 @@ tt6787174,Battalion 1944,5.2,10,304
 tt3820630,Battle Tank,6.1,21,305
 tt9832194,Medal of Honor: Heroes,6.5,41,306
 tt12733160,Code of Honor: The French Foreign Legion,4.3,7,307
-tt11853740,Heavy Fire: Afghanistan,5.7,15,308
 tt2017450,1943 Kai,5.7,15,308
+tt11853740,Heavy Fire: Afghanistan,5.7,15,308
 tt10058964,Grand Ages: Rome,5.5,13,310
 tt11300800,Ghost Recon,5.6,14,311
 tt11847776,Elite Forces: WWII - Iwo Jima,3.8,6,312
@@ -315,8 +315,8 @@ tt2089774,Red Baron,6.0,20,313
 tt11078870,Verdun,6.6,55,314
 tt2116967,Ghost Recon: Shadow Wars,6.2,26,315
 tt10691410,Power & Revolution: Geopolitical Simulator 4,6.1,23,316
-tt0354092,Dynasty Wars,6.3,31,317
 tt8688702,Stronghold Crusader II,6.3,31,317
+tt0354092,Dynasty Wars,6.3,31,317
 tt11860652,The History Channel: Civil War - A Nation Divided,5.1,11,319
 tt10490914,Rapture Rejects,4.0,7,320
 tt8403164,Total War Saga: Thrones of Britannia,6.6,60,321
@@ -376,7 +376,7 @@ tt9220928,Sniper: Ghost Warrior 2,6.3,176,374
 tt1389075,EndWar,6.2,161,375
 tt4226820,World of Tanks,6.5,326,376
 tt2732374,Gears of War: Judgment,6.8,1554,377
-tt2266084,Medal of Honor: Warfighter,6.8,1567,378
+tt2266084,Medal of Honor: Warfighter,6.8,1568,378
 tt0879404,Halo Wars,6.8,2201,379
 tt1196154,Empire Earth III,4.3,58,380
 tt2004316,Operation Flashpoint: Dragon Rising,5.8,151,381
@@ -385,7 +385,7 @@ tt9303104,Rust,5.7,180,383
 tt6528156,Sniper: Ghost Warrior 3,5.8,212,384
 tt4051678,Sniper: Ghost Warrior,6.0,296,385
 tt11957596,Call of Duty: Warzone,6.6,1367,386
-tt1826691,Homefront,6.3,1209,387
+tt1826691,Homefront,6.3,1211,387
 tt2057377,Brink,4.8,248,388
 tt7204362,PlayerUnknown's Battlegrounds,6.4,2116,389
 tt1571411,Rogue Warrior,3.5,246,390
