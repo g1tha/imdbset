@@ -194,16 +194,22 @@ function updateGenres() {
 async function getTitlesData() {
     var id = [];
     var title = [];
+    var series = [];
+    var season = []; 
+    var episode = [];
     var link = [];
     var rating = [];
     var votes = [];
-    var ranking = [];
+    var rank = [];
     var rowData = [];
     var columnDefs = [
-        {field: 'title', cellDataType: 'text', wrapText: true, autoHeight: true, cellRenderer: params => {return params.value}},
-        {field: 'rating', cellDataType: 'number', minWidth: 80},
-        {field: 'votes', cellDataType: 'number', minWidth: 80, valueFormatter: commaFormatter},
-        {field: 'ranking', cellDataType: 'number', minWidth: 90, valueFormatter: commaFormatter},
+        {field: 'title', minWidth: 50, wrapText: true, autoHeight: true, cellRenderer: params => {return params.value}},
+        {field: 'series', minWidth: 50, wrapText: true, autoHeight: true},
+        {field: 'season', minWidth: 30, maxWidth: 80},
+        {field: 'episode', minWidth: 30, maxWidth: 90},
+        {field: 'rating', minWidth: 60, maxWidth: 80},
+        {field: 'votes', minWidth: 60, maxWidth: 80, valueFormatter: commaFormatter},
+        {field: 'rank', minWidth: 60, maxWidth: 70, valueFormatter: commaFormatter},
     ];
     // Get menu data
     const titleMenus = await getTitleMenus();
@@ -221,10 +227,28 @@ async function getTitlesData() {
         link.push('<a href="https://www.imdb.com/title/' + table[row]['tconst'] + '/" target="_blank">' + table[row]['primaryTitle'] + '</a>');
         rating.push(Number(table[row]['averageRating']));
         votes.push(Number(table[row]['numVotes']));
-        ranking.push(Number(table[row]['ranking']));
+        rank.push(Number(table[row]['ranking']));
+        if (typeof table[row]['seriesName'] != "undefined") {
+            series.push((table[row]['seriesName']));
+        }
+        else {
+            series.push((''));
+        };
+        if (typeof table[row]['seasonNumber'] != "undefined") {
+            season.push(Number(table[row]['seasonNumber']));
+        }
+        else {
+            season.push((''));
+        };
+        if (typeof table[row]['episodeNumber'] != "undefined") {
+            episode.push(Number(table[row]['episodeNumber']));
+        }
+        else {
+            episode.push((''));
+        };
     }
     // Create table
-    let tableSchema = { 'title': link, 'rating': rating, 'votes': votes, 'ranking': ranking }
+    let tableSchema = { 'title': link, 'series': series, 'season': season, 'episode': episode, 'rating': rating, 'votes': votes, 'rank': rank }
     rowData = ArraytoDict(tableSchema);
 
     const gridOptions = {
@@ -239,8 +263,11 @@ async function getTitlesData() {
     
     titleGridDiv.innerHTML = '';
     new agGrid.Grid(titleGridDiv, gridOptions);
-    gridOptions.columnApi.autoSizeColumns(['rating', 'votes', 'ranking'], true);
-    
+    if (selectedCategory == 'episode') {
+        gridOptions.columnApi.setColumnsVisible(['series', 'season', 'episode'], true);
+    } else {
+        gridOptions.columnApi.setColumnsVisible(['series', 'season', 'episode'], false);
+    };
 }
 
 // For formatting cells in ag Grid tables

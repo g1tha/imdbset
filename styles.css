@@ -401,6 +401,9 @@ ul li ul:focus {
     --ag-cell-horizontal-padding: 6px;
 }
 
-.ag-cell-wrap-text {
-    word-break: break-word;
-}
+.ag-theme-alpine-dark .ag-cell-value {
+    line-height: 20px !important;
+    word-break: normal;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }

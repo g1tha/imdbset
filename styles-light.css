@@ -398,8 +398,13 @@ ul li ul:focus {
     --ag-alpine-active-color: hsl(var(--hicol3));
     --ag-input-border-color: hsl(var(--fgcol1));
     --ag-input-focus-border-color: hsl(var(--emcol1));
+    --ag-cell-horizontal-padding: 6px;
+    --ag-widget-vertical-spacing: 0.1em;    
 }
 
-.ag-cell-wrap-text {
-    word-break: break-word;
-}
+.ag-theme-alpine .ag-cell-value {
+    line-height: 20px !important;
+    word-break: normal;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
