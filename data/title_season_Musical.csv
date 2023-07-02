@@ -2,19 +2,19 @@ tconst,primaryTitle,seasonNumber,numVotes,averageRating,ranking
 tt0159876,Great Performances,24,2768,9.1,1
 tt10314462,Zoey's Extraordinary Playlist,1,9864,8.4,2
 tt0416394,The Mighty Boosh,2,2584,8.7,3
-tt4592410,The Get Down,1,5779,8.5,4
+tt4592410,The Get Down,1,5780,8.5,4
 tt1227926,Dr. Horrible's Sing-Along Blog,1,2784,8.6,5
 tt2136443,The Playlist,1,671,9.1,6
-tt0863046,Flight of the Conchords,1,9000,8.2,7
+tt0863046,Flight of the Conchords,1,8999,8.2,7
 tt0863046,Flight of the Conchords,2,5784,8.2,8
 tt4094300,Crazy Ex-Girlfriend,3,4031,8.3,9
 tt4094300,Crazy Ex-Girlfriend,4,4571,8.2,10
 tt9022950,The Kelly Clarkson Show,1,539,8.9,11
-tt4094300,Crazy Ex-Girlfriend,2,4279,8.2,12
-tt0416394,The Mighty Boosh,3,1899,8.3,13
-tt2487370,Whose Line Is It Anyway?,5,190,10.0,14
+tt0416394,The Mighty Boosh,3,1899,8.3,12
+tt4094300,Crazy Ex-Girlfriend,2,4292,8.2,13
 tt2487370,Whose Line Is It Anyway?,4,190,10.0,14
 tt2487370,Whose Line Is It Anyway?,6,190,10.0,14
+tt2487370,Whose Line Is It Anyway?,5,190,10.0,14
 tt2487370,Whose Line Is It Anyway?,3,189,10.0,17
 tt2487370,Whose Line Is It Anyway?,1,188,10.0,18
 tt2487370,Whose Line Is It Anyway?,2,188,10.0,18
@@ -23,7 +23,7 @@ tt2487370,Whose Line Is It Anyway?,8,190,9.9,21
 tt0416394,The Mighty Boosh,1,3203,8.2,22
 tt0159876,Great Performances,36,743,8.5,23
 tt4094300,Crazy Ex-Girlfriend,1,8114,8.0,24
-tt11808942,Schmigadoon!,2,1885,8.1,25
+tt11808942,Schmigadoon!,2,1887,8.1,25
 tt1943276,How to Rock,1,391,8.6,26
 tt0159876,Great Performances,37,1097,8.2,27
 tt21099140,Christina Grimmie Zeldaxlove 64,1,111,9.9,28
@@ -39,7 +39,7 @@ tt2487370,Whose Line Is It Anyway?,9,95,9.9,37
 tt0165042,Live from Lincoln Center,15,155,9.1,38
 tt0165042,Live from Lincoln Center,6,121,9.4,39
 tt7913450,Soundtrack,1,635,8.2,40
-tt1019690,The Metropolitan Opera HD Live,1,325,8.5,41
+tt1019690,The Metropolitan Opera HD Live,1,326,8.5,41
 tt0159876,Great Performances,13,318,8.5,42
 tt0159876,Great Performances,33,466,8.3,43
 tt9654086,Go! Live Your Way,1,228,8.7,44
@@ -56,26 +56,26 @@ tt0335704,The Metropolitan Opera Presents,7,147,8.7,54
 tt0335704,The Metropolitan Opera Presents,14,137,8.7,55
 tt0165042,Live from Lincoln Center,35,81,9.2,56
 tt0159876,Great Performances,31,544,8.1,57
-tt12524686,The Diary of the Great Perica,1,153,8.5,58
-tt0098772,Cop Rock,1,208,8.4,59
-tt0165042,Live from Lincoln Center,31,78,9.1,60
-tt0159876,Great Performances,22,376,8.2,61
-tt0335704,The Metropolitan Opera Presents,8,129,8.6,62
-tt0098826,Hull High,1,56,9.4,63
-tt0335704,The Metropolitan Opera Presents,13,107,8.7,64
-tt0335704,The Metropolitan Opera Presents,20,68,9.1,65
-tt0335704,The Metropolitan Opera Presents,19,116,8.6,66
-tt1005814,RBD: La familia,1,90,8.8,67
-tt1019690,The Metropolitan Opera HD Live,6,396,8.1,68
-tt0108825,The Julekalender,1,363,8.1,69
-tt0159876,Great Performances,19,168,8.4,70
-tt0129719,Süsü， a sárkány kalandjai,1,79,8.8,71
-tt0069627,Schoolhouse Rock!,4,541,8.1,72
-tt17525252,Up Here,1,340,8.1,73
-tt21304664,VGLY,1,144,8.4,74
+tt21304664,VGLY,1,156,8.5,58
+tt12524686,The Diary of the Great Perica,1,153,8.5,59
+tt0098772,Cop Rock,1,208,8.4,60
+tt0165042,Live from Lincoln Center,31,78,9.1,61
+tt0159876,Great Performances,22,376,8.2,62
+tt0335704,The Metropolitan Opera Presents,8,129,8.6,63
+tt0098826,Hull High,1,56,9.4,64
+tt0335704,The Metropolitan Opera Presents,13,107,8.7,65
+tt0335704,The Metropolitan Opera Presents,20,68,9.1,66
+tt0335704,The Metropolitan Opera Presents,19,116,8.6,67
+tt1005814,RBD: La familia,1,90,8.8,68
+tt1019690,The Metropolitan Opera HD Live,6,396,8.1,69
+tt0108825,The Julekalender,1,363,8.1,70
+tt0159876,Great Performances,19,168,8.4,71
+tt0129719,Süsü， a sárkány kalandjai,1,79,8.8,72
+tt0069627,Schoolhouse Rock!,4,541,8.1,73
+tt17525252,Up Here,1,340,8.1,74
 tt0335704,The Metropolitan Opera Presents,6,106,8.6,75
-tt8736020,#LikeMe,1,192,8.3,76
-tt0335704,The Metropolitan Opera Presents,2,108,8.5,77
+tt0335704,The Metropolitan Opera Presents,2,108,8.5,76
+tt8736020,#LikeMe,1,192,8.3,77
 tt1019690,The Metropolitan Opera HD Live,13,278,8.2,78
 tt0165042,Live from Lincoln Center,38,198,8.3,79
 tt1019690,The Metropolitan Opera HD Live,7,306,8.1,80
@@ -87,10 +87,10 @@ tt1019690,The Metropolitan Opera HD Live,14,257,8.1,85
 tt0335704,The Metropolitan Opera Presents,16,105,8.4,86
 tt0335704,The Metropolitan Opera Presents,9,126,8.3,87
 tt10314462,Zoey's Extraordinary Playlist,2,5871,7.9,88
-tt0159876,Great Performances,42,365,8.0,89
-tt0928368,The Pyjamas,1,49,8.8,90
+tt0928368,The Pyjamas,1,49,8.8,89
+tt0159876,Great Performances,42,365,8.0,90
 tt1019690,The Metropolitan Opera HD Live,9,267,8.1,91
-tt8510382,High School Musical: The Musical: The Series,1,4870,7.9,92
+tt8510382,High School Musical: The Musical: The Series,1,4880,7.9,92
 tt7334966,Sanders Sides,1,81,8.4,93
 tt1019690,The Metropolitan Opera HD Live,8,280,8.1,94
 tt0165042,Live from Lincoln Center,21,30,9.3,95
@@ -101,8 +101,8 @@ tt0159876,Great Performances,3,253,8.1,99
 tt0335704,The Metropolitan Opera Presents,10,31,9.1,100
 tt0335704,The Metropolitan Opera Presents,1,37,8.9,101
 tt0090521,The Singing Detective,1,617,8.0,102
-tt1019690,The Metropolitan Opera HD Live,4,272,8.0,103
-tt0165042,Live from Lincoln Center,41,82,8.3,104
+tt0165042,Live from Lincoln Center,41,82,8.3,103
+tt1019690,The Metropolitan Opera HD Live,4,272,8.0,104
 tt0165042,Live from Lincoln Center,2,25,9.2,105
 tt0159876,Great Performances,28,573,8.0,106
 tt0335704,The Metropolitan Opera Presents,23,25,9.2,107
@@ -114,10 +114,10 @@ tt0335704,The Metropolitan Opera Presents,4,139,8.1,112
 tt0335704,The Metropolitan Opera Presents,26,39,8.7,113
 tt6834120,Jenni Rivera: Mariposa de Barrio,1,32,8.8,114
 tt9889392,In Our Blood,1,49,8.4,115
-tt4138414,Señales del fin del mundo,1,29,8.8,116
-tt0159876,Great Performances,10,48,8.4,117
-tt0165042,Live from Lincoln Center,30,31,8.7,118
-tt0159876,Great Performances,47,460,8.0,119
+tt0159876,Great Performances,47,461,8.0,116
+tt4138414,Señales del fin del mundo,1,29,8.8,117
+tt0159876,Great Performances,10,48,8.4,118
+tt0165042,Live from Lincoln Center,30,31,8.7,119
 tt0165042,Live from Lincoln Center,44,59,8.3,120
 tt0165042,Live from Lincoln Center,1,29,8.7,121
 tt0335704,The Metropolitan Opera Presents,25,15,9.5,122
@@ -151,8 +151,8 @@ tt1019690,The Metropolitan Opera HD Live,12,285,7.9,149
 tt1019690,The Metropolitan Opera HD Live,11,234,7.9,150
 tt15488646,Sixteen +,1,8,9.0,151
 tt4474226,Beats of Love,1,6,9.3,152
-tt21437602,Out Loud,1,9,8.8,153
 tt15516168,Rudrabinar Obhishaap,2,9,8.8,153
+tt21437602,Out Loud,1,9,8.8,153
 tt3311936,Side Effects,2,6,9.2,155
 tt6682226,The Comedy Jam,1,7,9.0,156
 tt0924323,Písen pro Rudolfa III.,1,17,8.3,157
@@ -181,9 +181,9 @@ tt15660276,It's All Right!,1,5,7.8,179
 tt0165042,Live from Lincoln Center,42,7,7.8,180
 tt6235012,Petticoat,1,10,7.8,181
 tt0212681,Operavox,1,139,7.9,182
-tt1825133,Smash,2,2215,7.9,183
-tt15539452,Gina Yei,1,7,7.7,184
-tt0238780,Escalona,1,5,7.6,185
+tt15539452,Gina Yei,1,7,7.7,183
+tt0238780,Escalona,1,5,7.6,184
+tt1825133,Smash,2,2215,7.9,185
 tt8447606,Kally's Mashup,1,19,7.8,186
 tt9022950,The Kelly Clarkson Show,2,7,7.6,187
 tt8736020,#LikeMe,3,6,7.5,188
@@ -226,14 +226,14 @@ tt1019690,The Metropolitan Opera HD Live,15,103,7.6,224
 tt2055490,This Is Jinsy,1,70,7.5,225
 tt0338639,Un paso adelante,6,16,6.0,226
 tt0293734,Oswald,1,172,7.7,227
-tt0233023,ABC Stage 67,1,853,7.8,228
-tt1019690,The Metropolitan Opera HD Live,2,209,7.7,229
-tt0159876,Great Performances,50,101,7.6,230
-tt0076998,D'artagnan and Three Musketeers,1,124,7.6,231
-tt0159876,Great Performances,5,94,7.5,232
-tt1190823,Strawberry Shortcake,4,16,5.7,233
-tt0195466,The Jackie Gleason Show,1,39,7.0,234
-tt0159876,Great Performances,1,193,7.7,235
+tt1019690,The Metropolitan Opera HD Live,2,209,7.7,228
+tt0159876,Great Performances,50,102,7.6,229
+tt0076998,D'artagnan and Three Musketeers,1,124,7.6,230
+tt0159876,Great Performances,5,94,7.5,231
+tt1190823,Strawberry Shortcake,4,16,5.7,232
+tt0195466,The Jackie Gleason Show,1,39,7.0,233
+tt0159876,Great Performances,1,193,7.7,234
+tt0233023,ABC Stage 67,1,855,7.8,235
 tt14584108,It Was Always Me,1,827,7.8,236
 tt1704348,Mozart 22,1,122,7.5,237
 tt0444586,Timeless Tales from Hallmark,1,108,7.5,238
@@ -258,7 +258,7 @@ tt4502154,Make It Pop,2,185,7.4,256
 tt0159876,Great Performances,49,307,7.6,257
 tt0159876,Great Performances,25,419,7.6,258
 tt0069627,Schoolhouse Rock!,3,269,7.5,259
-tt0159876,Great Performances,21,781,7.7,260
+tt0159876,Great Performances,21,782,7.7,260
 tt0090478,Macken,1,147,7.2,261
 tt0888280,The Naked Brothers Band,2,104,6.9,262
 tt0218940,Dr. Aibolit,1,241,7.4,263
@@ -272,19 +272,19 @@ tt0159876,Great Performances,48,377,7.5,270
 tt0090500,Pee-wee's Playhouse,4,253,7.3,271
 tt0159876,Great Performances,30,772,7.7,272
 tt0090500,Pee-wee's Playhouse,1,517,7.6,273
-tt0074028,The Muppet Show,5,2609,7.8,274
+tt0074028,The Muppet Show,5,2612,7.8,274
 tt0159876,Great Performances,,3598,7.8,275
 tt0159876,Great Performances,27,396,7.5,276
 tt11433956,Kingdom Business,1,122,6.6,277
 tt0159876,Great Performances,6,353,7.4,278
 tt0069627,Schoolhouse Rock!,1,542,7.5,279
 tt8510382,High School Musical: The Musical: The Series,3,2748,7.7,280
-tt0074028,The Muppet Show,2,4027,7.8,281
+tt0074028,The Muppet Show,2,4028,7.8,281
 tt0338639,Un paso adelante,5,108,6.1,282
 tt4502154,Make It Pop,1,170,6.7,283
 tt5929888,Marie Mathématique,1,65,4.7,284
 tt0159876,Great Performances,20,735,7.5,285
-tt0159876,Great Performances,39,1381,7.6,286
+tt0159876,Great Performances,39,1382,7.6,286
 tt0074028,The Muppet Show,4,2941,7.7,287
 tt0069627,Schoolhouse Rock!,6,152,6.4,288
 tt1825133,Smash,1,3399,7.7,289
@@ -294,8 +294,8 @@ tt0159876,Great Performances,45,370,7.0,292
 tt0982313,Mel-O-Toons,,108,5.1,293
 tt0083412,Fame,4,497,7.2,294
 tt0888280,The Naked Brothers Band,1,363,6.9,295
-tt0074028,The Muppet Show,3,3468,7.6,296
-tt11127388,Grease: Rise of the Pink Ladies,1,2645,7.6,297
+tt11127388,Grease: Rise of the Pink Ladies,1,2687,7.6,296
+tt0074028,The Muppet Show,3,3468,7.6,297
 tt4129004,School of Rock,2,364,6.9,298
 tt1934818,So Random!,1,514,7.1,299
 tt0083412,Fame,6,366,6.8,300
@@ -307,7 +307,7 @@ tt4941240,Star,2,1087,7.3,305
 tt4129004,School of Rock,1,471,6.7,306
 tt10312964,Katy Keene,1,1982,7.4,307
 tt4422756,The Real O'Neals,2,2131,7.4,308
-tt0074028,The Muppet Show,1,5861,7.5,309
+tt0074028,The Muppet Show,1,5862,7.5,309
 tt0083412,Fame,5,367,6.1,310
 tt0083412,Fame,1,796,6.9,311
 tt14040910,Queens,1,998,7.0,312
@@ -318,9 +318,9 @@ tt0185797,The DuPont Show of the Week,1,173,3.4,316
 tt0052511,Startime,1,556,6.2,317
 tt0083412,Fame,2,714,6.4,318
 tt4941240,Star,1,1289,6.9,319
-tt8129006,Central Park,2,1977,7.1,320
+tt8129006,Central Park,2,1978,7.1,320
 tt8129006,Central Park,1,2225,7.1,321
-tt8129006,Central Park,3,878,6.1,322
+tt8129006,Central Park,3,886,6.1,322
 tt15373506,Daddies on Request,1,796,4.6,323
 tt13583468,Iste Bu Benim Masalim,1,1868,4.4,324
 tt0142055,Teletubbies,1,5948,4.6,325

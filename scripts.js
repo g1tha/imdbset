@@ -19,7 +19,7 @@ const themeLbl = document.querySelector('.theme-lbl');
 const categoryDropdown = document.getElementById('category');
 const genreDropdown = document.getElementById('genre');
 const lastUpdated = document.getElementById('lastUpdated');
-const titleGridDiv = document.querySelector('#titleGrid');
+const titleGridDiv = document.getElementById('titleGrid');
 
 // MAIN
 navToggle.addEventListener('click', () => {
@@ -36,14 +36,14 @@ navToggle.addEventListener('click', () => {
         navClose.setAttribute('data-visible', 'false');
     }
 })
-Array.from(homeLinks).forEach(function(element) {
+Array.from(homeLinks).forEach(function (element) {
     element.addEventListener('click', () => {
         homePage.setAttribute('data-visible', 'true');
         titlePage.setAttribute('data-visible', 'false');
     })
 })
 
-Array.from(titleLinks).forEach(function(element) {
+Array.from(titleLinks).forEach(function (element) {
     element.addEventListener('click', () => {
         titlePage.setAttribute('data-visible', 'true');
         homePage.setAttribute('data-visible', 'false')
@@ -77,12 +77,10 @@ function enableLightMode() {
     localStorage.setItem('lightMode', 'enabled');
     lightMode = localStorage.getItem('lightMode');
     styleSheet.setAttribute('href', 'styles-light.css');
+    titleGridDiv.setAttribute('class', 'ag-theme-alpine');
     if (themeSwitch !== null) {
         themeLbl.textContent = "Light theme on";
         themeSwitch.checked = true;
-    }
-    if (window.location.pathname.includes('titles.html')) {
-        titleGridDiv.setAttribute('class', 'ag-theme-alpine');
     }
 }
 
@@ -91,13 +89,11 @@ function disableLightMode() {
     lightIcon.setAttribute('data-visible', 'true');
     localStorage.setItem('lightMode', null);
     lightMode = localStorage.getItem('lightMode');
-    styleSheet.setAttribute('href', 'styles.css');;
+    styleSheet.setAttribute('href', 'styles.css');
+    titleGridDiv.setAttribute('class', 'ag-theme-alpine-dark');
     if (themeSwitch !== null) {
         themeLbl.textContent = "Light theme off";
         themeSwitch.checked = false;
-    }
-    if (window.location.pathname.includes('titles.html')) {
-        titleGridDiv.setAttribute('class', 'ag-theme-alpine-dark');
     }
 }
 
@@ -159,8 +155,9 @@ var titleChartConfig = {
         },
         plugins: {
             legend: {
-            display: false
-        }}
+                display: false
+            }
+        }
     }
 };
 // data collection functions
@@ -280,7 +277,7 @@ async function getTitlesData() {
     var votes = [];
     var rank = [];
     var rowData = [];
-    
+
     // Get menu data
     const titleMenus = await getTitleMenus();
     const selectedCategory = categoryDropdown.value;
@@ -324,13 +321,13 @@ async function getTitlesData() {
 
     const gridOptions = {
         columnDefs: titleTableColumnDefs,
-        defaultColDef: { sortable: true, filter: true, resizable: true, flex: 1, floatingFilter: false},
+        defaultColDef: { sortable: true, filter: true, resizable: true, flex: 1, floatingFilter: false },
         animateRows: true,
         pagination: true,
         paginationPageSize: 20,
         domLayout: 'autoHeight',
         rowData: rowData,
-        onPaginationChanged: (event=> getDataDisplayed()),
+        onPaginationChanged: (() => getDataDisplayed()),
     };
 
     titleGridDiv.innerHTML = '';
@@ -346,31 +343,32 @@ async function getTitlesData() {
     getDataDisplayed()
 
     function getDataDisplayed() {
-    // Get data displayed in table as input to chart
-    titleChartDataset = [];
-    gridOptions.api.forEachNodeAfterFilter(node => {
-        currentPage = gridOptions.api.paginationGetCurrentPage();
-        pageSize = gridOptions.api.paginationGetPageSize();
-        startRow = currentPage * pageSize;
-        endRow = (currentPage + 1) * pageSize;
-        if (node.rowIndex >= startRow && node.rowIndex < endRow) {
-            titleChartDataset.push({ x: node.data.rank, y: node.data.rating, r: (node.data.votes) });
-        }
-    });
-    // Scale r (radius) such that the maximum value is 50 px
-    let max_r = 1;
-    for (item in votes) {
-        if (max_r < votes[item]) {
-            max_r = votes[item]
+        // Get data displayed in table as input to chart
+        titleChartDataset = [];
+        gridOptions.api.forEachNodeAfterFilter(node => {
+            currentPage = gridOptions.api.paginationGetCurrentPage();
+            pageSize = gridOptions.api.paginationGetPageSize();
+            startRow = currentPage * pageSize;
+            endRow = (currentPage + 1) * pageSize;
+            if (node.rowIndex >= startRow && node.rowIndex < endRow) {
+                titleChartDataset.push({ x: node.data.rank, y: node.data.rating, r: (node.data.votes) });
+            }
+        });
+        // Scale r (radius) such that the maximum value is 50 px
+        let max_r = 1;
+        for (item in votes) {
+            if (max_r < votes[item]) {
+                max_r = votes[item]
+            };
         };
-    };
-    r_divisor = Math.max(max_r / (window.innerWidth / 20), (max_r /50));
-    for (item in titleChartDataset) {
-        titleChartDataset[item]['r'] = 2 + Math.round(titleChartDataset[item]['r'] / r_divisor);
-    };
-    // Uupdate chart data and chart
-    titleChart.data.datasets[0].data = titleChartDataset;
-    titleChart.update();}
+        r_divisor = Math.max(max_r / (window.innerWidth / 20), (max_r / 50));
+        for (item in titleChartDataset) {
+            titleChartDataset[item]['r'] = 2 + Math.round(titleChartDataset[item]['r'] / r_divisor);
+        };
+        // Uupdate chart data and chart
+        titleChart.data.datasets[0].data = titleChartDataset;
+        titleChart.update();
+    }
 
 }
 

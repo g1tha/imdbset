@@ -1,21 +1,21 @@
 tconst,primaryTitle,averageRating,numVotes,ranking
 tt0221606,Super Mario World,9.2,5217,1
-tt6423026,Super Mario Odyssey,9.1,4803,2
-tt1606610,Heavy Rain,8.8,14212,3
+tt6423026,Super Mario Odyssey,9.1,4805,2
+tt1606610,Heavy Rain,8.8,14214,3
 tt0177266,Super Mario Bros.,8.9,6730,4
-tt2133326,South Park: The Stick of Truth,8.9,5291,5
+tt2133326,South Park: The Stick of Truth,8.9,5293,5
 tt0234202,Mario Kart 64,8.7,3347,6
 tt4779924,Cuphead: Don't Deal with the Devil,8.7,3300,7
-tt12497014,Ratchet & Clank: Rift Apart,8.8,1658,8
+tt12497014,Ratchet & Clank: Rift Apart,8.8,1662,8
 tt0271807,Super Mario RPG: Legend of the Seven Stars,8.7,1505,9
 tt0386789,The Simpsons: Hit & Run,8.3,2812,10
 tt5822500,Crash Bandicoot N. Sane Trilogy,8.4,2197,11
 tt0295914,Crash Bandicoot,8.2,3425,12
 tt0221604,Super Mario Kart,8.3,2409,13
 tt0298052,Super Mario Sunshine,8.1,3169,14
-tt5905364,Sonic Mania,8.2,2400,15
-tt0253749,Spyro the Dragon,8.2,2214,16
-tt8241768,Spyro Reignited Trilogy,8.5,1241,17
+tt5905364,Sonic Mania,8.2,2401,15
+tt0253749,Spyro the Dragon,8.2,2215,16
+tt8241768,Spyro Reignited Trilogy,8.5,1245,17
 tt12753708,Astro's Playroom,8.4,1393,18
 tt3540046,Rayman Legends,8.2,1943,19
 tt0354920,Sly Cooper and the Thievius Raccoonus,8.2,1325,20
@@ -25,15 +25,15 @@ tt0204659,Super Mario Bros. 2,7.6,3274,23
 tt0296860,Sonic the Hedgehog CD,7.9,1062,24
 tt0420677,Kirby's Adventure,7.9,1050,25
 tt2071508,Lego City Undercover,8.1,674,26
-tt14876256,Cuphead: The Delicious Last Course,8.8,321,27
+tt14876256,Cuphead: The Delicious Last Course,8.8,322,27
 tt12546328,Crash Bandicoot 4: It's About Time,7.8,987,28
 tt12881452,The Henry Stickmin Collection,8.4,413,29
 tt7864608,Dragon Ball FighterZ,7.8,853,30
 tt3757728,Lego Batman 3: Beyond Gotham,7.5,1881,31
 tt0408642,Crash Twinsanity,7.7,988,32
 tt10366012,Five Nights at Freddy's: Help Wanted,8.0,501,33
-tt1198083,Rainbow Six: Vegas,7.5,1343,34
-tt0433576,The Incredibles,7.4,1398,35
+tt1198083,Rainbow Six: Vegas,7.5,1345,34
+tt0433576,The Incredibles,7.4,1401,35
 tt0362583,Earthworm Jim,7.5,911,36
 tt1560146,Epic Mickey,7.9,407,37
 tt1623789,Toy Story 3: The Video Game,7.5,852,38
@@ -50,15 +50,15 @@ tt13972010,Friday Night Funkin',7.7,365,48
 tt5357924,Fire Emblem,8.2,182,49
 tt0947014,The Grim Adventures of Billy & Mandy,7.7,320,50
 tt0366396,Earthworm Jim 2,7.7,285,51
-tt2793236,DuckTales: Remastered,7.5,403,52
+tt2793236,DuckTales: Remastered,7.5,405,52
 tt1223884,WarioWare: Smooth Moves,7.8,223,53
 tt0271409,Bugs Bunny: Lost in Time,7.7,230,54
-tt0434356,The SpongeBob Squarepants Movie,7.2,946,55
+tt0434356,The SpongeBob Squarepants Movie,7.2,948,55
 tt0414967,EverQuest,8.3,115,56
 tt0847163,Family Guy,7.2,901,57
 tt0482356,Duckman,7.9,166,58
 tt14695770,Cookie Run: Kingdom,8.3,111,59
-tt13690164,Bloons TD 6,7.8,173,60
+tt13690164,Bloons TD 6,7.8,174,60
 tt5477730,Sonic the Hedgehog,7.5,274,61
 tt0413024,Myth: The Fallen Lords,8.2,108,62
 tt0466137,Spider-Man & Venom: Maximum Carnage,7.6,221,63
@@ -114,11 +114,11 @@ tt8232376,Stealing The Diamond,7.9,45,112
 tt0397100,SimAnt,7.7,56,113
 tt8760602,Book of Life: Sugar Smash,7.5,75,114
 tt10121918,Kill La Kill If,7.4,83,115
-tt1687212,Ben 10 Alien Force: The Rise of Hex,7.7,49,116
 tt8223592,Escaping The Prison,7.7,49,116
+tt1687212,Ben 10 Alien Force: The Rise of Hex,7.7,49,116
 tt6393868,Kim Possible: What's the Switch?,7.9,38,118
-tt1316587,Dragon Ball Z: Burst Limit,7.1,232,119
-tt0204284,Yume Koujou: Doki Doki Panic,7.8,41,120
+tt0204284,Yume Koujou: Doki Doki Panic,7.8,41,119
+tt1316587,Dragon Ball Z: Burst Limit,7.1,232,120
 tt0380374,Garfield: Caught in the Act,7.9,36,121
 tt6453466,Disney Princess: Enchanted Journey,7.6,51,122
 tt13796076,Alba: A Wildlife Adventure,7.7,44,123
@@ -126,15 +126,15 @@ tt1937212,Kung Fu Panda 2,7.4,71,124
 tt11191308,Pixel Ripped 1995,8.2,25,125
 tt0247298,Donald Duck Goin' Quackers,7.1,187,126
 tt5882024,King of the Hill,8.0,27,127
-tt1147466,Aqua Teen Hunger Force Zombie Ninja Pro-Am,7.3,78,128
 tt7266374,Pink Panther: Pinkadelic Pursuit,7.3,78,128
+tt1147466,Aqua Teen Hunger Force Zombie Ninja Pro-Am,7.3,78,128
 tt8537260,Ghost Giant,8.1,24,130
 tt12855634,Steven Universe: Unleash the Light,7.9,29,131
 tt9097794,Disney's Animated Storybook: Toy Story,7.9,28,132
 tt0455148,The Lost Mind of Dr. Brain,7.9,28,132
-tt11222250,Rick and Morty: Virtual Rick-ality,7.2,104,134
-tt2934928,Ben 10 Omniverse,7.2,104,134
-tt2409480,Sorcerers of the Magic Kingdom,7.5,48,136
+tt2409480,Sorcerers of the Magic Kingdom,7.5,48,134
+tt11222250,Rick and Morty: Virtual Rick-ality,7.2,104,135
+tt2934928,Ben 10 Omniverse,7.2,104,135
 tt1262153,Whacked!,8.2,21,137
 tt0376008,Ninja: Shadow of Darkness,7.6,40,138
 tt13282160,Kapitan Bomba - Zemsta Faraona,7.5,47,139
@@ -169,26 +169,26 @@ tt0468561,Train Simulator,7.5,29,167
 tt5312248,Freedom Planet 2,8.1,14,168
 tt1613073,Batman: The Brave and the Bold - The Videogame,7.1,98,169
 tt19355078,Scrap Mechanic,8.4,11,170
-tt0272930,Walt Disney World Quest: Magical Racing Tour,7.2,58,171
-tt6473652,Mike's Monstrous Adventure,7.9,16,172
+tt6473652,Mike's Monstrous Adventure,7.9,16,171
+tt0272930,Walt Disney World Quest: Magical Racing Tour,7.2,58,172
 tt9591658,MapleStory,7.4,33,173
 tt10071382,Touhou 4 Gensoukyou: Lotus Land Story,8.2,12,174
 tt13936182,BROK the InvestiGator,8.2,12,174
 tt8157046,Breaking The Bank,7.3,41,176
 tt0823190,Teen Titans,7.0,224,177
 tt0357616,Dragon's Lair 3D: Return to the Lair,7.2,56,178
-tt7084926,Cars 3: Driven to Win,7.0,219,179
-tt12494574,M.U.G.E.N,7.2,55,180
-tt9327630,Arena of Valor,7.3,40,181
+tt12494574,M.U.G.E.N,7.2,55,179
+tt9327630,Arena of Valor,7.3,40,180
+tt7084926,Cars 3: Driven to Win,7.0,219,181
 tt0337254,Super Don Quix-ote,7.8,16,182
 tt13592304,Neptunia reVerse,7.9,14,183
 tt13870372,Gacha Club,7.5,23,184
-tt0288085,Killing Time,8.1,11,185
 tt11344522,Grindstone,8.1,11,185
+tt0288085,Killing Time,8.1,11,185
 tt16058978,Friday Night Funkin: Neo,7.9,13,187
 tt12222504,112 Operator,7.5,22,188
-tt1621885,Pitfall: The Mayan Adventure,7.1,72,189
-tt10105392,Sakura Wars,7.3,33,190
+tt10105392,Sakura Wars,7.3,33,189
+tt1621885,Pitfall: The Mayan Adventure,7.1,72,190
 tt9097852,Disney's Animated Storybook: 101 Dalmatians,7.5,21,191
 tt5255038,Adventure Time: Finn & Jake Investigations,7.1,70,192
 tt0824297,Cadillacs and Dinosaurs: The Second Cataclysm,7.2,44,193
@@ -221,8 +221,8 @@ tt1175097,Spot Goes to Hollywood,7.3,23,219
 tt1640561,Shrek Forever After: The Game,7.0,116,220
 tt5586494,Jonny Quest: Cover-Up at Roswell,7.6,12,221
 tt2261285,Badlands,7.5,14,222
-tt13711374,Scary Teacher 3D,8.0,7,223
 tt15017086,Tukoni,8.0,7,223
+tt13711374,Scary Teacher 3D,8.0,7,223
 tt6860124,The Amazing World of Gumball: Mutant Fridge Mayhem,7.2,26,225
 tt15196662,Lego Tower,7.8,8,226
 tt0378184,Keio Flying Squadron,7.6,10,227
@@ -231,14 +231,14 @@ tt18688686,Atlantis: The Lost Empire Activity Center,7.4,14,228
 tt11138082,House Party,7.1,38,230
 tt6121218,Armed Girls,7.0,88,231
 tt15134430,Looney Tunes: World of Mayhem,8.0,6,232
-tt12251154,My Little Pony: Friendship Gardens,7.5,11,233
 tt10601680,Sailor Moon: Another Story,7.5,11,233
-tt7679466,The Powerpuff Girls: Flipped out,7.4,12,235
+tt12251154,My Little Pony: Friendship Gardens,7.5,11,233
 tt7410598,Cyanide & Happiness: Freakpocalypse,7.4,12,235
+tt7679466,The Powerpuff Girls: Flipped out,7.4,12,235
 tt7631484,Punch Club,7.0,75,237
 tt1522144,Jersey Devil,7.1,32,238
-tt6525954,The Terminator,7.2,19,239
-tt4229130,My Amazing Human Body,7.4,11,240
+tt4229130,My Amazing Human Body,7.4,11,239
+tt6525954,The Terminator,7.2,19,240
 tt14761470,Steven Universe: Soundtrack Attack,7.5,9,241
 tt13812970,Evil Nun: Scary Horror Game Adventure,7.6,7,242
 tt10071364,Touhou 3 Yumejikuu: Phantasmagoria of Dim. Dream,7.6,7,242
@@ -255,12 +255,12 @@ tt0219823,Hunchback of Notre Dame,7.0,32,262
 tt8219214,Invector,7.0,29,263
 tt5932046,7th Dragon III: Code: VFD,7.2,8,264
 tt15439762,Coming Out on Top,7.2,6,265
-tt13451606,Bus Simulator 18,7.0,17,266
 tt1691830,Blood: The Last Vampire,7.0,17,266
+tt13451606,Bus Simulator 18,7.0,17,266
 tt11492288,The Plan,7.0,13,268
 tt11750516,BFDIA 5B,7.0,12,269
-tt8881510,Winx Club: Mission Enchantix,7.0,9,270
 tt17888982,Crayon Physics Deluxe,7.0,9,270
+tt8881510,Winx Club: Mission Enchantix,7.0,9,270
 tt16220568,One Night， Hot Springs,7.0,7,272
 tt13559602,The Basement Collection,6.9,8,273
 tt7097574,Waku Waku 7,6.9,10,274
@@ -274,17 +274,17 @@ tt8880824,Shining Resonance Refrain,6.9,24,281
 tt14797412,Risk: Global Domination,6.9,30,282
 tt20238786,Shoot Many Robots,6.8,6,283
 tt15117036,Bishi Bashi Special,6.8,7,284
-tt16153310,The Elder Scrolls Online: Deadwood,6.8,7,284
 tt17511890,Later Alligator,6.8,7,284
-tt0929249,.hack//G.U. Vol.2//Reminisce,6.9,47,287
+tt0929249,.hack//G.U. Vol.2//Reminisce,6.9,47,286
+tt16153310,The Elder Scrolls Online: Deadwood,6.8,8,287
 tt1330526,Cartoon Network Racing,6.9,56,288
 tt10887750,Crystar,6.8,11,289
-tt14999206,Blue Reflection: Second Light,6.8,12,290
+tt14999206,Blue Reflection: Second Light,6.8,13,290
 tt13681774,Punishing: Gray Raven,6.8,14,291
 tt12320350,Biped,6.8,14,291
 tt14920890,Summer Athletics,6.7,8,293
-tt8283852,Scooby-Doo! Mystery of the Fun Park Phantom,6.8,15,294
 tt2382903,Blade Kitten,6.8,15,294
+tt8283852,Scooby-Doo! Mystery of the Fun Park Phantom,6.8,15,294
 tt0415691,Buzz Lightyear of Star Command,6.9,100,296
 tt9620796,Tsioque,6.7,9,297
 tt10370992,Love， Money， Rock 'n' Roll.,6.7,10,298
@@ -317,9 +317,9 @@ tt0215933,The Lion King II: Simba's Pride Active Play,6.8,42,324
 tt0406807,Go! Go! Hypergrind,6.7,23,325
 tt11036232,An American Tail: Fievel Goes West,6.5,12,326
 tt13796084,Leaf Blower Revolution - Idle Game,6.2,7,327
-tt16141964,The Smurfs - Mission Vileaf,6.4,10,328
 tt14160390,Lego Chess,6.4,10,328
 tt7086230,Finding Dory: Just Keep Swimming,6.4,10,328
+tt16141964,The Smurfs - Mission Vileaf,6.4,11,330
 tt6884262,Dexter's Laboratory: Mandark's Lab?,6.6,18,331
 tt6885434,Scooby-Doo!: The Glowing Bug Man,6.6,18,331
 tt6885460,Scooby Doo!: Frights Camera Mystery!,6.3,10,333
@@ -330,20 +330,20 @@ tt8860934,Flipping Death,6.4,13,337
 tt15398940,Potentia,6.2,10,338
 tt5534302,My Hero Academia: Battle of All,6.7,34,339
 tt0288684,Orphen: Scion of Sorcery,6.7,36,340
-tt0410595,Shrek 2: The Video Game,6.9,571,341
-tt5345476,Kenka banchou: Otome,6.7,37,342
+tt5345476,Kenka banchou: Otome,6.7,37,341
+tt0410595,Shrek 2: The Video Game,6.9,571,342
 tt8196020,Honor of Kings,6.1,10,343
 tt9314376,The Secret Saturdays: Beasts of the 5th Sun,6.0,9,344
-tt20050448,Propnight,5.7,7,345
-tt6885440,Scooby Doo: The Scary Stone Dragon,6.4,17,346
-tt6885420,Scooby-Doo!: Jinx at the Sphinx,6.6,28,347
-tt13464502,Reigns: Her Majesty,6.5,22,348
-tt6236718,The Powerpuff Girls: Mojo Jojo A-Go-Go,6.0,10,349
-tt9216572,Art Academy,6.0,10,349
-tt13918880,Tera,6.0,10,349
-tt6750194,Senran Kagura Shinovi Versus,6.3,15,352
-tt14304318,ALTF4,6.3,15,352
-tt7531798,Scribblenauts,6.8,83,354
+tt6885440,Scooby Doo: The Scary Stone Dragon,6.4,17,345
+tt6885420,Scooby-Doo!: Jinx at the Sphinx,6.6,28,346
+tt13464502,Reigns: Her Majesty,6.5,22,347
+tt13918880,Tera,6.0,10,348
+tt9216572,Art Academy,6.0,10,348
+tt6236718,The Powerpuff Girls: Mojo Jojo A-Go-Go,6.0,10,348
+tt6750194,Senran Kagura Shinovi Versus,6.3,15,351
+tt14304318,ALTF4,6.3,15,351
+tt7531798,Scribblenauts,6.8,83,353
+tt20050448,Propnight,5.7,8,354
 tt0332240,The Matwix,6.3,16,355
 tt6869344,Animation Throwdown: The Quest for Cards,6.5,24,356
 tt13269658,Mickey Saves the Day: 3D Adventure,5.8,9,357
@@ -385,13 +385,13 @@ tt6490946,Marsupilami,4.2,7,392
 tt15206974,I Am Dead,6.0,21,393
 tt3463452,Donkey Konga 3: Tabe-houdai! Haru Mogitate 50 Kyoku,5.7,16,394
 tt13992178,Devour,6.3,32,395
-tt1965148,The Adventures of Tintin: The Secret of the Unicorn,6.8,189,396
-tt13077788,Delores: A Thimbleweed Park Mini-Adventure,5.5,14,397
+tt13077788,Delores: A Thimbleweed Park Mini-Adventure,5.5,14,396
+tt1965148,The Adventures of Tintin: The Secret of the Unicorn,6.8,189,397
 tt14956888,Island Saver,5.8,18,398
 tt0819936,Taz Express,5.8,18,398
 tt19731178,Frozen Free Fall,4.0,7,400
-tt11010714,Banana Kong,5.6,16,401
 tt13081050,American Dad! Apocalypse Soon,5.6,16,401
+tt11010714,Banana Kong,5.6,16,401
 tt0389122,Looney Tunes: Back in Action,6.7,105,403
 tt18360990,Elex II,6.5,53,404
 tt7790794,Super Lucky's Tale,6.6,74,405
@@ -403,7 +403,7 @@ tt4478178,Adventure Time: Explore the Dungeon Because I Don't Know!,6.5,60,410
 tt13133688,Transformice,5.8,22,411
 tt10187046,Cut the Rope: Experiments,6.0,27,412
 tt12199426,Crash Bandicoot: Mobile,5.1,14,413
-tt0330930,Star Wars: Rebel Assault,6.8,272,414
+tt0330930,Star Wars: Rebel Assault,6.8,273,414
 tt12400190,Spirit of the North,6.4,54,415
 tt5344662,Adventure Time: The Secret of the Nameless Kingdom,6.0,30,416
 tt6435630,Disney's Beauty and the Beast: Magical Ballroom,5.4,18,417
@@ -427,18 +427,18 @@ tt18181550,Lost Ark,6.5,107,434
 tt10244028,UglyDolls: An Imperfect Adventure,4.8,20,435
 tt1174967,Cool Spot,6.5,110,436
 tt0857206,Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E.,6.0,48,437
-tt0319921,Tarzan Untamed,6.3,74,438
-tt16440878,Heavenly Bodies,5.8,40,439
-tt2460164,Shrek,6.5,116,440
-tt9442044,Super Meat Boy Forever,5.9,46,441
-tt3220328,Angry Birds Star Wars,6.8,557,442
-tt3681484,ClayFighter,6.6,163,443
-tt1446479,Ice Age: Dawn of the Dinosaurs,6.7,272,444
-tt8667748,Tom and Jerry in War of the Whiskers,6.2,72,445
-tt14069210,Gacha Life,5.7,42,446
+tt8667748,Tom and Jerry in War of the Whiskers,6.3,73,438
+tt0319921,Tarzan Untamed,6.3,74,439
+tt16440878,Heavenly Bodies,5.8,41,440
+tt2460164,Shrek,6.5,116,441
+tt9442044,Super Meat Boy Forever,5.9,46,442
+tt3220328,Angry Birds Star Wars,6.8,557,443
+tt3681484,ClayFighter,6.6,163,444
+tt14069210,Gacha Life,5.8,43,445
+tt1446479,Ice Age: Dawn of the Dinosaurs,6.7,272,446
 tt16244232,Townscaper,6.0,58,447
-tt17737266,My Friend Peppa Pig,5.6,40,448
-tt1303840,ACME Animation Factory,4.3,20,449
+tt1303840,ACME Animation Factory,4.3,20,448
+tt17737266,My Friend Peppa Pig,5.6,41,449
 tt15787818,DC League of Super-Pets: The Adventures of Krypto and Ace,6.1,68,450
 tt0364072,Top Gun: Fire at Will,5.5,39,451
 tt4069338,Gauntlet,6.2,80,452
@@ -452,24 +452,24 @@ tt4846706,Ice Age Avalanche,5.8,54,459
 tt5832032,Space Jam,6.7,365,460
 tt1336000,Madagascar: Escape 2 Africa,6.5,176,461
 tt0426533,Mortimer and the Riddles of the Medallion,3.9,23,462
-tt18278454,Sonic Omens,5.0,39,463
-tt10928066,Plants vs. Zombies: Battle for Neighborville,6.5,203,464
-tt11444210,My Talking Tom 2,5.4,54,465
-tt12484576,My Hero: One's Justice 2,6.1,105,466
-tt10478598,Battletoads,6.3,152,467
-tt9863808,Adventure Time: Pirates of the Enchiridion,6.1,112,468
-tt2034616,Alvin and the Chipmunks: The Squeakquel,4.8,41,469
-tt5816980,Skylanders: Imaginators,6.2,130,470
-tt14956926,eFootball Pro Evolution Soccer 2021,6.3,154,471
+tt14956926,eFootball Pro Evolution Soccer 2021,6.4,155,463
+tt18278454,Sonic Omens,5.0,39,464
+tt10928066,Plants vs. Zombies: Battle for Neighborville,6.5,203,465
+tt11444210,My Talking Tom 2,5.4,54,466
+tt12484576,My Hero: One's Justice 2,6.1,105,467
+tt10478598,Battletoads,6.3,152,468
+tt9863808,Adventure Time: Pirates of the Enchiridion,6.1,112,469
+tt2034616,Alvin and the Chipmunks: The Squeakquel,4.8,41,470
+tt5816980,Skylanders: Imaginators,6.2,131,471
 tt2562694,Family Guy: Back to the Multiverse,6.7,572,472
 tt1884390,Primal Rage,6.3,171,473
 tt10187004,Cut the Rope,6.3,174,474
-tt0430327,Madagascar,6.7,681,475
+tt0430327,Madagascar,6.7,682,475
 tt0497386,The Incredibles: Rise of the Underminer,6.4,220,476
 tt1147747,Looney Tunes: Acme Arsenal,5.4,69,477
 tt1785464,Megamind,6.1,136,478
 tt0833979,Monster House,6.3,193,479
-tt0403123,The Horde,4.6,48,480
+tt0403123,The Horde,4.5,49,480
 tt0884330,Open Season,5.9,124,481
 tt2308622,Epic Mickey 2: The Power of Two,6.4,281,482
 tt0889174,Bratz Passion 4 Fashion DVD Game,3.3,34,483
@@ -477,7 +477,7 @@ tt0457457,Robots,5.7,118,484
 tt1038098,Teenage Mutant Ninja Turtles,6.4,320,485
 tt2846384,Alvin and the Chipmunks: Chipwrecked,3.6,41,486
 tt4674974,Yooka-Laylee,6.3,265,487
-tt0490846,Chicken Little,6.3,293,488
+tt0490846,Chicken Little,6.3,294,488
 tt1433805,Ben 10: Alien Force,5.9,174,489
 tt0956329,Bratz: Babyz,3.1,42,490
 tt1394179,Bolt,5.5,125,491
