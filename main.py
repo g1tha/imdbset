@@ -132,6 +132,9 @@ def time_it(func):
 
 @time_it
 def update_db():
+    """
+    A function to return download IMDb gzip files then update then update the dataset of parquet files.
+    """
     # Initialise progress bar.
     pbar = tqdm(tables, ncols=80)
     # For each table listed in the tables dictionary (within pbar), download the latest IDMB data.
@@ -150,11 +153,6 @@ def update_db():
     last_updated = now.strftime("%d %B %Y")
     with open("data\\lastUpdated.json", "w") as file:
         json.dump(last_updated, file)
-
-
-@time_it
-def read_parquet(file):
-    return pl.read_parquet(file)
 
 
 def load_db(table):
@@ -272,6 +270,8 @@ def get_titles_base():
     df = pl.read_parquet("data\sources\\title.basics.parquet").drop(
         "originalTitle", "startYear", "runtimeMinutes", "isAdult", "endYear"
     )
+    # Remove adult genre
+    df = df.filter(~pl.col("genres").list.contains('Adult'))
     df = df.join(type_cat_map, on="titleType", how="left")
     df = df.drop("titleType")
     # Add ratings and votes (using inner join, which means any titles without ratings will be excluded)
@@ -320,8 +320,10 @@ def titles_tables():
                 pl.col("genres"),
                 pl.col("titleCategory"),
             )
+            # Use episodes ratings to create tables with weighted average per season
+            seasons_tables(titles_category, title_all_count, title_genre_count)
         # Add rankings
-        titles_category = add_ranking(titles_category)
+        titles_category = add_ranking(titles_category, 1)
         # Export to CSV (dropping uncessary columns, taking top and bottom 100, and rounding figures to reduce number of characters)
         output = titles_category.drop("genres", "titleCategory")
         output = output.with_columns(pl.col("numVotes").round(0).cast(pl.Int64))
@@ -337,7 +339,7 @@ def titles_tables():
                     pl.col("genres").list.contains(genre)
                 )
                 # Add rankings
-                titles_genre = add_ranking(titles_genre)
+                titles_genre = add_ranking(titles_genre, 1)
                 # Export to CSV (dropping uncessary columns, taking top and bottom 100, and rounding figures to reduce number of characters)
                 output = titles_genre.drop("genres", "titleCategory")
                 output = output.with_columns(pl.col("numVotes").round(0).cast(pl.Int64))
@@ -346,18 +348,25 @@ def titles_tables():
                 # If filename has been created,add genre to cagegory dictionary in dict_titles
                 if os.path.exists(f"data\{filename}.csv"):
                     dict_titles[category][genre] = title_genre_count
+    # Add seasons to dict_titles {}
+    dict_titles['season'] = OrderedDict()
+    dict_titles['season']["(All)"] = title_all_count
+    for genre in genres:
+        if genre:
+            dict_titles['season'][genre] = title_genre_count
     # Export dict_titles{} as titleMenus.json
     for category, genre in dict_titles.items():
         dict_titles[category] = OrderedDict(sorted(genre.items(), key=lambda x: x[0]))
     dict_titles.move_to_end("movie")
     dict_titles.move_to_end("series")
+    dict_titles.move_to_end("season")
     dict_titles.move_to_end("episode")
     dict_titles.move_to_end("videoGame")
     with open("data\\titleMenus.json", "w") as file:
         json.dump(dict_titles, file)
 
 
-def add_ranking(df):
+def add_ranking(df, n):
     """
     Adds a rankings column to dataframe based on both average ratings and number of votes.
     """
@@ -367,10 +376,10 @@ def add_ranking(df):
     # Where:
     # R = average rating for the title
     # v = number of votes for the title
-    # min_votes =  number of votes required for a more reliable rating (1 * standard deviation(s) + mean number of votes for the relevant category).
+    # min_votes =  number of votes required for a more reliable rating (n * standard deviation(s) + mean number of votes for the relevant category).
     # mean = the mean rating for the relevant category.
     mean = df.select(pl.mean("averageRating"))
-    min_votes = df.select(pl.mean("numVotes")) + 1 * df.select(pl.std("numVotes"))
+    min_votes = df.select(pl.mean("numVotes")) + n * df.select(pl.std("numVotes"))
     df = df.with_columns(
         (
             (pl.col("averageRating") * pl.col("numVotes") + mean * min_votes)
@@ -383,20 +392,143 @@ def add_ranking(df):
     return df
 
 
-def export_csv(df, filename, count):
+def export_csv(df, filename, count, type=None):
     """
     Exports a top and bottom 'count' slice of the dataframe 'df' to a 'filename'.csv.
     """
     output_head = df.head(count)
     output_tail = df.tail(count)
+    if type == 'season':
+        output = (
+        output_head.extend(output_tail).unique(subset=["tconst", 'seasonNumber']).sort(pl.col("ranking"))
+    )
+    else:
+        output = (
+            output_head.extend(output_tail).unique(subset="tconst").sort(pl.col("ranking"))
+        )
+    # Replace any commasthat make parsing csv challenging  with fullwdith commmas (uff0c) .
+    output = output.with_columns(pl.all().apply(lambda x: x.replace(',', '，') if isinstance(x, str) else x))
+
+    output.write_csv(f"data\{filename}.csv")
+
+
+def seasons_tables(df, title_all_count, title_genre_count):
+    """
+    Creates a set of weighted average ratings per season.
+    """
+    details = pl.read_parquet("data\sources\\title.episode.parquet").drop('seasonNumber', 'episodeNumber')
+    
+    df = df.join(details, on="tconst")
+    df = df.drop('tconst', 'primaryTitle', 'titleCategory')
+    df = df.rename({"parentTconst": "tconst"})
+    # Export overall seasons tables
+    df_all = df.drop('genres')
+    # Calculate weighted average rating per season 
+    df_all = df_all.with_columns((pl.col('averageRating') * pl.col('numVotes')).alias('ratingProduct'))
+    df_all = df_all.drop('averageRating')
+    df_all = df_all.groupby(['tconst', 'seriesName', 'seasonNumber']).sum()
+    df_all =df_all.with_columns((pl.col('ratingProduct') / pl.col('numVotes')).alias('averageRating'))
+    df_all =df_all.drop('ratingProduct', 'episodeNumber')
+    # Add ranking
+    df_all = add_ranking(df_all, 1)
+    # round votes and ratings
+    df_all =df_all.with_columns(pl.col("numVotes").round(0).cast(pl.Int64), pl.col("averageRating").round(1))
+    # rename seriesName as primaryTitle
+    df_all =df_all.rename({"seriesName": "primaryTitle"})
+    # export ratings to csv
+    export_csv(df_all, 'title_season', title_all_count, 'season')
+    # Get a list of genres for episodes, then get weighted average season ratings per genre
+    genres = (
+        df.select(pl.col("genres").list.explode()).unique().to_series()
+    )
+    for genre in genres:
+        # if the genre is not empty, then filter by the genre
+        if genre:
+            df_genre = df.filter(
+                    pl.col("genres").list.contains(genre)
+                )
+            df_genre = df_genre.drop('genres')
+            # Calculate weighted average rating per season 
+            df_genre = df_genre.with_columns((pl.col('averageRating') * pl.col('numVotes')).alias('ratingProduct'))
+            df_genre = df_genre.drop('averageRating')
+            df_genre = df_genre.groupby(['tconst', 'seriesName', 'seasonNumber']).sum()
+            df_genre =df_genre.with_columns((pl.col('ratingProduct') / pl.col('numVotes')).alias('averageRating'))
+            df_genre =df_genre.drop('ratingProduct', 'episodeNumber')
+            # Add ranking
+            df_genre = add_ranking(df_genre, 1)
+            # round votes and ratings
+            df_genre =df_genre.with_columns(pl.col("numVotes").round(0).cast(pl.Int64), pl.col("averageRating").round(1))
+            # export ratings to csv
+            # rename seriesName as primaryTitle
+            df_genre =df_genre.rename({"seriesName": "primaryTitle"})   
+            export_csv(df_genre, f'title_season_{genre}', title_genre_count, 'season')    
+
+
+def export_people_csv(df, filename, count):
+    """
+    EXPERIMENTAL - function not use for now.
+    Exports a top and bottom 'count' slice of the people dataframe 'df' to a 'filename'.csv.
+    If used in future, combine with export_csv function.
+    """
+    output_head = df.head(count)
+    output_tail = df.tail(count)
     output = (
-        output_head.extend(output_tail).unique(subset="tconst").sort(pl.col("ranking"))
+        output_head.extend(output_tail).unique(subset="nconst").sort(pl.col("ranking"))
     )
     # Replace any commasthat make parsing csv challenging  with fullwdith commmas (uff0c) .
     output = output.with_columns(pl.all().apply(lambda x: x.replace(',', '，') if isinstance(x, str) else x))
 
     output.write_csv(f"data\{filename}.csv")
 
+
+def people_tables():
+    """
+    EXPERIMENTAL - function not use for now.
+    Produces a set of tables in CSV format of the top and bottom ranked people by category and genre.
+    """
+    people_all_count = 500
+    people_role_count = 50
+    # Filter principals for selected roles and drop unecessary columns
+    roles = ['director', 'cinematographer', 'writer', 'composer', 'self', 'actor', 'actress', 'producer']
+    principals = pl.read_parquet("data\sources\\title.principals.parquet")
+    principals = principals.drop('ordering', 'job', 'characters')
+    principals = principals.filter(pl.col('category').is_in(roles))
+    # Join principals with ratings table on tconst
+    ratings = pl.read_parquet("data\sources\\title.ratings.parquet")
+    principals = principals.join(ratings, on='tconst')
+    # Calculated ratingsProduct (for use in the weighted average calculation below)
+    principals = principals.with_columns((pl.col('averageRating') * pl.col('numVotes')).alias('ratingProduct'))
+    principals = principals.drop('averageRating', 'tconst')
+    # produce people ranking table
+    # Calculate weighted average rating and total number of votes for all tiltes for a person
+    people_all = people_ranking(principals)
+    export_people_csv(people_all, 'people_all', people_all_count)
+    for role in roles:
+        output = principals.filter(pl.col('category') == role)
+        output = people_ranking(output)
+        filename = f'people_{role}'
+        export_people_csv(output, filename, people_role_count)
+
+
+
+def people_ranking(df):
+    """
+    EXPERIMENTAL - function not use for now. 
+    Calculate weighted average rating and total number of votes for all tiltes for a person.
+    """
+    df = df.drop('category').groupby('nconst').sum()
+    df =df.with_columns((pl.col('ratingProduct') / pl.col('numVotes')).alias('averageRating'))
+    df =df.drop('ratingProduct')
+    # Add ranking
+    df = add_ranking(df, 2.5)
+    # round votes and ratings
+    df =df.with_columns(pl.col("numVotes").round(0).cast(pl.Int64), pl.col("averageRating").round(1))
+    # join principals with names table on nconst
+    names = pl.read_parquet("data\sources\\name.basics.parquet")
+    names = names.drop('primaryProfession', 'knownForTitles')
+    df =df.join(names, on='nconst')
+
+    return df
 
 if __name__ == "__main__":
     main()

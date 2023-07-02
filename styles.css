@@ -446,3 +446,13 @@ titleGrid {
         width: 85em;
     }
 }
+
+.home-page[data-visible="true"],
+.title-page[data-visible="true"] {
+    display: block;
+}
+
+.home-page[data-visible="false"],
+.title-page[data-visible="false"] {
+    display: none;
+}

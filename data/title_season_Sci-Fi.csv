@@ -1,0 +1,501 @@
+tconst,primaryTitle,seasonNumber,numVotes,averageRating,ranking
+tt0475784,Westworld,1,192267,8.9,1
+tt0303461,Firefly,1,69057,8.7,2
+tt0475784,Westworld,2,125029,8.4,3
+tt3230854,The Expanse,3,43037,8.8,4
+tt2085059,Black Mirror,3,309523,8.3,5
+tt0436992,Doctor Who,4,107165,8.4,6
+tt2431438,Sense8,2,40756,8.8,7
+tt11280740,Severance,1,57867,8.6,8
+tt2661044,The 100,2,72850,8.5,9
+tt0436992,Doctor Who,3,116750,8.3,10
+tt0436992,Doctor Who,,68939,8.4,11
+tt1844624,American Horror Story,2,66482,8.4,12
+tt5834204,The Handmaid's Tale,2,53372,8.4,13
+tt5114356,Legion,1,36057,8.6,14
+tt2661044,The 100,5,38119,8.6,15
+tt2431438,Sense8,1,55851,8.4,16
+tt3230854,The Expanse,2,42415,8.5,17
+tt0436992,Doctor Who,5,95163,8.2,18
+tt0436992,Doctor Who,9,84326,8.2,19
+tt5834204,The Handmaid's Tale,1,51244,8.3,20
+tt2085059,Black Mirror,2,205512,8.1,21
+tt1119644,Fringe,2,55025,8.3,22
+tt2085059,Black Mirror,1,177978,8.0,23
+tt0436992,Doctor Who,6,92377,8.1,24
+tt1119644,Fringe,3,44863,8.3,25
+tt3230854,The Expanse,4,28302,8.5,26
+tt0813715,Heroes,1,49301,8.2,27
+tt13668894,The Book of Boba Fett,1,141713,8.0,28
+tt1119644,Fringe,5,25645,8.5,29
+tt3230854,The Expanse,5,30899,8.4,30
+tt1119644,Fringe,4,42805,8.2,31
+tt2085059,Black Mirror,4,282816,7.9,32
+tt0475784,Westworld,3,75193,8.0,33
+tt0436992,Doctor Who,1,104349,8.0,34
+tt2661044,The 100,6,32537,8.3,35
+tt5834204,The Handmaid's Tale,3,51551,8.1,36
+tt2661044,The 100,4,40728,8.2,37
+tt2261227,Altered Carbon,1,46604,8.1,38
+tt1844624,American Horror Story,1,70142,8.0,39
+tt0436992,Doctor Who,2,109557,7.9,40
+tt1844624,American Horror Story,8,39477,8.1,41
+tt1119644,Fringe,1,53878,8.0,42
+tt1844624,American Horror Story,4,52798,8.0,43
+tt1844624,American Horror Story,3,58872,8.0,44
+tt5114356,Legion,2,23152,8.3,45
+tt2234222,Orphan Black,1,20226,8.3,46
+tt5834204,The Handmaid's Tale,4,28778,8.1,47
+tt2661044,The 100,1,63756,7.9,48
+tt1740299,The Man in the High Castle,2,19877,8.3,49
+tt3230854,The Expanse,1,40030,8.0,50
+tt14688458,Silo,1,27241,8.1,51
+tt5651844,Travelers,3,12165,8.6,52
+tt0436992,Doctor Who,7,95173,7.8,53
+tt0092455,Star Trek: The Next Generation,5,87915,7.8,54
+tt0475784,Westworld,4,36832,8.0,55
+tt7949218,See,1,31413,8.0,56
+tt0436992,Doctor Who,8,84565,7.8,57
+tt2234222,Orphan Black,2,15378,8.3,58
+tt5114356,Legion,3,12538,8.5,59
+tt3230854,The Expanse,6,15071,8.3,60
+tt2234222,Orphan Black,3,13346,8.4,61
+tt0092455,Star Trek: The Next Generation,6,79319,7.7,62
+tt2234222,Orphan Black,4,11792,8.5,63
+tt0060028,Star Trek,1,132162,7.7,64
+tt12327578,Star Trek: Strange New Worlds,1,42408,7.8,65
+tt2402207,The Last Ship,2,13301,8.3,66
+tt1740299,The Man in the High Castle,1,27194,8.0,67
+tt2618986,Wayward Pines,1,20194,8.1,68
+tt3743822,Fear the Walking Dead,3,56212,7.8,69
+tt1844624,American Horror Story,5,42481,7.8,70
+tt7772588,For All Mankind,1,17592,8.1,71
+tt0436992,Doctor Who,10,60253,7.7,72
+tt7772588,For All Mankind,2,14474,8.2,73
+tt0092455,Star Trek: The Next Generation,3,92899,7.7,74
+tt2402207,The Last Ship,3,10656,8.3,75
+tt2234222,Orphan Black,5,10262,8.4,76
+tt9900092,Motherland: Fort Salem,1,14775,8.1,77
+tt1844624,American Horror Story,9,26329,7.9,78
+tt5651844,Travelers,1,17663,8.0,79
+tt5651844,Travelers,2,13808,8.1,80
+tt4643084,Counterpart,1,11769,8.2,81
+tt0092455,Star Trek: The Next Generation,4,86748,7.6,82
+tt9170108,Raised by Wolves,1,38051,7.7,83
+tt9900092,Motherland: Fort Salem,2,8368,8.4,84
+tt1135300,Dollhouse,2,9467,8.3,85
+tt0112178,Star Trek: Voyager,4,48731,7.7,86
+tt7772588,For All Mankind,3,11945,8.1,87
+tt3743822,Fear the Walking Dead,1,41881,7.7,88
+tt8694364,Years and Years,1,8273,8.3,89
+tt3743822,Fear the Walking Dead,6,45809,7.6,90
+tt1740299,The Man in the High Castle,3,13639,8.0,91
+tt1844624,American Horror Story,6,35796,7.7,92
+tt0061287,The Prisoner,1,14080,7.9,93
+tt5834204,The Handmaid's Tale,5,16738,7.9,94
+tt2661044,The 100,3,112102,7.5,95
+tt2384811,Utopia,1,7092,8.4,96
+tt1135300,Dollhouse,1,13855,7.9,97
+tt0094517,Mystery Science Theater 3000,6,13189,7.9,98
+tt2384811,Utopia,2,5428,8.6,99
+tt4643084,Counterpart,2,7014,8.3,100
+tt8291284,The Peripheral,1,22425,7.7,101
+tt0060028,Star Trek,2,89072,7.5,102
+tt2402207,The Last Ship,1,13034,7.9,103
+tt8466564,Obi-Wan Kenobi,1,136882,7.5,104
+tt4122068,Humans,1,9155,8.1,105
+tt7826376,Upload,1,18106,7.8,106
+tt5580146,Maniac,1,24538,7.7,107
+tt0094517,Mystery Science Theater 3000,5,12611,7.9,108
+tt7949218,See,2,15032,7.8,109
+tt1441135,Flashforward,1,14156,7.8,110
+tt0094535,Red Dwarf,5,5488,8.5,111
+tt0094517,Mystery Science Theater 3000,9,12072,7.9,112
+tt2660734,The Tomorrow People,1,9681,8.0,113
+tt0094517,Mystery Science Theater 3000,4,12305,7.9,114
+tt1286039,Stargate Universe,2,12652,7.8,115
+tt0094535,Red Dwarf,3,5600,8.3,116
+tt0813715,Heroes,2,16948,7.7,117
+tt0094535,Red Dwarf,2,5646,8.3,118
+tt2657262,Star-Crossed,1,8769,8.0,119
+tt0094517,Mystery Science Theater 3000,10,8161,8.0,120
+tt8134186,Devs,1,13122,7.8,121
+tt0112178,Star Trek: Voyager,5,46983,7.5,122
+tt0094535,Red Dwarf,6,5091,8.3,123
+tt12327578,Star Trek: Strange New Worlds,2,5480,8.2,124
+tt0112178,Star Trek: Voyager,7,40706,7.5,125
+tt1132290,Warehouse 13,4,8857,7.9,126
+tt8421350,Manifest,1,28718,7.5,127
+tt0094535,Red Dwarf,4,5123,8.2,128
+tt0115082,3rd Rock from the Sun,1,9319,7.8,129
+tt8421350,Manifest,4,10880,7.7,130
+tt0115082,3rd Rock from the Sun,4,6956,7.9,131
+tt1740299,The Man in the High Castle,4,14587,7.6,132
+tt1132290,Warehouse 13,3,6664,7.9,133
+tt1954347,Continuum,2,7574,7.8,134
+tt0115082,3rd Rock from the Sun,2,9348,7.7,135
+tt1954347,Continuum,3,6195,7.9,136
+tt1227926,Dr. Horrible's Sing-Along Blog,1,2784,8.6,137
+tt6632666,Project Blue Book,2,4654,8.1,138
+tt9475088,Vader: A Star Wars Theory Fan Series,1,2330,8.8,139
+tt1236246,Runaways,2,15867,7.6,140
+tt1132290,Warehouse 13,2,7192,7.8,141
+tt9170108,Raised by Wolves,2,12565,7.6,142
+tt1954347,Continuum,1,8659,7.7,143
+tt0094517,Mystery Science Theater 3000,11,7974,7.8,144
+tt2732442,Star Trek Continues,1,3764,8.2,145
+tt4122068,Humans,2,4990,8.0,146
+tt1821681,Touch,1,7520,7.8,147
+tt6156584,Snowpiercer,2,12131,7.6,148
+tt9900092,Motherland: Fort Salem,3,5024,8.0,149
+tt6632666,Project Blue Book,1,7262,7.8,150
+tt0115082,3rd Rock from the Sun,5,6250,7.9,151
+tt8421350,Manifest,2,14820,7.6,152
+tt0094517,Mystery Science Theater 3000,7,11459,7.6,153
+tt0115082,3rd Rock from the Sun,3,8348,7.7,154
+tt12204810,The End,1,3107,8.3,155
+tt0094535,Red Dwarf,1,6309,7.8,156
+tt1235547,Better Off Ted,1,3951,8.1,157
+tt7949218,See,3,9170,7.6,158
+tt0092455,Star Trek: The Next Generation,7,75776,7.4,159
+tt7588054,Roswell， New Mexico,1,6793,7.7,160
+tt9169658,Emergence,1,5112,7.8,161
+tt4922804,3%,1,6756,7.7,162
+tt1132290,Warehouse 13,1,8420,7.6,163
+tt1286039,Stargate Universe,1,16181,7.5,164
+tt0804484,Foundation,1,30960,7.4,165
+tt0115320,The Pretender,2,2909,8.2,166
+tt0813715,Heroes,3,30660,7.4,167
+tt0115320,The Pretender,3,2699,8.2,168
+tt2189221,Defiance,3,4293,7.9,169
+tt0094535,Red Dwarf,10,4478,7.9,170
+tt7521778,I'm Not a Robot,1,1693,8.7,171
+tt1954347,Continuum,4,2734,8.2,172
+tt3952222,Killjoys,2,3789,7.9,173
+tt4378456,Second Chance,1,3824,7.9,174
+tt0799862,Caprica,1,7368,7.6,175
+tt20242042,Three-Body,1,4267,7.9,176
+tt3743822,Fear the Walking Dead,2,63865,7.4,177
+tt0112178,Star Trek: Voyager,6,46837,7.4,178
+tt4122068,Humans,3,3677,7.9,179
+tt1236246,Runaways,1,14619,7.5,180
+tt0115320,The Pretender,4,2335,8.2,181
+tt0320038,John Doe,1,2786,8.1,182
+tt2402207,The Last Ship,4,6273,7.6,183
+tt0094517,Mystery Science Theater 3000,8,3609,7.9,184
+tt0305011,Clone High,1,2965,8.0,185
+tt8421350,Manifest,3,12266,7.5,186
+tt3952222,Killjoys,1,5559,7.7,187
+tt0090390,ALF,2,7360,7.6,188
+tt0061265,The Invaders,2,4462,7.7,189
+tt1132290,Warehouse 13,5,2868,8.0,190
+tt10623646,Paper Girls,1,5658,7.6,191
+tt3952222,Killjoys,3,2939,7.9,192
+tt0115082,3rd Rock from the Sun,6,5267,7.7,193
+tt14759574,Mrs. Davis,1,3315,7.9,194
+tt0115320,The Pretender,1,3574,7.8,195
+tt2189221,Defiance,2,4565,7.7,196
+tt6156584,Snowpiercer,1,17908,7.4,197
+tt10758074,The Man Who Fell to Earth,1,3758,7.7,198
+tt1235547,Better Off Ted,2,2912,7.8,199
+tt13650480,Marvel Studios: Legends,1,10741,7.4,200
+tt3556944,Heroes Reborn,1,9618,7.5,201
+tt2170584,Video Game High School,3,1082,8.7,202
+tt1137462,Kings,1,1951,8.1,203
+tt0220238,The Invisible Man,1,1654,8.2,204
+tt2402207,The Last Ship,5,5769,7.5,205
+tt8741290,Tales from the Loop,1,14106,7.4,206
+tt0103486,Mann & Machine,1,740,9.2,207
+tt2592094,Believe,1,3960,7.6,208
+tt2693776,Intelligence,1,4771,7.6,209
+tt0112167,Sliders,1,4371,7.6,210
+tt0061265,The Invaders,1,3831,7.6,211
+tt6461824,The Crossing,1,4763,7.6,212
+tt2170584,Video Game High School,1,1543,8.2,213
+tt0389564,The 4400,4,4467,7.6,214
+tt7588054,Roswell， New Mexico,2,3145,7.7,215
+tt0094517,Mystery Science Theater 3000,3,6288,7.5,216
+tt0801425,Day Break,1,2154,7.9,217
+tt0389564,The 4400,2,5304,7.5,218
+tt0289830,Taken,1,2886,7.7,219
+tt3868848,Stitchers,2,2214,7.8,220
+tt6045840,Black Lightning,1,13699,7.4,221
+tt13259622,Bee & Puppycat: Lazy in Space,1,695,9.0,222
+tt14644726,Silverpoint,1,1664,8.0,223
+tt8778064,The Society,1,8326,7.4,224
+tt4192782,Glitch,1,3529,7.6,225
+tt2184980,Do No Harm,1,949,8.5,226
+tt6170874,Salvation,1,7724,7.4,227
+tt3250026,Zoo,2,5375,7.5,228
+tt11640020,Debris,1,6476,7.5,229
+tt8236556,Memories of the Alhambra,1,1582,8.0,230
+tt3868848,Stitchers,1,3673,7.6,231
+tt7588054,Roswell， New Mexico,3,2036,7.8,232
+tt3952222,Killjoys,5,2068,7.8,233
+tt6170874,Salvation,2,5381,7.5,234
+tt6160506,Impulse,1,3695,7.6,235
+tt0094535,Red Dwarf,7,6020,7.5,236
+tt1183865,Alphas,2,3099,7.6,237
+tt8880894,Living with Yourself,1,8152,7.4,238
+tt6160506,Impulse,2,1939,7.8,239
+tt4337894,You， Me and the Apocalypse,1,2293,7.7,240
+tt0409630,Texhnolyze,1,1350,8.0,241
+tt1821681,Touch,2,3811,7.5,242
+tt3952222,Killjoys,4,2422,7.7,243
+tt3250026,Zoo,1,8438,7.4,244
+tt0081874,The Hitchhiker's Guide to the Galaxy,1,1426,8.0,245
+tt0389564,The 4400,3,4673,7.5,246
+tt4922804,3%,2,3833,7.5,247
+tt1307824,V,1,8645,7.4,248
+tt4695530,People of Earth,1,2125,7.7,249
+tt0865409,Frisky Dingo,1,1522,7.9,250
+tt0101074,Dark Season,1,144,5.9,1288
+tt0074005,Holmes and Yoyo,1,140,5.8,1289
+tt0076987,Blake's 7,4,2359,7.2,1290
+tt9849210,Biohackers,2,1145,7.1,1291
+tt8352934,LEGO Star Wars: The Resistance Rises,1,248,6.4,1292
+tt14271936,UFO Europe: The Untold Stories,1,92,5.1,1293
+tt2661044,The 100,7,41389,7.2,1294
+tt13650480,Marvel Studios: Legends,2,1700,7.1,1295
+tt0090390,ALF,4,5436,7.2,1296
+tt0222529,Bibleman,3,98,5.1,1297
+tt0075503,The Fantastic Journey,1,469,6.8,1298
+tt0246383,Programme X,,97,5.1,1299
+tt1643266,Ancient Aliens,14,1681,7.1,1300
+tt14192428,Moonhaven,1,785,7.0,1301
+tt13457822,Welcome to Eden,2,943,7.0,1302
+tt0784920,Power Rangers Operation Overdrive,1,1233,7.1,1303
+tt0154091,Timeslip,1,267,6.4,1304
+tt10207090,Pandora,2,796,7.0,1305
+tt0072515,The Invisible Man,1,645,6.9,1306
+tt3348258,Arrow: Blood Rush,1,702,6.9,1307
+tt8891990,Transformers: Cyberverse,2,319,6.6,1308
+tt6401430,Hand Shakers,1,64,3.8,1309
+tt0462097,Eleventh Hour,1,285,6.5,1310
+tt1643266,Ancient Aliens,9,1134,7.0,1311
+tt3155320,Extant,1,6555,7.2,1312
+tt0258528,Les documents interdits,1,144,5.7,1313
+tt1176951,UFO Hunters,2,298,6.5,1314
+tt0925656,Space Top 10 Countdown,1,44,2.0,1315
+tt0074061,Star Maidens,1,202,6.1,1316
+tt1520150,Starhyke,1,91,4.7,1317
+tt0060012,The New Adventures of Superman,1,366,6.6,1318
+tt1343007,Heroes: The Recruit,1,127,5.4,1319
+tt0069647,The Tomorrow People,1,262,6.3,1320
+tt0278877,Sealab 2021,5,367,6.6,1321
+tt6243582,Marvel's Agents of S.H.I.E.L.D.: Academy,1,214,6.1,1322
+tt0086818,The Tripods,2,496,6.8,1323
+tt0154147,Animorphs,1,331,6.5,1324
+tt1570825,Heroes: Slow Burn,1,141,5.5,1325
+tt1306124,Heroes: Destiny,1,113,5.0,1326
+tt0077053,Mork & Mindy,4,1669,7.1,1327
+tt0098919,Swamp Thing,2,253,6.2,1328
+tt0041037,Lights Out,4,264,6.3,1329
+tt0062559,Fantastic Voyage,1,211,6.0,1330
+tt1643266,Ancient Aliens,18,905,6.9,1331
+tt0059963,Adam Adamant Lives!,1,331,6.4,1332
+tt19724076,A Girl and an Astronaut,1,294,6.3,1333
+tt14028208,Clone High,1,1350,7.0,1334
+tt0897331,Tardisodes,1,471,6.7,1335
+tt1259071,Heroes: Going Postal,1,120,4.9,1336
+tt9103772,Limetown,1,1660,7.1,1337
+tt8792866,Gabby Duran & The Unsittables,1,306,6.3,1338
+tt0080242,The Martian Chronicles,1,396,6.5,1339
+tt11398800,Obsolete,1,179,5.6,1340
+tt0069647,The Tomorrow People,3,241,6.0,1341
+tt5437394,The Nightmare Worlds of H.G. Wells,1,284,6.2,1342
+tt1338724,Battlestar Galactica: The Face of the Enemy,1,932,6.9,1343
+tt0222529,Bibleman,1,105,4.3,1344
+tt1643266,Ancient Aliens,8,896,6.9,1345
+tt0278877,Sealab 2021,3,710,6.8,1346
+tt9845070,Last Light,1,685,6.8,1347
+tt0059997,It's About Time,1,525,6.6,1348
+tt7493176,The Back Pages,1,249,6.0,1349
+tt0112040,The Langoliers,1,438,6.5,1350
+tt0178161,The Secret Adventures of Jules Verne,1,249,5.9,1351
+tt0106156,The Tommyknockers,1,206,5.7,1352
+tt8026466,Critters: A New Binge,1,401,6.4,1353
+tt0086662,Airwolf,1,1956,7.1,1354
+tt6558262,Top 10 Secrets and Mysteries,1,222,5.7,1355
+tt10708060,Fear the Walking Dead: The Althea Tapes,1,239,5.8,1356
+tt1176951,UFO Hunters,1,364,6.3,1357
+tt0147753,Captain Z-Ro,1,292,6.1,1358
+tt10384106,The Island,1,803,6.8,1359
+tt2132641,Coma,1,298,6.1,1360
+tt1648680,SGU Stargate Universe Kino,1,643,6.7,1361
+tt11028748,Project: Potemkin,,423,6.4,1362
+tt0387749,Jesus & Josefine,1,139,4.7,1363
+tt4589246,Dystopia,1,138,4.7,1364
+tt5296048,WHIH News Front,2,591,6.6,1365
+tt1643266,Ancient Aliens,7,797,6.8,1366
+tt2070571,X-Men,1,1402,7.0,1367
+tt0086818,The Tripods,1,627,6.7,1368
+tt15450042,The Daily Bugle,2,391,6.3,1369
+tt0108988,Weird Science,4,525,6.5,1370
+tt1510984,Ice,1,185,5.3,1371
+tt0108953,TekWar,1,430,6.4,1372
+tt17013106,Black Knight,1,1414,7.0,1373
+tt0206476,Cleopatra 2525,1,539,6.5,1374
+tt0250750,Starhunter,1,490,6.5,1375
+tt0127989,Ark II,1,326,6.1,1376
+tt0094479,The Highwayman,1,294,6.0,1377
+tt2891516,Puchi Eva: Evangelion@School,1,170,5.0,1378
+tt5730690,Kiss Me First,1,971,6.8,1379
+tt13464340,Alien Worlds,1,988,6.8,1380
+tt6374028,8 Days,1,915,6.8,1381
+tt0108988,Weird Science,5,347,6.1,1382
+tt0278877,Sealab 2021,4,545,6.5,1383
+tt10799452,Star Wars: Roll Out,1,233,5.5,1384
+tt1260995,Meteor,1,172,4.9,1385
+tt0108843,M.A.N.T.I.S.,1,368,6.1,1386
+tt10488234,Don't Look Deeper,1,500,6.4,1387
+tt1150692,Lost: Missing Pieces,1,2321,7.0,1388
+tt0108938,Space Precinct,1,734,6.7,1389
+tt1314008,Lost Tapes,1,522,6.4,1390
+tt1643266,Ancient Aliens,5,1525,6.9,1391
+tt14596212,Hello Tomorrow!,1,2278,7.0,1392
+tt4939036,Vedro,1,100,2.8,1393
+tt0142032,Dune,1,1114,6.8,1394
+tt2433570,Unsealed: Alien Files,1,610,6.5,1395
+tt1697793,Outcasts,1,938,6.8,1396
+tt6467294,Somewhere Between,1,1832,7.0,1397
+tt5296048,WHIH News Front,1,632,6.5,1398
+tt0062551,The Champions,1,2217,7.0,1399
+tt0387724,Blue Gender,1,441,6.2,1400
+tt8005176,The Feed,1,855,6.7,1401
+tt0073994,Gemini Man,1,386,6.0,1402
+tt1707807,Iron Man,1,586,6.4,1403
+tt1844624,American Horror Story,7,34866,7.2,1404
+tt0094518,The Munsters Today,2,203,4.9,1405
+tt1629348,Metal Hurlant Chronicles,2,527,6.3,1406
+tt0170962,Johnny Sokko and His Flying Robot,1,406,6.0,1407
+tt0046639,Rocky Jones， Space Ranger,1,372,5.9,1408
+tt6045840,Black Lightning,3,6654,7.2,1409
+tt0041037,Lights Out,3,682,6.5,1410
+tt0424600,The Andromeda Strain,1,497,6.2,1411
+tt1553656,Under the Dome,1,21248,7.2,1412
+tt0071033,Planet of the Apes,1,3022,7.1,1413
+tt16492950,Chosen,1,326,5.6,1414
+tt2262308,Halo 4: Forward Unto Dawn,1,776,6.5,1415
+tt7043380,Osmosis,1,786,6.5,1416
+tt0206490,Iron Man,1,474,6.0,1417
+tt0112089,Mysterious Island,1,338,5.5,1418
+tt0094518,The Munsters Today,3,221,4.5,1419
+tt9849186,Intergalactic,1,776,6.4,1420
+tt2453016,Marvin Marvin,1,571,6.1,1421
+tt1332653,The Day of the Triffids,1,604,6.2,1422
+tt1643266,Ancient Aliens,6,1265,6.7,1423
+tt0094518,The Munsters Today,1,314,5.2,1424
+tt0870980,Spaceballs: The Animated Series,1,374,5.5,1425
+tt11948642,Mulligan,1,426,5.7,1426
+tt6203010,Fear the Walking Dead: Passage,1,1557,6.8,1427
+tt0076984,Battlestar Galactica,1,8609,7.1,1428
+tt0127398,Team Knight Rider,1,437,5.7,1429
+tt0098919,Swamp Thing,1,747,6.3,1430
+tt8594164,Moonbase 8,1,954,6.5,1431
+tt1802564,Dark Rising: The Savage Tales of Summer Vale,1,231,4.2,1432
+tt2254454,Dark Rising: Warrior of Worlds,1,159,2.9,1433
+tt14761860,The Big Door Prize,1,1843,6.8,1434
+tt10234362,Avenue 5,1,8203,7.1,1435
+tt7826108,Raising Dion,2,1557,6.7,1436
+tt0086662,Airwolf,2,2525,6.9,1437
+tt13865736,Wolf 2039,1,1072,6.5,1438
+tt0108758,Earth 2,1,2436,6.9,1439
+tt7412482,The First,1,2782,6.9,1440
+tt12914570,Beleznica profesora Miskovica,2,226,3.8,1441
+tt0098919,Swamp Thing,3,721,6.1,1442
+tt1629348,Metal Hurlant Chronicles,1,923,6.3,1443
+tt4132692,Between,1,1786,6.7,1444
+tt1847521,Wolverine,1,867,6.2,1445
+tt11640018,La Brea,2,2806,6.9,1446
+tt1643266,Ancient Aliens,3,2694,6.9,1447
+tt0086662,Airwolf,3,2043,6.8,1448
+tt0077053,Mork & Mindy,2,2719,6.9,1449
+tt2022190,The Walking Dead: Webisodes,1,1621,6.7,1450
+tt0069638,The Starlost,1,629,5.7,1451
+tt9686194,War of the Worlds,2,2678,6.9,1452
+tt12914570,Beleznica profesora Miskovica,1,463,5.0,1453
+tt0094517,Mystery Science Theater 3000,2,6471,7.0,1454
+tt5797772,Aftermath,1,1777,6.6,1455
+tt6656238,The Rain,2,3884,6.9,1456
+tt7403736,V-Wars,1,5332,7.0,1457
+tt0075533,Man from Atlantis,1,1191,6.3,1458
+tt1320317,Hotbox,1,232,2.4,1459
+tt9686194,War of the Worlds,1,6039,7.0,1460
+tt1043714,The Prisoner,1,1558,6.4,1461
+tt2618986,Wayward Pines,2,8555,7.1,1462
+tt4192782,Glitch,3,1743,6.5,1463
+tt5095238,Fear the Walking Dead: Flight 462,1,3875,6.9,1464
+tt1102732,K9,1,554,4.9,1465
+tt0206488,Hulk,1,1108,6.1,1466
+tt17043230,Quantum Leap,1,9359,7.1,1467
+tt8787802,Away,1,7702,7.0,1468
+tt17371078,The Ark,1,3080,6.8,1469
+tt0166030,Airwolf,1,861,5.6,1470
+tt13879466,The One,1,2370,6.6,1471
+tt0187635,Fantastic Four: The Animated Series,1,1598,6.3,1472
+tt0078579,Buck Rogers in the 25th Century,2,1987,6.5,1473
+tt6045840,Black Lightning,4,3857,6.8,1474
+tt14273790,The Rig,1,2490,6.6,1475
+tt0207267,Return to the Planet of the Apes,1,1196,5.9,1476
+tt0840800,Battlestar Galactica: The Resistance,1,1616,6.2,1477
+tt0220008,RoboCop: Prime Directives,1,778,5.1,1478
+tt3250026,Zoo,3,4143,6.8,1479
+tt0072564,Space: 1999,1,8524,7.0,1480
+tt13457822,Welcome to Eden,1,1935,6.3,1481
+tt8633518,Weird City,1,1661,6.1,1482
+tt0086822,V,1,4283,6.7,1483
+tt2934286,Halo,1,43248,7.1,1484
+tt0866432,Painkiller Jane,1,1600,6.0,1485
+tt0112178,Star Trek: Voyager,1,32257,7.1,1486
+tt0808491,The Swarm,1,2116,6.2,1487
+tt10394844,Soulmates,1,2329,6.3,1488
+tt6656238,The Rain,3,2586,6.4,1489
+tt0880557,Bionic Woman,1,2126,6.2,1490
+tt10919486,Into the Night,2,3203,6.5,1491
+tt0112178,Star Trek: Voyager,2,49946,7.1,1492
+tt10207090,Pandora,1,2263,6.2,1493
+tt9319770,4400,1,1949,6.0,1494
+tt0078579,Buck Rogers in the 25th Century,1,5207,6.7,1495
+tt6656238,The Rain,1,8275,6.9,1496
+tt1553656,Under the Dome,2,14151,7.0,1497
+tt11640018,La Brea,1,5649,6.7,1498
+tt9337588,Leila,1,1542,5.6,1499
+tt0112167,Sliders,4,3931,6.5,1500
+tt0060036,The Time Tunnel,1,5723,6.7,1501
+tt8001226,The War of the Worlds,1,2138,6.0,1502
+tt0094535,Red Dwarf,9,3332,6.4,1503
+tt0080221,Galactica 1980,1,2007,5.8,1504
+tt0112167,Sliders,3,5916,6.7,1505
+tt5711280,Electric Dreams,1,31544,7.0,1506
+tt0094517,Mystery Science Theater 3000,1,6591,6.7,1507
+tt21265298,Once Upon a Time Mars,1,938,3.9,1508
+tt13356646,Solos,1,5444,6.5,1509
+tt6791088,Chrome,1,1885,5.4,1510
+tt0083467,The Powers of Matthew Star,1,988,3.7,1511
+tt6045840,Black Lightning,2,9479,6.8,1512
+tt0072564,Space: 1999,2,5238,6.3,1513
+tt2085059,Black Mirror,6,92609,7.0,1514
+tt0112167,Sliders,5,2906,5.3,1515
+tt7161862,Stargate Origins,1,2608,5.1,1516
+tt10148174,The Walking Dead: World Beyond,2,10002,6.5,1517
+tt3743822,Fear the Walking Dead,8,4837,6.0,1518
+tt6156584,Snowpiercer,3,8641,6.5,1519
+tt0092455,Star Trek: The Next Generation,2,78847,7.0,1520
+tt16351432,Oats Studios,1,4449,5.8,1521
+tt1553656,Under the Dome,3,10664,6.5,1522
+tt9737326,Invasion,1,12654,6.5,1523
+tt2261227,Altered Carbon,2,21655,6.6,1524
+tt0060028,Star Trek,3,71532,6.9,1525
+tt1844624,American Horror Story,10,29288,6.7,1526
+tt3743822,Fear the Walking Dead,5,34822,6.7,1527
+tt0436992,Doctor Who,13,27213,6.6,1528
+tt4154858,Inhumans,1,10543,6.1,1529
+tt2085059,Black Mirror,5,120422,6.8,1530
+tt0092455,Star Trek: The Next Generation,1,95658,6.8,1531
+tt1844624,American Horror Story,11,14804,5.9,1532
+tt10148174,The Walking Dead: World Beyond,1,15151,5.7,1533
+tt3743822,Fear the Walking Dead,7,25539,6.0,1534
+tt0436992,Doctor Who,11,88209,6.4,1535
+tt0436992,Doctor Who,12,54721,6.2,1536
+tt9660182,Resident Evil,1,13536,5.0,1537

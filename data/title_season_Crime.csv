@@ -1,0 +1,501 @@
+tconst,primaryTitle,seasonNumber,numVotes,averageRating,ranking
+tt0903747,Breaking Bad,5,789918,9.6,1
+tt3032476,Better Call Saul,6,351007,9.3,2
+tt4158110,Mr. Robot,4,154498,9.4,3
+tt2356777,True Detective,1,180939,9.3,4
+tt0903747,Breaking Bad,4,371071,9.1,5
+tt3032476,Better Call Saul,5,155675,9.2,6
+tt1475582,Sherlock,2,106925,9.2,7
+tt5753856,Dark,2,103874,9.2,8
+tt13661118,Not Me,1,61467,9.3,9
+tt5753856,Dark,3,120178,9.1,10
+tt2243973,Hannibal,2,90156,9.1,11
+tt4158110,Mr. Robot,3,76810,9.1,12
+tt1839578,Person of Interest,5,54932,9.3,13
+tt4052886,Lucifer,4,69135,9.1,14
+tt1839578,Person of Interest,4,79304,9.1,15
+tt3322312,Daredevil,3,96947,9.0,16
+tt0903747,Breaking Bad,2,323938,8.8,17
+tt1839578,Person of Interest,3,77689,9.0,18
+tt3322312,Daredevil,2,119374,8.9,19
+tt0773262,Dexter,4,70090,9.0,20
+tt0903747,Breaking Bad,3,330980,8.8,21
+tt2802850,Fargo,1,97709,8.9,22
+tt1475582,Sherlock,3,102181,8.9,23
+tt3032476,Better Call Saul,3,128488,8.9,24
+tt2802850,Fargo,2,78384,8.9,25
+tt0903747,Breaking Bad,1,208246,8.7,26
+tt3032476,Better Call Saul,1,174287,8.7,27
+tt0455275,Prison Break,1,107516,8.8,28
+tt0141842,The Sopranos,6,132232,8.8,29
+tt2442560,Peaky Blinders,4,53093,9.0,30
+tt1190634,The Boys,3,121270,8.8,31
+tt3322312,Daredevil,1,144327,8.7,32
+tt0141842,The Sopranos,3,90126,8.8,33
+tt4158110,Mr. Robot,1,119071,8.7,34
+tt5348176,Barry,2,42586,9.0,35
+tt2193021,Arrow,2,118782,8.7,36
+tt0773262,Dexter,1,84503,8.8,37
+tt5675620,The Punisher,1,97793,8.7,38
+tt3032476,Better Call Saul,4,112940,8.7,39
+tt0141842,The Sopranos,5,79972,8.8,40
+tt1839578,Person of Interest,2,68863,8.8,41
+tt0773262,Dexter,2,64834,8.8,42
+tt2243973,Hannibal,3,75076,8.7,43
+tt0773262,Dexter,7,62724,8.8,44
+tt5753856,Dark,1,127540,8.6,45
+tt2707408,Narcos,2,52249,8.8,46
+tt1475582,Sherlock,1,100574,8.6,47
+tt1190634,The Boys,2,103375,8.6,48
+tt0141842,The Sopranos,1,105791,8.6,49
+tt0141842,The Sopranos,2,88780,8.6,50
+tt4158110,Mr. Robot,2,86290,8.6,51
+tt1839578,Person of Interest,1,85142,8.6,52
+tt1190634,The Boys,1,109411,8.6,53
+tt2442560,Peaky Blinders,2,52790,8.7,54
+tt3032476,Better Call Saul,2,119507,8.5,55
+tt2442560,Peaky Blinders,3,48412,8.7,56
+tt7049682,Watchmen,1,73114,8.6,57
+tt4093826,Twin Peaks,1,85947,8.6,58
+tt4052886,Lucifer,2,83590,8.6,59
+tt2707408,Narcos,1,63916,8.6,60
+tt2193021,Arrow,3,113109,8.5,61
+tt0306414,The Wire,3,48769,8.7,62
+tt0306414,The Wire,4,48943,8.7,63
+tt1124373,Sons of Anarchy,7,39136,8.8,64
+tt5071412,Ozark,3,51841,8.7,65
+tt0306414,The Wire,5,37993,8.8,66
+tt2442560,Peaky Blinders,5,46721,8.7,67
+tt2017109,Banshee,3,23743,9.0,68
+tt7137906,When They See Us,1,23386,9.0,69
+tt0098936,Twin Peaks,1,52744,8.6,70
+tt0306414,The Wire,1,68445,8.5,71
+tt0773262,Dexter,5,53966,8.6,72
+tt6468322,Money Heist,2,41310,8.7,73
+tt5348176,Barry,3,31091,8.8,74
+tt0455275,Prison Break,2,78902,8.5,75
+tt4052886,Lucifer,3,126938,8.4,76
+tt11006642,Walker,2,27843,8.8,77
+tt2401256,The Night Of,1,33870,8.7,78
+tt1124373,Sons of Anarchy,4,32875,8.7,79
+tt2442560,Peaky Blinders,6,49674,8.5,80
+tt2243973,Hannibal,1,80678,8.4,81
+tt3749900,Gotham,2,68270,8.5,82
+tt0141842,The Sopranos,4,77827,8.4,83
+tt2707408,Narcos,3,40241,8.6,84
+tt12392504,Scam 1992: The Harshad Mehta Story,1,19500,9.0,85
+tt4052886,Lucifer,1,80037,8.4,86
+tt2442560,Peaky Blinders,1,62209,8.4,87
+tt2149175,The Americans,6,18454,9.0,88
+tt1124373,Sons of Anarchy,5,30690,8.7,89
+tt2193021,Arrow,5,77802,8.4,90
+tt10155688,Mare of Easttown,1,40194,8.5,91
+tt1124373,Sons of Anarchy,2,34083,8.6,92
+tt1124373,Sons of Anarchy,6,32260,8.6,93
+tt2788432,American Crime Story,1,36007,8.6,94
+tt0306414,The Wire,2,51099,8.5,95
+tt0773262,Dexter,3,55375,8.4,96
+tt2467372,Brooklyn Nine-Nine,5,66717,8.4,97
+tt5348176,Barry,4,29650,8.6,98
+tt2193021,Arrow,1,123147,8.3,99
+tt5675620,The Punisher,2,59525,8.4,100
+tt3205802,How to Get Away with Murder,2,29819,8.6,101
+tt1796960,Homeland,2,39927,8.5,102
+tt4052886,Lucifer,5,66122,8.4,103
+tt0285331,24,5,30888,8.6,104
+tt2357547,Jessica Jones,1,72876,8.3,105
+tt3920596,Big Little Lies,1,37317,8.5,106
+tt2802850,Fargo,3,53308,8.4,107
+tt5290382,Mindhunter,2,46125,8.4,108
+tt1124373,Sons of Anarchy,3,34180,8.5,109
+tt1796960,Homeland,8,26703,8.6,110
+tt0877057,Death Note,1,154153,8.2,111
+tt6468322,Money Heist,3,61312,8.3,112
+tt5290382,Mindhunter,1,66529,8.3,113
+tt0285331,24,2,35656,8.5,114
+tt1475582,Sherlock,4,116810,8.2,115
+tt1489428,Justified,6,16852,8.8,116
+tt0434706,Monster,1,48899,8.3,117
+tt2372162,Orange Is the New Black,4,27351,8.5,118
+tt3205802,How to Get Away with Murder,1,39747,8.4,119
+tt0098936,Twin Peaks,2,89524,8.2,120
+tt0118421,Oz,4,30829,8.5,121
+tt0979432,Boardwalk Empire,3,24146,8.6,122
+tt3487382,Forever,1,28096,8.5,123
+tt0285331,24,3,31575,8.5,124
+tt0286486,The Shield,7,25730,8.5,125
+tt5071412,Ozark,2,45692,8.3,126
+tt1219024,Castle,5,33789,8.4,127
+tt0285331,24,1,45645,8.3,128
+tt3749900,Gotham,4,45483,8.3,129
+tt1219024,Castle,4,32858,8.4,130
+tt2193021,Arrow,8,25267,8.5,131
+tt0979432,Boardwalk Empire,2,24544,8.5,132
+tt2356777,True Detective,3,55806,8.2,133
+tt0773262,Dexter,6,53960,8.2,134
+tt2017109,Banshee,2,20412,8.6,135
+tt0106179,The X-Files,6,79972,8.2,136
+tt2741602,The Blacklist,3,44491,8.3,137
+tt6468322,Money Heist,1,65113,8.2,138
+tt2017109,Banshee,4,15191,8.7,139
+tt1124373,Sons of Anarchy,1,40324,8.3,140
+tt5071412,Ozark,4,60510,8.2,141
+tt5348176,Barry,1,37179,8.3,142
+tt0106179,The X-Files,5,75478,8.1,143
+tt0455275,Prison Break,3,43681,8.2,144
+tt1796960,Homeland,1,42964,8.2,145
+tt0285331,24,4,29860,8.3,146
+tt5071412,Ozark,1,61723,8.2,147
+tt2372162,Orange Is the New Black,2,32426,8.3,148
+tt3205802,How to Get Away with Murder,6,19071,8.5,149
+tt1796960,Homeland,4,43648,8.2,150
+tt1598754,24: Live Another Day,1,15584,8.6,151
+tt1219024,Castle,3,31751,8.3,152
+tt3920596,Big Little Lies,2,27725,8.3,153
+tt0106179,The X-Files,3,105434,8.1,154
+tt0979432,Boardwalk Empire,1,29946,8.3,155
+tt8714904,Narcos: Mexico,1,22828,8.4,156
+tt1043813,Titans,1,46694,8.2,157
+tt2741602,The Blacklist,6,29107,8.3,158
+tt0979432,Boardwalk Empire,5,15783,8.6,159
+tt7335184,You,2,38756,8.2,160
+tt3502248,Bosch,4,12617,8.7,161
+tt0118421,Oz,1,19355,8.5,162
+tt1196946,The Mentalist,6,34271,8.3,163
+tt1489428,Justified,2,19463,8.5,164
+tt0455275,Prison Break,5,42017,8.2,165
+tt0979432,Boardwalk Empire,4,21822,8.4,166
+tt3749900,Gotham,3,50487,8.2,167
+tt3749900,Gotham,1,97368,8.1,168
+tt7920978,Persona,1,13117,8.7,169
+tt0491738,Psych,6,16283,8.5,170
+tt2193021,Arrow,7,48962,8.2,171
+tt5743796,Warrior,2,10449,8.9,172
+tt1442462,The Good Wife,5,16045,8.5,173
+tt3205802,How to Get Away with Murder,3,23361,8.4,174
+tt0455275,Prison Break,4,74188,8.1,175
+tt3205802,How to Get Away with Murder,4,20790,8.4,176
+tt2017109,Banshee,1,24740,8.3,177
+tt7493974,Bodyguard,1,25299,8.3,178
+tt2467372,Brooklyn Nine-Nine,4,59944,8.1,179
+tt1830617,Grimm,3,21512,8.4,180
+tt0286486,The Shield,5,22754,8.3,181
+tt2467372,Brooklyn Nine-Nine,7,33390,8.2,182
+tt1830617,Grimm,4,21539,8.4,183
+tt6077448,Sacred Games,1,17044,8.5,184
+tt0203259,Law & Order: Special Victims Unit,7,21572,8.4,185
+tt1836037,Longmire,4,10775,8.8,186
+tt2741602,The Blacklist,1,63380,8.1,187
+tt0348914,Deadwood,1,24782,8.3,188
+tt0147756,City Central,2,4464,9.9,189
+tt9288030,Reacher,1,30091,8.2,190
+tt1219024,Castle,2,33021,8.2,191
+tt1474684,Luther,1,19822,8.4,192
+tt1489428,Justified,3,17233,8.4,193
+tt0203259,Law & Order: Special Victims Unit,4,21689,8.3,194
+tt2467372,Brooklyn Nine-Nine,2,72024,8.0,195
+tt0203259,Law & Order: Special Victims Unit,6,22695,8.3,196
+tt1796960,Homeland,5,30456,8.2,197
+tt0106179,The X-Files,4,94970,8.0,198
+tt0491738,Psych,3,16986,8.4,199
+tt0491738,Psych,5,16028,8.5,200
+tt1219024,Castle,6,26898,8.2,201
+tt1489428,Justified,4,16326,8.4,202
+tt2303687,Line of Duty,3,9001,8.8,203
+tt5189670,Making a Murderer,1,15223,8.5,204
+tt0285331,24,7,26748,8.2,205
+tt11006642,Walker,1,36217,8.1,206
+tt0286486,The Shield,3,30324,8.2,207
+tt7909970,Unbelievable,1,20226,8.3,208
+tt0203259,Law & Order: Special Victims Unit,10,20884,8.3,209
+tt2249007,Ray Donovan,2,13277,8.5,210
+tt2741602,The Blacklist,2,46009,8.1,211
+tt2149175,The Americans,4,17690,8.4,212
+tt2149175,The Americans,1,28877,8.2,213
+tt2649356,Sharp Objects,1,28801,8.2,214
+tt0285331,24,8,26646,8.2,215
+tt13443470,Wednesday,1,66499,8.0,216
+tt0348914,Deadwood,2,18343,8.3,217
+tt2467372,Brooklyn Nine-Nine,3,65481,8.0,218
+tt5249462,Erased,1,13334,8.5,219
+tt0203259,Law & Order: Special Victims Unit,5,21522,8.3,220
+tt2149175,The Americans,3,19141,8.3,221
+tt3502248,Bosch,2,13856,8.5,222
+tt12851524,Only Murders in the Building,1,41019,8.1,223
+tt2249364,Broadchurch,1,18400,8.3,224
+tt1796960,Homeland,3,38477,8.1,225
+tt2249007,Ray Donovan,3,12305,8.5,226
+tt0203259,Law & Order: Special Victims Unit,9,19579,8.3,227
+tt1196946,The Mentalist,3,32515,8.1,228
+tt1830617,Grimm,2,24096,8.2,229
+tt0348914,Deadwood,3,16585,8.4,230
+tt7431994,The Pit,1,9721,8.7,231
+tt0203259,Law & Order: Special Victims Unit,3,20713,8.3,232
+tt2372162,Orange Is the New Black,1,40300,8.1,233
+tt0118421,Oz,6,15182,8.4,234
+tt0203259,Law & Order: Special Victims Unit,12,22535,8.2,235
+tt0312172,Monk,8,17743,8.3,236
+tt0286486,The Shield,1,30723,8.1,237
+tt0118421,Oz,3,15637,8.4,238
+tt3502248,Bosch,5,11078,8.5,239
+tt7431994,The Pit,4,8908,8.7,240
+tt7587890,The Rookie,1,23257,8.2,241
+tt9471962,Halka,1,4850,9.4,242
+tt8550800,The Outsider,1,37699,8.1,243
+tt0203259,Law & Order: Special Victims Unit,14,20627,8.2,244
+tt4052886,Lucifer,6,32018,8.1,245
+tt0452046,Criminal Minds,2,54385,8.0,246
+tt2741602,The Blacklist,5,29795,8.1,247
+tt2467372,Brooklyn Nine-Nine,1,84366,7.9,248
+tt6257970,The End of the F***ing World,2,24238,8.2,249
+tt2356777,True Detective,2,82600,7.9,250
+tt9185110,The A List,1,1334,6.7,9558
+tt0159386,Crying Freeman,1,1120,6.5,9559
+tt0321021,Without a Trace,5,3289,7.1,9560
+tt14218674,NCIS: Hawai'i,1,8694,7.3,9561
+tt0068135,The Streets of San Francisco,1,4489,7.2,9562
+tt1043813,Titans,4,6666,7.2,9563
+tt0110825,Phantom 2040,1,597,5.8,9564
+tt0071054,The Six Million Dollar Man,2,3344,7.1,9565
+tt1378167,NCIS: Los Angeles,13,5279,7.2,9566
+tt8652642,Wu Assassins,1,4629,7.2,9567
+tt0068122,The Protectors,2,710,6.0,9568
+tt0058814,Honey West,1,1664,6.8,9569
+tt1129398,Maria Wern,2,743,6.0,9570
+tt0203259,Law & Order: Special Victims Unit,16,20865,7.3,9571
+tt21040392,Allting i ett,1,519,5.4,9572
+tt1842127,Mortal Kombat: Legacy,2,1719,6.8,9573
+tt0164295,Thriller,1,2382,7.0,9574
+tt3574152,Partners in Crime,1,1401,6.7,9575
+tt4364202,Criminal Minds: Beyond Borders,2,2214,6.9,9576
+tt18699118,Alert: Missing Persons Unit,1,1608,6.7,9577
+tt15068148,The Kingdom,1,857,6.2,9578
+tt2712516,The Thundermans,3,2247,6.9,9579
+tt5332732,Shahrzad,2,1423,6.6,9580
+tt11859542,In from the Cold,1,1797,6.8,9581
+tt10623550,The Fugitive,1,1083,6.4,9582
+tt0088559,MacGyver,7,3537,7.1,9583
+tt0062568,Hawaii Five-O,11,1334,6.6,9584
+tt9879074,The Disappearance of Madeleine McCann,1,2795,7.0,9585
+tt0062568,Hawaii Five-O,10,1611,6.7,9586
+tt4214012,Nord bei Nordwest,1,1729,6.8,9587
+tt0134269,V.I.P.,1,800,6.0,9588
+tt0053546,Thriller,1,7570,7.2,9589
+tt1734537,Marple,3,6444,7.2,9590
+tt9642938,Unsolved Mysteries,1,8014,7.3,9591
+tt1565810,Den som dræber,1,1923,6.8,9592
+tt1846197,The Sandhamn Murders,7,993,6.3,9593
+tt1466074,Columbo,5,14393,7.3,9594
+tt1593539,Homicide Unit Istanbul,1,657,5.7,9595
+tt8702964,Friesland,1,1349,6.6,9596
+tt13710694,Marie Brand,1,1420,6.6,9597
+tt21063148,D.B. Cooper: Where Are You?!,1,748,5.9,9598
+tt1600194,Hawaii Five-0,8,10767,7.3,9599
+tt0088559,MacGyver,6,5206,7.2,9600
+tt0115088,Alarm für Cobra 11 - Die Autobahnpolizei,2,828,6.0,9601
+tt0073972,Charlie's Angels,3,4103,7.1,9602
+tt0062568,Hawaii Five-O,2,3506,7.1,9603
+tt12805346,Aashram,2,883,6.1,9604
+tt8648176,Murder by the Lake,1,1467,6.6,9605
+tt0806901,Police Call 110,48,1066,6.3,9606
+tt1842127,Mortal Kombat: Legacy,1,2915,7.0,9607
+tt8228316,Gandii Baat,3,400,4.3,9608
+tt0054518,The Avengers,7,6163,7.2,9609
+tt0401916,C.I.D.,1,1782,6.7,9610
+tt0118363,Jonathan Creek,5,1479,6.5,9611
+tt2712516,The Thundermans,1,2218,6.8,9612
+tt15074312,Maigret,2,7931,7.2,9613
+tt0055657,The Alfred Hitchcock Hour,1,13256,7.3,9614
+tt11460508,The Suspicions of Mr Whicher,1,5441,7.1,9615
+tt0083437,Knight Rider,3,5099,7.1,9616
+tt8228316,Gandii Baat,2,631,5.3,9617
+tt0074042,Quincy M.E.,8,1584,6.6,9618
+tt10344410,Panic,1,2917,6.9,9619
+tt0108909,RoboCop,1,1427,6.5,9620
+tt1428614,Adanali,2,407,4.2,9621
+tt0111892,Baywatch Nights,1,773,5.7,9622
+tt2201227,Stay Close,1,4580,7.1,9623
+tt0068122,The Protectors,1,961,6.0,9624
+tt1780701,Vertiges,,687,5.4,9625
+tt0094525,Poirot,1,17506,7.3,9626
+tt0115122,Der Bulle von Tölz,1,2440,6.8,9627
+tt10361016,Penny Dreadful: City of Angels,1,5522,7.1,9628
+tt12642334,Big Man,1,909,5.9,9629
+tt9073958,White Lines,1,4073,7.0,9630
+tt12916790,Singer,1,333,3.2,9631
+tt0826960,The Inspector and the Sea,1,926,5.9,9632
+tt0073972,Charlie's Angels,1,7142,7.2,9633
+tt0086759,Miami Vice,4,6678,7.2,9634
+tt15346794,Awake,1,647,5.2,9635
+tt8667956,Freud,1,3147,6.9,9636
+tt7845932,Baltic Crimes,1,1187,6.2,9637
+tt7573024,Creeped Out,2,1491,6.4,9638
+tt15264192,Murderville,1,5340,7.1,9639
+tt2741602,The Blacklist,9,18467,7.3,9640
+tt0111892,Baywatch Nights,2,763,5.5,9641
+tt0072567,Starsky and Hutch,4,4411,7.0,9642
+tt0395843,CSI: NY,1,7881,7.2,9643
+tt8228316,Gandii Baat,1,658,5.1,9644
+tt3190448,Metástasis,2,831,5.6,9645
+tt0062568,Hawaii Five-O,12,1086,6.0,9646
+tt8425404,The Bay,3,1469,6.4,9647
+tt0073972,Charlie's Angels,5,2875,6.8,9648
+tt0088476,Alfred Hitchcock Presents,2,1307,6.2,9649
+tt0421384,The Valley of the Wolves,3,3699,7.0,9650
+tt11042448,Wild bees,3,1430,6.3,9651
+tt4450826,Minority Report,1,3191,6.9,9652
+tt0054518,The Avengers,2,3285,6.9,9653
+tt2339608,Karadayi,3,992,5.8,9654
+tt11958610,Trigger Point,1,3563,6.9,9655
+tt6053538,Ghosted,1,4046,7.0,9656
+tt8392006,Apharan,2,704,5.1,9657
+tt13176816,Mystery 101,1,7097,7.1,9658
+tt0098798,The Flash,1,5099,7.1,9659
+tt11937816,Who Killed Sara?,2,1825,6.5,9660
+tt0907683,Beck,9,1246,6.1,9661
+tt0847709,Schimanski,1,1893,6.5,9662
+tt4428122,Quantico,1,22343,7.3,9663
+tt9094282,Hostages,2,1115,5.9,9664
+tt13178100,Matchmaker Mysteries,1,1704,6.4,9665
+tt0874686,Ein starkes Team,1,2309,6.7,9666
+tt1734537,Marple,2,7085,7.1,9667
+tt4667888,Slasher,1,5494,7.1,9668
+tt0896667,Donna Leon,1,1734,6.4,9669
+tt0098765,The Case-Book of Sherlock Holmes,3,2419,6.7,9670
+tt12606372,Detective Extralarge,2,1132,5.8,9671
+tt13174688,Picture Perfect Mysteries,1,1842,6.4,9672
+tt0313043,CSI: Miami,5,7939,7.1,9673
+tt10952900,Juzni vetar,1,2560,6.7,9674
+tt14107656,Actress,1,923,5.5,9675
+tt0220008,RoboCop: Prime Directives,1,778,5.1,9676
+tt13696452,Money Heist: Korea - Joint Economic Area,1,2487,6.7,9677
+tt13879466,The One,1,2370,6.6,9678
+tt15253376,A Ruby Herring Mystery,1,1900,6.4,9679
+tt4667888,Slasher,3,3779,6.9,9680
+tt0313043,CSI: Miami,3,8524,7.1,9681
+tt1734537,Marple,4,5983,7.0,9682
+tt1697033,True Justice,2,1006,5.6,9683
+tt5269594,Marcella,3,3174,6.8,9684
+tt5420376,Riverdale,7,2492,6.6,9685
+tt12026710,Suspicion,1,2881,6.7,9686
+tt11823076,Tiger King,2,2402,6.6,9687
+tt5345490,24: Legacy,1,7039,7.1,9688
+tt13197674,The Chronicle Mysteries,1,3508,6.8,9689
+tt9170236,Pieces of Her,1,4470,6.9,9690
+tt13837672,Crime Scene: The Vanishing at the Cecil Hotel,1,3044,6.7,9691
+tt12235718,Hellbound,1,5760,7.0,9692
+tt2339608,Karadayi,1,1330,5.9,9693
+tt8690776,Sky Rojo,1,3218,6.7,9694
+tt2339608,Karadayi,2,1093,5.5,9695
+tt0084967,The A-Team,2,7419,7.1,9696
+tt0115355,Silent Witness,26,1290,5.7,9697
+tt0084967,The A-Team,4,6062,7.0,9698
+tt8080292,The Watch,1,2577,6.5,9699
+tt0088476,Alfred Hitchcock Presents,1,3140,6.7,9700
+tt10893694,The Irregulars,1,4236,6.8,9701
+tt0096708,Tales from the Crypt,1,9604,7.1,9702
+tt0084967,The A-Team,5,3398,6.7,9703
+tt0297625,Screen One,9,2075,6.3,9704
+tt1129398,Maria Wern,3,1402,5.8,9705
+tt0313043,CSI: Miami,4,8609,7.1,9706
+tt0088476,Alfred Hitchcock Presents,3,1775,6.1,9707
+tt9642938,Unsolved Mysteries,3,3642,6.7,9708
+tt0313043,CSI: Miami,1,12315,7.1,9709
+tt0083437,Knight Rider,4,4721,6.9,9710
+tt19863416,Fixer Upper Mysteries,1,3357,6.7,9711
+tt7587890,The Rookie,4,16434,7.2,9712
+tt0088476,Alfred Hitchcock Presents,4,1597,5.9,9713
+tt11242246,The Equalizer,1,5328,6.9,9714
+tt12606372,Detective Extralarge,1,1410,5.7,9715
+tt7134908,Elite,4,8002,7.0,9716
+tt0880565,Wilsberg,1,4118,6.8,9717
+tt5827228,Bull,1,13944,7.2,9718
+tt2177268,Clarice,1,7325,7.0,9719
+tt0096708,Tales from the Crypt,5,9013,7.0,9720
+tt0083437,Knight Rider,2,5839,6.9,9721
+tt0057765,The Man from U.N.C.L.E.,3,2319,6.3,9722
+tt6473300,Mirzapur,2,28338,7.2,9723
+tt0096542,Baywatch,10,1778,5.9,9724
+tt0076975,The Amazing Spider-Man,1,1562,5.7,9725
+tt13303050,Past Malice,1,2452,6.3,9726
+tt12392496,Undekhi,2,922,4.6,9727
+tt0084967,The A-Team,3,6997,7.0,9728
+tt7573024,Creeped Out,1,2975,6.5,9729
+tt5420376,Riverdale,3,30355,7.2,9730
+tt4364202,Criminal Minds: Beyond Borders,1,3521,6.6,9731
+tt0098844,Law & Order,21,3710,6.6,9732
+tt0313043,CSI: Miami,2,10576,7.1,9733
+tt2741602,The Blacklist,8,32495,7.2,9734
+tt7134908,Elite,5,5378,6.8,9735
+tt9642938,Unsolved Mysteries,2,4475,6.7,9736
+tt0907683,Beck,4,2547,6.2,9737
+tt3560060,CSI: Cyber,1,4356,6.7,9738
+tt14113198,The Crossword Mysteries,1,5016,6.7,9739
+tt0096708,Tales from the Crypt,3,13021,7.1,9740
+tt6217938,Asheghaneh,2,914,4.2,9741
+tt15438246,Kaleidoscope,1,9789,7.0,9742
+tt13174750,The Gourmet Detective,1,5266,6.7,9743
+tt0046642,Sherlock Holmes,1,5111,6.7,9744
+tt16418896,Gotham Knights,1,7830,6.9,9745
+tt7134908,Elite,6,2946,6.3,9746
+tt3190448,Metástasis,1,1021,4.4,9747
+tt18076310,The Rookie: Feds,1,4625,6.6,9748
+tt15074312,Maigret,1,16485,7.1,9749
+tt13174746,Flower Shop Mysteries,1,3010,6.3,9750
+tt0083437,Knight Rider,1,9673,7.0,9751
+tt6410134,Irene Huss,2,2170,5.8,9752
+tt0075488,CHiPs,5,2758,6.1,9753
+tt0096542,Baywatch,8,2167,5.8,9754
+tt14810626,The Bad Penny,1,2179,5.8,9755
+tt0096542,Baywatch,11,1808,5.5,9756
+tt0096542,Baywatch,9,2076,5.7,9757
+tt11042448,Wild bees,1,1861,5.5,9758
+tt1697033,True Justice,1,1744,5.3,9759
+tt0096542,Baywatch,7,2416,5.8,9760
+tt13315324,The Woman in the House Across the Street from the Girl in the Window,1,8375,6.8,9761
+tt5420376,Riverdale,4,22035,7.1,9762
+tt0118275,Brooklyn South,1,1634,5.0,9763
+tt13018906,Hailey Dean Mystery,1,6181,6.7,9764
+tt13990468,Allen v. Farrow,1,2825,6.0,9765
+tt0096708,Tales from the Crypt,4,11163,6.9,9766
+tt8712204,Batwoman,3,6967,6.7,9767
+tt0088512,EastEnders,1,3017,6.0,9768
+tt4428122,Quantico,3,5669,6.5,9769
+tt0907702,Wallander,3,3754,6.2,9770
+tt0096542,Baywatch,6,2745,5.8,9771
+tt0096708,Tales from the Crypt,2,19971,7.0,9772
+tt0096542,Baywatch,5,2837,5.8,9773
+tt5164196,Lethal Weapon,3,10709,6.8,9774
+tt0096542,Baywatch,4,3142,5.8,9775
+tt13029326,Garage Sale Mysteries,1,14144,6.9,9776
+tt0096542,Baywatch,1,4929,6.3,9777
+tt11042448,Wild bees,2,2231,5.0,9778
+tt7587890,The Rookie,3,16433,6.9,9779
+tt0907683,Beck,8,3544,5.8,9780
+tt0096542,Baywatch,3,3714,5.8,9781
+tt0096542,Baywatch,2,3935,5.8,9782
+tt0907683,Beck,7,4571,6.0,9783
+tt6410134,Irene Huss,1,3317,5.6,9784
+tt4428122,Quantico,2,10062,6.6,9785
+tt0096708,Tales from the Crypt,6,8630,6.5,9786
+tt0907683,Beck,6,4419,5.9,9787
+tt13921170,The Good， the Bad， the Corny: Radioactive,1,1239,2.7,9788
+tt13025202,Aurora Teagarden Mysteries,1,21803,6.9,9789
+tt3921180,Scream: The TV Series,3,3816,5.5,9790
+tt4824056,Bandits,1,6379,6.1,9791
+tt0096708,Tales from the Crypt,7,6138,6.0,9792
+tt6048596,The Sinner,3,15703,6.6,9793
+tt21874046,My Name Is Farah,1,6523,5.9,9794
+tt0907702,Wallander,2,9068,6.2,9795
+tt5420376,Riverdale,5,18131,6.5,9796
+tt0773262,Dexter,8,73930,6.8,9797
+tt0907683,Beck,5,10302,6.1,9798
+tt0907683,Beck,3,9907,6.0,9799
+tt0907702,Wallander,1,13872,6.2,9800
+tt0907683,Beck,2,12832,6.1,9801
+tt5420376,Riverdale,6,11422,6.0,9802
+tt0907683,Beck,1,12031,6.0,9803
+tt0088512,EastEnders,,6436,5.2,9804
+tt8712204,Batwoman,2,16947,6.1,9805
+tt8712204,Batwoman,1,39116,6.2,9806
+tt0806910,Tatort,1,154480,6.4,9807

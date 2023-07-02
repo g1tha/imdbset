@@ -7,10 +7,10 @@ const primaryNav = document.querySelector('.primary-navigation');
 const navToggle = document.querySelector('.nav-toggle');
 const navBurger = document.querySelector('.bi-list');
 const navClose = document.querySelector('.bi-x');
-const homeLink = document.getElementById('home');
-const titlesLink = document.getElementById('titles');
-const seriesLink = document.getElementById('series');
-const peopleLink = document.getElementById('people');
+const homeLinks = document.querySelectorAll('.home-link');
+const titleLinks = document.querySelectorAll('.title-link');
+const homePage = document.querySelector('.home-page');
+const titlePage = document.querySelector('.title-page');
 const themeLink = document.querySelector('.theme-link');
 const lightIcon = themeLink.querySelector('.bi-sun-fill');
 const darkIcon = themeLink.querySelector('.bi-moon-fill');
@@ -35,6 +35,19 @@ navToggle.addEventListener('click', () => {
         navBurger.setAttribute('data-visible', 'true');
         navClose.setAttribute('data-visible', 'false');
     }
+})
+Array.from(homeLinks).forEach(function(element) {
+    element.addEventListener('click', () => {
+        homePage.setAttribute('data-visible', 'true');
+        titlePage.setAttribute('data-visible', 'false');
+    })
+})
+
+Array.from(titleLinks).forEach(function(element) {
+    element.addEventListener('click', () => {
+        titlePage.setAttribute('data-visible', 'true');
+        homePage.setAttribute('data-visible', 'false')
+    })
 })
 
 let lightMode = localStorage.getItem('lightMode');
@@ -214,9 +227,8 @@ function getTitleCSV(category, genre) {
 // Title chart initialisation (render)
 var titleChart = new Chart(document.getElementById('titleChart'), titleChartConfig);
 
-if (window.location.pathname.includes('titles.html')) {
-    updateCategories()
-}
+
+updateCategories()
 
 
 
@@ -325,6 +337,9 @@ async function getTitlesData() {
     new agGrid.Grid(titleGridDiv, gridOptions);
     if (selectedCategory == 'episode') {
         gridOptions.columnApi.setColumnsVisible(['series', 'season', 'episode'], true);
+    } else if (selectedCategory == 'season') {
+        gridOptions.columnApi.setColumnsVisible(['series', 'episode'], false);
+        gridOptions.columnApi.setColumnsVisible(['season'], true);
     } else {
         gridOptions.columnApi.setColumnsVisible(['series', 'season', 'episode'], false);
     };
@@ -351,7 +366,7 @@ async function getTitlesData() {
     };
     r_divisor = Math.max(max_r / (window.innerWidth / 20), (max_r /50));
     for (item in titleChartDataset) {
-        titleChartDataset[item]['r'] = Math.round(titleChartDataset[item]['r'] / r_divisor);
+        titleChartDataset[item]['r'] = 2 + Math.round(titleChartDataset[item]['r'] / r_divisor);
     };
     // Uupdate chart data and chart
     titleChart.data.datasets[0].data = titleChartDataset;

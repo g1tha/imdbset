@@ -395,7 +395,6 @@ ul li ul:focus {
 }
 
 
-
 @media (min-width: 90em) {
     .primary-header {
         width: 85em;
@@ -435,7 +434,6 @@ titleGrid {
 }
 
 
-
 .chart-container-flex {
     position: relative;
     margin: auto;
@@ -447,4 +445,14 @@ titleGrid {
     .chart-container-flex {
         width: 85em;
     }
+}
+
+.home-page[data-visible="true"],
+.title-page[data-visible="true"] {
+    display: block;
+}
+
+.home-page[data-visible="false"],
+.title-page[data-visible="false"] {
+    display: none;
 }

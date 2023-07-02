@@ -1,0 +1,2001 @@
+tconst,primaryTitle,seasonNumber,numVotes,averageRating,ranking
+tt0903747,Breaking Bad,5,789918,9.6,1
+tt2560140,Attack on Titan,3,561108,9.5,2
+tt2560140,Attack on Titan,4,969335,9.5,3
+tt7366338,Chernobyl,1,259234,9.5,4
+tt0944947,Game of Thrones,6,722199,9.4,5
+tt0944947,Game of Thrones,4,432599,9.3,6
+tt3032476,Better Call Saul,6,351007,9.3,7
+tt4158110,Mr. Robot,4,154498,9.4,8
+tt7660850,Succession,4,112126,9.4,9
+tt2560140,Attack on Titan,2,208197,9.3,10
+tt2356777,True Detective,1,180939,9.3,11
+tt0944947,Game of Thrones,3,397593,9.2,12
+tt0903747,Breaking Bad,4,371071,9.1,13
+tt0944947,Game of Thrones,7,418809,9.1,14
+tt3032476,Better Call Saul,5,155675,9.2,15
+tt1475582,Sherlock,2,106925,9.2,16
+tt0944947,Game of Thrones,1,397140,9.0,17
+tt13661118,Not Me,1,61467,9.3,18
+tt5753856,Dark,2,103874,9.2,19
+tt8111088,The Mandalorian,2,241530,9.0,20
+tt11126994,Arcane,1,125619,9.1,21
+tt5753856,Dark,3,120178,9.1,22
+tt14650074,Dhindora,1,110734,9.1,23
+tt0944947,Game of Thrones,5,408408,8.9,24
+tt2243973,Hannibal,2,90156,9.1,25
+tt9335498,Demon Slayer: Kimetsu no Yaiba,2,101603,9.1,26
+tt1839578,Person of Interest,5,54932,9.3,27
+tt4158110,Mr. Robot,3,76810,9.1,28
+tt0475784,Westworld,1,192267,8.9,29
+tt8317568,Broken But Beautiful,3,49227,9.3,30
+tt0944947,Game of Thrones,2,333650,8.9,31
+tt0417299,Avatar: The Last Airbender,3,105815,9.0,32
+tt2861424,Rick and Morty,3,164910,8.9,33
+tt4052886,Lucifer,4,69135,9.1,34
+tt1839578,Person of Interest,4,79304,9.1,35
+tt0185906,Band of Brothers,1,85511,9.0,36
+tt3398228,BoJack Horseman,6,75959,9.1,37
+tt2560140,Attack on Titan,1,380701,8.8,38
+tt3322312,Daredevil,3,96947,9.0,39
+tt1839578,Person of Interest,3,77689,9.0,40
+tt10233448,Vinland Saga,1,72825,9.1,41
+tt0903747,Breaking Bad,2,323938,8.8,42
+tt1641384,Young Justice,2,59312,9.1,43
+tt0773262,Dexter,4,70090,9.0,44
+tt3322312,Daredevil,2,119374,8.9,45
+tt0903747,Breaking Bad,3,330980,8.8,46
+tt7657124,The Heroes,1,125481,8.9,47
+tt2802850,Fargo,1,97709,8.9,48
+tt4574334,Stranger Things,4,224569,8.8,49
+tt0460681,Supernatural,5,117570,8.9,50
+tt1475582,Sherlock,3,102181,8.9,51
+tt1632701,Suits,5,49517,9.1,52
+tt3032476,Better Call Saul,3,128488,8.9,53
+tt7660850,Succession,3,63191,9.0,54
+tt4574334,Stranger Things,1,185067,8.8,55
+tt11198330,House of the Dragon,1,478960,8.7,56
+tt0988818,Gintama,4,34793,9.3,57
+tt7660850,Succession,2,65525,9.0,58
+tt2802850,Fargo,2,78384,8.9,59
+tt0458290,Star Wars: The Clone Wars,7,90748,8.9,60
+tt3398228,BoJack Horseman,5,61109,9.0,61
+tt1865718,Gravity Falls,2,61212,9.0,62
+tt2699128,The Leftovers,2,56812,9.0,63
+tt1641384,Young Justice,1,81277,8.9,64
+tt0903747,Breaking Bad,1,208246,8.7,65
+tt14392248,Aspirants,1,32377,9.3,66
+tt3032476,Better Call Saul,1,174287,8.7,67
+tt0388629,One Piece,1,1097146,8.6,68
+tt2442560,Peaky Blinders,4,53093,9.0,69
+tt0455275,Prison Break,1,107516,8.8,70
+tt0412142,House,4,59138,8.9,71
+tt2861424,Rick and Morty,2,143258,8.8,72
+tt0141842,The Sopranos,6,132232,8.8,73
+tt10233448,Vinland Saga,2,51656,9.0,74
+tt1641384,Young Justice,3,71505,8.9,75
+tt1190634,The Boys,3,121270,8.8,76
+tt0141842,The Sopranos,3,90126,8.8,77
+tt2699128,The Leftovers,3,42468,9.0,78
+tt3322312,Daredevil,1,144327,8.7,79
+tt3581920,The Last of Us,1,783714,8.6,80
+tt4158110,Mr. Robot,1,119071,8.7,81
+tt5348176,Barry,2,42586,9.0,82
+tt7441658,Black Clover,4,27411,9.3,83
+tt0248654,Six Feet Under,5,29808,9.2,84
+tt3107288,The Flash,1,166131,8.7,85
+tt1710308,Regular Show,2,90036,8.8,86
+tt9544034,The Family Man,2,40098,9.0,87
+tt2193021,Arrow,2,118782,8.7,88
+tt0773262,Dexter,1,84503,8.8,89
+tt5675620,The Punisher,1,97793,8.7,90
+tt0460681,Supernatural,4,120755,8.7,91
+tt8420184,The Last Dance,1,34801,9.1,92
+tt0141842,The Sopranos,5,79972,8.8,93
+tt1439629,Community,3,102643,8.7,94
+tt3032476,Better Call Saul,4,112940,8.7,95
+tt0460681,Supernatural,2,134074,8.7,96
+tt1839578,Person of Interest,2,68863,8.8,97
+tt0417299,Avatar: The Last Airbender,2,88222,8.7,98
+tt0411008,Lost,4,83981,8.7,99
+tt0411008,Lost,1,165383,8.6,100
+tt7657124,The Heroes,2,80220,8.7,101
+tt0773262,Dexter,2,64834,8.8,102
+tt0773262,Dexter,7,62724,8.8,103
+tt2243973,Hannibal,3,75076,8.7,104
+tt1710308,Regular Show,8,76884,8.7,105
+tt2359704,JoJo's Bizarre Adventure,4,46770,8.9,106
+tt5555260,This Is Us,1,60807,8.8,107
+tt6763664,The Haunting of Hill House,1,92371,8.7,108
+tt1439629,Community,2,115014,8.6,109
+tt6741278,Invincible,1,65737,8.8,110
+tt1856010,House of Cards,2,64196,8.8,111
+tt2861424,Rick and Morty,1,163482,8.6,112
+tt2707408,Narcos,2,52249,8.8,113
+tt5753856,Dark,1,127540,8.6,114
+tt9140554,Loki,1,154022,8.6,115
+tt8772296,Euphoria,2,60971,8.8,116
+tt0108778,Friends,10,89323,8.7,117
+tt3398228,BoJack Horseman,4,59775,8.8,118
+tt14986406,Bleach: Thousand-Year Blood War,1,48132,8.8,119
+tt0303461,Firefly,1,69057,8.7,120
+tt8806524,Star Trek: Picard,3,47001,8.8,121
+tt1475582,Sherlock,1,100574,8.6,122
+tt0108778,Friends,5,124567,8.6,123
+tt12343534,Jujutsu Kaisen,1,74962,8.7,124
+tt1190634,The Boys,2,103375,8.6,125
+tt1520211,The Walking Dead,1,107573,8.6,126
+tt4508902,One Punch Man,1,50488,8.8,127
+tt0141842,The Sopranos,1,105791,8.6,128
+tt0411008,Lost,3,131936,8.6,129
+tt5555260,This Is Us,2,49206,8.8,130
+tt0141842,The Sopranos,2,88780,8.6,131
+tt4158110,Mr. Robot,2,86290,8.6,132
+tt0460681,Supernatural,11,84044,8.6,133
+tt3230854,The Expanse,3,43037,8.8,134
+tt1520211,The Walking Dead,5,220254,8.5,135
+tt1839578,Person of Interest,1,85142,8.6,136
+tt4179452,The Last Kingdom,3,31942,8.9,137
+tt1190634,The Boys,1,109411,8.6,138
+tt4574334,Stranger Things,3,168912,8.5,139
+tt0460681,Supernatural,3,94882,8.6,140
+tt0396991,LazyTown,4,13293,9.6,141
+tt2442560,Peaky Blinders,2,52790,8.7,142
+tt0994314,Code Geass,2,28681,9.0,143
+tt8111088,The Mandalorian,1,228830,8.5,144
+tt0411008,Lost,5,85555,8.6,145
+tt1442449,Spartacus,3,33317,8.9,146
+tt2442560,Peaky Blinders,3,48412,8.7,147
+tt0412142,House,6,61458,8.7,148
+tt3107288,The Flash,2,118842,8.5,149
+tt3398228,BoJack Horseman,3,57347,8.7,150
+tt7049682,Watchmen,1,73114,8.6,151
+tt3032476,Better Call Saul,2,119507,8.5,152
+tt4093826,Twin Peaks,1,85947,8.6,153
+tt2431438,Sense8,2,40756,8.8,154
+tt4052886,Lucifer,2,83590,8.6,155
+tt2395695,Cosmos: A Spacetime Odyssey,1,26472,9.0,156
+tt0306414,The Wire,3,48769,8.7,157
+tt1710308,Regular Show,3,112660,8.5,158
+tt2707408,Narcos,1,63916,8.6,159
+tt1641384,Young Justice,4,36425,8.8,160
+tt0306414,The Wire,4,48943,8.7,161
+tt1710308,Regular Show,6,75586,8.6,162
+tt2193021,Arrow,3,113109,8.5,163
+tt4288182,Atlanta,2,36352,8.8,164
+tt3061046,Steven Universe,5,36634,8.8,165
+tt1124373,Sons of Anarchy,7,39136,8.8,166
+tt1567432,Teen Wolf,3,39256,8.8,167
+tt2306299,Vikings,4,108591,8.5,168
+tt0206512,SpongeBob SquarePants,2,26073,9.0,169
+tt5071412,Ozark,3,51841,8.7,170
+tt5687612,Fleabag,2,27579,8.9,171
+tt8788458,The Promised Neverland,1,24655,9.0,172
+tt3006802,Outlander,1,82566,8.6,173
+tt0386676,The Office,3,140307,8.5,174
+tt0306414,The Wire,5,37993,8.8,175
+tt9335498,Demon Slayer: Kimetsu no Yaiba,1,101737,8.5,176
+tt1856010,House of Cards,4,51236,8.7,177
+tt0795176,Planet Earth,1,33518,8.8,178
+tt0472954,It's Always Sunny in Philadelphia,4,43463,8.7,179
+tt0412142,House,5,66706,8.6,180
+tt2017109,Banshee,3,23743,9.0,181
+tt0386676,The Office,5,143101,8.5,182
+tt0098904,Seinfeld,4,94852,8.5,183
+tt0411008,Lost,2,129667,8.5,184
+tt7137906,When They See Us,1,23386,9.0,185
+tt5323298,Naagin,6,26014,8.9,186
+tt10048342,The Queen's Gambit,1,73933,8.6,187
+tt1632701,Suits,4,38251,8.8,188
+tt0460681,Supernatural,6,93955,8.5,189
+tt2442560,Peaky Blinders,5,46721,8.7,190
+tt1520211,The Walking Dead,3,202508,8.4,191
+tt0804503,Mad Men,4,34232,8.8,192
+tt0121955,South Park,8,48260,8.6,193
+tt0098936,Twin Peaks,1,52744,8.6,194
+tt2632424,The Originals,1,37025,8.7,195
+tt1520211,The Walking Dead,2,181293,8.4,196
+tt0475784,Westworld,2,125029,8.4,197
+tt1520211,The Walking Dead,4,220833,8.4,198
+tt1355642,Fullmetal Alchemist: Brotherhood,1,116385,8.5,199
+tt2364582,Agents of S.H.I.E.L.D.,4,59530,8.6,200
+tt0412142,House,2,75002,8.5,201
+tt0098904,Seinfeld,5,83446,8.5,202
+tt10986410,Ted Lasso,1,68716,8.5,203
+tt1695360,The Legend of Korra,3,31733,8.8,204
+tt5607616,Re: Zero， Starting Life in Another World,2,26187,8.9,205
+tt0386676,The Office,4,84181,8.5,206
+tt0412142,House,3,70560,8.5,207
+tt3006802,Outlander,2,44764,8.6,208
+tt0306414,The Wire,1,68445,8.5,209
+tt1710308,Regular Show,1,41578,8.7,210
+tt5491994,Planet Earth II,1,20738,9.0,211
+tt3052000,Günesi Beklerken,1,41495,8.7,212
+tt5348176,Barry,3,31091,8.8,213
+tt0773262,Dexter,5,53966,8.6,214
+tt0098904,Seinfeld,7,77075,8.5,215
+tt0098904,Seinfeld,8,74868,8.5,216
+tt6468322,Money Heist,2,41310,8.7,217
+tt2098220,Hunter x Hunter,1,184882,8.4,218
+tt1710308,Regular Show,7,94265,8.5,219
+tt11280740,Severance,1,57867,8.6,220
+tt3006802,Outlander,3,40433,8.7,221
+tt0472954,It's Always Sunny in Philadelphia,10,31971,8.8,222
+tt0386676,The Office,7,129333,8.4,223
+tt2861424,Rick and Morty,4,120809,8.4,224
+tt0804503,Mad Men,7,34731,8.7,225
+tt2359704,JoJo's Bizarre Adventure,5,31577,8.8,226
+tt4179452,The Last Kingdom,5,27725,8.8,227
+tt11006642,Walker,2,27843,8.8,228
+tt0121955,South Park,5,50088,8.6,229
+tt0455275,Prison Break,2,78902,8.5,230
+tt0460681,Supernatural,13,71234,8.5,231
+tt7678620,Bluey,2,18414,9.1,232
+tt0193676,Freaks and Geeks,1,34365,8.7,233
+tt0108778,Friends,4,122290,8.4,234
+tt4052886,Lucifer,3,126938,8.4,235
+tt1586680,Shameless,4,26981,8.8,236
+tt4574334,Stranger Things,2,191905,8.4,237
+tt2306299,Vikings,3,54646,8.5,238
+tt0436992,Doctor Who,4,107165,8.4,239
+tt0121955,South Park,11,49230,8.6,240
+tt1636691,Generator Rex,3,25585,8.8,241
+tt0412142,House,1,81462,8.5,242
+tt2401256,The Night Of,1,33870,8.7,243
+tt14261264,Dracula,1,35857,8.7,244
+tt8050756,The Owl House,2,20734,9.0,245
+tt0472954,It's Always Sunny in Philadelphia,3,48064,8.6,246
+tt1124373,Sons of Anarchy,4,32875,8.7,247
+tt2306299,Vikings,2,57710,8.5,248
+tt2364582,Agents of S.H.I.E.L.D.,5,53903,8.5,249
+tt1442449,Spartacus,1,49030,8.6,250
+tt0804503,Mad Men,5,33278,8.7,251
+tt2442560,Peaky Blinders,6,49674,8.5,252
+tt1520211,The Walking Dead,6,241217,8.3,253
+tt2661044,The 100,2,72850,8.5,254
+tt5555260,This Is Us,4,26815,8.8,255
+tt0108778,Friends,6,118315,8.4,256
+tt2707408,Narcos,3,40241,8.6,257
+tt3749900,Gotham,2,68270,8.5,258
+tt2243973,Hannibal,1,80678,8.4,259
+tt1632701,Suits,2,44187,8.6,260
+tt0141842,The Sopranos,4,77827,8.4,261
+tt0460681,Supernatural,7,88261,8.4,262
+tt5555260,This Is Us,6,25860,8.8,263
+tt0367279,Arrested Development,2,42727,8.6,264
+tt4786824,The Crown,1,54053,8.5,265
+tt4786824,The Crown,2,45130,8.6,266
+tt0472954,It's Always Sunny in Philadelphia,5,34912,8.6,267
+tt12392504,Scam 1992: The Harshad Mehta Story,1,19500,9.0,268
+tt0096697,The Simpsons,6,83268,8.4,269
+tt5421602,Anne with an E,3,18900,9.0,270
+tt0460649,How I Met Your Mother,2,90220,8.4,271
+tt2364582,Agents of S.H.I.E.L.D.,3,64872,8.5,272
+tt0976192,The Spectacular Spider-Man,2,24313,8.8,273
+tt0096697,The Simpsons,7,79730,8.4,274
+tt2149175,The Americans,6,18454,9.0,275
+tt0278238,Samurai Jack,5,12823,9.3,276
+tt1405406,The Vampire Diaries,2,40650,8.6,277
+tt4179452,The Last Kingdom,4,29222,8.7,278
+tt0108778,Friends,2,132974,8.3,279
+tt7745956,She-Ra and the Princesses of Power,5,16346,9.1,280
+tt1837492,13 Reasons Why,1,83442,8.4,281
+tt13616990,Chainsaw Man,1,38321,8.6,282
+tt0108778,Friends,8,108256,8.4,283
+tt2085059,Black Mirror,3,309523,8.3,284
+tt1405406,The Vampire Diaries,3,41885,8.6,285
+tt0976192,The Spectacular Spider-Man,1,25931,8.8,286
+tt0206512,SpongeBob SquarePants,3,22060,8.8,287
+tt5114356,Legion,1,36057,8.6,288
+tt4052886,Lucifer,1,80037,8.4,289
+tt1124373,Sons of Anarchy,5,30690,8.7,290
+tt2442560,Peaky Blinders,1,62209,8.4,291
+tt0472954,It's Always Sunny in Philadelphia,12,31215,8.7,292
+tt1856010,House of Cards,1,72708,8.4,293
+tt0200276,The West Wing,2,26148,8.7,294
+tt2560140,Attack on Titan,,41569,8.5,295
+tt1710308,Regular Show,4,101087,8.4,296
+tt10986410,Ted Lasso,3,72751,8.4,297
+tt13146488,Peacemaker,1,56205,8.5,298
+tt2364582,Agents of S.H.I.E.L.D.,2,76457,8.4,299
+tt1439629,Community,1,119140,8.3,300
+tt0386676,The Office,2,145846,8.3,301
+tt0411008,Lost,6,93146,8.4,302
+tt0413573,Grey's Anatomy,2,42810,8.5,303
+tt4635276,Master of None,2,21729,8.8,304
+tt0096697,The Simpsons,5,75843,8.4,305
+tt9140560,WandaVision,1,210748,8.3,306
+tt10155688,Mare of Easttown,1,40194,8.5,307
+tt1124373,Sons of Anarchy,2,34083,8.6,308
+tt2661044,The 100,5,38119,8.6,309
+tt5180504,The Witcher,1,159700,8.3,310
+tt1124373,Sons of Anarchy,6,32260,8.6,311
+tt2193021,Arrow,5,77802,8.4,312
+tt10638036,Heartstopper,1,22712,8.8,313
+tt1710308,Regular Show,5,98072,8.3,314
+tt13196080,Tokyo Revengers,1,28537,8.7,315
+tt2788432,American Crime Story,1,36007,8.6,316
+tt7203552,The Morning Show,1,35816,8.6,317
+tt7657124,The Heroes,3,18895,8.9,318
+tt2632424,The Originals,3,23188,8.8,319
+tt13991232,1883,1,33487,8.6,320
+tt9253284,Andor,1,148618,8.3,321
+tt0118276,Buffy the Vampire Slayer,3,81065,8.4,322
+tt5834204,The Handmaid's Tale,2,53372,8.4,323
+tt1632701,Suits,3,38742,8.5,324
+tt0162065,Angel,5,43669,8.5,325
+tt0436992,Doctor Who,,68939,8.4,326
+tt0108778,Friends,3,129255,8.3,327
+tt5348176,Barry,4,29650,8.6,328
+tt0472954,It's Always Sunny in Philadelphia,2,35658,8.6,329
+tt0121955,South Park,6,52592,8.4,330
+tt0804503,Mad Men,3,34132,8.6,331
+tt0306414,The Wire,2,51099,8.5,332
+tt1856010,House of Cards,3,54394,8.4,333
+tt0773262,Dexter,3,55375,8.4,334
+tt2467372,Brooklyn Nine-Nine,5,66717,8.4,335
+tt1632701,Suits,6,34638,8.6,336
+tt4786824,The Crown,3,46566,8.5,337
+tt9059350,Warrior Nun,2,44276,8.5,338
+tt2699128,The Leftovers,1,55449,8.4,339
+tt4179452,The Last Kingdom,2,25781,8.7,340
+tt2632424,The Originals,2,25905,8.7,341
+tt0096697,The Simpsons,8,81364,8.3,342
+tt3061046,Steven Universe,3,30907,8.6,343
+tt0436992,Doctor Who,3,116750,8.3,344
+tt7221388,Cobra Kai,1,44759,8.5,345
+tt1844624,American Horror Story,2,66482,8.4,346
+tt5675620,The Punisher,2,59525,8.4,347
+tt0096697,The Simpsons,4,79199,8.3,348
+tt0934814,Chuck,3,25693,8.7,349
+tt2193021,Arrow,1,123147,8.3,350
+tt0413573,Grey's Anatomy,5,33620,8.6,351
+tt3205802,How to Get Away with Murder,2,29819,8.6,352
+tt0460681,Supernatural,1,150858,8.3,353
+tt4786824,The Crown,4,38402,8.5,354
+tt0472954,It's Always Sunny in Philadelphia,9,27851,8.6,355
+tt7221388,Cobra Kai,3,39870,8.5,356
+tt0285331,24,5,30888,8.6,357
+tt1586680,Shameless,5,25089,8.7,358
+tt5626028,My Hero Academia,6,23404,8.7,359
+tt3230854,The Expanse,2,42415,8.5,360
+tt1796960,Homeland,2,39927,8.5,361
+tt1636691,Generator Rex,2,21945,8.7,362
+tt9471404,The Chosen,1,13398,9.1,363
+tt0108778,Friends,7,106650,8.3,364
+tt4052886,Lucifer,5,66122,8.4,365
+tt3920596,Big Little Lies,1,37317,8.5,366
+tt0367279,Arrested Development,3,29387,8.6,367
+tt1439629,Community,5,49295,8.4,368
+tt6384676,Bu Sehir Arkandan Gelecek,1,16174,8.9,369
+tt7221388,Cobra Kai,2,39797,8.5,370
+tt0484803,Hollyoaks: Let Loose,1,7639,9.8,371
+tt2357547,Jessica Jones,1,72876,8.3,372
+tt2802850,Fargo,3,53308,8.4,373
+tt2431438,Sense8,1,55851,8.4,374
+tt0121955,South Park,9,44692,8.4,375
+tt5626028,My Hero Academia,3,37120,8.5,376
+tt0934814,Chuck,2,30917,8.6,377
+tt5290382,Mindhunter,2,46125,8.4,378
+tt1796960,Homeland,8,26703,8.6,379
+tt0121955,South Park,10,49948,8.4,380
+tt1124373,Sons of Anarchy,3,34180,8.5,381
+tt9335498,Demon Slayer: Kimetsu no Yaiba,3,25503,8.6,382
+tt0413573,Grey's Anatomy,6,32280,8.5,383
+tt12411074,Paranormal,1,43241,8.4,384
+tt0460681,Supernatural,10,86806,8.3,385
+tt14452776,The Bear,2,12930,9.1,386
+tt0206512,SpongeBob SquarePants,1,28169,8.6,387
+tt0096657,Mr. Bean,1,26214,8.6,388
+tt0121955,South Park,7,46172,8.4,389
+tt0098904,Seinfeld,9,75067,8.3,390
+tt5712554,The Grand Tour,3,23069,8.7,391
+tt0412142,House,8,52980,8.4,392
+tt7078180,Violet Evergarden,1,19120,8.8,393
+tt3647998,Taboo,1,36248,8.5,394
+tt0877057,Death Note,1,154153,8.2,395
+tt12063450,To Your Eternity,1,15729,8.9,396
+tt1910272,Steins;Gate,1,34690,8.5,397
+tt0285331,24,2,35656,8.5,398
+tt6468322,Money Heist,3,61312,8.3,399
+tt1489428,Justified,6,16852,8.8,400
+tt21279678,NCR Days,1,10140,9.3,401
+tt1405406,The Vampire Diaries,4,40633,8.4,402
+tt0417299,Avatar: The Last Airbender,1,94488,8.3,403
+tt5626028,My Hero Academia,4,36549,8.5,404
+tt5290382,Mindhunter,1,66529,8.3,405
+tt1442449,Spartacus,2,29896,8.5,406
+tt0460681,Supernatural,8,90203,8.3,407
+tt2359704,JoJo's Bizarre Adventure,3,39277,8.4,408
+tt1266020,Parks and Recreation,3,41445,8.4,409
+tt1475582,Sherlock,4,116810,8.2,410
+tt4179452,The Last Kingdom,1,31582,8.5,411
+tt9253866,Our Planet,1,13512,9.0,412
+tt1695360,The Legend of Korra,1,31660,8.5,413
+tt8772296,Euphoria,1,53411,8.3,414
+tt1636691,Generator Rex,1,24290,8.6,415
+tt0988818,Gintama,2,20124,8.7,416
+tt0213338,Cowboy Bebop,1,75540,8.3,417
+tt5834204,The Handmaid's Tale,1,51244,8.3,418
+tt3006802,Outlander,4,29785,8.5,419
+tt0367279,Arrested Development,1,61644,8.3,420
+tt0898266,The Big Bang Theory,2,97629,8.2,421
+tt2364582,Agents of S.H.I.E.L.D.,7,27254,8.5,422
+tt0472954,It's Always Sunny in Philadelphia,6,35692,8.4,423
+tt1586680,Shameless,3,24169,8.6,424
+tt7660850,Succession,1,66233,8.3,425
+tt2372162,Orange Is the New Black,4,27351,8.5,426
+tt0898266,The Big Bang Theory,3,91473,8.2,427
+tt3205802,How to Get Away with Murder,1,39747,8.4,428
+tt1758429,Spartacus: Gods of the Arena,1,23387,8.6,429
+tt0434706,Monster,1,48899,8.3,430
+tt0118421,Oz,4,30829,8.5,431
+tt8416494,Doom Patrol,1,39599,8.4,432
+tt0098904,Seinfeld,6,78925,8.3,433
+tt2375692,Black Sails,3,17960,8.7,434
+tt0472954,It's Always Sunny in Philadelphia,7,36464,8.4,435
+tt0412142,House,7,53787,8.3,436
+tt3230854,The Expanse,4,28302,8.5,437
+tt1266020,Parks and Recreation,7,29341,8.5,438
+tt7767422,Sex Education,3,33063,8.5,439
+tt0098904,Seinfeld,3,93173,8.2,440
+tt1843230,Once Upon a Time,3,36062,8.4,441
+tt0098936,Twin Peaks,2,89524,8.2,442
+tt0979432,Boardwalk Empire,3,24146,8.6,443
+tt3487382,Forever,1,28096,8.5,444
+tt6517102,Castlevania,4,17026,8.8,445
+tt0472954,It's Always Sunny in Philadelphia,11,27913,8.5,446
+tt4236770,Yellowstone,2,23309,8.6,447
+tt0460649,How I Met Your Mother,1,102280,8.2,448
+tt0472954,It's Always Sunny in Philadelphia,8,26524,8.5,449
+tt0285331,24,3,31575,8.5,450
+tt12590266,Cyberpunk: Edgerunners,1,36439,8.4,451
+tt0286486,The Shield,7,25730,8.5,452
+tt4288182,Atlanta,1,32810,8.4,453
+tt0108778,Friends,1,151989,8.2,454
+tt7016936,Killing Eve,1,36198,8.4,455
+tt5897304,Mob Psycho 100,2,14071,8.9,456
+tt5071412,Ozark,2,45692,8.3,457
+tt0285403,Scrubs,3,29180,8.5,458
+tt1305826,Adventure Time,7,34967,8.4,459
+tt1219024,Castle,5,33789,8.4,460
+tt0436992,Doctor Who,5,95163,8.2,461
+tt5788792,The Marvelous Mrs. Maisel,2,20314,8.6,462
+tt1312171,The Umbrella Academy,2,41172,8.3,463
+tt0149460,Futurama,5,43201,8.3,464
+tt1119644,Fringe,3,44863,8.3,465
+tt2188671,Bates Motel,5,16383,8.7,466
+tt0285331,24,1,45645,8.3,467
+tt14452776,The Bear,1,29350,8.4,468
+tt1219024,Castle,4,32858,8.4,469
+tt0436992,Doctor Who,9,84326,8.2,470
+tt3749900,Gotham,4,45483,8.3,471
+tt0118276,Buffy the Vampire Slayer,6,66830,8.2,472
+tt3061046,Steven Universe,2,31578,8.4,473
+tt0285403,Scrubs,5,28443,8.5,474
+tt1119644,Fringe,5,25645,8.5,475
+tt0460649,How I Met Your Mother,3,75250,8.2,476
+tt0118276,Buffy the Vampire Slayer,5,68603,8.2,477
+tt1119644,Fringe,2,55025,8.3,478
+tt4635282,The OA,2,18321,8.7,479
+tt2375692,Black Sails,2,21069,8.6,480
+tt6994156,Close Enough,2,21928,8.6,481
+tt11247158,The Legend of Vox Machina,1,23480,8.5,482
+tt6994156,Close Enough,1,23072,8.5,483
+tt2193021,Arrow,8,25267,8.5,484
+tt4145054,Shadowhunters,2,44247,8.3,485
+tt5555260,This Is Us,3,27603,8.5,486
+tt0458290,Star Wars: The Clone Wars,5,65914,8.2,487
+tt0200276,The West Wing,1,27484,8.5,488
+tt0096697,The Simpsons,3,85799,8.2,489
+tt1695360,The Legend of Korra,4,25789,8.5,490
+tt1632701,Suits,1,39893,8.3,491
+tt0460681,Supernatural,14,50717,8.3,492
+tt4452630,Code Black,2,17193,8.7,493
+tt0979432,Boardwalk Empire,2,24544,8.5,494
+tt5421602,Anne with an E,1,15784,8.7,495
+tt1586680,Shameless,7,20765,8.6,496
+tt0460649,How I Met Your Mother,4,87226,8.2,497
+tt10986410,Ted Lasso,2,83024,8.2,498
+tt12004706,Panchayat,2,12240,8.9,499
+tt4189022,Ash vs Evil Dead,1,31952,8.4,500
+tt0264235,Curb Your Enthusiasm,7,17070,8.7,501
+tt1520211,The Walking Dead,9,142090,8.1,502
+tt1865718,Gravity Falls,1,56676,8.2,503
+tt2188671,Bates Motel,4,16894,8.7,504
+tt0460681,Supernatural,9,87124,8.2,505
+tt4955642,The Good Place,2,34557,8.4,506
+tt4343334,For My Son,2,11572,9.0,507
+tt0248654,Six Feet Under,1,27525,8.4,508
+tt4452630,Code Black,1,20157,8.6,509
+tt0285403,Scrubs,8,23874,8.5,510
+tt1567432,Teen Wolf,6,20759,8.5,511
+tt2356777,True Detective,3,55806,8.2,512
+tt2017109,Banshee,2,20412,8.6,513
+tt2930604,Star Wars: Rebels,4,30539,8.4,514
+tt0773262,Dexter,6,53960,8.2,515
+tt4878326,Wynonna Earp,4,14888,8.7,516
+tt0428152,Recipe TV Featuring the World's Greatest Chefs,11,5250,10.0,517
+tt2741602,The Blacklist,3,44491,8.3,518
+tt2017109,Banshee,4,15191,8.7,519
+tt0106179,The X-Files,6,79972,8.2,520
+tt3230854,The Expanse,5,30899,8.4,521
+tt0813715,Heroes,1,49301,8.2,522
+tt11192306,Superman & Lois,1,33174,8.3,523
+tt0386676,The Office,6,126487,8.1,524
+tt0407362,Battlestar Galactica,4,35205,8.3,525
+tt0072500,Fawlty Towers,2,12190,8.9,526
+tt6468322,Money Heist,1,65113,8.2,527
+tt3398228,BoJack Horseman,2,53573,8.2,528
+tt12451520,It's Okay to Not Be Okay,1,14743,8.7,529
+tt6342474,Boruto: Naruto Next Generations,1,146310,8.1,530
+tt2301351,RuPaul's Drag Race All Stars,7,13378,8.8,531
+tt0401937,Generations,,5256,10.0,532
+tt0108778,Friends,9,96501,8.1,533
+tt2375692,Black Sails,4,16989,8.6,534
+tt4145054,Shadowhunters,3,29114,8.4,535
+tt2359704,JoJo's Bizarre Adventure,2,45891,8.2,536
+tt0460649,How I Met Your Mother,5,88205,8.1,537
+tt3006802,Outlander,5,25328,8.4,538
+tt10919420,Squid Game,1,126566,8.1,539
+tt1124373,Sons of Anarchy,1,40324,8.3,540
+tt5421602,Anne with an E,2,18256,8.6,541
+tt5348176,Barry,1,37179,8.3,542
+tt5071412,Ozark,4,60510,8.2,543
+tt9179242,Ashish Chanchlani Vines,,15124,8.7,544
+tt0428152,Recipe TV Featuring the World's Greatest Chefs,8,5074,10.0,545
+tt0384766,Rome,2,19664,8.5,546
+tt1870479,The Newsroom,1,20902,8.5,547
+tt2628232,Penny Dreadful,2,22976,8.4,548
+tt0455275,Prison Break,3,43681,8.2,549
+tt0285331,24,4,29860,8.3,550
+tt1796960,Homeland,1,42964,8.2,551
+tt0106179,The X-Files,5,75478,8.1,552
+tt0436992,Doctor Who,6,92377,8.1,553
+tt2372162,Orange Is the New Black,2,32426,8.3,554
+tt7441658,Black Clover,2,28693,8.4,555
+tt4288182,Atlanta,4,15013,8.7,556
+tt2085059,Black Mirror,2,205512,8.1,557
+tt1586680,Shameless,1,30653,8.3,558
+tt1266020,Parks and Recreation,4,49979,8.2,559
+tt5071412,Ozark,1,61723,8.2,560
+tt3205802,How to Get Away with Murder,6,19071,8.5,561
+tt0118276,Buffy the Vampire Slayer,2,85955,8.1,562
+tt1870479,The Newsroom,3,9785,9.0,563
+tt3148266,12 Monkeys,4,10394,8.9,564
+tt7221388,Cobra Kai,4,30911,8.3,565
+tt16401516,Roadfood,1,6557,9.5,566
+tt5697728,Kuch Rang Pyar Ke Aise Bhi,1,6628,9.5,567
+tt0460681,Supernatural,12,65795,8.1,568
+tt0386676,The Office,9,112760,8.1,569
+tt1796960,Homeland,4,43648,8.2,570
+tt1598754,24: Live Another Day,1,15584,8.6,571
+tt0988818,Gintama,5,7488,9.3,572
+tt0460649,How I Met Your Mother,6,83488,8.1,573
+tt2930604,Star Wars: Rebels,2,50158,8.2,574
+tt10234724,Moon Knight,1,117587,8.1,575
+tt1405406,The Vampire Diaries,1,48301,8.2,576
+tt1219024,Castle,3,31751,8.3,577
+tt3920596,Big Little Lies,2,27725,8.3,578
+tt1305826,Adventure Time,8,33679,8.3,579
+tt4236770,Yellowstone,3,20713,8.5,580
+tt7767422,Sex Education,1,41528,8.2,581
+tt0979432,Boardwalk Empire,5,15783,8.6,582
+tt8714904,Narcos: Mexico,1,22828,8.4,583
+tt1119644,Fringe,4,42805,8.2,584
+tt9522300,Kaguya-sama: Love is War,3,8960,9.1,585
+tt0072500,Fawlty Towers,1,13776,8.7,586
+tt0979432,Boardwalk Empire,1,29946,8.3,587
+tt2661044,The 100,6,32537,8.3,588
+tt1327801,Glee,1,39189,8.2,589
+tt2741602,The Blacklist,6,29107,8.3,590
+tt1843230,Once Upon a Time,1,53198,8.2,591
+tt1043813,Titans,1,46694,8.2,592
+tt4878326,Wynonna Earp,2,16875,8.6,593
+tt1567432,Teen Wolf,5,22415,8.4,594
+tt3502248,Bosch,4,12617,8.7,595
+tt0106179,The X-Files,3,105434,8.1,596
+tt0428152,Recipe TV Featuring the World's Greatest Chefs,9,4777,10.0,597
+tt7335184,You,2,38756,8.2,598
+tt2085059,Black Mirror,1,177978,8.0,599
+tt10332508,Primal,1,12172,8.8,600
+tt5788792,The Marvelous Mrs. Maisel,1,21407,8.4,601
+tt0118421,Oz,1,19355,8.5,602
+tt10802170,The Rehearsal,1,10895,8.9,603
+tt0413573,Grey's Anatomy,8,28498,8.3,604
+tt13409432,Ranking of Kings,1,14037,8.7,605
+tt0248654,Six Feet Under,2,20786,8.4,606
+tt4270492,Billions,2,15194,8.6,607
+tt1489428,Justified,2,19463,8.5,608
+tt1196946,The Mentalist,6,34271,8.3,609
+tt10562574,Theory of Love,1,8760,9.1,610
+tt1695360,The Legend of Korra,2,33764,8.3,611
+tt13293588,Mushoku Tensei: Jobless Reincarnation,1,27287,8.3,612
+tt0979432,Boardwalk Empire,4,21822,8.4,613
+tt0455275,Prison Break,5,42017,8.2,614
+tt0279600,Smallville,10,22148,8.4,615
+tt0428152,Recipe TV Featuring the World's Greatest Chefs,10,4754,9.9,616
+tt0264235,Curb Your Enthusiasm,6,16052,8.6,617
+tt3895150,Your Lie in April,1,16952,8.5,618
+tt11639952,Young Rock,1,22936,8.4,619
+tt8772296,Euphoria,,12068,8.7,620
+tt7920978,Persona,1,13117,8.7,621
+tt0491738,Psych,6,16283,8.5,622
+tt0387199,Entourage,3,19897,8.4,623
+tt5057054,Tom Clancy's Jack Ryan,1,31299,8.3,624
+tt3398540,Haikyu!!,4,12248,8.7,625
+tt0804503,Mad Men,6,28969,8.3,626
+tt3718778,Over the Garden Wall,1,20465,8.4,627
+tt3749900,Gotham,3,50487,8.2,628
+tt0384766,Rome,1,27661,8.3,629
+tt5743796,Warrior,2,10449,8.9,630
+tt5514358,Steins;Gate 0,1,13621,8.6,631
+tt3749900,Gotham,1,97368,8.1,632
+tt1442462,The Good Wife,5,16045,8.5,633
+tt2193021,Arrow,7,48962,8.2,634
+tt1405406,The Vampire Diaries,8,19900,8.4,635
+tt3205802,How to Get Away with Murder,3,23361,8.4,636
+tt0460649,How I Met Your Mother,7,85600,8.1,637
+tt0870039,Growing Up Creepie,1,5070,9.8,638
+tt1586680,Shameless,6,20992,8.4,639
+tt1606375,Downton Abbey,6,14024,8.6,640
+tt3205802,How to Get Away with Murder,4,20790,8.4,641
+tt5180504,The Witcher,2,83900,8.1,642
+tt1327801,Glee,2,33633,8.2,643
+tt0413573,Grey's Anatomy,3,34846,8.2,644
+tt2017109,Banshee,1,24740,8.3,645
+tt0988818,Gintama,1,64273,8.1,646
+tt7493974,Bodyguard,1,25299,8.3,647
+tt0487831,The IT Crowd,2,17229,8.5,648
+tt0455275,Prison Break,4,74188,8.1,649
+tt0898266,The Big Bang Theory,4,88511,8.1,650
+tt1586680,Shameless,2,25391,8.3,651
+tt2628232,Penny Dreadful,3,18402,8.4,652
+tt1830617,Grimm,3,21512,8.4,653
+tt7908628,What We Do in the Shadows,1,26932,8.3,654
+tt2661044,The 100,4,40728,8.2,655
+tt1305826,Adventure Time,10,18553,8.4,656
+tt2467372,Brooklyn Nine-Nine,4,59944,8.1,657
+tt4955642,The Good Place,4,30861,8.2,658
+tt0162065,Angel,2,42846,8.2,659
+tt0286486,The Shield,5,22754,8.3,660
+tt7221388,Cobra Kai,5,26505,8.3,661
+tt1843230,Once Upon a Time,4,33401,8.2,662
+tt0264235,Curb Your Enthusiasm,10,15509,8.5,663
+tt7908628,What We Do in the Shadows,2,20430,8.4,664
+tt2467372,Brooklyn Nine-Nine,7,33390,8.2,665
+tt0804503,Mad Men,1,44006,8.2,666
+tt1830617,Grimm,4,21539,8.4,667
+tt0285403,Scrubs,1,38393,8.2,668
+tt0934814,Chuck,4,26221,8.3,669
+tt6077448,Sacred Games,1,17044,8.5,670
+tt1836037,Longmire,4,10775,8.8,671
+tt7016936,Killing Eve,2,25167,8.3,672
+tt9522300,Kaguya-sama: Love is War,2,8837,9.0,673
+tt4189022,Ash vs Evil Dead,2,21139,8.4,674
+tt0898266,The Big Bang Theory,1,83676,8.1,675
+tt0203259,Law & Order: Special Victims Unit,7,21572,8.4,676
+tt1856010,House of Cards,5,39985,8.2,677
+tt7658402,Harley Quinn,2,16777,8.5,678
+tt1312171,The Umbrella Academy,1,51810,8.1,679
+tt0147756,City Central,2,4464,9.9,680
+tt2879552,11.22.63,1,27911,8.3,681
+tt0118276,Buffy the Vampire Slayer,7,56973,8.1,682
+tt0988824,Naruto: Shippuden,1,251937,8.0,683
+tt0428152,Recipe TV Featuring the World's Greatest Chefs,,4292,10.0,684
+tt0348914,Deadwood,1,24782,8.3,685
+tt14664414,Young Royals,1,11680,8.7,686
+tt2861424,Rick and Morty,6,56706,8.1,687
+tt4236770,Yellowstone,4,22823,8.3,688
+tt1305826,Adventure Time,5,78402,8.1,689
+tt3293184,Penn Zero: Part-Time Hero,1,12775,8.6,690
+tt2741602,The Blacklist,1,63380,8.1,691
+tt1567432,Teen Wolf,2,17039,8.5,692
+tt1442437,Modern Family,6,53073,8.1,693
+tt9288030,Reacher,1,30091,8.2,694
+tt0988818,Gintama,8,7458,9.1,695
+tt1606375,Downton Abbey,2,18387,8.4,696
+tt7767422,Sex Education,2,38833,8.2,697
+tt2261227,Altered Carbon,1,46604,8.1,698
+tt5834204,The Handmaid's Tale,3,51551,8.1,699
+tt0804503,Mad Men,2,33071,8.2,700
+tt13668894,The Book of Boba Fett,1,141713,8.0,701
+tt1474684,Luther,1,19822,8.4,702
+tt1219024,Castle,2,33021,8.2,703
+tt1489428,Justified,3,17233,8.4,704
+tt3107288,The Flash,3,94252,8.0,705
+tt4189022,Ash vs Evil Dead,3,17124,8.4,706
+tt0475784,Westworld,3,75193,8.0,707
+tt0203259,Law & Order: Special Victims Unit,4,21689,8.3,708
+tt1751634,The Sandman,1,83199,8.0,709
+tt0118276,Buffy the Vampire Slayer,4,77959,8.0,710
+tt0203259,Law & Order: Special Victims Unit,6,22695,8.3,711
+tt1266020,Parks and Recreation,5,45990,8.1,712
+tt20723374,Tales of the Jedi,1,27133,8.2,713
+tt1796960,Homeland,5,30456,8.2,714
+tt2467372,Brooklyn Nine-Nine,2,72024,8.0,715
+tt0491738,Psych,3,16986,8.4,716
+tt1442437,Modern Family,1,71241,8.0,717
+tt3526078,Schitt's Creek,6,18839,8.4,718
+tt0214341,Dragon Ball Z,4,46881,8.1,719
+tt0096697,The Simpsons,2,86889,8.0,720
+tt0121955,South Park,4,46781,8.1,721
+tt0491738,Psych,5,16028,8.5,722
+tt0264235,Curb Your Enthusiasm,4,16913,8.4,723
+tt13406094,The White Lotus,2,28327,8.2,724
+tt1219024,Castle,6,26898,8.2,725
+tt0106179,The X-Files,4,94970,8.0,726
+tt1489428,Justified,4,16326,8.4,727
+tt4532368,DC's Legends of Tomorrow,2,36510,8.1,728
+tt0103359,Batman: The Animated Series,1,117171,8.0,729
+tt5788792,The Marvelous Mrs. Maisel,5,12285,8.6,730
+tt0988818,Gintama,3,7136,9.1,731
+tt3398540,Haikyu!!,3,6155,9.3,732
+tt1844624,American Horror Story,8,39477,8.1,733
+tt5114356,Legion,2,23152,8.3,734
+tt5712554,The Grand Tour,1,32756,8.2,735
+tt10541088,Clarkson's Farm,2,7413,9.0,736
+tt0092337,Dekalog,1,44663,8.1,737
+tt2188671,Bates Motel,3,16984,8.4,738
+tt3061046,Steven Universe,4,28726,8.2,739
+tt0162065,Angel,4,34316,8.2,740
+tt4532368,DC's Legends of Tomorrow,3,35909,8.1,741
+tt2303687,Line of Duty,3,9001,8.8,742
+tt0264235,Curb Your Enthusiasm,8,15436,8.5,743
+tt0413573,Grey's Anatomy,9,26612,8.2,744
+tt0264235,Curb Your Enthusiasm,2,19324,8.3,745
+tt2632424,The Originals,4,12253,8.6,746
+tt0112159,Neon Genesis Evangelion,1,49119,8.1,747
+tt6470478,The Good Doctor,2,24070,8.3,748
+tt5189670,Making a Murderer,1,15223,8.5,749
+tt5288312,Skam,3,7759,9.0,750
+tt5651844,Travelers,3,12165,8.6,751
+tt6470478,The Good Doctor,1,45512,8.1,752
+tt0285331,24,7,26748,8.2,753
+tt0844441,True Blood,2,21615,8.3,754
+tt11006642,Walker,1,36217,8.1,755
+tt7909970,Unbelievable,1,20226,8.3,756
+tt2249007,Ray Donovan,2,13277,8.5,757
+tt0203259,Law & Order: Special Victims Unit,10,20884,8.3,758
+tt0286486,The Shield,3,30324,8.2,759
+tt5626028,My Hero Academia,2,33551,8.2,760
+tt2575988,Silicon Valley,2,18635,8.4,761
+tt13606528,Drag Race España,2,8178,8.9,762
+tt0275137,Justice League,2,17320,8.4,763
+tt1606375,Downton Abbey,1,16925,8.4,764
+tt2741602,The Blacklist,2,46009,8.1,765
+tt2149175,The Americans,4,17690,8.4,766
+tt11170862,Cosmos: Possible Worlds,1,9632,8.8,767
+tt11247158,The Legend of Vox Machina,2,10569,8.7,768
+tt13706018,Spy x Family,1,29739,8.2,769
+tt2632424,The Originals,5,13721,8.5,770
+tt4955642,The Good Place,1,44764,8.1,771
+tt1567432,Teen Wolf,4,14914,8.5,772
+tt2149175,The Americans,1,28877,8.2,773
+tt2364582,Agents of S.H.I.E.L.D.,6,25108,8.2,774
+tt0348914,Deadwood,2,18343,8.3,775
+tt0285331,24,8,26646,8.2,776
+tt2649356,Sharp Objects,1,28801,8.2,777
+tt5249462,Erased,1,13334,8.5,778
+tt0121955,South Park,14,37541,8.1,779
+tt13443470,Wednesday,1,66499,8.0,780
+tt2364582,Agents of S.H.I.E.L.D.,1,98650,8.0,781
+tt0121955,South Park,13,40123,8.1,782
+tt3398540,Haikyu!!,2,11532,8.6,783
+tt2467372,Brooklyn Nine-Nine,3,65481,8.0,784
+tt3061046,Steven Universe,1,72343,8.0,785
+tt0436992,Doctor Who,1,104349,8.0,786
+tt1844624,American Horror Story,1,70142,8.0,787
+tt8050740,Amphibia,2,8891,8.8,788
+tt0149460,Futurama,3,40927,8.1,789
+tt7562112,Pose,1,9178,8.8,790
+tt1843230,Once Upon a Time,2,38599,8.1,791
+tt0203259,Law & Order: Special Victims Unit,5,21522,8.3,792
+tt8879940,Mythic Quest,1,17109,8.4,793
+tt2149175,The Americans,3,19141,8.3,794
+tt0368530,One Tree Hill,3,9907,8.7,795
+tt2234222,Orphan Black,1,20226,8.3,796
+tt13718450,86,2,7326,9.0,797
+tt3502248,Bosch,2,13856,8.5,798
+tt3398540,Haikyu!!,1,13482,8.5,799
+tt2708480,The Terror,1,26037,8.2,800
+tt5691552,The Orville,2,47792,8.1,801
+tt0285403,Scrubs,4,26163,8.2,802
+tt1305826,Adventure Time,9,17169,8.4,803
+tt2249364,Broadchurch,1,18400,8.3,804
+tt10541088,Clarkson's Farm,1,9824,8.7,805
+tt12851524,Only Murders in the Building,1,41019,8.1,806
+tt0279600,Smallville,4,26509,8.2,807
+tt5691552,The Orville,3,30300,8.2,808
+tt3148266,12 Monkeys,2,13223,8.5,809
+tt0413573,Grey's Anatomy,14,26114,8.2,810
+tt4878326,Wynonna Earp,1,25275,8.2,811
+tt1796960,Homeland,3,38477,8.1,812
+tt2249007,Ray Donovan,3,12305,8.5,813
+tt7235466,9-1-1,2,17943,8.3,814
+tt0458290,Star Wars: The Clone Wars,4,67423,8.0,815
+tt2297757,Nathan for You,4,7760,8.9,816
+tt2628232,Penny Dreadful,1,25782,8.2,817
+tt6769208,Blue Planet II,1,7704,8.9,818
+tt1740299,The Man in the High Castle,2,19877,8.3,819
+tt0413573,Grey's Anatomy,12,25771,8.2,820
+tt5788792,The Marvelous Mrs. Maisel,3,14224,8.4,821
+tt1119644,Fringe,1,53878,8.0,822
+tt1606375,Downton Abbey,3,17231,8.3,823
+tt0203259,Law & Order: Special Victims Unit,9,19579,8.3,824
+tt7658402,Harley Quinn,1,21036,8.3,825
+tt1830617,Grimm,2,24096,8.2,826
+tt1196946,The Mentalist,3,32515,8.1,827
+tt27862209,Rafuchakkar,1,8590,8.8,828
+tt0348914,Deadwood,3,16585,8.4,829
+tt7431994,The Pit,1,9721,8.7,830
+tt4254242,The Magicians,3,10016,8.7,831
+tt0203259,Law & Order: Special Victims Unit,3,20713,8.3,832
+tt6317068,Final Space,1,13555,8.5,833
+tt2930604,Star Wars: Rebels,3,43756,8.1,834
+tt0118421,Oz,6,15182,8.4,835
+tt2372162,Orange Is the New Black,1,40300,8.1,836
+tt0203259,Law & Order: Special Victims Unit,12,22535,8.2,837
+tt0106004,Frasier,4,21286,8.2,838
+tt7817340,New Amsterdam,1,19369,8.3,839
+tt1405406,The Vampire Diaries,6,27872,8.2,840
+tt1266020,Parks and Recreation,6,43045,8.1,841
+tt4236770,Yellowstone,1,24945,8.2,842
+tt0264235,Curb Your Enthusiasm,9,14680,8.4,843
+tt2575988,Silicon Valley,1,19904,8.3,844
+tt8050756,The Owl House,1,21671,8.2,845
+tt1442437,Modern Family,2,59359,8.0,846
+tt0071075,The World at War,1,9840,8.7,847
+tt1984119,Feud,1,9422,8.7,848
+tt1266020,Parks and Recreation,2,63221,8.0,849
+tt1844624,American Horror Story,4,52798,8.0,850
+tt9471404,The Chosen,2,5731,9.2,851
+tt0312172,Monk,8,17743,8.3,852
+tt1831164,Leyla and Mecnun,2,10985,8.6,853
+tt18335752,1923,1,14643,8.4,854
+tt0286486,The Shield,1,30723,8.1,855
+tt2085059,Black Mirror,4,282816,7.9,856
+tt0285403,Scrubs,6,25503,8.2,857
+tt5114356,Legion,3,12538,8.5,858
+tt1759761,Veep,5,10171,8.6,859
+tt0898266,The Big Bang Theory,5,86419,8.0,860
+tt0898266,The Big Bang Theory,6,84862,8.0,861
+tt2193041,Beauty and the Beast,1,22976,8.2,862
+tt7441658,Black Clover,3,24567,8.2,863
+tt5016504,Preacher,1,26791,8.1,864
+tt0248654,Six Feet Under,3,19151,8.3,865
+tt0118421,Oz,3,15637,8.4,866
+tt0485301,Torchwood,3,7286,8.9,867
+tt1837642,Revenge,1,21580,8.2,868
+tt3502248,Bosch,5,11078,8.5,869
+tt9174558,Dopesick,1,12033,8.5,870
+tt4508902,One Punch Man,2,24644,8.2,871
+tt0264235,Curb Your Enthusiasm,3,17322,8.3,872
+tt0434665,Bleach,14,18305,8.3,873
+tt1632701,Suits,9,13842,8.4,874
+tt7431994,The Pit,4,8908,8.7,875
+tt11743610,The Terminal List,1,22456,8.2,876
+tt13660938,Bad Buddy,1,8460,8.7,877
+tt0368530,One Tree Hill,4,9148,8.7,878
+tt9471962,Halka,1,4850,9.4,879
+tt7587890,The Rookie,1,23257,8.2,880
+tt0081846,Cosmos,1,7134,8.9,881
+tt7745956,She-Ra and the Princesses of Power,4,13772,8.4,882
+tt0279600,Smallville,3,25538,8.2,883
+tt0458290,Star Wars: The Clone Wars,6,37506,8.1,884
+tt1844624,American Horror Story,3,58872,8.0,885
+tt5607976,His Dark Materials,1,30540,8.1,886
+tt0994314,Code Geass,1,24110,8.2,887
+tt6517102,Castlevania,3,15953,8.3,888
+tt0472954,It's Always Sunny in Philadelphia,1,27702,8.1,889
+tt0149460,Futurama,1,30564,8.1,890
+tt1094229,Heartland,14,10100,8.6,891
+tt1305826,Adventure Time,6,60070,8.0,892
+tt1327801,Glee,3,29793,8.1,893
+tt1486217,Archer,2,23513,8.2,894
+tt8550800,The Outsider,1,37699,8.1,895
+tt0162065,Angel,1,51389,8.0,896
+tt0436992,Doctor Who,2,109557,7.9,897
+tt4635276,Master of None,1,19564,8.2,898
+tt0203259,Law & Order: Special Victims Unit,14,20627,8.2,899
+tt9544034,The Family Man,1,13964,8.4,900
+tt4052886,Lucifer,6,32018,8.1,901
+tt0248654,Six Feet Under,4,17836,8.3,902
+tt1405406,The Vampire Diaries,5,31780,8.1,903
+tt10850932,Crash Landing on You,1,8484,8.7,904
+tt0452046,Criminal Minds,2,54385,8.0,905
+tt2188671,Bates Motel,2,18291,8.3,906
+tt2741602,The Blacklist,5,29795,8.1,907
+tt1578873,Pretty Little Liars,2,21324,8.2,908
+tt4270492,Billions,3,12911,8.4,909
+tt5555260,This Is Us,5,22022,8.2,910
+tt5834204,The Handmaid's Tale,4,28778,8.1,911
+tt6257970,The End of the F***ing World,2,24238,8.2,912
+tt2467372,Brooklyn Nine-Nine,1,84366,7.9,913
+tt0106004,Frasier,2,23574,8.2,914
+tt3148266,12 Monkeys,3,8783,8.7,915
+tt2356777,True Detective,2,82600,7.9,916
+tt0452046,Criminal Minds,4,57821,8.0,917
+tt11165358,Adventure Time: Distant Lands,1,7034,8.9,918
+tt4270492,Billions,1,18630,8.2,919
+tt1534360,Ezel,2,7786,8.8,920
+tt0279600,Smallville,6,25024,8.1,921
+tt1489428,Justified,5,14500,8.4,922
+tt11228748,The King: Eternal Monarch,1,8726,8.7,923
+tt2234222,Orphan Black,2,15378,8.3,924
+tt6257970,The End of the F***ing World,1,34003,8.1,925
+tt1219024,Castle,7,23736,8.2,926
+tt0106004,Frasier,5,21600,8.2,927
+tt3526078,Schitt's Creek,5,19478,8.2,928
+tt6611916,Kingdom,2,10146,8.6,929
+tt0491738,Psych,2,17095,8.3,930
+tt1830617,Grimm,5,19395,8.2,931
+tt0279600,Smallville,9,20119,8.2,932
+tt13111040,The Offer,1,11152,8.5,933
+tt7678620,Bluey,3,8607,8.7,934
+tt9679542,Dr. Stone,1,15163,8.3,935
+tt4878326,Wynonna Earp,3,12137,8.4,936
+tt0200276,The West Wing,3,18891,8.2,937
+tt0387199,Entourage,2,14093,8.4,938
+tt6905542,The Dark Crystal: Age of Resistance,1,11101,8.5,939
+tt1632701,Suits,7,23988,8.1,940
+tt9059760,Normal People,1,21637,8.2,941
+tt2234222,Orphan Black,4,11792,8.5,942
+tt4343334,For My Son,1,8133,8.7,943
+tt0105946,Babylon 5,3,15874,8.3,944
+tt10160804,Hawkeye,1,69412,7.9,945
+tt3526078,Schitt's Creek,4,19002,8.2,946
+tt1836037,Longmire,3,9465,8.6,947
+tt15222080,Blue Lock,1,14518,8.3,948
+tt2234222,Orphan Black,3,13346,8.4,949
+tt0286486,The Shield,2,27152,8.1,950
+tt0203259,Law & Order: Special Victims Unit,17,20531,8.2,951
+tt13207736,Monsters,1,46119,8.0,952
+tt9304350,Fruits Basket,3,4997,9.3,953
+tt12439466,You Knock on My Door,1,41023,8.0,954
+tt3501584,iZombie,2,19101,8.2,955
+tt3502248,Bosch,3,12116,8.4,956
+tt0491738,Psych,4,15811,8.3,957
+tt0286486,The Shield,6,20752,8.2,958
+tt1870479,The Newsroom,2,12856,8.4,959
+tt5897304,Mob Psycho 100,3,9327,8.6,960
+tt2372162,Orange Is the New Black,7,18175,8.2,961
+tt3909224,The Seven Deadly Sins,3,10693,8.5,962
+tt3358020,Parasyte: The Maxim,1,17225,8.2,963
+tt1637727,The Killing,3,12876,8.4,964
+tt3230854,The Expanse,6,15071,8.3,965
+tt3205802,How to Get Away with Murder,5,16356,8.3,966
+tt1474684,Luther,3,10359,8.5,967
+tt0118421,Oz,5,14715,8.3,968
+tt0279600,Smallville,2,29348,8.1,969
+tt0279600,Smallville,8,22388,8.2,970
+tt0279600,Smallville,5,25351,8.1,971
+tt1492966,Louie,4,10745,8.5,972
+tt3502248,Bosch,1,18128,8.2,973
+tt1305826,Adventure Time,3,40541,8.0,974
+tt0460649,How I Met Your Mother,8,87629,7.9,975
+tt3749900,Gotham,5,23423,8.1,976
+tt0042114,The Honeymooners,1,10966,8.5,977
+tt3475734,Agent Carter,1,25117,8.1,978
+tt1442437,Modern Family,4,52656,8.0,979
+tt14688458,Silo,1,27241,8.1,980
+tt4230076,The Defenders,1,35673,8.0,981
+tt1942683,The Amazing World of Gumball,5,12225,8.4,982
+tt1486217,Archer,3,21474,8.2,983
+tt0285403,Scrubs,2,26496,8.1,984
+tt1578873,Pretty Little Liars,3,19359,8.2,985
+tt2193041,Beauty and the Beast,2,14681,8.3,986
+tt6056560,LeagueOne: In the Spotlight!,1,3290,10.0,987
+tt5626028,My Hero Academia,1,20159,8.2,988
+tt0934814,Chuck,5,14871,8.3,989
+tt0200276,The West Wing,7,14443,8.3,990
+tt13675832,As If,2,11918,8.4,991
+tt2937900,The Knick,1,12525,8.4,992
+tt5511582,Timeless,2,15238,8.3,993
+tt2467372,Brooklyn Nine-Nine,6,52262,8.0,994
+tt0098904,Seinfeld,2,53046,8.0,995
+tt2193021,Arrow,6,55169,8.0,996
+tt8515016,Banana Fish,1,10185,8.5,997
+tt1831164,Leyla and Mecnun,1,8106,8.7,998
+tt12708542,Star Wars: The Bad Batch,1,60918,7.9,999
+tt4288182,Atlanta,3,22822,8.1,1000
+tt0072562,Saturday Night Live,11,1166,5.9,62933
+tt12080818,Oprah Talks COVID-19,1,322,2.1,62934
+tt15864664,Emmanuelle: The Private Collection,,453,3.6,62935
+tt0185103,WWE Raw,2,1103,5.8,62936
+tt1140100,Chowder,2,1379,6.1,62937
+tt3186138,Finding Carter,2,1832,6.4,62938
+tt0283203,Mutant X,1,1363,6.1,62939
+tt0084967,The A-Team,2,7419,7.1,62940
+tt5672484,Match Game,4,519,4.1,62941
+tt0147770,Fox Mystery Theater,1,2352,6.6,62942
+tt14107656,Actress,1,923,5.5,62943
+tt2498968,Catfish: The TV Show,8,1584,6.2,62944
+tt0145628,Popeye the Sailor,2,2563,6.6,62945
+tt9170236,Pieces of Her,1,4470,6.9,62946
+tt5707802,Dear White People,1,7414,7.1,62947
+tt0115341,Sabrina the Teenage Witch,5,3425,6.8,62948
+tt1086761,Keeping Up with the Kardashians,15,819,5.2,62949
+tt14881288,Stories to Stay Awake,2,1308,6.0,62950
+tt5420376,Riverdale,7,2492,6.6,62951
+tt7587890,The Rookie,4,16434,7.2,62952
+tt0213327,Andromeda,3,3778,6.8,62953
+tt9686194,War of the Worlds,1,6039,7.0,62954
+tt3843168,Z Nation,1,13226,7.2,62955
+tt1462059,Falling Skies,1,9573,7.1,62956
+tt0053479,The Andy Griffith Show,7,5641,7.0,62957
+tt0182576,Family Guy,16,26563,7.2,62958
+tt0115157,Dexter's Laboratory,3,1400,6.1,62959
+tt2230051,High School DxD,,1695,6.3,62960
+tt0220008,RoboCop: Prime Directives,1,778,5.1,62961
+tt1845307,2 Broke Girls,3,18452,7.2,62962
+tt0192906,The Late Late Show with Craig Kilborn,,473,3.7,62963
+tt12026710,Suspicion,1,2881,6.7,62964
+tt3150586,Ebb and Tide,2,3275,6.8,62965
+tt0058817,Kimba the White Lion,1,889,5.4,62966
+tt0773264,House of Payne,5,498,3.9,62967
+tt2288050,Here Comes Honey Boo Boo,1,499,3.9,62968
+tt15059482,Burning Questions,1,2586,6.6,62969
+tt13197674,The Chronicle Mysteries,1,3508,6.8,62970
+tt10413786,Rifftrax Shorts,1,574,4.3,62971
+tt5197820,Van Helsing,1,7319,7.1,62972
+tt6135682,Spider-Man,1,3110,6.7,62973
+tt9077562,Hoops,1,1935,6.4,62974
+tt0096708,Tales from the Crypt,1,9604,7.1,62975
+tt0112111,The Outer Limits,4,6459,7.0,62976
+tt10839422,Sex/Life,2,1420,6.1,62977
+tt0072562,Saturday Night Live,45,6488,7.0,62978
+tt1503278,Drunk History,2,1193,5.8,62979
+tt16409108,Joker,3,483,3.7,62980
+tt5197820,Van Helsing,3,4054,6.9,62981
+tt3644198,Good Morning Britain,,274,1.0,62982
+tt6601082,Rise of the Teenage Mutant Ninja Turtles,1,6534,7.0,62983
+tt0313043,CSI: Miami,1,12315,7.1,62984
+tt0167735,Total Request Live,,361,2.5,62985
+tt0840800,Battlestar Galactica: The Resistance,1,1616,6.2,62986
+tt5747326,The Kapil Sharma Show,1,3846,6.8,62987
+tt3213296,In Between,2,289,1.3,62988
+tt11823076,Tiger King,2,2402,6.6,62989
+tt8045936,Forbidden Apple,5,600,4.4,62990
+tt14273790,The Rig,1,2490,6.6,62991
+tt1697033,True Justice,2,1006,5.6,62992
+tt0056751,Doctor Who,22,6235,7.0,62993
+tt0065343,San Francisco International Airport,1,396,2.9,62994
+tt1608180,Mike & Molly,3,3598,6.8,62995
+tt0227972,WWE Smackdown!,22,1665,6.2,62996
+tt1973047,Dish Nation,9,279,1.1,62997
+tt0930022,Das Traumhotel,1,772,5.0,62998
+tt13837672,Crime Scene: The Vanishing at the Cecil Hotel,1,3044,6.7,62999
+tt9031094,SideHero,1,2924,6.7,63000
+tt8235236,Paradise PD,1,5268,7.0,63001
+tt2532246,The Nemanjic Dynasty: The Birth of the Kingdom,1,877,5.3,63002
+tt0047768,Screen Directors Playhouse,1,1929,6.4,63003
+tt0168366,Pokémon,5,8795,7.1,63004
+tt0072562,Saturday Night Live,9,1558,6.2,63005
+tt6775816,Terrorism Close Calls,1,632,4.5,63006
+tt2158640,30 for 30 Shorts,1,3171,6.7,63007
+tt1181917,The Suite Life on Deck,1,3352,6.8,63008
+tt0168366,Pokémon,15,2973,6.7,63009
+tt6473300,Mirzapur,2,28338,7.2,63010
+tt1169951,S.O.S. Barracuda,1,367,2.5,63011
+tt0098749,Beverly Hills， 90210,5,4418,6.9,63012
+tt14182842,Martha's Vineyard Mysteries,1,3149,6.7,63013
+tt1628033,Top Gear,26,942,5.4,63014
+tt3228904,Empire,5,2828,6.7,63015
+tt0278855,Chîsana baikingu Bikke,1,2405,6.5,63016
+tt13861620,God's Favorite Idiot,1,1694,6.2,63017
+tt0115147,The Daily Show,17,4674,6.9,63018
+tt0084967,The A-Team,4,6062,7.0,63019
+tt0115341,Sabrina the Teenage Witch,7,3535,6.8,63020
+tt0106126,SeaQuest 2032,2,2244,6.5,63021
+tt0077031,The Incredible Hulk,1,5422,7.0,63022
+tt1553656,Under the Dome,1,21248,7.2,63023
+tt0313043,CSI: Miami,4,8609,7.1,63024
+tt0101205,Step by Step,1,2191,6.5,63025
+tt0383126,MythBusters,15,711,4.7,63026
+tt0106123,Saved by the Bell: The New Class,3,578,4.2,63027
+tt8690776,Sky Rojo,1,3218,6.7,63028
+tt26690964,Outlast,1,683,4.6,63029
+tt0367279,Arrested Development,5,14309,7.2,63030
+tt0123366,The View,,667,4.6,63031
+tt0799922,Wizards of Waverly Place,1,5274,6.9,63032
+tt5774002,Jupiter's Legacy,1,11106,7.1,63033
+tt5420376,Riverdale,3,30355,7.2,63034
+tt1986770,Anger Management,1,4331,6.9,63035
+tt13819960,And Just Like That...,2,1187,5.7,63036
+tt0098763,Captain Planet and the Planeteers,1,1185,5.7,63037
+tt0318220,HBO First Look,12,840,5.1,63038
+tt3498954,Everything Wrong with...,2,889,5.2,63039
+tt0047708,Alfred Hitchcock Presents,7,14546,7.2,63040
+tt15459278,The Ferragnez,1,1205,5.8,63041
+tt0299302,Friday Night with Jonathan Ross,18,559,4.0,63042
+tt2288050,Here Comes Honey Boo Boo,3,380,2.5,63043
+tt5672036,Chelsea,1,2747,6.6,63044
+tt0098749,Beverly Hills， 90210,6,3853,6.8,63045
+tt6045840,Black Lightning,4,3857,6.8,63046
+tt5827228,Bull,1,13944,7.2,63047
+tt1295036,Seth MacFarlane's Cavalcade of Cartoon Comedy,1,1378,5.9,63048
+tt0092359,Full House,1,8545,7.1,63049
+tt0367369,MegaMan: NT Warrior,1,393,2.6,63050
+tt0094512,Monsters,3,2016,6.4,63051
+tt2647548,Dads,1,1956,6.3,63052
+tt3185682,Pupa,1,423,2.9,63053
+tt0092322,Biography,12,3503,6.8,63054
+tt2339608,Karadayi,1,1330,5.9,63055
+tt0055691,The Merv Griffin Show,5,331,1.7,63056
+tt0285351,According to Jim,8,2331,6.5,63057
+tt22227040,28 Days Haunted,1,606,4.2,63058
+tt0934339,Utta Danella,1,801,5.0,63059
+tt13213470,The Perfect Bride,1,2377,6.5,63060
+tt1352421,Natsume's Book of Friends,5,628,4.3,63061
+tt4523638,I Am Jazz,1,459,3.2,63062
+tt11833388,Danger Force,1,1839,6.3,63063
+tt8755226,Daybreak,1,6075,7.0,63064
+tt0426769,Peppa Pig,4,752,4.8,63065
+tt2435990,Canim Babam,1,299,1.0,63066
+tt0285351,According to Jim,5,3100,6.7,63067
+tt0115147,The Daily Show,28,1436,6.0,63068
+tt1628033,Top Gear,25,1724,6.2,63069
+tt0108902,Rebel Highway,1,954,5.3,63070
+tt0213327,Andromeda,5,3070,6.7,63071
+tt0098763,Captain Planet and the Planeteers,2,852,5.1,63072
+tt9073722,Marvel Rising: Initiation,1,664,4.5,63073
+tt0126158,He-Man and the Masters of the Universe,1,8003,7.0,63074
+tt10893694,The Irregulars,1,4236,6.8,63075
+tt5189554,Soy Luna,3,1237,5.8,63076
+tt8013750,Violence Jack,1,1002,5.4,63077
+tt8633518,Weird City,1,1661,6.1,63078
+tt3596174,Henry Danger,1,2797,6.6,63079
+tt0168366,Pokémon,17,4145,6.8,63080
+tt13457822,Welcome to Eden,1,1935,6.3,63081
+tt2618986,Wayward Pines,2,8555,7.1,63082
+tt0185103,WWE Raw,4,1386,5.9,63083
+tt2741602,The Blacklist,8,32495,7.2,63084
+tt0185103,WWE Raw,27,1893,6.3,63085
+tt0101205,Step by Step,2,1817,6.2,63086
+tt0086742,Kate & Allie,2,1669,6.1,63087
+tt11384796,Kalkanski krugovi,1,1009,5.4,63088
+tt1845307,2 Broke Girls,2,20446,7.2,63089
+tt5798078,Dimension 404,1,2474,6.5,63090
+tt10478054,The Lost Symbol,1,4284,6.8,63091
+tt1563069,Jersey Shore,2,1113,5.6,63092
+tt1352421,Natsume's Book of Friends,6,583,4.0,63093
+tt2661044,The 100,7,41389,7.2,63094
+tt4674646,Cyanide and Happiness Shorts,1,3249,6.7,63095
+tt0072562,Saturday Night Live,40,5067,6.9,63096
+tt0088476,Alfred Hitchcock Presents,1,3140,6.7,63097
+tt6873926,Two Sentence Horror Stories,3,1622,6.1,63098
+tt2339608,Karadayi,2,1093,5.5,63099
+tt0434665,Bleach,13,4052,6.8,63100
+tt0056751,Doctor Who,21,10397,7.1,63101
+tt2039625,Epic Rap Battles of History,5,2326,6.4,63102
+tt9165462,The Casagrandes,2,1333,5.8,63103
+tt0146370,Bolek i Lolek,5,1006,5.4,63104
+tt8080292,The Watch,1,2577,6.5,63105
+tt0088634,The Twilight Zone,2,3127,6.7,63106
+tt0320037,Jimmy Kimmel Live!,15,1401,5.9,63107
+tt8235236,Paradise PD,3,3031,6.6,63108
+tt0084967,The A-Team,5,3398,6.7,63109
+tt0075529,The Love Boat,1,3952,6.8,63110
+tt0168366,Pokémon,3,8215,7.0,63111
+tt0197911,Spider-Woman,1,1185,5.6,63112
+tt6873926,Two Sentence Horror Stories,4,1172,5.6,63113
+tt0115147,The Daily Show,14,3995,6.8,63114
+tt8740976,Inventing Anna,1,9828,7.1,63115
+tt0132666,The Wonderful World of Disney,45,2901,6.6,63116
+tt7134908,Elite,4,8002,7.0,63117
+tt0063878,The Brady Bunch,5,4254,6.8,63118
+tt0277467,Arabian Nights: Adventures of Sinbad,1,1527,6.0,63119
+tt0460649,How I Met Your Mother,9,122399,7.3,63120
+tt8787802,Away,1,7702,7.0,63121
+tt0083437,Knight Rider,4,4721,6.9,63122
+tt3498954,Everything Wrong with...,6,694,4.4,63123
+tt0115355,Silent Witness,26,1290,5.7,63124
+tt0772139,Masters of Science Fiction,1,2033,6.3,63125
+tt7136580,Cooking with Bill,1,831,4.9,63126
+tt9642938,Unsolved Mysteries,3,3642,6.7,63127
+tt12004280,Too Hot to Handle,3,1148,5.5,63128
+tt8762206,Creepshow,3,2776,6.6,63129
+tt3498954,Everything Wrong with...,1,1412,5.9,63130
+tt11823088,100 Humans: Life's Questions. Answered.,1,1374,5.8,63131
+tt0106052,Late Night with Conan O'Brien,12,552,3.7,63132
+tt15428778,Mayfair Witches,1,3677,6.7,63133
+tt11242246,The Equalizer,1,5328,6.9,63134
+tt3250026,Zoo,3,4143,6.8,63135
+tt0044298,Today,,830,4.9,63136
+tt10841904,Aynen Aynen,3,5206,6.9,63137
+tt0285351,According to Jim,7,2322,6.4,63138
+tt0094540,Roseanne,8,5470,6.9,63139
+tt13064902,FUBAR,1,6524,7.0,63140
+tt0075592,Tales of the Unexpected,5,3161,6.6,63141
+tt0057751,Gilligan's Island,1,8460,7.0,63142
+tt0297625,Screen One,9,2075,6.3,63143
+tt0320037,Jimmy Kimmel Live!,3,659,4.2,63144
+tt1844624,American Horror Story,7,34866,7.2,63145
+tt0096708,Tales from the Crypt,5,9013,7.0,63146
+tt0088591,The Ray Bradbury Theater,6,1523,5.9,63147
+tt0052442,One Step Beyond,2,4225,6.8,63148
+tt4523638,I Am Jazz,5,490,3.1,63149
+tt17043230,Quantum Leap,1,9359,7.1,63150
+tt1500570,Hannity,,407,2.3,63151
+tt1364951,Toddlers & Tiaras,5,371,1.8,63152
+tt6261554,I'm a Celebrity... Extra Camp,4,326,1.0,63153
+tt8526988,Total DramaRama,1,701,4.3,63154
+tt19863416,Fixer Upper Mysteries,1,3357,6.7,63155
+tt21335916,Bite Size Halloween,1,1175,5.5,63156
+tt5197820,Van Helsing,5,2512,6.5,63157
+tt0106126,SeaQuest 2032,1,4503,6.8,63158
+tt0866432,Painkiller Jane,1,1600,6.0,63159
+tt8336340,Star Wars Resistance,,1351,5.8,63160
+tt0379623,The Ellen DeGeneres Show,13,1447,5.9,63161
+tt0103569,The Tonight Show with Jay Leno,13,915,5.0,63162
+tt1129398,Maria Wern,3,1402,5.8,63163
+tt0364782,The Apprentice,15,705,4.3,63164
+tt0210450,SexTV,6,337,1.2,63165
+tt15561558,Comedy Central Roasts,1,36789,7.2,63166
+tt3150586,Ebb and Tide,1,3709,6.7,63167
+tt0413573,Grey's Anatomy,16,17187,7.1,63168
+tt2177268,Clarice,1,7325,7.0,63169
+tt1480684,The League,7,2962,6.6,63170
+tt0319931,American Idol,13,956,5.1,63171
+tt0088476,Alfred Hitchcock Presents,3,1775,6.1,63172
+tt7833530,The Adventures of Kid Danger,1,573,3.6,63173
+tt0434665,Bleach,9,2704,6.5,63174
+tt0088510,Star Wars: Droids,1,1699,6.0,63175
+tt15373506,Daddies on Request,1,796,4.6,63176
+tt3339966,Unbreakable Kimmy Schmidt,5,5720,6.9,63177
+tt10044448,Morning Show Mysteries,1,2699,6.5,63178
+tt0880565,Wilsberg,1,4118,6.8,63179
+tt0111999,Hercules: The Legendary Journeys,1,5611,6.9,63180
+tt0092359,Full House,5,6441,6.9,63181
+tt0126171,She-Ra: Princess of Power,1,3497,6.7,63182
+tt0072562,Saturday Night Live,24,1674,6.0,63183
+tt0285351,According to Jim,4,3803,6.7,63184
+tt0092359,Full House,7,5780,6.9,63185
+tt2216577,Fred: The Show,1,590,3.7,63186
+tt3444938,The Tonight Show Starring Jimmy Fallon,3,4678,6.8,63187
+tt0426769,Peppa Pig,3,985,5.1,63188
+tt0371475,Ren & Stimpy 'Adult Party Cartoon',1,1065,5.3,63189
+tt0283721,David the Gnome,1,2690,6.5,63190
+tt3897284,Tropes vs. Women in Video Games,2,380,1.7,63191
+tt4859164,The Loud House,6,1660,6.0,63192
+tt1563069,Jersey Shore,1,1077,5.3,63193
+tt0098749,Beverly Hills， 90210,3,5268,6.9,63194
+tt0403727,Berlin Bohème,1,549,3.4,63195
+tt0206512,SpongeBob SquarePants,12,6761,6.9,63196
+tt0088476,Alfred Hitchcock Presents,4,1597,5.9,63197
+tt1845307,2 Broke Girls,1,24075,7.2,63198
+tt0185103,WWE Raw,1,1997,6.2,63199
+tt0808491,The Swarm,1,2116,6.2,63200
+tt0088634,The Twilight Zone,1,9647,7.0,63201
+tt0086815,Thomas & Friends,9,1682,6.0,63202
+tt13890060,The D'Amelio Show,1,605,3.7,63203
+tt0083437,Knight Rider,2,5839,6.9,63204
+tt15791630,The Kardashians,1,1326,5.6,63205
+tt12579042,Short Circuit,1,5447,6.9,63206
+tt0055691,The Merv Griffin Show,7,384,1.6,63207
+tt1352421,Natsume's Book of Friends,1,1043,5.2,63208
+tt0084967,The A-Team,3,6997,7.0,63209
+tt2487090,Sam & Cat,1,6190,6.9,63210
+tt8596744,IMDb on the Scene - Interviews,2,4784,6.8,63211
+tt0072562,Saturday Night Live,31,2350,6.3,63212
+tt0136658,Quack Pack,1,2100,6.2,63213
+tt0123366,The View,20,381,1.5,63214
+tt0313043,CSI: Miami,2,10576,7.1,63215
+tt4770018,Love Island,4,1223,5.5,63216
+tt0056751,Doctor Who,23,6004,6.9,63217
+tt12578922,SparkShorts,1,22355,7.2,63218
+tt15561916,Escape,1,2650,6.4,63219
+tt12606372,Detective Extralarge,1,1410,5.7,63220
+tt0086822,V,1,4283,6.7,63221
+tt3697842,The Late Show with Stephen Colbert,6,3596,6.6,63222
+tt9612516,Space Force,2,6157,6.9,63223
+tt9780442,RuPaul's Drag Race UK,3,6288,6.9,63224
+tt0075592,Tales of the Unexpected,6,2120,6.2,63225
+tt17678852,Between the World and Us,1,1799,6.0,63226
+tt0959086,Flash Gordon: A Modern Space Opera,1,1571,5.9,63227
+tt22030306,Set Me Free,1,868,4.7,63228
+tt10394844,Soulmates,1,2329,6.3,63229
+tt0098749,Beverly Hills， 90210,9,2594,6.4,63230
+tt0056751,Doctor Who,2,22456,7.2,63231
+tt0085033,Inspector Gadget,1,5119,6.8,63232
+tt0468424,The Girls Next Door,1,2365,6.3,63233
+tt0880557,Bionic Woman,1,2126,6.2,63234
+tt0072562,Saturday Night Live,23,1754,6.0,63235
+tt12956264,Azbuka naseg zivota,1,568,3.3,63236
+tt0072562,Saturday Night Live,43,6123,6.9,63237
+tt1352421,Natsume's Book of Friends,4,753,4.3,63238
+tt0397306,American Dad!,13,8464,7.0,63239
+tt6656238,The Rain,3,2586,6.4,63240
+tt15715052,History of the World: Part II,1,2570,6.4,63241
+tt0799922,Wizards of Waverly Place,3,4320,6.7,63242
+tt12849204,Vreme zla,1,893,4.7,63243
+tt1821229,The Being Frank Show,4,358,1.0,63244
+tt3007572,Locke & Key,3,6044,6.9,63245
+tt3319460,Lisey's Story,1,4147,6.7,63246
+tt8762206,Creepshow,1,7309,6.9,63247
+tt0185103,WWE Raw,28,1676,5.9,63248
+tt1492179,Strike Back,6,3597,6.6,63249
+tt3909224,The Seven Deadly Sins,4,8154,7.0,63250
+tt1384816,Mater's Tall Tales,1,1904,6.1,63251
+tt0072564,Space: 1999,1,8524,7.0,63252
+tt0247094,Extra,,492,2.6,63253
+tt0043238,Tales of Tomorrow,1,2339,6.3,63254
+tt1266020,Parks and Recreation,1,18818,7.1,63255
+tt18071752,Black History， Black Freedom， and Black Love,1,473,2.4,63256
+tt13031912,Fantaghirò: Cave of the Golden Rose,1,6858,6.9,63257
+tt1361839,Sons of Tucson,1,876,4.6,63258
+tt0098749,Beverly Hills， 90210,8,3363,6.6,63259
+tt0096708,Tales from the Crypt,3,13021,7.1,63260
+tt0103569,The Tonight Show with Jay Leno,14,836,4.5,63261
+tt0115147,The Daily Show,9,1932,6.1,63262
+tt1352421,Natsume's Book of Friends,3,791,4.3,63263
+tt0098749,Beverly Hills， 90210,4,4737,6.8,63264
+tt0364782,The Apprentice,3,669,3.8,63265
+tt13173144,Resident Evil: Infinite Darkness,1,3308,6.6,63266
+tt0112111,The Outer Limits,1,10589,7.0,63267
+tt0092359,Full House,8,5830,6.9,63268
+tt12338760,Shout Out for A Cause at Home Edition (2020-),1,648,3.7,63269
+tt0098749,Beverly Hills， 90210,1,6830,6.9,63270
+tt10919486,Into the Night,2,3203,6.5,63271
+tt0057765,The Man from U.N.C.L.E.,3,2319,6.3,63272
+tt1399045,MacGyver,1,16183,7.1,63273
+tt0098749,Beverly Hills， 90210,7,3396,6.6,63274
+tt0076983,Battle of the Planets,1,1396,5.6,63275
+tt1890725,Blood-C,1,905,4.7,63276
+tt0086687,The Cosby Show,8,2738,6.4,63277
+tt1384816,Mater's Tall Tales,3,1913,6.0,63278
+tt1352421,Natsume's Book of Friends,2,849,4.5,63279
+tt10171532,The Oprah Conversation,1,740,4.1,63280
+tt2087193,Hayat Devam Ediyor,2,375,1.0,63281
+tt1661629,Perman,1,1069,5.1,63282
+tt16913068,Shahmaran,1,1571,5.8,63283
+tt0090493,The Oprah Winfrey Show,,2188,6.2,63284
+tt14183324,Askin Tarifi,1,506,2.6,63285
+tt9319770,4400,1,1949,6.0,63286
+tt2314952,Comedians in Cars Getting Coffee,5,3400,6.6,63287
+tt7573024,Creeped Out,1,2975,6.5,63288
+tt13303050,Past Malice,1,2452,6.3,63289
+tt0319931,American Idol,11,1242,5.4,63290
+tt0088563,MASK,1,1871,6.0,63291
+tt0046593,The Magical World of Disney,31,2954,6.4,63292
+tt10207090,Pandora,1,2263,6.2,63293
+tt0096542,Baywatch,10,1778,5.9,63294
+tt0072562,Saturday Night Live,27,1828,6.0,63295
+tt8412178,2018 FIFA World Cup Russia,1,3591,6.6,63296
+tt0092357,Friday the 13th: The Series,1,4682,6.7,63297
+tt0362153,The Simple Life,3,783,4.2,63298
+tt0076975,The Amazing Spider-Man,1,1562,5.7,63299
+tt0320037,Jimmy Kimmel Live!,4,1205,5.3,63300
+tt0299374,Richard & Judy,,663,3.6,63301
+tt5707802,Dear White People,3,2317,6.2,63302
+tt0086815,Thomas & Friends,11,1491,5.6,63303
+tt7134908,Elite,5,5378,6.8,63304
+tt0319931,American Idol,3,1217,5.3,63305
+tt0055683,The Jetsons,2,3985,6.6,63306
+tt0274298,Witchblade,1,1315,5.4,63307
+tt11281876,My Little Pony: Pony Life,1,769,4.1,63308
+tt15074312,Maigret,1,16485,7.1,63309
+tt15438246,Kaleidoscope,1,9789,7.0,63310
+tt0444953,Kaleido Star,1,698,3.8,63311
+tt0098844,Law & Order,21,3710,6.6,63312
+tt4364202,Criminal Minds: Beyond Borders,1,3521,6.6,63313
+tt6064882,Room 104,4,1840,5.9,63314
+tt13019570,Mystery Woman,1,3599,6.6,63315
+tt5707802,Dear White People,4,1113,5.1,63316
+tt1086761,Keeping Up with the Kardashians,11,778,4.1,63317
+tt0075592,Tales of the Unexpected,4,3094,6.5,63318
+tt8962124,Emily in Paris,2,9858,7.0,63319
+tt12392496,Undekhi,2,922,4.6,63320
+tt0098749,Beverly Hills， 90210,2,5939,6.8,63321
+tt0046587,Climax!,1,1548,5.7,63322
+tt3212600,Mahabharat,1,3424,6.5,63323
+tt7689460,Our Cartoon President,1,2230,6.1,63324
+tt13514366,Katie Fforde,1,1465,5.6,63325
+tt0168366,Pokémon,4,8100,6.9,63326
+tt3846642,The Girlfriend Experience,3,1490,5.6,63327
+tt10985096,Call Me Kat,1,3873,6.6,63328
+tt5296406,Designated Survivor,2,22003,7.1,63329
+tt0106053,Late Show with David Letterman,,2847,6.4,63330
+tt0185103,WWE Raw,29,1506,5.6,63331
+tt0182576,Family Guy,11,30283,7.2,63332
+tt0094512,Monsters,2,2311,6.2,63333
+tt1872328,Gosick,1,1013,4.8,63334
+tt0098749,Beverly Hills， 90210,10,2625,6.3,63335
+tt9642938,Unsolved Mysteries,2,4475,6.7,63336
+tt0319931,American Idol,8,1804,5.9,63337
+tt16418896,Gotham Knights,1,7830,6.9,63338
+tt0185066,Galaxy Express 999,1,1428,5.5,63339
+tt0285351,According to Jim,2,4244,6.7,63340
+tt0857277,Back at the Barnyard,1,2401,6.2,63341
+tt0088591,The Ray Bradbury Theater,2,1920,5.9,63342
+tt11704040,Love Is Blind,1,2663,6.3,63343
+tt14113198,The Crossword Mysteries,1,5016,6.7,63344
+tt6148376,Ben 10,4,971,4.6,63345
+tt0072562,Saturday Night Live,22,1674,5.7,63346
+tt0364782,The Apprentice,1,804,4.1,63347
+tt9337588,Leila,1,1542,5.6,63348
+tt13798316,Night Court,1,3595,6.5,63349
+tt0493093,Hannah Montana,2,7379,6.9,63350
+tt3846642,The Girlfriend Experience,2,2920,6.4,63351
+tt3560060,CSI: Cyber,1,4356,6.7,63352
+tt1069207,Jack Hunter and the Lost Treasure of Ugarit,1,1281,5.3,63353
+tt1372153,The Nutshack,2,1921,5.9,63354
+tt0202197,Wild Angel,1,2545,6.2,63355
+tt16968320,RuPaul's Drag Race UK vs the World,1,3898,6.6,63356
+tt13624900,Naomi,1,2841,6.3,63357
+tt14719276,He's Expecting,1,891,4.4,63358
+tt1798695,The Inbetweeners,1,751,3.8,63359
+tt13174750,The Gourmet Detective,1,5266,6.7,63360
+tt0118346,The Hunger,1,2112,6.0,63361
+tt0167515,Access Hollywood,,603,3.0,63362
+tt0046642,Sherlock Holmes,1,5111,6.7,63363
+tt0088478,Amazing Stories,2,5209,6.7,63364
+tt0154061,CatDog,2,2365,6.1,63365
+tt0053479,The Andy Griffith Show,8,5718,6.8,63366
+tt0078579,Buck Rogers in the 25th Century,1,5207,6.7,63367
+tt0907683,Beck,4,2547,6.2,63368
+tt10413786,Rifftrax Shorts,2,752,3.8,63369
+tt0144700,101 Dalmatians: The Series,1,1949,5.9,63370
+tt9815502,Bloodride,1,2985,6.4,63371
+tt0458250,Betsy's Kindergarten Adventures,1,435,1.2,63372
+tt3697842,The Late Show with Stephen Colbert,5,3677,6.5,63373
+tt8042500,Y: The Last Man,1,5998,6.8,63374
+tt6064882,Room 104,2,3817,6.5,63375
+tt6064882,Room 104,3,2437,6.2,63376
+tt0206512,SpongeBob SquarePants,13,2274,6.1,63377
+tt0319931,American Idol,10,1580,5.6,63378
+tt9077192,Haunted,1,1492,5.5,63379
+tt0468424,The Girls Next Door,2,1292,5.2,63380
+tt0320037,Jimmy Kimmel Live!,16,1447,5.4,63381
+tt1195935,The Cleveland Show,3,4681,6.7,63382
+tt0072562,Saturday Night Live,26,1921,5.8,63383
+tt1086761,Keeping Up with the Kardashians,4,1129,4.9,63384
+tt0083437,Knight Rider,1,9673,7.0,63385
+tt1086761,Keeping Up with the Kardashians,13,814,4.0,63386
+tt8001226,The War of the Worlds,1,2138,6.0,63387
+tt14161704,Roar,1,2973,6.3,63388
+tt20516438,Better Call Saul Presents: Slippin' Jimmy,1,817,4.0,63389
+tt7569592,Chilling Adventures of Sabrina,4,9032,6.9,63390
+tt15432016,Devil in Ohio,1,3604,6.5,63391
+tt0069637,Star Trek: The Animated Series,2,3836,6.5,63392
+tt0112167,Sliders,4,3931,6.5,63393
+tt0112095,NewsRadio,5,6486,6.8,63394
+tt0319931,American Idol,12,983,4.5,63395
+tt2771780,Teen Titans Go!,6,2377,6.1,63396
+tt15305648,African Queens: Njinga,1,562,2.4,63397
+tt0053479,The Andy Griffith Show,6,6039,6.8,63398
+tt18076310,The Rookie: Feds,1,4625,6.6,63399
+tt0426769,Peppa Pig,2,1303,5.1,63400
+tt0376434,Tinseltown TV,,715,3.4,63401
+tt7134908,Elite,6,2946,6.3,63402
+tt1305826,Adventure Time,,8865,6.9,63403
+tt8336340,Star Wars Resistance,2,6058,6.8,63404
+tt3722332,The Nightly Show with Larry Wilmore,1,1705,5.6,63405
+tt2708480,The Terror,2,8027,6.9,63406
+tt14852808,The Watcher,1,11577,7.0,63407
+tt12844722,Call My Manager,1,2039,5.9,63408
+tt13606528,Drag Race España,3,4094,6.6,63409
+tt5420376,Riverdale,4,22035,7.1,63410
+tt8543390,Modern Love,2,12282,7.0,63411
+tt0235918,The Fairly OddParents,9,1620,5.5,63412
+tt13640670,Man vs. Bee,1,11837,7.0,63413
+tt0397306,American Dad!,16,6512,6.8,63414
+tt11640018,La Brea,1,5649,6.7,63415
+tt6217938,Asheghaneh,2,914,4.2,63416
+tt5180504,The Witcher,3,4108,6.6,63417
+tt6903284,Nightflyers,1,5345,6.7,63418
+tt0445883,Koffee with Karan,7,1289,5.1,63419
+tt3444938,The Tonight Show Starring Jimmy Fallon,2,5193,6.7,63420
+tt0856757,Yaprak Dökümü,5,516,1.8,63421
+tt0080221,Galactica 1980,1,2007,5.8,63422
+tt0094535,Red Dwarf,9,3332,6.4,63423
+tt0060036,The Time Tunnel,1,5723,6.7,63424
+tt0285351,According to Jim,3,4104,6.5,63425
+tt15257704,Hype House,1,616,2.6,63426
+tt6656238,The Rain,1,8275,6.9,63427
+tt0115147,The Daily Show,13,3605,6.4,63428
+tt1086761,Keeping Up with the Kardashians,5,1194,4.8,63429
+tt12574336,Homemade,1,2674,6.2,63430
+tt0121955,South Park,25,18302,7.1,63431
+tt0111999,Hercules: The Legendary Journeys,3,7220,6.8,63432
+tt0251497,Big Brother,1,1781,5.6,63433
+tt6873926,Two Sentence Horror Stories,2,2329,6.0,63434
+tt0397306,American Dad!,12,9561,6.9,63435
+tt0168366,Pokémon,14,3480,6.4,63436
+tt13174746,Flower Shop Mysteries,1,3010,6.3,63437
+tt0103562,Taz-Mania,1,2381,6.0,63438
+tt14117010,Keep Breathing,1,2172,5.9,63439
+tt0111999,Hercules: The Legendary Journeys,5,6956,6.8,63440
+tt8242548,Four More Shots Please,1,1721,5.5,63441
+tt3190448,Metástasis,1,1021,4.4,63442
+tt0115147,The Daily Show,10,4124,6.5,63443
+tt0072562,Saturday Night Live,29,1858,5.6,63444
+tt4447390,Doubt,1,2389,6.0,63445
+tt12004280,Too Hot to Handle,2,1805,5.6,63446
+tt0319931,American Idol,4,1359,5.0,63447
+tt0319931,American Idol,2,1215,4.8,63448
+tt13851804,Siyavash,1,1015,4.3,63449
+tt0065327,Night Gallery,3,4139,6.5,63450
+tt0056751,Doctor Who,3,17401,7.0,63451
+tt0075488,CHiPs,5,2758,6.1,63452
+tt1761811,Pound Puppies,1,1496,5.2,63453
+tt12580982,National Treasure: Edge of History,1,5322,6.7,63454
+tt0115147,The Daily Show,26,2503,6.0,63455
+tt0075592,Tales of the Unexpected,7,2126,5.8,63456
+tt2378794,Hello Ladies,2,5805,6.7,63457
+tt10167284,Forky Asks a Question,1,4053,6.5,63458
+tt6410134,Irene Huss,2,2170,5.8,63459
+tt3498954,Everything Wrong with...,7,1076,4.4,63460
+tt0285351,According to Jim,1,4105,6.5,63461
+tt0055691,The Merv Griffin Show,3,500,1.2,63462
+tt12673630,The New York Times Presents,1,8031,6.8,63463
+tt0072562,Saturday Night Live,44,6088,6.7,63464
+tt0281433,The Dick Tracy Show,1,1560,5.3,63465
+tt5562056,Easy,1,5669,6.7,63466
+tt6874502,Unikitty!,1,2224,5.9,63467
+tt0096542,Baywatch,8,2167,5.8,63468
+tt0072562,Saturday Night Live,28,1687,5.4,63469
+tt13315324,The Woman in the House Across the Street from the Girl in the Window,1,8375,6.8,63470
+tt14810626,The Bad Penny,1,2179,5.8,63471
+tt13634444,Pixar Popcorn,1,4440,6.5,63472
+tt0493093,Hannah Montana,1,7874,6.8,63473
+tt0112178,Star Trek: Voyager,1,32257,7.1,63474
+tt9794044,Citadel,1,8623,6.9,63475
+tt1553656,Under the Dome,2,14151,7.0,63476
+tt0397306,American Dad!,15,8582,6.8,63477
+tt0096542,Baywatch,11,1808,5.5,63478
+tt0115147,The Daily Show,15,4531,6.5,63479
+tt5747326,The Kapil Sharma Show,2,3885,6.4,63480
+tt0319931,American Idol,1,1074,4.3,63481
+tt15853444,Emmanuelle 2000,,1011,4.1,63482
+tt0096542,Baywatch,9,2076,5.7,63483
+tt0319931,American Idol,9,1329,4.9,63484
+tt8923854,Black Summer,1,11681,6.9,63485
+tt0115147,The Daily Show,22,4311,6.5,63486
+tt6779076,Star Wars: Forces of Destiny,2,3191,6.2,63487
+tt0206512,SpongeBob SquarePants,5,11077,6.9,63488
+tt0270761,Candy Candy,1,2258,5.8,63489
+tt2934286,Halo,1,43248,7.1,63490
+tt1578873,Pretty Little Liars,6,17212,7.0,63491
+tt21265298,Once Upon a Time Mars,1,938,3.9,63492
+tt11042448,Wild bees,1,1861,5.5,63493
+tt0096636,Live with Kelly and Mark,,680,2.6,63494
+tt13623148,I Am Groot,1,15337,7.0,63495
+tt0072562,Saturday Night Live,30,2127,5.7,63496
+tt9520396,Vuslat,1,982,4.0,63497
+tt0103352,Are You Afraid of the Dark?,7,5527,6.6,63498
+tt0115147,The Daily Show,8,2909,6.1,63499
+tt0047708,Alfred Hitchcock Presents,1,38512,7.1,63500
+tt0112167,Sliders,3,5916,6.7,63501
+tt1628033,Top Gear,27,1732,5.4,63502
+tt13238304,The Life and Movies of Erşan Kuneri,1,8418,6.8,63503
+tt10413786,Rifftrax Shorts,3,816,3.3,63504
+tt1761811,Pound Puppies,3,1453,5.0,63505
+tt0111999,Hercules: The Legendary Journeys,4,7139,6.7,63506
+tt0206512,SpongeBob SquarePants,9,11122,6.9,63507
+tt0046593,The Magical World of Disney,30,3803,6.3,63508
+tt9139220,Dracula,1,16610,7.0,63509
+tt0096708,Tales from the Crypt,4,11163,6.9,63510
+tt1697033,True Justice,1,1744,5.3,63511
+tt0493093,Hannah Montana,3,5610,6.6,63512
+tt0111987,Goosebumps,4,4406,6.5,63513
+tt0075592,Tales of the Unexpected,2,4186,6.4,63514
+tt0094514,Murphy Brown,11,3707,6.3,63515
+tt3697842,The Late Show with Stephen Colbert,2,5226,6.6,63516
+tt0103434,Gute Zeiten， schlechte Zeiten,1,757,2.9,63517
+tt0096542,Baywatch,7,2416,5.8,63518
+tt13018906,Hailey Dean Mystery,1,6181,6.7,63519
+tt0115147,The Daily Show,12,3385,6.2,63520
+tt0056751,Doctor Who,1,32921,7.1,63521
+tt9612516,Space Force,1,22074,7.0,63522
+tt3498954,Everything Wrong with...,5,1206,4.5,63523
+tt0096708,Tales from the Crypt,2,19971,7.0,63524
+tt5462720,Kevin Can Wait,1,6874,6.7,63525
+tt13357946,Navarasa,1,2729,6.0,63526
+tt0145628,Popeye the Sailor,1,9065,6.8,63527
+tt0086815,Thomas & Friends,10,1646,5.2,63528
+tt1195935,The Cleveland Show,4,4364,6.4,63529
+tt8685446,Comedians of the World,1,3050,6.1,63530
+tt0058824,Lost in Space,3,4396,6.4,63531
+tt14471602,Jeyran,1,2843,6.0,63532
+tt0094517,Mystery Science Theater 3000,1,6591,6.7,63533
+tt0096697,The Simpsons,13,38795,7.1,63534
+tt0112178,Star Trek: Voyager,2,49946,7.1,63535
+tt0088527,Growing Pains,7,5021,6.5,63536
+tt6110648,The Purge,1,8602,6.8,63537
+tt6791088,Chrome,1,1885,5.4,63538
+tt0235918,The Fairly OddParents,10,1525,5.0,63539
+tt5165412,Still Star-Crossed,1,1710,5.2,63540
+tt10075318,The Gift,3,1625,5.1,63541
+tt8712204,Batwoman,3,6967,6.7,63542
+tt0773264,House of Payne,2,1207,4.4,63543
+tt0158417,Mahabharat,1,4851,6.5,63544
+tt15012366,The Empire,1,2592,5.9,63545
+tt1195935,The Cleveland Show,2,5455,6.6,63546
+tt4800624,Bizaardvark,1,1276,4.5,63547
+tt0115319,Power Rangers Zeo,1,14462,6.9,63548
+tt13174766,V.C. Andrews' Heaven,1,2332,5.7,63549
+tt13990468,Allen v. Farrow,1,2825,6.0,63550
+tt0086815,Thomas & Friends,16,814,2.9,63551
+tt0083467,The Powers of Matthew Star,1,988,3.7,63552
+tt4859164,The Loud House,4,4950,6.5,63553
+tt13356646,Solos,1,5444,6.5,63554
+tt0182576,Family Guy,15,21406,7.0,63555
+tt0111999,Hercules: The Legendary Journeys,2,8360,6.8,63556
+tt0207274,TV total,,4683,6.4,63557
+tt25642494,The Real Friends of WeHo,1,605,1.4,63558
+tt0118275,Brooklyn South,1,1634,5.0,63559
+tt1086761,Keeping Up with the Kardashians,14,1080,3.9,63560
+tt0086815,Thomas & Friends,12,945,3.5,63561
+tt8595140,The Conners,1,5590,6.5,63562
+tt13033136,Drag Race Holland,2,1642,5.0,63563
+tt0481452,Nightmares & Dreamscapes: From the Stories of Stephen King,1,5130,6.5,63564
+tt0115147,The Daily Show,27,3104,6.0,63565
+tt1755473,Little Secrets,1,629,1.5,63566
+tt0434665,Bleach,4,5203,6.5,63567
+tt0132666,The Wonderful World of Disney,44,5030,6.5,63568
+tt4428122,Quantico,3,5669,6.5,63569
+tt11173328,Crna svadba,1,4057,6.3,63570
+tt0047708,Alfred Hitchcock Presents,2,23240,7.0,63571
+tt0182576,Family Guy,13,26117,7.0,63572
+tt0094466,Freddy's Nightmares,1,3037,6.0,63573
+tt10404698,Monsterland,1,3356,6.1,63574
+tt0206512,SpongeBob SquarePants,11,9747,6.8,63575
+tt0182576,Family Guy,14,22894,7.0,63576
+tt0088512,EastEnders,1,3017,6.0,63577
+tt5164196,Lethal Weapon,3,10709,6.8,63578
+tt1628033,Top Gear,24,2915,5.9,63579
+tt1086761,Keeping Up with the Kardashians,1,1550,4.8,63580
+tt0907702,Wallander,3,3754,6.2,63581
+tt1086761,Keeping Up with the Kardashians,3,1424,4.6,63582
+tt6849940,ReBoot: The Guardian Code,2,1340,4.4,63583
+tt0115147,The Daily Show,3,1967,5.3,63584
+tt0105946,Babylon 5,1,27297,7.0,63585
+tt1086761,Keeping Up with the Kardashians,2,1489,4.7,63586
+tt0086815,Thomas & Friends,24,923,3.1,63587
+tt11766306,Attaway General,1,732,2.0,63588
+tt10937180,I Know What You Did Last Summer,1,3451,6.1,63589
+tt13557628,Gando,1,710,1.8,63590
+tt0096542,Baywatch,6,2745,5.8,63591
+tt1845307,2 Broke Girls,5,13382,6.9,63592
+tt0072562,Saturday Night Live,48,6200,6.6,63593
+tt1986770,Anger Management,2,16198,6.9,63594
+tt0115338,The Rosie O'Donnell Show,,1617,4.8,63595
+tt0463397,Corazón de...,,1143,3.8,63596
+tt5711280,Electric Dreams,1,31544,7.0,63597
+tt5988466,Wings of Love,1,748,2.1,63598
+tt0426769,Peppa Pig,1,2105,5.3,63599
+tt0319931,American Idol,5,1621,4.8,63600
+tt6045840,Black Lightning,2,9479,6.8,63601
+tt14923244,The Winchesters,1,13148,6.9,63602
+tt0096542,Baywatch,5,2837,5.8,63603
+tt0086815,Thomas & Friends,13,900,2.9,63604
+tt3180954,Es-Es,1,636,1.1,63605
+tt2317751,Indian Premier League,5,1709,4.9,63606
+tt0274298,Witchblade,2,1181,3.9,63607
+tt10841904,Aynen Aynen,5,5873,6.5,63608
+tt0046641,The Secret Storm,,657,1.3,63609
+tt23016788,Harry & Meghan: The Complete Story,1,1283,4.1,63610
+tt3498954,Everything Wrong with...,4,1571,4.7,63611
+tt0081857,Entertainment Tonight,,5247,6.4,63612
+tt1384816,Mater's Tall Tales,2,4782,6.3,63613
+tt8019298,Kalbim Seni Seçti,1,630,1.0,63614
+tt2874692,When Calls the Heart,8,7703,6.7,63615
+tt1086761,Keeping Up with the Kardashians,6,1651,4.8,63616
+tt2771780,Teen Titans Go!,5,3475,6.0,63617
+tt1086761,Keeping Up with the Kardashians,7,1636,4.8,63618
+tt1086761,Keeping Up with the Kardashians,10,1490,4.5,63619
+tt0086815,Thomas & Friends,14,859,2.6,63620
+tt0111987,Goosebumps,2,16757,6.9,63621
+tt0058796,Days of Our Lives,1,3876,6.1,63622
+tt1845307,2 Broke Girls,4,14664,6.9,63623
+tt13622982,Star Wars: Visions,1,42432,7.1,63624
+tt3107288,The Flash,8,23615,7.0,63625
+tt1086761,Keeping Up with the Kardashians,8,1521,4.5,63626
+tt13029326,Garage Sale Mysteries,1,14144,6.9,63627
+tt9096108,Rasbhari,1,1766,4.9,63628
+tt0096697,The Simpsons,14,36081,7.0,63629
+tt0844441,True Blood,7,13176,6.8,63630
+tt0407398,Hi Hi Puffy AmiYumi,2,7689,6.6,63631
+tt16124614,Blockbuster,1,3072,5.8,63632
+tt1628033,Top Gear,,4931,6.3,63633
+tt1635327,Nostalgia Critic,12,3466,6.0,63634
+tt8578422,Ege'nin Hamsisi,1,688,1.2,63635
+tt1267295,Cowboy Bebop,1,13787,6.8,63636
+tt0397306,American Dad!,17,8092,6.6,63637
+tt0086815,Thomas & Friends,23,926,2.7,63638
+tt5301950,What Happens to My Family,2,733,1.5,63639
+tt6779076,Star Wars: Forces of Destiny,1,4398,6.2,63640
+tt9520396,Vuslat,2,889,2.4,63641
+tt0086815,Thomas & Friends,15,910,2.5,63642
+tt10841904,Aynen Aynen,4,5164,6.3,63643
+tt1353056,RuPaul's Drag Race,13,10188,6.7,63644
+tt0072562,Saturday Night Live,41,5995,6.4,63645
+tt1086761,Keeping Up with the Kardashians,9,1394,4.1,63646
+tt0207932,Das Traumschiff,1,3309,5.9,63647
+tt0106145,Star Trek: Deep Space Nine,1,46151,7.0,63648
+tt0072564,Space: 1999,2,5238,6.3,63649
+tt0182576,Family Guy,21,9820,6.7,63650
+tt0072562,Saturday Night Live,47,8326,6.6,63651
+tt0115147,The Daily Show,21,5596,6.4,63652
+tt7587890,The Rookie,3,16433,6.9,63653
+tt11058078,The Amber Ruffin Show,1,1327,3.9,63654
+tt0096542,Baywatch,4,3142,5.8,63655
+tt0115147,The Daily Show,23,3833,6.0,63656
+tt0092322,Biography,9,6942,6.5,63657
+tt0096542,Baywatch,1,4929,6.3,63658
+tt1086761,Keeping Up with the Kardashians,12,1408,4.0,63659
+tt8210856,Cursed,1,11803,6.8,63660
+tt6148376,Ben 10,2,1521,4.3,63661
+tt10023178,A Little Late with Lilly Singh,2,1430,4.0,63662
+tt1195935,The Cleveland Show,1,6858,6.5,63663
+tt4718304,The Powerpuff Girls,3,1200,3.5,63664
+tt0096697,The Simpsons,15,34439,7.0,63665
+tt9201996,Don't Watch This,1,1374,3.9,63666
+tt10826054,Masters of the Universe: Revelation,1,8553,6.6,63667
+tt0319931,American Idol,7,1833,4.7,63668
+tt0165598,That '70s Show,8,15862,6.8,63669
+tt1821229,The Being Frank Show,3,734,1.0,63670
+tt0397306,American Dad!,10,9515,6.6,63671
+tt0319931,American Idol,6,1848,4.7,63672
+tt11561206,The Goop Lab,1,1150,3.2,63673
+tt0092322,Biography,7,6779,6.5,63674
+tt0086814,Tales from the Darkside,4,4253,6.1,63675
+tt0086815,Thomas & Friends,22,1043,2.8,63676
+tt0407398,Hi Hi Puffy AmiYumi,3,7684,6.5,63677
+tt0058824,Lost in Space,2,5737,6.3,63678
+tt8242548,Four More Shots Please,2,1633,4.3,63679
+tt0094512,Monsters,1,4513,6.1,63680
+tt14556544,Thomas & Friends: All Engines Go,1,1072,2.8,63681
+tt21856734,Junji Ito Maniac: Japanese Tales of the Macabre,1,3691,5.9,63682
+tt0096697,The Simpsons,16,31618,7.0,63683
+tt9561862,Love， Death & Robots,2,89004,7.1,63684
+tt2377271,Out There,1,1647,4.3,63685
+tt0086814,Tales from the Darkside,3,4790,6.1,63686
+tt4428122,Quantico,2,10062,6.6,63687
+tt4655480,Chicago Med,3,13553,6.8,63688
+tt1570506,Brivido giallo,1,1986,4.7,63689
+tt0251497,Big Brother,23,3063,5.6,63690
+tt11042448,Wild bees,2,2231,5.0,63691
+tt0096708,Tales from the Crypt,6,8630,6.5,63692
+tt0907683,Beck,8,3544,5.8,63693
+tt5462720,Kevin Can Wait,2,4686,6.1,63694
+tt0096542,Baywatch,3,3714,5.8,63695
+tt6148376,Ben 10,3,1343,3.5,63696
+tt1845307,2 Broke Girls,6,12291,6.7,63697
+tt2301351,RuPaul's Drag Race All Stars,4,6486,6.4,63698
+tt0106064,Mighty Morphin Power Rangers,1,31196,6.9,63699
+tt0907683,Beck,7,4571,6.0,63700
+tt0106064,Mighty Morphin Power Rangers,2,23388,6.9,63701
+tt14192040,RuPaul's Drag Race Down Under,1,3317,5.6,63702
+tt0096542,Baywatch,2,3935,5.8,63703
+tt0088634,The Twilight Zone,3,7304,6.4,63704
+tt0139774,Dragon Ball GT,1,22260,6.9,63705
+tt0056759,Girl Talk,,815,1.0,63706
+tt11871764,The Proud Family: Louder and Prouder,1,2265,4.9,63707
+tt13025202,Aurora Teagarden Mysteries,1,21803,6.9,63708
+tt14500082,How I Met Your Father,1,11725,6.7,63709
+tt1821229,The Being Frank Show,2,817,1.0,63710
+tt4733278,I Am Cait,1,1663,4.1,63711
+tt0080231,Hammer House of Horror,1,8009,6.5,63712
+tt13583468,Iste Bu Benim Masalim,1,1868,4.4,63713
+tt6410134,Irene Huss,1,3317,5.6,63714
+tt2085059,Black Mirror,6,92609,7.0,63715
+tt0112167,Sliders,5,2906,5.3,63716
+tt0072562,Saturday Night Live,46,8481,6.5,63717
+tt0907683,Beck,6,4419,5.9,63718
+tt0069637,Star Trek: The Animated Series,1,12142,6.7,63719
+tt7161862,Stargate Origins,1,2608,5.1,63720
+tt3697842,The Late Show with Stephen Colbert,1,6907,6.3,63721
+tt3520702,Bloodline,3,7565,6.4,63722
+tt1831804,The Stand,1,12249,6.7,63723
+tt0096697,The Simpsons,34,10384,6.6,63724
+tt3743822,Fear the Walking Dead,8,4837,6.0,63725
+tt16350094,The Boys Presents: Diabolical,1,15692,6.7,63726
+tt0115147,The Daily Show,24,4111,5.8,63727
+tt0096697,The Simpsons,18,34513,6.9,63728
+tt0388629,One Piece,,3573,5.6,63729
+tt1841116,FunnyMovie,1,1183,2.6,63730
+tt10148174,The Walking Dead: World Beyond,2,10002,6.5,63731
+tt6156584,Snowpiercer,3,8641,6.5,63732
+tt10857164,Ms. Marvel,1,54907,7.0,63733
+tt0111987,Goosebumps,3,13087,6.7,63734
+tt2087193,Hayat Devam Ediyor,1,908,1.1,63735
+tt4635276,Master of None,3,5213,6.0,63736
+tt0096697,The Simpsons,19,31054,6.9,63737
+tt13921170,The Good， the Bad， the Corny: Radioactive,1,1239,2.7,63738
+tt4016454,Supergirl,6,19249,6.8,63739
+tt1520211,The Walking Dead,8,152324,7.0,63740
+tt0092325,The Bold and the Beautiful,1,4489,5.8,63741
+tt16351432,Oats Studios,1,4449,5.8,63742
+tt0103352,Are You Afraid of the Dark?,6,7191,6.3,63743
+tt0086814,Tales from the Darkside,2,6365,6.2,63744
+tt0088478,Amazing Stories,1,10912,6.5,63745
+tt4132514,Yedi Güzel Adam,2,1016,1.6,63746
+tt0239195,Survivor,41,4367,5.8,63747
+tt0092455,Star Trek: The Next Generation,2,78847,7.0,63748
+tt0096697,The Simpsons,20,30478,6.9,63749
+tt1553656,Under the Dome,3,10664,6.5,63750
+tt10839422,Sex/Life,1,4506,5.8,63751
+tt0182576,Family Guy,19,16989,6.7,63752
+tt1372153,The Nutshack,1,2967,5.1,63753
+tt9073722,Marvel Rising: Initiation,2,3051,5.2,63754
+tt0318252,The Twilight Zone,1,13405,6.6,63755
+tt10278918,Willow,1,23390,6.8,63756
+tt15669534,Tales of the Walking Dead,1,8650,6.4,63757
+tt0182576,Family Guy,20,13623,6.6,63758
+tt3467414,Harem,1,978,1.2,63759
+tt6849940,ReBoot: The Guardian Code,1,1988,4.2,63760
+tt0118436,Power Rangers Turbo,1,12182,6.6,63761
+tt4733278,I Am Cait,2,1496,3.2,63762
+tt3921180,Scream: The TV Series,3,3816,5.5,63763
+tt4824056,Bandits,1,6379,6.1,63764
+tt0115147,The Daily Show,25,4214,5.6,63765
+tt0057733,Bewitched,8,6121,6.1,63766
+tt4718304,The Powerpuff Girls,2,1737,3.6,63767
+tt0423621,Brandy & Mr. Whiskers,1,2108,4.2,63768
+tt5639976,The Mist,1,8307,6.3,63769
+tt10338160,Chad,1,2121,4.2,63770
+tt0115147,The Daily Show,1,2384,4.5,63771
+tt0115147,The Daily Show,11,4613,5.7,63772
+tt9737326,Invasion,1,12654,6.5,63773
+tt0115147,The Daily Show,2,2538,4.6,63774
+tt2771780,Teen Titans Go!,4,5503,5.9,63775
+tt6048596,The Sinner,3,15703,6.6,63776
+tt0182576,Family Guy,18,18259,6.7,63777
+tt9067020,The I-Land,1,4423,5.6,63778
+tt0096697,The Simpsons,17,33275,6.8,63779
+tt0096697,The Simpsons,25,27052,6.8,63780
+tt12004280,Too Hot to Handle,1,3250,5.0,63781
+tt0096708,Tales from the Crypt,7,6138,6.0,63782
+tt4270492,Billions,6,7515,6.2,63783
+tt0096697,The Simpsons,33,16507,6.6,63784
+tt13406036,Anne Boleyn,1,4608,5.6,63785
+tt3213296,In Between,1,1160,1.4,63786
+tt0056751,Doctor Who,24,6378,6.0,63787
+tt0096697,The Simpsons,21,30385,6.8,63788
+tt5165368,Amazing Stories,1,8030,6.2,63789
+tt1837492,13 Reasons Why,3,28180,6.8,63790
+tt1409055,Dragon Ball Z Kai,2,40344,6.8,63791
+tt0206512,SpongeBob SquarePants,8,9629,6.3,63792
+tt0086814,Tales from the Darkside,1,9760,6.3,63793
+tt8336340,Star Wars Resistance,1,10147,6.3,63794
+tt17220204,Everything's Gonna Be All White,1,1218,1.6,63795
+tt11871764,The Proud Family: Louder and Prouder,2,2116,3.9,63796
+tt13819960,And Just Like That...,1,14038,6.5,63797
+tt0096697,The Simpsons,29,20076,6.7,63798
+tt0096697,The Simpsons,27,24026,6.7,63799
+tt3897284,Tropes vs. Women in Video Games,1,1208,1.4,63800
+tt0088554,Lindenstraße,1,4648,5.5,63801
+tt0896232,Intimate Portrait,,18156,6.6,63802
+tt0285403,Scrubs,9,9722,6.3,63803
+tt16274170,The Red Ape Family,1,1591,2.7,63804
+tt5301950,What Happens to My Family,1,1265,1.5,63805
+tt0092322,Biography,8,7947,6.1,63806
+tt2261227,Altered Carbon,2,21655,6.6,63807
+tt0856757,Yaprak Dökümü,3,1687,2.9,63808
+tt6064882,Room 104,1,9361,6.2,63809
+tt0096697,The Simpsons,24,25296,6.7,63810
+tt0096697,The Simpsons,22,27973,6.7,63811
+tt0060028,Star Trek,3,71532,6.9,63812
+tt5103758,Troy: Fall of a City,1,3872,5.1,63813
+tt0856757,Yaprak Dökümü,4,1412,2.0,63814
+tt0106064,Mighty Morphin Power Rangers,3,18510,6.6,63815
+tt0907702,Wallander,2,9068,6.2,63816
+tt2392143,Motorcity,1,2552,4.2,63817
+tt0094540,Roseanne,9,6081,5.8,63818
+tt6394324,Charmed,1,12958,6.4,63819
+tt21874046,My Name Is Farah,1,6523,5.9,63820
+tt2583620,The Twilight Zone,2,13450,6.4,63821
+tt0773262,Dexter,8,73930,6.8,63822
+tt6148376,Ben 10,1,2497,4.0,63823
+tt11117570,Tandav,1,6425,5.8,63824
+tt0407398,Hi Hi Puffy AmiYumi,1,7757,6.0,63825
+tt5133998,Endless Love,1,3273,4.6,63826
+tt9353248,Star Wars Galaxy of Adventures,1,2969,4.4,63827
+tt15655120,Blue Nissan,1,1769,2.6,63828
+tt1821229,The Being Frank Show,1,1290,1.0,63829
+tt1844624,American Horror Story,10,29288,6.7,63830
+tt0096697,The Simpsons,26,25452,6.6,63831
+tt8806524,Star Trek: Picard,2,35358,6.7,63832
+tt5420376,Riverdale,5,18131,6.5,63833
+tt5133998,Endless Love,2,2913,4.2,63834
+tt3743822,Fear the Walking Dead,5,34822,6.7,63835
+tt0436992,Doctor Who,13,27213,6.6,63836
+tt2085059,Black Mirror,5,120422,6.8,63837
+tt0096697,The Simpsons,32,17526,6.4,63838
+tt0096697,The Simpsons,23,31576,6.6,63839
+tt0096697,The Simpsons,31,18707,6.5,63840
+tt1112285,Fear Itself,1,9606,6.0,63841
+tt0369179,Two and a Half Men,11,17686,6.4,63842
+tt8369840,Another Life,1,10204,6.1,63843
+tt0206512,SpongeBob SquarePants,6,12408,6.2,63844
+tt2771780,Teen Titans Go!,3,7797,5.8,63845
+tt13557628,Gando,2,2202,3.1,63846
+tt3107288,The Flash,7,31144,6.6,63847
+tt5171438,Star Trek: Discovery,3,45725,6.7,63848
+tt8788458,The Promised Neverland,2,14345,6.3,63849
+tt0907683,Beck,5,10302,6.1,63850
+tt0369179,Two and a Half Men,10,20131,6.5,63851
+tt0907683,Beck,3,9907,6.0,63852
+tt0096697,The Simpsons,28,19286,6.4,63853
+tt6021260,Bill Nye Saves the World,1,3838,4.7,63854
+tt7668518,The Protector,2,11308,6.1,63855
+tt4154858,Inhumans,1,10543,6.1,63856
+tt1213404,Knight Rider,1,10505,6.0,63857
+tt0092455,Star Trek: The Next Generation,1,95658,6.8,63858
+tt3107288,The Flash,9,17097,6.3,63859
+tt0907702,Wallander,1,13872,6.2,63860
+tt23900194,Harry & Meghan,1,8033,5.7,63861
+tt0092322,Biography,,54569,6.7,63862
+tt0907694,Rosamunde Pilcher,1,4881,5.0,63863
+tt8063174,Immortals,1,6557,5.4,63864
+tt0132666,The Wonderful World of Disney,2,5887,5.3,63865
+tt0907683,Beck,2,12832,6.1,63866
+tt4718304,The Powerpuff Girls,1,3538,4.1,63867
+tt12336548,The Hollywood Moment at Home Edition,1,2938,3.5,63868
+tt5420376,Riverdale,6,11422,6.0,63869
+tt0907683,Beck,1,12031,6.0,63870
+tt0182576,Family Guy,17,23393,6.4,63871
+tt8910494,So Far,1,3180,3.7,63872
+tt2771780,Teen Titans Go!,2,8319,5.5,63873
+tt0088512,EastEnders,,6436,5.2,63874
+tt8923396,Jinn,1,3462,3.8,63875
+tt4859164,The Loud House,5,5391,4.9,63876
+tt0182576,Family Guy,12,31910,6.4,63877
+tt1837492,13 Reasons Why,4,19319,6.2,63878
+tt8415836,Guillermo del Toro's Cabinet of Curiosities,1,81297,6.6,63879
+tt0132666,The Wonderful World of Disney,4,10178,5.7,63880
+tt12785720,The Witcher: Blood Origin,1,8604,5.5,63881
+tt2771780,Teen Titans Go!,1,11919,5.8,63882
+tt12306692,American Horror Stories,2,17355,6.1,63883
+tt0206512,SpongeBob SquarePants,7,11289,5.7,63884
+tt8712204,Batwoman,2,16947,6.1,63885
+tt0096697,The Simpsons,30,21182,6.2,63886
+tt0176357,American Playhouse,,2653,2.5,63887
+tt8435344,ThunderCats Roar,1,2968,2.9,63888
+tt1844624,American Horror Story,11,14804,5.9,63889
+tt2570866,Diya Aur Baati Hum,1,2340,1.7,63890
+tt5621544,Pinky Malinky,1,14333,5.9,63891
+tt3481544,Breadwinners,2,3152,2.9,63892
+tt0284767,The Factor,,2806,2.3,63893
+tt0142055,Teletubbies,1,5948,4.6,63894
+tt0448190,Masters of Horror,1,64019,6.4,63895
+tt0132666,The Wonderful World of Disney,1,20364,6.0,63896
+tt15552352,The Dollanganger Saga,1,19029,5.9,63897
+tt11874042,Six Windows in the Desert,1,5228,4.1,63898
+tt10148174,The Walking Dead: World Beyond,1,15151,5.7,63899
+tt3481544,Breadwinners,1,3959,3.1,63900
+tt3743822,Fear the Walking Dead,7,25539,6.0,63901
+tt8427140,Into the Dark,2,14668,5.6,63902
+tt8712204,Batwoman,1,39116,6.2,63903
+tt20255706,The Pogmentary,1,2703,1.3,63904
+tt14954666,The Idol,1,9268,5.0,63905
+tt0436992,Doctor Who,11,88209,6.4,63906
+tt12306692,American Horror Stories,1,22986,5.9,63907
+tt13635348,High Guardian Spice,1,2984,1.6,63908
+tt0806910,Tatort,1,154480,6.4,63909
+tt0369179,Two and a Half Men,9,28737,5.9,63910
+tt1217518,Patito feo,1,9885,4.9,63911
+tt0448190,Masters of Horror,2,31869,5.9,63912
+tt0436992,Doctor Who,12,54721,6.2,63913
+tt0132666,The Wonderful World of Disney,3,24613,5.8,63914
+tt2583620,The Twilight Zone,1,33006,5.9,63915
+tt7016936,Killing Eve,4,18763,5.5,63916
+tt8427140,Into the Dark,1,28861,5.8,63917
+tt0369179,Two and a Half Men,12,14325,5.2,63918
+tt14482414,Racket Boys,1,10712,4.8,63919
+tt9660182,Resident Evil,1,13536,5.0,63920
+tt5171438,Star Trek: Discovery,4,29376,5.7,63921
+tt1217518,Patito feo,2,6727,3.6,63922
+tt12286260,Santa Inc.,1,5463,2.7,63923
+tt10857160,She-Hulk: Attorney at Law,1,133702,6.1,63924
+tt0944947,Game of Thrones,8,1108177,6.2,63925
+tt21194980,Golden Bull,1,4092,1.2,63926
+tt10023178,A Little Late with Lilly Singh,1,6224,2.7,63927
+tt1628033,Top Gear,23,8047,2.5,63928
+tt1856010,House of Cards,6,43886,4.2,63929
+tt14153790,Velma,1,22545,2.9,63930
+tt0132666,The Wonderful World of Disney,47,39681,2.7,63931
+tt27528139,Queen Cleopatra,1,37222,1.0,63932
