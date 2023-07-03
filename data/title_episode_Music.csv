@@ -114,9 +114,9 @@ tt0538703,Samuel Jackson Beer & Racial Draft,Chappelle's Show,2,1,8.6,574,112
 tt1442936,Ballad,Glee,1,10,8.3,1645,113
 tt4980038,Supernatural Parody,The Hillywood Show,,,9.6,180,114
 tt1673158,Episode dated 20 April 1989,Late Night with David Letterman,,,9.8,158,115
+tt12441860,One Big Family,Above All That Is Random,1,6,10.0,141,116
 tt12441814,Getting Paid,Above All That Is Random,1,4,10.0,141,116
 tt12441838,Lava Lamp (Bubbly),Above All That Is Random,1,5,10.0,141,116
-tt12441860,One Big Family,Above All That Is Random,1,6,10.0,141,116
 tt4611880,Where There Is Ruin， There Is Hope for a Treasure,The Get Down,1,1,8.4,980,119
 tt1628294,Duets,Glee,2,4,8.3,1497,120
 tt11266784,Track 9: Feels Like the First Time,Daisy Jones & The Six,1,9,8.5,684,121
@@ -267,8 +267,8 @@ tt6298494,John Cena/Maren Morris,Saturday Night Live,42,9,6.2,265,20980
 tt0627761,Gisele Bündchen/Dane Cook/The White Stripes,Late Night with Conan O'Brien,13,47,2.7,32,20981
 tt8041680,Sip Stop Hooray,All About the Washingtons,1,1,3.9,46,20982
 tt3562216,Lena Dunham/The National,Saturday Night Live,39,15,6.0,189,20983
-tt0694744,Claire Danes/Mariah Carey,Saturday Night Live,23,6,5.3,93,20984
 tt0694964,Malcolm McDowell/Captain Beefheart & The Magic Band,Saturday Night Live,6,2,5.3,93,20984
+tt0694744,Claire Danes/Mariah Carey,Saturday Night Live,23,6,5.3,93,20984
 tt0698760,Snowed In,The Seán Cullen Show,1,6,3.3,38,20986
 tt0694777,Britney Spears,Saturday Night Live,25,19,5.8,147,20987
 tt0762567,No Way Jim Moves on After That Performance. Right， Simon? Simon?,American Idol,1,3,4.2,52,20988
@@ -303,20 +303,20 @@ tt0628682,Episode dated 28 April 2005,Late Show with David Letterman,,,2.3,31,21
 tt0694815,The Rock/Andrew W.K.,Saturday Night Live,27,17,5.3,100,21017
 tt0937443,Auditions: Minneapolis,American Idol,6,1,3.7,46,21018
 tt2409572,A Dream， a Song,Violetta,1,1,5.4,109,21019
-tt3510026,Jim Parsons/Beck,Saturday Night Live,39,14,6.0,210,21020
 tt5705308,Drake,Saturday Night Live,41,20,6.0,210,21020
+tt3510026,Jim Parsons/Beck,Saturday Night Live,39,14,6.0,210,21020
 tt0694860,Halle Berry/Britney Spears,Saturday Night Live,29,3,5.1,88,21022
 tt0868333,Episode dated 28 September 2006,Late Show with David Letterman,,,1.9,29,21023
-tt1201940,Episode #16.33,The Tonight Show with Jay Leno,16,33,2.2,31,21024
 tt0729040,Episode #13.144,The Tonight Show with Jay Leno,13,144,2.2,31,21024
+tt1201940,Episode #16.33,The Tonight Show with Jay Leno,16,33,2.2,31,21024
 tt0756927,Steve Carell/Sanaa Lathan/Lewis Taylor,Late Night with Conan O'Brien,13,75,2.7,35,21026
 tt0694641,Rosie O'Donnell/James Taylor,Saturday Night Live,19,6,4.8,75,21027
 tt0797137,The Unkindest Cuts,American Idol,1,11,3.7,47,21028
 tt0729004,Episode #13.108,The Tonight Show with Jay Leno,13,108,1.7,28,21029
 tt9859896,In Loving Virtue,Empire,5,11,5.8,165,21030
 tt0694834,Bernie Mac/Good Charlotte,Saturday Night Live,28,16,4.6,68,21031
-tt0698758,Kissing a Nun,The Seán Cullen Show,1,3,2.4,33,21032
 tt0628263,Episode dated 28 August 1997,Late Show with David Letterman,,,2.4,33,21032
+tt0698758,Kissing a Nun,The Seán Cullen Show,1,3,2.4,33,21032
 tt0888446,Episode #2.3,Video on Trial,2,3,3.3,42,21034
 tt27125947,Ana de Armas/Karol G,Saturday Night Live,48,18,6.0,222,21035
 tt0694443,Paul Simon/Randy Newman/Phoebe Snow,Saturday Night Live,1,2,6.2,328,21036
@@ -332,8 +332,8 @@ tt1144774,Episode dated 20 November 2007,Total Request Live,,,2.6,36,21045
 tt0694823,Billy Bob Thornton/Creed,Saturday Night Live,27,6,4.9,85,21046
 tt0694811,Jonny Moseley/Outkast,Saturday Night Live,27,13,4.5,69,21047
 tt0628286,Episode dated 11 June 1998,Late Show with David Letterman,,,1.9,31,21048
-tt0615733,Episode #3.158,Jimmy Kimmel Live!,3,158,2.4,35,21049
 tt0615641,Episode #3.6,Jimmy Kimmel Live!,3,6,2.4,35,21049
+tt0615733,Episode #3.158,Jimmy Kimmel Live!,3,158,2.4,35,21049
 tt0627817,Episode dated 21 February 1983,Late Night with David Letterman,,,2.0,32,21051
 tt1288329,Michael Phelps/Lil' Wayne,Saturday Night Live,34,1,5.7,163,21052
 tt0615845,Episode #4.47,Jimmy Kimmel Live!,4,47,3.0,41,21053
@@ -375,8 +375,8 @@ tt0751849,Pilot,Yo! MTV Raps,1,1,4.0,65,21088
 tt11191234,Home Is on the Way,Empire,6,18,5.6,176,21089
 tt0694723,Chris Rock/The Wallflowers,Saturday Night Live,22,5,4.7,90,21090
 tt0615639,Episode #3.4,Jimmy Kimmel Live!,3,4,2.5,41,21091
-tt0615638,Episode #3.3,Jimmy Kimmel Live!,3,3,2.1,38,21092
 tt0615637,Episode #3.2,Jimmy Kimmel Live!,3,2,2.1,38,21092
+tt0615638,Episode #3.3,Jimmy Kimmel Live!,3,3,2.1,38,21092
 tt13700636,John Krasinski/Machine Gun Kelly,Saturday Night Live,46,10,6.1,394,21094
 tt4370480,Blake Shelton,Saturday Night Live,40,12,5.7,208,21095
 tt0694832,Queen Latifah/Ms. Dynamite,Saturday Night Live,28,14,4.4,81,21096
@@ -462,18 +462,18 @@ tt0646759,Hugh O'Brian， David Soul， David Susskind， Genevieve， Sam Yorty
 tt0646756,Peter Ustinov， Fleury D'Antonakis,The Merv Griffin Show,3,166,1.3,100,21176
 tt5846950,Bruce Banner vs Bruce Jenner,Epic Rap Battles of History,5,5,4.4,371,21177
 tt0615760,Episode #3.195,Jimmy Kimmel Live!,3,195,2.0,122,21178
-tt0646745,George Hamilton， Alexandra Berlin， The Lettermen， Merriman Smith,The Merv Griffin Show,2,51,1.2,101,21179
 tt0646794,William Holden， Paul Anka， Stanley Myron Handelman， Lori Rogers， Dr. James Watson,The Merv Griffin Show,5,127,1.2,101,21179
+tt0646745,George Hamilton， Alexandra Berlin， The Lettermen， Merriman Smith,The Merv Griffin Show,2,51,1.2,101,21179
 tt0646748,Minnie Pearl， Jack E. Leonard， Emily Yancy， Pat Carroll， George Carlin， John Bartholomew Tucker,The Merv Griffin Show,3,52,1.1,99,21181
-tt0646747,Joan Crawford， Alexandra Berlin,The Merv Griffin Show,3,43,1.1,99,21181
 tt0646755,Monique Van Vooren， Steven Perry， B.S. Pully， Jim Thorne,The Merv Griffin Show,3,151,1.1,99,21181
+tt0646747,Joan Crawford， Alexandra Berlin,The Merv Griffin Show,3,43,1.1,99,21181
 tt0646873,Mickey Rooney， Rosemary Clooney， Bruce Jenner,The Merv Griffin Show,,,1.3,104,21184
 tt0628615,Episode dated 5 November 2004,Late Show with David Letterman,,,1.7,115,21185
 tt0647903,Episode #8.12,The Mike Douglas Show,8,12,1.4,108,21186
 tt0646800,Joan Crawford， James Drury， Julius LaRosa， Junior Samples， Dr. Cleo Dawson,The Merv Griffin Show,7,108,1.2,103,21187
 tt0646795,Hans Conried， Nipsey Russell， Stewart Alsop， Jill Haworth， Robie Porter， Lee Tully,The Merv Griffin Show,5,176,1.1,101,21188
-tt0646852,Willie Mays， Dennis Hopper， Diane Baker,The Merv Griffin Show,9,38,1.2,104,21189
 tt0646799,Televised from Las Vegas with guests Walter Matthau， David Janssen， Eddie Fisher， Barbara Eden， George Carlin， Wayne Cochran,The Merv Griffin Show,7,56,1.2,104,21189
+tt0646852,Willie Mays， Dennis Hopper， Diane Baker,The Merv Griffin Show,9,38,1.2,104,21189
 tt0646770,Johnny Nash， Jan Murray， Gussie Moran， Lillian Briggs， Monti Rock III， Professor Irwin Corey， Willard & Greco,The Merv Griffin Show,5,6,1.1,102,21191
 tt0646801,Joan Crawford， Jack Douglas and Reiko， Gilbert Price， Patchett & Tarsus,The Merv Griffin Show,7,153,1.1,103,21192
 tt0646854,Proteges,The Merv Griffin Show,10,7,1.1,104,21193

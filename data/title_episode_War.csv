@@ -131,8 +131,8 @@ tt1247753,Screwby,Generation Kill,1,3,8.3,898,129
 tt5378538,Mended,TURN: Washington's Spies,3,8,8.6,346,130
 tt1247754,Combat Jack,Generation Kill,1,4,8.3,876,131
 tt1247756,Stay Frosty,Generation Kill,1,6,8.3,846,132
-tt0638303,Fade Out， Fade In,M*A*S*H,6,1,8.4,559,133
 tt0638264,Bug Out,M*A*S*H,5,1,8.4,559,133
+tt0638303,Fade Out， Fade In,M*A*S*H,6,1,8.4,559,133
 tt0760917,Aid Station,M*A*S*H,3,19,8.4,553,135
 tt6139220,Reckoning,TURN: Washington's Spies,4,9,8.6,331,136
 tt1129865,Banzai! Japan 1931-1942,The World at War,1,6,8.5,410,137
@@ -254,20 +254,20 @@ tt4435358,A Plan To Abduct Rukmini,Mahabharat,1,69,5.8,26,4845
 tt3003082,Napad,Ravna Gora,1,1,6.9,63,4846
 tt3256524,Pandu Informs Kunti About The War,Mahabharat,1,20,5.7,25,4847
 tt3252436,Shakuni Provokes Dhritarashtra,Mahabharat,1,19,5.7,25,4847
-tt3347460,Pandavs， Kauravs In A Contest,Mahabharat,1,48,5.2,20,4849
 tt3344696,Shakuni Provokes Ashwatthama,Mahabharat,1,47,5.2,20,4849
+tt3347460,Pandavs， Kauravs In A Contest,Mahabharat,1,48,5.2,20,4849
 tt3369616,Arjun Gets Angry At Karn,Mahabharat,1,55,5.2,20,4849
 tt0644953,The Return of Big Frenchy,McHale's Navy,2,28,6.3,36,4852
 tt8700790,Forest of Death,Hitler's Last Stand,1,3,5.9,28,4853
 tt0602448,Two Nazis for the Price of One,Hogan's Heroes,3,17,7.4,174,4854
-tt4435352,Yudhishthir Becomes Maharaj Of Hastinapur,Mahabharat,1,66,5.3,21,4855
 tt3328024,Kunti To Shift To Kuntibhoj,Mahabharat,1,40,5.3,21,4855
-tt3218526,Bheeshm Defeats Maharaj Shalv,Mahabharat,1,3,6.4,39,4857
+tt4435352,Yudhishthir Becomes Maharaj Of Hastinapur,Mahabharat,1,66,5.3,21,4855
 tt0173685,Death by Moonlight: Bomber Command,The Valour and the Horror,1,2,6.4,39,4857
+tt3218526,Bheeshm Defeats Maharaj Shalv,Mahabharat,1,3,6.4,39,4857
 tt4435320,Marriage Plans For Dushala,Mahabharat,1,72,5.5,23,4859
 tt3265712,Pandu Marries Madri,Mahabharat,1,21,5.5,23,4859
-tt2979086,Jesus: The Lost 40 Days,History Specials,1,124,5.4,22,4861
 tt3328034,Dronacharya Teaches Arjun The Art Of Archery,Mahabharat,1,42,5.4,22,4861
+tt2979086,Jesus: The Lost 40 Days,History Specials,1,124,5.4,22,4861
 tt3751302,Ashwatthama Is Crowned As Maharaj Of Panchal,Mahabharat,1,63,5.4,22,4861
 tt0590051,Third Finger， Left Loaf,Gomer Pyle: USMC,2,2,6.9,64,4864
 tt8193418,3.Bölüm,Fatih,1,3,7.1,86,4865
@@ -279,17 +279,17 @@ tt7597332,Containment,SEAL Team,1,11,7.6,598,4870
 tt3218544,Two Boys Are Born,Mahabharat,1,5,6.3,37,4871
 tt5078122,Surrender,Rebellion,1,4,7.3,134,4872
 tt0638341,Kim,M*A*S*H,2,6,7.6,612,4873
-tt0602410,The Gasoline War,Hogan's Heroes,5,4,7.3,135,4874
 tt4772456,The Reckoning,Rebellion,1,5,7.3,135,4874
+tt0602410,The Gasoline War,Hogan's Heroes,5,4,7.3,135,4874
 tt0644959,Urulu's Paradise West,McHale's Navy,2,22,6.2,35,4876
 tt3245418,Bheeshm Advises Satyavati,Mahabharat,1,16,5.6,25,4877
 tt11238374,Chapter Fourteen,Kingdoms of Fire,1,14,5.6,25,4877
-tt3358634,Karn Becomes Maharaj,Mahabharat,1,51,5.2,21,4879
 tt3395106,Drupad Imprisons The Kauravs,Mahabharat,1,61,5.2,21,4879
+tt3358634,Karn Becomes Maharaj,Mahabharat,1,51,5.2,21,4879
 tt3130156,Ravna Gora,Ravna Gora,1,10,6.0,31,4881
+tt4435334,Dhritarashtra Makes A Decision,Mahabharat,1,65,5.3,22,4882
 tt3338022,Eklavya Gives His Right Thumb,Mahabharat,1,44,5.3,22,4882
 tt3367052,Karn Vows To Kill Arjun,Mahabharat,1,54,5.3,22,4882
-tt4435334,Dhritarashtra Makes A Decision,Mahabharat,1,65,5.3,22,4882
 tt3395110,Arjun Imprisons Drupad,Mahabharat,1,62,5.8,28,4885
 tt1812861,Episode #1.1,The Sinking of the Laconia,1,1,6.8,60,4886
 tt0589934,Cold Nose， Warm Heart,Gomer Pyle: USMC,3,11,6.6,49,4887
@@ -299,18 +299,18 @@ tt4208368,Episode #1.1,The Heavy Water War: Stopping Hitler's Atomic Bomb,1,1,7.
 tt13492366,Episode #1.2,Das Weiße Haus am Rhein,1,2,6.3,39,4891
 tt11238256,Chapter Two,Kingdoms of Fire,1,2,6.9,69,4892
 tt7276930,The Spinning Wheel,SEAL Team,1,6,7.6,671,4893
-tt4435306,Rukmi Refuses To Accept Krishna,Mahabharat,1,70,5.1,21,4894
 tt3395038,The War Against Drupad,Mahabharat,1,60,5.1,21,4894
+tt4435306,Rukmi Refuses To Accept Krishna,Mahabharat,1,70,5.1,21,4894
 tt9139526,Episode #1.3,World on Fire,1,3,7.5,303,4896
 tt8377674,Karn Versus Arjun,Mahabharat,1,252,5.8,29,4897
-tt4644804,Karn Is Asked Not To Fight,Mahabharat,1,205,5.2,22,4898
 tt4637514,Shelter In A Potter's House,Mahabharat,1,97,5.2,22,4898
+tt4644804,Karn Is Asked Not To Fight,Mahabharat,1,205,5.2,22,4898
 tt5427906,Battle of First Bull Run,The Civil War: Brothers Divided,1,1,5.4,24,4900
 tt4637524,Draupadi Learns More About Arjun,Mahabharat,1,98,5.3,23,4901
 tt0589920,A Marriage of Convenience,Gomer Pyle: USMC,5,7,6.6,51,4902
 tt0552290,Gorilla Warfare,Dad's Army,7,3,7.2,115,4903
-tt0638334,I Hate a Mystery,M*A*S*H,1,10,7.6,704,4904
 tt0638255,Bananas， Crackers and Nuts,M*A*S*H,1,7,7.6,704,4904
+tt0638334,I Hate a Mystery,M*A*S*H,1,10,7.6,704,4904
 tt0602339,Hot Money,Hogan's Heroes,3,9,7.3,146,4906
 tt3780288,Carthage's Lost Warriors,Secrets of the Dead,13,3,6.1,35,4907
 tt3130144,Drina,Ravna Gora,1,6,5.7,28,4908
@@ -319,15 +319,15 @@ tt2274338,Hope,The Bible,1,6,7.5,313,4910
 tt4384032,Episode #1.5,The Book of Negroes,1,5,7.0,82,4911
 tt0602292,A Russian Is Coming,Hogan's Heroes,3,12,7.3,148,4912
 tt4637540,Karn At The Swayamvar,Mahabharat,1,101,5.6,27,4913
-tt0644885,Babette， Go Home,McHale's Navy,2,24,6.2,38,4914
 tt0644881,Will the Alligator Take the Stand?,McHale's Navy,3,7,6.2,38,4914
+tt0644885,Babette， Go Home,McHale's Navy,2,24,6.2,38,4914
 tt3386362,Arjun Apologizes To Karn,Mahabharat,1,56,5.0,21,4916
 tt0552331,The Man and the Hour,Dad's Army,1,1,7.4,205,4917
 tt19859424,Episode #1.22,Destan,1,22,4.7,19,4918
 tt12202430,Letzte Entscheidungen,Das Boot,2,6,7.4,207,4919
-tt3342052,Karn Starts Learning Archery,Mahabharat,1,46,5.2,23,4920
 tt4435312,Kalyavan Attacks Subhadra And Arjun,Mahabharat,1,67,5.2,23,4920
 tt4435308,Duryodhan Threatens Dhritarashtra,Mahabharat,1,64,5.2,23,4920
+tt3342052,Karn Starts Learning Archery,Mahabharat,1,46,5.2,23,4920
 tt0589923,A Tattoo for Gomer,Gomer Pyle: USMC,5,15,6.4,45,4923
 tt0552309,Round and Round Went the Great Big Wheel,Dad's Army,5,12,7.2,121,4924
 tt12202338,Sabotage,Das Boot,2,3,7.4,214,4925
@@ -371,8 +371,8 @@ tt4637536,Krishna Advises Karn,Mahabharat,1,100,4.8,24,4961
 tt0552333,The Recruit,Dad's Army,6,7,7.1,124,4963
 tt0590059,Wild Bull of the Pampas,Gomer Pyle: USMC,4,15,6.4,55,4964
 tt0638348,Lil,M*A*S*H,7,3,7.5,459,4965
-tt0638271,Change Day,M*A*S*H,6,8,7.5,460,4966
 tt0638433,The Grim Reaper,M*A*S*H,6,11,7.5,460,4966
+tt0638271,Change Day,M*A*S*H,6,8,7.5,460,4966
 tt0644877,A Purple Heart for Gruber,McHale's Navy,1,2,6.7,73,4968
 tt13492360,Episode #1.1,Das Weiße Haus am Rhein,1,1,6.1,45,4969
 tt0638467,Trick or Treatment,M*A*S*H,11,2,7.5,468,4970
@@ -412,8 +412,8 @@ tt1758419,Lost Ships of Rome,Secrets of the Dead,11,1,6.2,59,5003
 tt13172106,Gangster's Gold,Secrets of the Dead,18,6,4.8,30,5004
 tt0638398,Rumor at the Top,M*A*S*H,10,3,7.4,392,5005
 tt0638419,That Darn Kid,M*A*S*H,10,21,7.4,394,5006
-tt11238266,Chapter Seven,Kingdoms of Fire,1,7,5.0,33,5007
 tt11238268,Chapter Eight,Kingdoms of Fire,1,8,5.0,33,5007
+tt11238266,Chapter Seven,Kingdoms of Fire,1,7,5.0,33,5007
 tt0638474,Wheelers and Dealers,M*A*S*H,10,5,7.4,396,5009
 tt0638447,The Moose,M*A*S*H,1,5,7.5,763,5010
 tt0638261,Bombshells,M*A*S*H,11,6,7.4,413,5011

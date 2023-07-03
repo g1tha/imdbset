@@ -63,8 +63,8 @@ tt11733016,Pan (dem) icking,Clarkson's Farm,1,5,8.8,1211,61
 tt10369384,Girl Group Battle Royale,RuPaul's Drag Race UK,1,5,9.0,439,62
 tt1652100,Blast Off!,Atlantis Rising: The Making of 'Atlantis Down',1,6,9.4,189,63
 tt12503628,Food & Drink,Men in Kilts: A Roadtrip with Sam and Graham,1,1,8.9,593,64
-tt1665047,The View,Atlantis Rising: The Making of 'Atlantis Down',1,8,9.4,185,65
 tt1652101,Touch Down， Atlantis!,Atlantis Rising: The Making of 'Atlantis Down',1,7,9.4,185,65
+tt1665047,The View,Atlantis Rising: The Making of 'Atlantis Down',1,8,9.4,185,65
 tt19716250,The Realness of Fortune Ball,RuPaul's Drag Race All Stars,7,3,8.8,942,67
 tt26915060,Episode #1.7,Jinny's Kitchen,1,7,8.9,540,68
 tt12503632,Song & Dance,Men in Kilts: A Roadtrip with Sam and Graham,1,3,8.9,537,69
@@ -97,15 +97,15 @@ tt12150996,Snatch Game of Love (2020),RuPaul's Drag Race All Stars,5,5,8.8,491,9
 tt1107669,Episode #1.1,Playing It Straight,1,1,9.8,100,96
 tt1933308,Ruth Davis,This Is Your Life,5,34,9.7,108,97
 tt8460894,A Decent Proposal,Queer Eye,2,2,8.8,477,98
-tt1107673,Episode #1.5,Playing It Straight,1,5,9.8,99,99
 tt1617499,Episode #1.7,Playing It Straight,1,7,9.8,99,99
 tt1107674,Episode #1.6,Playing It Straight,1,6,9.8,99,99
-tt1107671,Episode #1.3,Playing It Straight,1,3,9.8,99,99
 tt1107670,Episode #1.2,Playing It Straight,1,2,9.8,99,99
+tt1107673,Episode #1.5,Playing It Straight,1,5,9.8,99,99
+tt1107671,Episode #1.3,Playing It Straight,1,3,9.8,99,99
 tt11971624,RuPaul Roast,RuPaul's Secret Celebrity Drag Race,1,3,9.0,268,104
 tt12503640,Clans & Tartans,Men in Kilts: A Roadtrip with Sam and Graham,1,7,8.9,336,105
-tt1617500,Episode #1.8,Playing It Straight,1,8,9.8,98,106
 tt1107672,Episode #1.4,Playing It Straight,1,4,9.8,98,106
+tt1617500,Episode #1.8,Playing It Straight,1,8,9.8,98,106
 tt3500834,Shade: The Rusical,RuPaul's Drag Race,6,4,8.8,445,108
 tt14925016,Disparada,Você Nunca Esteve Sozinha: O Doc de Juliette,1,1,8.8,437,109
 tt3374718,Look Out Below,Impractical Jokers,3,1,9.0,255,110
@@ -134,10 +134,10 @@ tt12702034,Snatch Game,Canada's Drag Race,1,5,8.8,348,132
 tt11352752,Jennifer Lopez,Thanks a Million,1,1,9.5,114,133
 tt9059170,Quentin Tarantino,Director's Trademarks,1,12,9.2,160,134
 tt21805160,One Night Only， Pt. 1,RuPaul's Drag Race,15,1,8.6,808,135
-tt11291252,Dogru Kariyer EP3,Dogru Kariyer,1,3,10.0,76,136
+tt11291260,Dogru Kariyer EP5,Dogru Kariyer,1,5,10.0,76,136
 tt11291258,Dogru Kariyer EP4,Dogru Kariyer,1,4,10.0,76,136
 tt11291272,Dogru Kariyer EP6,Dogru Kariyer,1,6,10.0,76,136
-tt11291260,Dogru Kariyer EP5,Dogru Kariyer,1,5,10.0,76,136
+tt11291252,Dogru Kariyer EP3,Dogru Kariyer,1,3,10.0,76,136
 tt11291250,Dogru Kariyer EP2,Dogru Kariyer,1,2,10.0,76,136
 tt11291248,Dogru Kariyer EP1,Dogru Kariyer,1,1,10.0,76,136
 tt14962884,Halftime Headliners,RuPaul's Drag Race All Stars,6,4,8.6,774,142
@@ -146,8 +146,8 @@ tt6066202,HERstory of the World,RuPaul's Drag Race All Stars,2,3,8.7,461,144
 tt26915071,Episode #1.4,Jinny's Kitchen,1,4,8.6,749,145
 tt20852108,Legendary Legend Looks,RuPaul's Drag Race All Stars,7,7,8.6,678,146
 tt3109254,Sweat the Small Things,Impractical Jokers,2,18,8.9,246,147
-tt10788706,Greatest of the Greats,Survivor,40,1,8.8,305,148
 tt0761411,Beg， Barter， Steal,Survivor,7,1,8.8,305,148
+tt10788706,Greatest of the Greats,Survivor,40,1,8.8,305,148
 tt12840526,Selena + Roy Choi,Selena + Chef,1,4,9.5,106,150
 tt11291264,Dogru Kariyer EP8,Dogru Kariyer,1,8,9.9,77,151
 tt8893302,LaLaPaRUza,RuPaul's Drag Race All Stars,4,6,8.6,595,152
@@ -252,8 +252,8 @@ tt24074204,Unstoppable 2 Episode 5,Unstoppable with NBK,2,5,9.8,61,250
 tt4882242,High School Is Wild Fire,I Am Jazz,1,3,3.3,47,59381
 tt4958152,We Don't Read the Comments,I Am Jazz,1,9,3.0,42,59382
 tt3917364,Secrets of a Double Life,Keeping Up with the Kardashians,9,18,4.0,66,59383
-tt2991046,I Will Fix You,Keeping Up with the Kardashians,8,5,4.1,70,59384
 tt3873274,A Thailand Vacation: Part 2,Keeping Up with the Kardashians,9,15,4.1,70,59384
+tt2991046,I Will Fix You,Keeping Up with the Kardashians,8,5,4.1,70,59384
 tt5798296,I Looked Like a Man in a Dress,I Am Jazz,2,2,2.7,38,59386
 tt1586361,Hot Cup of Love,Keeping Up with the Kardashians,4,2,4.6,101,59387
 tt14720376,I Did Not See That Coming,Too Hot to Handle,2,10,5.1,179,59388
@@ -271,18 +271,18 @@ tt7851008,Hungry for Acceptance,I Am Jazz,4,7,2.8,40,59399
 tt6670606,The Aftermath,Keeping Up with the Kardashians,13,3,3.7,58,59400
 tt2275918,Parent Trapped,Keeping Up with the Kardashians,7,12,4.2,77,59401
 tt1750435,Dash No More,Keeping Up with the Kardashians,5,10,4.5,96,59402
-tt1122733,Birthday Suit,Keeping Up with the Kardashians,1,4,5.1,188,59403
 tt9116954,Alien Infection,Haunted,1,5,5.1,188,59403
-tt6971176,Sister Surrogacy,Keeping Up with the Kardashians,13,14,3.5,53,59405
+tt1122733,Birthday Suit,Keeping Up with the Kardashians,1,4,5.1,188,59403
 tt6789110,When It Rains， It Pours: Part 1,Keeping Up with the Kardashians,13,5,3.5,53,59405
+tt6971176,Sister Surrogacy,Keeping Up with the Kardashians,13,14,3.5,53,59405
 tt10043918,Reevaluation Realness,I Am Jazz,5,11,2.7,39,59407
 tt14299054,In the Pines,Haunted,3,1,5.0,164,59408
 tt1721316,The Missing Ring,Keeping Up with the Kardashians,5,3,4.5,97,59409
-tt7950376,Nothing Is Set in Stone,I Am Jazz,4,8,2.9,42,59410
 tt7848140,Weighty Issues,I Am Jazz,4,2,2.9,42,59410
+tt7950376,Nothing Is Set in Stone,I Am Jazz,4,8,2.9,42,59410
 tt2959718,Agree to Disagree,Keeping Up with the Kardashians,8,3,4.0,69,59412
-tt14734864,Head On a Swivel,The D'Amelio Show,1,5,3.6,56,59413
 tt6832954,Guilt Trip,Keeping Up with the Kardashians,13,8,3.6,56,59413
+tt14734864,Head On a Swivel,The D'Amelio Show,1,5,3.6,56,59413
 tt3841568,Move It or Lose It,Keeping Up with the Kardashians,9,13,3.8,62,59415
 tt5250500,The Hate Is Real,I Am Jazz,2,1,2.5,37,59416
 tt5916118,Teenage Angst and Broken Hearts,I Am Jazz,2,8,2.5,37,59416
@@ -306,8 +306,8 @@ tt3809562,The Vienna Incidents,Keeping Up with the Kardashians,9,11,3.8,64,59434
 tt0816940,Mortuary,The Simple Life,3,4,3.6,58,59435
 tt10788686,We Made It to the Merge!,Survivor,39,8,5.2,249,59436
 tt1123758,After the Fall,Pageant Place,1,1,2.4,37,59437
-tt5916096,Your Body May Be Rejecting the Implant,I Am Jazz,2,4,2.3,36,59438
 tt5916112,We Scare Most Boys,I Am Jazz,2,7,2.3,36,59438
+tt5916096,Your Body May Be Rejecting the Implant,I Am Jazz,2,4,2.3,36,59438
 tt1412106,Cinderella Story,Keeping Up with the Kardashians,3,6,4.6,113,59440
 tt1141950,Kardashian Civil War,Keeping Up with the Kardashians,2,7,4.8,139,59441
 tt3888938,A Thailand Vacation: Part 3,Keeping Up with the Kardashians,9,16,3.8,65,59442
@@ -329,8 +329,8 @@ tt7771782,Winds of Change,I Am Jazz,4,1,2.7,42,59457
 tt8821524,Chapter 7: Well,Afflicted,1,7,2.7,42,59457
 tt5916108,She's Too Young for Breast Surgery,I Am Jazz,2,6,2.3,37,59459
 tt1724324,Weekend from Hell,Keeping Up with the Kardashians,4,7,4.4,99,59460
-tt10056474,Up in the Air...,I Am Jazz,5,12,2.2,36,59461
 tt5798298,It's Either Surgery or Male Puberty,I Am Jazz,2,3,2.2,36,59461
+tt10056474,Up in the Air...,I Am Jazz,5,12,2.2,36,59461
 tt18476328,Episode #4.4,Joker,4,4,4.3,92,59463
 tt3476708,A Surprise Engagement: Part 1,Keeping Up with the Kardashians,9,4,3.9,71,59464
 tt13211914,Grand Premiere,Bigg Boss,14,1,3.3,53,59465
@@ -358,15 +358,15 @@ tt13291002,Snatch Game,Drag Race Holland,1,5,4.8,160,59486
 tt1122735,You Are So Pregnant， Dude!,Keeping Up with the Kardashians,1,6,4.8,162,59487
 tt1122736,Helping Hand,Keeping Up with the Kardashians,1,7,4.8,162,59487
 tt2486032,Dishing It Out,Keeping Up with the Kardashians,7,19,3.8,72,59489
-tt21330518,Episode #8.2,Joker,8,2,1.9,35,59490
 tt21385506,Episode #8.3,Joker,8,3,1.9,35,59490
+tt21330518,Episode #8.2,Joker,8,2,1.9,35,59490
 tt13839412,Runway Walk,Blown Away,2,8,4.2,93,59492
 tt26627588,Sideline Smack Talk,Impractical Jokers,10,6,3.6,65,59493
 tt1603140,TV or Not TV,Tanners Point,1,7,3.1,52,59494
 tt13656594,Mediums Part 1,Surviving Death,1,2,5.0,220,59495
 tt1436886,Distance Makes the Heart Grow Fonder,Keeping Up with the Kardashians,3,8,4.4,110,59496
-tt4431448,Demons in Seattle,Ghost Adventures,10,12,4.6,133,59497
 tt1141948,Khloé's Blind Dates,Keeping Up with the Kardashians,2,5,4.6,133,59497
+tt4431448,Demons in Seattle,Ghost Adventures,10,12,4.6,133,59497
 tt3527200,2 Birthdays & a Yard Sale,Keeping Up with the Kardashians,9,6,3.6,66,59499
 tt10781310,Man vs. Wild with Bear Grylls and Prime Minister Modi,Man vs. Wild,,,4.9,193,59500
 tt1141947,Kris the Cheerleader,Keeping Up with the Kardashians,2,4,4.6,134,59501
@@ -495,7 +495,7 @@ tt12275426,Dead Brother's Furniture,Jury Duty,,,1.0,123,59622
 tt1451528,Live Final,I'm a Celebrity， Get Me Out of Here!,1,15,1.1,134,59624
 tt13734992,Caitlyn Jenner & Stefflon Don,MTV Cribs,2,1,1.1,145,59625
 tt26426072,Thank You For Being a Friend,The Real Friends of WeHo,1,2,1.0,140,59626
-tt11372756,Episode #4.15,I'm a Celebrity... Extra Camp,4,15,1.0,163,59627
 tt11384278,Episode #4.17,I'm a Celebrity... Extra Camp,4,17,1.0,163,59627
+tt11372756,Episode #4.15,I'm a Celebrity... Extra Camp,4,15,1.0,163,59627
 tt15361308,Whodunnit,Drag Race Holland,2,7,2.3,427,59629
 tt26426069,Six Degrees of West Hollywood,The Real Friends of WeHo,1,1,1.3,197,59630
