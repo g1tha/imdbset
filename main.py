@@ -82,7 +82,7 @@ def main():
     parser.add_argument(
         "-u",
         "--update",
-        help="Optional argument to wupdate the source IMDB data should to the latest available.",
+        help="Optional argument to update the source IMDB data should to the latest available.",
         action="store_true",
         default=False,
     )

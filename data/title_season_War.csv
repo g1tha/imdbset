@@ -1,7 +1,7 @@
 tconst,primaryTitle,seasonNumber,numVotes,averageRating,ranking
-tt0185906,Band of Brothers,1,85522,9.0,1
+tt0185906,Band of Brothers,1,85534,9.0,1
 tt0071075,The World at War,1,9841,8.7,2
-tt0096548,Blackadder Goes Forth,1,6910,8.7,3
+tt0096548,Blackadder Goes Forth,1,6911,8.7,3
 tt1877514,The Vietnam War,1,7456,8.6,4
 tt2543328,TURN: Washington's Spies,3,3866,8.8,5
 tt6473344,SEAL Team,2,11490,8.4,6
@@ -9,28 +9,28 @@ tt2543328,TURN: Washington's Spies,4,3304,8.8,7
 tt2543328,TURN: Washington's Spies,2,4108,8.7,8
 tt0098769,The Civil War,1,3241,8.6,9
 tt12632132,Uyanis: Büyük Selcuklu,1,2912,8.6,10
-tt0995832,Generation Kill,1,6461,8.3,11
-tt7146600,Wolf,1,2443,8.7,12
-tt9103932,Greatest Events of WWII in Colour,1,4737,8.3,13
-tt6473344,SEAL Team,4,6155,8.3,14
-tt1508238,Apocalypse: The Second World War,1,2278,8.6,15
-tt6473344,SEAL Team,3,8123,8.2,16
-tt0055666,Combat!,3,2740,8.5,17
-tt0055666,Combat!,2,3034,8.4,18
+tt0995832,Generation Kill,1,6462,8.3,11
+tt9103932,Greatest Events of WWII in Colour,1,4738,8.4,12
+tt7146600,Wolf,1,2443,8.7,13
+tt6473344,SEAL Team,4,6159,8.3,14
+tt1508238,Apocalypse: The Second World War,1,2280,8.6,15
+tt0055666,Combat!,3,2740,8.5,16
+tt6473344,SEAL Team,3,8127,8.1,17
+tt0055666,Combat!,2,3035,8.4,18
 tt2543328,TURN: Washington's Spies,1,5517,8.2,19
-tt0068098,M*A*S*H,3,14452,8.1,20
-tt0055666,Combat!,1,3604,8.3,21
-tt6473344,SEAL Team,6,2940,8.4,22
-tt0055666,Combat!,4,2474,8.5,23
+tt0068098,M*A*S*H,3,14476,8.1,20
+tt0055666,Combat!,1,3605,8.3,21
+tt6473344,SEAL Team,6,2944,8.4,22
+tt0055666,Combat!,4,2479,8.5,23
 tt15087526,Alparslan: The Great Seljuks,1,1916,8.5,24
 tt2262456,The Hollow Crown,1,5513,8.1,25
 tt1494191,The Untold History of the United States,1,2861,8.3,26
-tt0068098,M*A*S*H,11,10482,8.0,27
-tt0068098,M*A*S*H,2,14945,8.0,28
-tt2548418,Jonathan Strange & Mr Norrell,1,3090,8.2,29
+tt2548418,Jonathan Strange & Mr Norrell,1,3090,8.2,27
+tt0068098,M*A*S*H,11,10498,8.0,28
+tt0068098,M*A*S*H,2,14970,8.0,29
 tt0069628,Seventeen Moments of Spring,1,1672,8.4,30
 tt0996994,The War,1,1336,8.5,31
-tt0081834,Das Boot,1,1132,8.6,32
+tt0081834,Das Boot,1,1135,8.6,32
 tt2069688,World War II in Colour,1,3278,8.1,33
 tt0055666,Combat!,5,1886,8.3,34
 tt0859592,Army Wives,2,1120,8.5,35
@@ -42,40 +42,40 @@ tt0086659,'Allo 'Allo!,1,2472,8.1,40
 tt3673480,The Good Lord Bird,1,2888,8.0,41
 tt0057793,12 O'Clock High,1,1664,8.2,42
 tt0859592,Army Wives,3,861,8.5,43
-tt0068098,M*A*S*H,8,12310,7.9,44
+tt0068098,M*A*S*H,8,12336,7.9,44
 tt0086659,'Allo 'Allo!,2,1761,8.2,45
 tt3638584,Apocalypse la 1ère Guerre mondiale,1,802,8.5,46
-tt2262456,The Hollow Crown,2,1754,8.1,47
+tt2262456,The Hollow Crown,2,1755,8.1,47
 tt0096725,War and Remembrance,1,1109,8.3,48
 tt0075579,Secret Army,1,981,8.4,49
-tt1999065,The Neighbourhood's Gate,1,848,8.5,50
+tt1999065,The Neighbourhood's Gate,1,850,8.4,50
 tt0086659,'Allo 'Allo!,3,1381,8.2,51
-tt0068098,M*A*S*H,4,13062,7.9,52
-tt0092468,Tour of Duty,3,1054,8.3,53
+tt0092468,Tour of Duty,3,1054,8.3,52
+tt0068098,M*A*S*H,4,13091,7.9,53
 tt0446610,Auschwitz: Inside the Nazi State,1,1067,8.3,54
-tt0068098,M*A*S*H,1,18134,7.8,55
+tt0068098,M*A*S*H,1,18160,7.8,55
 tt0086659,'Allo 'Allo!,5,4550,7.9,56
 tt1999065,The Neighbourhood's Gate,2,386,9.0,57
-tt0046658,Victory at Sea,1,1587,8.1,58
-tt0092468,Tour of Duty,2,1456,8.1,59
-tt0140770,Vietnam,1,312,9.1,60
-tt4338336,X Company,3,595,8.5,61
-tt3231564,Manhattan,1,3137,7.9,62
-tt1489097,WWII in HD,1,733,8.4,63
-tt0094433,China Beach,1,792,8.3,64
+tt3231564,Manhattan,1,3141,7.9,58
+tt0046658,Victory at Sea,1,1587,8.1,59
+tt0092468,Tour of Duty,2,1456,8.1,60
+tt0140770,Vietnam,1,312,9.1,61
+tt4338336,X Company,3,595,8.5,62
+tt0094433,China Beach,1,792,8.3,63
+tt1489097,WWII in HD,1,741,8.3,64
 tt8470384,Al Nadam,1,313,9.0,65
 tt0859592,Army Wives,5,608,8.4,66
 tt4338336,X Company,2,606,8.4,67
-tt0068098,M*A*S*H,7,11946,7.8,68
+tt0068098,M*A*S*H,7,11973,7.8,68
 tt0426688,The First World War,1,727,8.3,69
 tt1955311,Bomb Girls,2,764,8.3,70
 tt8190688,Valley of Tears,1,1507,8.0,71
 tt4015216,Home Fires,2,738,8.3,72
-tt0388189,Kurtulus,1,211,9.3,73
-tt0058812,Hogan's Heroes,2,5069,7.8,74
+tt0058812,Hogan's Heroes,2,5105,7.9,73
+tt0388189,Kurtulus,1,211,9.3,74
 tt9604400,Tuntematon sotilas,1,380,8.6,75
 tt3315386,Roots,1,1634,8.0,76
-tt15087526,Alparslan: The Great Seljuks,2,631,8.3,77
+tt15087526,Alparslan: The Great Seljuks,2,632,8.3,77
 tt14779804,Destan,1,1914,7.9,78
 tt12747876,Once Upon a Time in Iraq,1,330,8.7,79
 tt0068059,Colditz,1,645,8.2,80
@@ -98,18 +98,18 @@ tt3419604,Our World War,1,428,8.3,96
 tt0086659,'Allo 'Allo!,4,1256,8.0,97
 tt0207885,Fall of Eagles,1,480,8.3,98
 tt0071028,Otpisani,1,239,8.7,99
-tt0065035,Stawka wieksza niz zycie,1,478,8.2,100
-tt8392956,Konak kod Hilmije,1,153,9.2,101
-tt0068098,M*A*S*H,5,12285,7.8,102
+tt0068098,M*A*S*H,5,12313,7.8,100
+tt0065035,Stawka wieksza niz zycie,1,478,8.2,101
+tt8392956,Konak kod Hilmije,1,153,9.2,102
 tt8372660,Hunting ISIS,1,195,8.8,103
-tt6473344,SEAL Team,5,5004,7.8,104
+tt6473344,SEAL Team,5,5005,7.8,104
 tt0207907,The Nazis: A Warning from History,1,317,8.4,105
 tt4015216,Home Fires,1,846,8.0,106
 tt5830254,Das Boot,3,841,8.0,107
 tt0094433,China Beach,2,608,8.1,108
 tt7302168,Raafat Al Haggan,2,279,8.4,109
 tt0191730,Slozna braca,1,117,9.3,110
-tt6473344,SEAL Team,1,14096,7.8,111
+tt6473344,SEAL Team,1,14097,7.8,111
 tt8392956,Konak kod Hilmije,2,122,9.2,112
 tt6740146,Morocco: Love in Times of War,1,625,8.0,113
 tt0062552,Dad's Army,6,1002,7.9,114
@@ -143,7 +143,7 @@ tt2109059,Vietnam in HD,1,354,8.0,141
 tt24249682,Incompetent Soldiers,1,67,9.2,142
 tt3705688,El Mal We El Banon,1,145,8.4,143
 tt2094220,Apocalypse: The Rise of Hitler,1,268,8.1,144
-tt0058812,Hogan's Heroes,4,3936,7.8,145
+tt0058812,Hogan's Heroes,4,3962,7.8,145
 tt0088479,Anzacs,1,101,8.6,146
 tt3543006,The World Wars,1,340,8.0,147
 tt6065848,Taking Fire,1,83,8.7,148
@@ -152,7 +152,7 @@ tt0246430,Anne Frank: The Whole Story,1,91,8.6,150
 tt1999065,The Neighbourhood's Gate,5,62,8.9,151
 tt1855924,Third Reich: The Rise & Fall,1,107,8.4,152
 tt0229883,Battlefield: Vietnam,1,87,8.5,153
-tt0086659,'Allo 'Allo!,9,1021,7.8,154
+tt0086659,'Allo 'Allo!,9,1025,7.8,154
 tt0086659,'Allo 'Allo!,6,1348,7.8,155
 tt3325692,Nazi Mega Weapons,1,469,7.9,156
 tt8589702,APOCALYPSE War of Worlds 1945-1991,1,311,7.9,157
@@ -162,7 +162,7 @@ tt0459723,Valter brani Sarajevo,1,28,9.8,160
 tt0050061,The Silent Service,2,259,7.9,161
 tt0432807,The Republic,1,31,9.4,162
 tt6941980,Savasci,1,68,8.5,163
-tt0085112,The Winds of War,1,956,7.8,164
+tt0085112,The Winds of War,1,963,7.8,164
 tt0135738,Wish Me Luck,3,101,8.2,165
 tt3325692,Nazi Mega Weapons,2,330,7.9,166
 tt7302168,Raafat Al Haggan,1,209,7.9,167
@@ -175,13 +175,13 @@ tt0062552,Dad's Army,9,689,7.8,173
 tt0092404,The Monocled Mutineer,1,48,8.5,174
 tt0376899,Stalingrad,1,92,8.1,175
 tt2708572,Bluestone 42,2,147,8.0,176
-tt3325692,Nazi Mega Weapons,4,194,7.9,177
-tt0078699,Testament of Youth,1,54,8.4,178
-tt3280150,The Heavy Water War: Stopping Hitler's Atomic Bomb,1,1511,7.7,179
-tt0083387,The Blue and the Gray,1,143,8.0,180
-tt9540596,Nöbet,1,21,9.4,181
-tt0081878,It Ain't Half Hot Mum,2,250,7.9,182
-tt14475988,The Line,1,152,7.9,183
+tt0078699,Testament of Youth,1,54,8.4,177
+tt3280150,The Heavy Water War: Stopping Hitler's Atomic Bomb,1,1511,7.7,178
+tt0083387,The Blue and the Gray,1,143,8.0,179
+tt9540596,Nöbet,1,21,9.4,180
+tt0081878,It Ain't Half Hot Mum,2,250,7.9,181
+tt14475988,The Line,1,152,7.9,182
+tt3325692,Nazi Mega Weapons,4,195,7.9,183
 tt1999065,The Neighbourhood's Gate,4,28,8.9,184
 tt0132659,The Revolutionary War,1,31,8.8,185
 tt0292774,The Color of War,1,118,8.0,186
@@ -207,32 +207,32 @@ tt0081878,It Ain't Half Hot Mum,8,174,7.9,205
 tt13959762,Irak， destruction d'une nation,1,30,8.5,206
 tt0275265,Civil War Combat: America's Bloodiest Battles,1,35,8.3,207
 tt0089645,Mussolini and I,1,38,8.3,208
-tt0120926,Battlefield,1,42,8.2,209
-tt5882386,My Mother and Other Strangers,1,466,7.8,210
-tt7286962,Isimsizler,1,12,9.3,211
-tt6953928,Nazi Death Squads,1,248,7.8,212
-tt0095242,Lincoln,1,15,8.9,213
-tt5911602,The Somme 1916: From Both Sides of the Wire,1,24,8.4,214
-tt0250167,Navy Log,2,25,8.4,215
-tt0354333,Secrets of the Dead,7,75,7.9,216
-tt7428770,Chain of Command,1,107,7.9,217
-tt6941980,Savasci,4,18,8.6,218
-tt0081949,A Town Like Alice,1,24,8.4,219
+tt5882386,My Mother and Other Strangers,1,466,7.8,209
+tt0120926,Battlefield,1,42,8.2,210
+tt0081949,A Town Like Alice,1,25,8.5,211
+tt7286962,Isimsizler,1,12,9.3,212
+tt6953928,Nazi Death Squads,1,248,7.8,213
+tt0095242,Lincoln,1,15,8.9,214
+tt5911602,The Somme 1916: From Both Sides of the Wire,1,24,8.4,215
+tt0250167,Navy Log,2,25,8.4,216
+tt0354333,Secrets of the Dead,7,75,7.9,217
+tt7428770,Chain of Command,1,107,7.9,218
+tt6941980,Savasci,4,18,8.6,219
 tt0473597,War Stories with Oliver North,7,12,9.0,220
 tt0071325,Churchill's People,1,13,8.9,221
 tt16266966,Krisimes stigmes,1,8,9.6,222
-tt0058812,Hogan's Heroes,5,3613,7.7,223
+tt0058812,Hogan's Heroes,5,3639,7.7,223
 tt0081878,It Ain't Half Hot Mum,3,157,7.8,224
 tt1329986,World War Two: Behind Closed Doors,1,146,7.8,225
 tt0275265,Civil War Combat: America's Bloodiest Battles,3,13,8.8,226
 tt0165007,Crusade in the Pacific,1,108,7.9,227
 tt0087400,Heimat: A Chronicle of Germany,1,1641,7.7,228
 tt4338684,The Great War,1,14,8.7,229
-tt0068098,M*A*S*H,6,11402,7.7,230
-tt0058812,Hogan's Heroes,1,7205,7.7,231
+tt0068098,M*A*S*H,6,11427,7.7,230
+tt0058812,Hogan's Heroes,1,7237,7.7,231
 tt0085080,Rote Erde,1,12,8.8,232
-tt5186164,Hitler's Last Year,1,45,8.0,233
-tt0086659,'Allo 'Allo!,7,1612,7.7,234
+tt0086659,'Allo 'Allo!,7,1612,7.7,233
+tt5186164,Hitler's Last Year,1,45,8.0,234
 tt0058852,The Wackiest Ship in the Army,1,23,8.2,235
 tt8062474,21 Sarfarosh Saragarhi 1897,1,8,9.2,236
 tt15318952,The Exodite,1,20,8.3,237
@@ -249,13 +249,13 @@ tt7286962,Isimsizler,2,6,9.3,247
 tt0250167,Navy Log,3,30,8.0,248
 tt26605367,Black Hearts,1,77,7.8,249
 tt5730102,Hell Below,3,56,7.9,250
-tt3156868,D-Day: The Last Heroes,1,20,7.5,336
-tt3901456,Doomsday: World War I,1,62,7.6,337
+tt3901456,Doomsday: World War I,1,62,7.6,336
+tt3156868,D-Day: The Last Heroes,1,20,7.5,337
 tt0910586,About Us,,11,7.3,338
 tt1417761,Unsolved Mysteries of World War II,1,17,7.4,339
 tt1698245,Miris kise na Balkanu,1,48,7.6,340
-tt0088479,Anzacs,,6,6.8,341
 tt3325692,Nazi Mega Weapons,,6,6.8,341
+tt0088479,Anzacs,,6,6.8,341
 tt0131169,Hitler's Generals,2,86,7.7,343
 tt0492508,Battle of the Atlantic,1,49,7.6,344
 tt0810497,Heavy Metal,1,13,7.3,345
@@ -269,59 +269,59 @@ tt4360400,Air Warriors,3,31,7.5,352
 tt0126758,Spyforce,1,9,6.9,353
 tt1185446,Apostol,1,12,7.1,354
 tt0159164,A Family at War,3,191,7.7,355
-tt10234210,Nazi Megastructures Russia's War,1,30,7.5,356
+tt10234210,Nazi Megastructures Russia's War,1,31,7.5,356
 tt10138386,Ludzie i bogowie,1,50,7.6,357
 tt0354333,Secrets of the Dead,12,352,7.7,358
-tt18923648,Abandonados,1,8,6.7,359
-tt0164305,Wings,2,98,7.6,360
-tt0165006,Crusade in Europe,1,12,7.0,361
-tt0421092,BattleField Detectives,4,28,7.4,362
-tt8561666,Apocalypse Never-Ending War 1918-1926,1,80,7.6,363
-tt0081443,A Rumor of War,1,6,6.2,364
-tt0115097,Andersonville,1,22,7.3,365
-tt0069617,Någonstans i Sverige,1,7,6.4,366
-tt0262960,Great Military Blunders,1,34,7.4,367
-tt0172018,Kolumbowie,1,41,7.5,368
-tt1999065,The Neighbourhood's Gate,7,5,5.8,369
+tt0164305,Wings,2,98,7.6,359
+tt0165006,Crusade in Europe,1,12,7.0,360
+tt0421092,BattleField Detectives,4,28,7.4,361
+tt8561666,Apocalypse Never-Ending War 1918-1926,1,80,7.6,362
+tt0081443,A Rumor of War,1,6,6.2,363
+tt0115097,Andersonville,1,22,7.3,364
+tt0069617,Någonstans i Sverige,1,7,6.4,365
+tt0262960,Great Military Blunders,1,34,7.4,366
+tt0172018,Kolumbowie,1,41,7.5,367
+tt1999065,The Neighbourhood's Gate,7,5,5.8,368
+tt1829891,Combat Hospital,1,526,7.7,369
 tt9657586,Nazi Megastructures: America's War,1,12,6.9,370
-tt1829891,Combat Hospital,1,526,7.7,371
-tt0328731,Die Abenteuer des braven Soldaten Schwejk,1,14,7.0,372
-tt0902116,Pod livnem pul,1,10,6.7,373
-tt5620048,Dead Hand,1,93,7.6,374
-tt0083501,We'll Meet Again,1,126,7.6,375
-tt12632132,Uyanis: Büyük Selcuklu,2,14,6.9,376
-tt0108914,San guo yan yi,5,43,7.4,377
-tt0090411,Crossings,1,19,7.1,378
-tt0421092,BattleField Detectives,3,85,7.6,379
-tt6380170,Riphagen,1,96,7.6,380
-tt21961044,Inside Japan's War,1,36,7.4,381
-tt0080220,From Here to Eternity,1,23,7.2,382
-tt1514084,Gladiators of World War II,1,137,7.6,383
-tt2614390,Tankies: Tank Heroes of World War II,1,10,6.5,384
-tt0074034,Once an Eagle,1,11,6.6,385
-tt0129692,Liberty! The American Revolution,1,133,7.6,386
-tt5730102,Hell Below,2,104,7.6,387
+tt0328731,Die Abenteuer des braven Soldaten Schwejk,1,14,7.0,371
+tt0902116,Pod livnem pul,1,10,6.7,372
+tt5620048,Dead Hand,1,93,7.6,373
+tt12632132,Uyanis: Büyük Selcuklu,2,14,6.9,374
+tt0108914,San guo yan yi,5,43,7.4,375
+tt0090411,Crossings,1,19,7.1,376
+tt0421092,BattleField Detectives,3,85,7.6,377
+tt6380170,Riphagen,1,96,7.6,378
+tt0083501,We'll Meet Again,1,127,7.6,379
+tt21961044,Inside Japan's War,1,36,7.4,380
+tt0080220,From Here to Eternity,1,23,7.2,381
+tt1514084,Gladiators of World War II,1,137,7.6,382
+tt2614390,Tankies: Tank Heroes of World War II,1,10,6.5,383
+tt0074034,Once an Eagle,1,11,6.6,384
+tt0129692,Liberty! The American Revolution,1,133,7.6,385
+tt5730102,Hell Below,2,104,7.6,386
+tt16477402,WWII in Color: Road to Victory,1,1348,7.7,387
 tt0243078,Mørklægning,1,5,5.2,388
-tt16477402,WWII in Color: Road to Victory,1,1349,7.7,389
-tt0401984,Speer und er,1,73,7.5,390
-tt0081878,It Ain't Half Hot Mum,1,313,7.7,391
-tt10181132,Dad's Army: The Lost Episodes,1,197,7.6,392
-tt0354333,Secrets of the Dead,20,95,7.6,393
-tt0084994,Casablanca,1,62,7.5,394
-tt11714890,Auschwitz Untold in Color,1,12,6.5,395
-tt12223718,Le temps des ouvriers,1,63,7.5,396
-tt6954666,Secrets of the Third Reich,1,37,7.3,397
-tt3032920,Geheimnisse des Zweiten Weltkriegs,1,25,7.1,398
-tt1955311,Bomb Girls,1,516,7.7,399
-tt0790798,Twentieth Century Battlefields,1,139,7.6,400
-tt4360400,Air Warriors,4,31,7.2,401
-tt1365156,Our War,1,6,5.0,402
-tt0092411,Napoleon and Josephine: A Love Story,1,41,7.3,403
-tt1016144,Voor koningin en vaderland,1,38,7.3,404
-tt1329539,1066: The Battle for Middle Earth,1,46,7.4,405
-tt5969822,Long Shadow,1,31,7.2,406
-tt7962956,Al Helmeya Nights,5,12,6.3,407
-tt4360400,Air Warriors,1,49,7.4,408
+tt0401984,Speer und er,1,73,7.5,389
+tt10181132,Dad's Army: The Lost Episodes,1,197,7.6,390
+tt0354333,Secrets of the Dead,20,95,7.6,391
+tt0084994,Casablanca,1,62,7.5,392
+tt11714890,Auschwitz Untold in Color,1,12,6.5,393
+tt12223718,Le temps des ouvriers,1,63,7.5,394
+tt6954666,Secrets of the Third Reich,1,37,7.3,395
+tt3032920,Geheimnisse des Zweiten Weltkriegs,1,25,7.1,396
+tt1955311,Bomb Girls,1,516,7.7,397
+tt0790798,Twentieth Century Battlefields,1,139,7.6,398
+tt4360400,Air Warriors,4,31,7.2,399
+tt1365156,Our War,1,6,5.0,400
+tt0081878,It Ain't Half Hot Mum,1,314,7.7,401
+tt0092411,Napoleon and Josephine: A Love Story,1,41,7.3,402
+tt1016144,Voor koningin en vaderland,1,38,7.3,403
+tt1329539,1066: The Battle for Middle Earth,1,46,7.4,404
+tt5969822,Long Shadow,1,31,7.2,405
+tt7962956,Al Helmeya Nights,5,12,6.3,406
+tt4360400,Air Warriors,1,49,7.4,407
+tt18923648,Abandonados,1,15,6.6,408
 tt2959778,War and Military Collection,1,34,7.2,409
 tt4964258,La case du siècle,1,17,6.7,410
 tt0108956,World War II: When Lions Roared,1,16,6.6,411
@@ -370,9 +370,9 @@ tt3118014,Civil War 360,1,47,7.1,453
 tt0159164,A Family at War,2,172,7.5,454
 tt0108914,San guo yan yi,3,106,7.4,455
 tt6489202,Clash of Futures,1,270,7.6,456
-tt4699982,Rebellion,2,226,7.6,457
-tt0354333,Secrets of the Dead,10,84,7.3,458
-tt26743607,War Sailor,1,296,7.6,459
+tt0354333,Secrets of the Dead,10,84,7.3,457
+tt26743607,War Sailor,1,296,7.6,458
+tt4699982,Rebellion,2,230,7.6,459
 tt1868356,Convoy: War for the Atlantic,1,30,6.7,460
 tt3543006,The World Wars,2,77,7.3,461
 tt1155383,Heroes of World War II,1,69,7.2,462
@@ -387,7 +387,7 @@ tt0165053,Pathfinders,1,18,5.7,470
 tt1287566,Time of Honor,1,137,7.4,471
 tt0075551,Operation Petticoat,2,37,6.7,472
 tt2720566,Tuman,1,16,5.4,473
-tt0057752,Gomer Pyle: USMC,1,2071,7.7,474
+tt0057752,Gomer Pyle: USMC,1,2072,7.7,474
 tt9557904,Nazi Murder Mysteries,1,39,6.7,475
 tt1999065,The Neighbourhood's Gate,8,23,6.0,476
 tt0062610,Wege übers Land,1,35,6.6,477
@@ -401,7 +401,7 @@ tt1253869,Occupation,1,89,7.2,484
 tt0050021,The Gray Ghost,1,42,6.6,485
 tt0137346,Ain't Misbehavin',1,30,6.2,486
 tt0354333,Secrets of the Dead,3,117,7.3,487
-tt0068098,M*A*S*H,9,9112,7.7,488
+tt0068098,M*A*S*H,9,9135,7.7,488
 tt0248639,Great Blunders of WWII,1,66,6.9,489
 tt0354333,Secrets of the Dead,1,116,7.2,490
 tt0354333,Secrets of the Dead,16,181,7.4,491
@@ -439,13 +439,13 @@ tt1504261,The Sinking of the Laconia,1,125,7.1,522
 tt2427002,Misja Afganistan,1,89,6.8,523
 tt0159181,Manhunt,1,93,6.8,524
 tt1559681,Gary: Tank Commander,1,95,6.8,525
-tt0058812,Hogan's Heroes,6,3516,7.7,526
+tt0058812,Hogan's Heroes,6,3540,7.7,526
 tt0057752,Gomer Pyle: USMC,2,1714,7.7,527
 tt0465869,Spetsnaz,1,63,6.3,528
 tt1127876,Birdsong,1,245,7.3,529
 tt0906873,Dogfights,2,287,7.4,530
-tt0058812,Hogan's Heroes,3,4800,7.7,531
-tt0081878,It Ain't Half Hot Mum,5,135,7.0,532
+tt0081878,It Ain't Half Hot Mum,5,135,7.0,531
+tt0058812,Hogan's Heroes,3,4833,7.7,532
 tt8675140,Hitler's Last Stand,2,77,6.5,533
 tt0354333,Secrets of the Dead,15,249,7.3,534
 tt0081878,It Ain't Half Hot Mum,6,148,7.0,535
@@ -480,8 +480,8 @@ tt7428834,Fatih,1,558,7.3,563
 tt1221224,Rome: Rise and Fall of an Empire,1,460,7.2,564
 tt0354333,Secrets of the Dead,13,342,7.1,565
 tt5830254,Das Boot,2,1806,7.5,566
-tt4699982,Rebellion,1,752,7.3,567
-tt0066631,Bearcats!,1,289,6.7,568
+tt0066631,Bearcats!,1,289,6.7,567
+tt4699982,Rebellion,1,759,7.3,568
 tt0062552,Dad's Army,1,989,7.3,569
 tt0057752,Gomer Pyle: USMC,5,1658,7.5,570
 tt0057752,Gomer Pyle: USMC,3,1651,7.5,571
@@ -489,7 +489,7 @@ tt8680948,68 Whiskey,1,894,7.2,572
 tt2216964,Ravna Gora,1,344,6.4,573
 tt0057752,Gomer Pyle: USMC,4,1580,7.4,574
 tt0055689,McHale's Navy,1,2002,7.4,575
-tt0068098,M*A*S*H,10,8970,7.6,576
+tt0068098,M*A*S*H,10,8991,7.6,576
 tt8001092,World on Fire,1,2144,7.4,577
 tt5830254,Das Boot,1,3050,7.5,578
 tt2245988,The Bible,1,3685,7.5,579

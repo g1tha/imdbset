@@ -1,6 +1,6 @@
 # IMDb rankings
 ## About
-#### Video Demo: [here](youtube.com)
+#### Video Demo: [here](https://youtu.be/vN_SRBIpNPs)
 #### Description:
 This is my cs50x final project. It uses python, javascript, html and css to produce rankings of IMDb movies, shows, seasons and episodes according to a combination of average ratings and number of votes using the ranking methodology described below. The project uses IMDb's free non-commercial dataset found [here](https://developer.imdb.com/non-commercial-datasets/). 
 
